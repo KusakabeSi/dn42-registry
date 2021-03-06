@@ -1,0 +1,53 @@
+name: Repo Sync
+
+on:
+  schedule:
+  - cron:  "47 * * * *"
+  issues:
+    types: [closed]
+
+jobs:
+  repo-sync:
+    name: Repo Sync
+    runs-on: ubuntu-latest
+    env:
+      GIT_SSH_COMMAND: "ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa"
+    steps:
+    - uses: actions/checkout@v2
+    - name: setup ssh key
+      run: |
+        mkdir -p  ~/.ssh
+        echo "$SSH_KEY" > ~/.ssh/id_rsa
+        chmod 600  ~/.ssh/id_rsa
+        echo $HOME
+        echo $GITHUB_WORKSPACE
+      shell: bash
+      env:
+        SSH_KEY: ${{secrets.SSH_PRIVATE_KEY}}
+    - name: Get current time
+      uses: gerred/actions/current-time@master
+      id: current-time
+    - name: Pull source_repo
+      run: |
+        git clone --depth 1 ${{ secrets.SOURCE_REPO }} ~/work/new_repo
+    - name: Delete .git from source_repo
+      run: |
+        rm -rf ~/work/new_repo/.git || true
+        rm -rf ~/work/new_repo/.github || true
+      shell: bash
+    - name: move anything old_repo to new_repo
+      run: |
+        mv $GITHUB_WORKSPACE/.git    ~/work/new_repo
+        mv $GITHUB_WORKSPACE/.github ~/work/new_repo
+        rm -rf $GITHUB_WORKSPACE
+        mv ~/work/new_repo $GITHUB_WORKSPACE
+        ls -al $GITHUB_WORKSPACE
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        force: true
+        author_email: si@kskb.eu.org
+        author_name: KusakabeSi
+        message: auto copy at ${{ steps.current-time.outputs.time }}
