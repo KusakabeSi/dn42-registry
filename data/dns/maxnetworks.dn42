@@ -2,6 +2,6 @@ domain:             maxnetworks.dn42
 admin-c:            MAXC-DN42
 tech-c:             MAXC-DN42
 mnt-by:             MAXC-MNT
-nserver:            ns.maxnetworks.dn42 172.22.114.97
+nserver:            ns.maxnetworks.dn42 172.22.114.110
 nserver:            ns.maxnetworks.dn42 fda3:ea2d:b60a::53
 source:             DN42
