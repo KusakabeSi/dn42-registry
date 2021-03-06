@@ -1,0 +1,8 @@
+mntner:             KPANIC-MNT
+descr:              kpanic
+admin-c:            KPANIC-DN42
+tech-c:             KPANIC-DN42
+mnt-by:             KPANIC-MNT
+auth:               pgp-fingerprint DB458BE39C61A3FE0CC15D5DB2522557E6AB9BF5
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDsrwDvycV6n5zxCXGVHZ169TRwYjTvDNtGvUJpAm0pBiza+HwryllBXB0AsmoVb38EfbG5KzFvv//+NnwnHZuVlaX8MZOH+M6+U38YutOpIUb2qrg4r5m/6GDOek6HSzCS9BPWZC+ogORORi4zAZfpHDFeAS4MmikL7e54Hd8YwhcaZP5USe/f5o/DWDORHnFb8JUcHgb3RvVURPLkbY85MLxxvScQHknFF6m1Klap+c7x0vnOg+XVooVc5bJcD6PoyCyo6pFIkIBNLQs2SlYUC8EVDPOXHjcCoB5Ic7Fv8DNkpN0q06Oq8YUneBy3FiiNTIZhAuzq+qlhnlNzhvAr
+source:             DN42

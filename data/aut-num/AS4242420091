@@ -1,0 +1,7 @@
+aut-num:            AS4242420091
+as-name:            FAUXNETWORKS-AS
+descr:              Faux Networks AS
+admin-c:            ROJUINEX-DN42
+tech-c:             ROJUINEX-DN42
+mnt-by:             FAUXNETWORKS-MNT
+source:             DN42

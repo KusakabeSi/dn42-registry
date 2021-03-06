@@ -1,0 +1,19 @@
+organisation:       ORG-IRC
+org-name:           IRC
+tech-c:             STR-DN42
+tech-c:             NL-ZUID-DN42
+tech-c:             SOURIS-DN42
+tech-c:             TWINK0R-DN42
+descr:              Internal IRC network team
+remarks:            Participating people:
+remarks:            - str
+remarks:            - twink0r
+remarks:            Participating organizations:
+remarks:            - NL Zuid - https://nl-zuid.dn42
+remarks:            - XUU
+admin-c:            SOURIS-DN42
+mnt-by:             STR-MNT
+mnt-by:             MARLINC-MNT
+mnt-by:             XUU-MNT
+mnt-by:             TWINK0R-MNT
+source:             DN42

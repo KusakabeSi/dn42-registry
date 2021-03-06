@@ -1,0 +1,9 @@
+inet6num:           fd03:4de4:6baa:0000:0000:0000:0000:0000 - fd03:4de4:6baa:ffff:ffff:ffff:ffff:ffff
+netname:            HIGHER-IPV6
+country:            CN
+admin-c:            HIGHER-DN42
+tech-c:             HIGHER-DN42
+mnt-by:             HIGHER-MNT
+status:             ASSIGNED
+cidr:               fd03:4de4:6baa::/48
+source:             DN42

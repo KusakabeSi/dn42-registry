@@ -1,0 +1,6 @@
+route:              10.47.0.0/16
+origin:             AS64862
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostvest
+mnt-by:             DN42-MNT
+source:             ICVPN

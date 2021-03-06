@@ -1,0 +1,9 @@
+inetnum:            172.20.172.160 - 172.20.172.175
+cidr:               172.20.172.160/28
+netname:            JN-BLOCK-01
+admin-c:            KRYP-DN42
+tech-c:             KRYP-DN42
+org:                ORG-JUMPNET
+mnt-by:             JUMPNET-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,17 @@
+mntner:             LUGINBASH-MNT
+descr:              Luginbash Network
+admin-c:            LUGINBASH-DN42
+tech-c:             LUGINBASH-DN42
+mnt-by:             LUGINBASH-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILGDjRI44syxSGFd0SU3VGoVXaKZ69HQBJ70UEa4bVT0
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIjKPOrTuE4erHgQbWLixWRKYAAtWLc8yYK9ag5xSe1O
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDVKf83UzW0Qi2IwP7e95Lv3g8bjSmBVcpPA9XRePaghwNlNqKq5VRlZMV6lvzwIqVC++yeZLAvW5DwsJudHvILiIN6mm89zk8GTA0qEsXnznTRV60BH2sSETdFgEn44RFAn5rJJR0Q+G+q769lVcz57pqqt3Yego0OYOVbmWkcAPBxG32WY6KrsFLxwjmdJPUHxqOuyeGD1mm0OfTl5wgGuB0PZv9GCBBYUgbCx97koqWFOt0l+uxGhZ/MyfNwEJoJBTE8pqRlKgYa9VxL+Na6qEBiYHytvTS73J/yc0HrjOuVvKMa1pOufM0XMrwGVHHyjaStx1dXrVrHYen/+jXwkqG0D2gL2HDPeG2zN70DFsDFBkCYdHnhAELfcEaGiZNjqVrDGzlacEedu+56zat5il2n3zG6tKa6oXID+rWY+/oqgyxkVdaSe/yQwMcWc3YSutxMRlCc7o7sVn8Anqj2gY6+uQWsDAkg3omfgqzrec9MT+UgJNxGVBSGUCGCrMe0bW9TZx5HfvbMHG9xQahbDJs6UbXD5P8KQztk7wjUJ7wmj35+RbwZhWYB7vYR0FsUGgmxRCy57ix+O1iW/1S3pHVw2OQmUBqhNwXtWVdPAPxPklUu0Of/ahlVpb/5xyOt/Lt1KO5J03stv0UnPNDLFwxxNFkJ9ykMjeRWsAst5Q==
+remarks:            ==== for ix.aperture-laboratories.science ====
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGQwagSBGzkmdQAnrnvMrdY1TSy+ch0Sg5dycU0Y+v9E nrt2
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4rGx3PkzFl4B/5YOu/MiFb0xYBX1qWS+3ITlRZph4L nrt0
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMr8aIghTnqjYQKmPUPIe9elRe1Yofmb3VS6Si1fqBDn fsn2
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICKSibJP/CbpeKFLQS01ZbB1JzAWrY58niCi03iZvJ36 nrt1
+remarks:            ==== endfor ===
+auth:               pgp-fingerprint F2999657195657205828D56F35F9E5CDBD86324B
+auth:               pgp-fingerprint 360A1D106DABC50FBF437CCDB65AEB6F8011A995
+source:             DN42

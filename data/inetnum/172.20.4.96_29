@@ -1,0 +1,10 @@
+inetnum:            172.20.4.96 - 172.20.4.103
+cidr:               172.20.4.96/29
+country:            FR
+nserver:            ns1.tchekda.dn42
+netname:            TCHEKDA-NET
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+status:             ASSIGNED
+source:             DN42

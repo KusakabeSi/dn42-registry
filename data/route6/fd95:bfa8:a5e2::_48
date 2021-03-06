@@ -1,0 +1,5 @@
+route6:             fd95:bfa8:a5e2::/48
+origin:             AS4242421916
+max-length:         48
+mnt-by:             CAXAP-MNT
+source:             DN42

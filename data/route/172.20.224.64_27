@@ -1,0 +1,4 @@
+route:              172.20.224.64/27
+origin:             AS4242421070
+mnt-by:             TRVR-MNT
+source:             DN42

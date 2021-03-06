@@ -1,0 +1,14 @@
+inet6num:           fdff:0000:fcd0:0000:0000:0000:0000:0000 - fdff:0000:fcd0:ffff:ffff:ffff:ffff:ffff
+netname:            PRAUSCHER-TRANSFER-IPV6
+nserver:            nameserver.prauscher.dn42
+descr:              Transfer network of prauscher
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               fdff:0:fcd0::/48
+source:             DN42
+ds-rdata:           56884 13 1 5c6417622555cdd11145a3b15854bfeb8d14f242
+ds-rdata:           56884 13 2 dc2c29031c48788e6ff7b41c5b4e1ddd615f426c8402683bf073555aa33d567b
+ds-rdata:           56884 13 4 9fad6f3de1ab0e7f17eb12d201d33fbb7b807ae842b5a147d2fc66434cdb22ff500bafaa6951d21f712f31ef0eb6c3a5

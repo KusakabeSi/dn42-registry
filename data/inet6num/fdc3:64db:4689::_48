@@ -1,0 +1,8 @@
+inet6num:           fdc3:64db:4689:0000:0000:0000:0000:0000 - fdc3:64db:4689:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:64db:4689::/48
+netname:            CREATIX-NET-1
+admin-c:            CREATIX-DN42
+tech-c:             CREATIX-DN42
+mnt-by:             CREATIX-MNT
+status:             ASSIGNED
+source:             DN42

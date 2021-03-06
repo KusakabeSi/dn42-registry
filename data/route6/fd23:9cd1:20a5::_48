@@ -1,0 +1,5 @@
+route6:             fd23:9cd1:20a5::/48
+descr:              Rapid Ninja Network6 0
+origin:             AS4242421335
+mnt-by:             RAPID-NINJA-MNT
+source:             DN42

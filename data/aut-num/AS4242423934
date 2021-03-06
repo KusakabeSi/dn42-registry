@@ -1,0 +1,13 @@
+aut-num:            AS4242423934
+as-name:            HESSNET-AS
+descr:              HESSNET Network
+remarks:            ------------------------------
+remarks:            Peering info: https://graffen.dk/dn42.html
+remarks:            Open peering with Wireguard, just ping me
+remarks:            on IRC (graffen) or through one of the
+remarks:            other means listed on my website.
+remarks:            ------------------------------
+admin-c:            GRAFFEN-DN42
+tech-c:             GRAFFEN-DN42
+mnt-by:             HESSNET-MNT
+source:             DN42

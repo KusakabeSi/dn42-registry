@@ -1,0 +1,8 @@
+aut-num:            AS64664
+as-name:            SCHRODINGER-AS
+descr:              Schrodinger's hosted AS
+remarks:            100Mbit OVH
+admin-c:            SCHRODINGER-DN42
+tech-c:             SCHRODINGER-DN42
+mnt-by:             SCHRODINGER-MNT
+source:             DN42

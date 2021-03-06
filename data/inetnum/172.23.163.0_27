@@ -1,0 +1,10 @@
+inetnum:            172.23.163.0 - 172.23.163.31
+netname:            UPPERPASTE-NETWORK
+descr:              Foobar
+country:            NL
+admin-c:            UPPERPASTE-DN42
+tech-c:             UPPERPASTE-DN42
+mnt-by:             UPPERPASTE-MNT
+status:             ASSIGNED
+cidr:               172.23.163.0/27
+source:             DN42

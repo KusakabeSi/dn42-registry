@@ -1,0 +1,10 @@
+domain:             wolf.dn42
+descr:              WhiteWolf's DNS
+admin-c:            WOLF-DN42
+tech-c:             WOLF-DN42
+mnt-by:             WOLF-MNT
+nserver:            hail.wolf.dn42 172.23.43.97
+nserver:            rain.wolf.dn42 172.23.43.105
+nserver:            snow.wolf.dn42 172.22.148.241
+nserver:            sleet.wolf.dn42 172.22.148.242
+source:             DN42

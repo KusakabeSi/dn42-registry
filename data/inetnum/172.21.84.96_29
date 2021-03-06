@@ -1,0 +1,9 @@
+inetnum:            172.21.84.96 - 172.21.84.103
+netname:            KUGATSU-NL-MINI
+country:            NL
+admin-c:            KUGATSU-DN42
+tech-c:             KUGATSU-DN42
+mnt-by:             KUGATSU-MNT
+status:             ASSIGNED
+cidr:               172.21.84.96/29
+source:             DN42

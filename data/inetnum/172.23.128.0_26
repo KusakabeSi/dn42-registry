@@ -1,0 +1,9 @@
+inetnum:            172.23.128.0 - 172.23.128.63
+cidr:               172.23.128.0/26
+netname:            ERIS-NETWORK
+descr:              rot13's network of ip addresses
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+status:             ASSIGNED
+source:             DN42

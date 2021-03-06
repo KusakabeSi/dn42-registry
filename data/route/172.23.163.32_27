@@ -1,0 +1,4 @@
+route:              172.23.163.32/27
+origin:             AS4242420251
+mnt-by:             HANLIN-MNT
+source:             DN42

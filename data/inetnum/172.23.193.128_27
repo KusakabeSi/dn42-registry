@@ -1,0 +1,9 @@
+inetnum:            172.23.193.128 - 172.23.193.159
+netname:            HFULLER-RTR-NET
+descr:              Hunter Fuller's routers and VMs <hfuller@pixilic.com>
+admin-c:            HFULLER-DN42
+tech-c:             HFULLER-DN42
+mnt-by:             HFULLER-MNT
+status:             ASSIGNED
+cidr:               172.23.193.128/27
+source:             DN42

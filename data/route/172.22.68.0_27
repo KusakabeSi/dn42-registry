@@ -1,0 +1,5 @@
+route:              172.22.68.0/27
+descr:              imlonghao Network Route
+origin:             AS4242421888
+mnt-by:             IMLONGHAO-MNT
+source:             DN42

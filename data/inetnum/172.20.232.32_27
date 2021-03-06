@@ -1,0 +1,10 @@
+inetnum:            172.20.232.32 - 172.20.232.63
+cidr:               172.20.232.32/27
+netname:            MAGICALCIRCLE-TESTNET-V4
+descr:              Magical Circle TestNet V4
+country:            FR
+admin-c:            FUTURSOLO-DN42
+tech-c:             FUTURSOLO-DN42
+mnt-by:             FUTURSOLO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.147.0.0 - 10.147.255.255
+cidr:               10.147.0.0/16
+netname:            ICVPN-BRANDENBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: brandenburg
+mnt-by:             DN42-MNT
+source:             ICVPN

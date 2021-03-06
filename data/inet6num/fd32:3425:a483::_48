@@ -1,0 +1,8 @@
+inet6num:           fd32:3425:a483:0000:0000:0000:0000:0000 - fd32:3425:a483:ffff:ffff:ffff:ffff:ffff
+cidr:               fd32:3425:a483::/48
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+status:             ALLOCATED PA
+netname:            Unnamed fd32:3425:a483::/48 Network
+source:             DN42

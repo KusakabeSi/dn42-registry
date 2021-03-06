@@ -1,0 +1,7 @@
+aut-num:            AS4242423235
+as-name:            DATAHOLE-AS
+descr:              Datahole
+admin-c:            DATAHOLE-DN42
+tech-c:             DATAHOLE-DN42
+mnt-by:             DATAHOLE-MNT
+source:             DN42

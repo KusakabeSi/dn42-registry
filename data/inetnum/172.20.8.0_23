@@ -1,0 +1,11 @@
+inetnum:            172.20.8.0 - 172.20.9.255
+netname:            DDPO-NET-002
+descr:              DDPO-NET-002
+country:            BE
+admin-c:            CD-DN42
+tech-c:             CD-DN42
+mnt-by:             DDPO-MNT
+nserver:            ns0.ddpo.be
+status:             ALLOCATED
+cidr:               172.20.8.0/23
+source:             DN42

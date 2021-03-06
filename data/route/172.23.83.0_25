@@ -1,0 +1,5 @@
+route:              172.23.83.0/25
+descr:              Specific Route 4 Raiders 2nd Host
+origin:             AS4242422857
+mnt-by:             LURKAT-MNT
+source:             DN42

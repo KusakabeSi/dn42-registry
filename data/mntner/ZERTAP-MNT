@@ -1,0 +1,7 @@
+mntner:             ZERTAP-MNT
+admin-c:            ZERTAP-DN42
+tech-c:             ZERTAP-DN42
+mnt-by:             ZERTAP-MNT
+auth:               pgp-fingerprint 133067F615DA3EA061F0E0FA185A8D4B07074ABF
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKqdbXyEXuyRwmbUGnmvwj4crwzRa5yFai85EPfBXLgF
+source:             DN42

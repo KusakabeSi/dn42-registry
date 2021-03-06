@@ -1,0 +1,4 @@
+route:              172.20.160.48/28
+origin:             AS4242421155
+mnt-by:             L4RS-MNT
+source:             DN42

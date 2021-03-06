@@ -1,0 +1,5 @@
+route6:             fd01:374d:4ddd::/48
+origin:             AS4242423869
+max-length:         48
+mnt-by:             SELLERIE-MNT
+source:             DN42

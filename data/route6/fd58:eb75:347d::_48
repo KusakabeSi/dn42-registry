@@ -1,0 +1,5 @@
+route6:             fd58:eb75:347d::/48
+descr:              ROUTE-IP6-HAX404
+origin:             AS4242420428
+mnt-by:             HAX404-MNT
+source:             DN42

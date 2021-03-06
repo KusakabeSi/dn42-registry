@@ -1,0 +1,11 @@
+inetnum:            172.20.160.128 - 172.20.160.191
+netname:            DRATHIR-DN42-AT-INET
+descr:              DRATHIR-DN42-AT-INET
+country:            AT
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+nserver:            ns1.drathir.dn42
+status:             ALLOCATED
+cidr:               172.20.160.128/26
+source:             DN42

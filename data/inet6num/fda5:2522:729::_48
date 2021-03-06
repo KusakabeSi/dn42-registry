@@ -1,0 +1,8 @@
+inet6num:           fda5:2522:0729:0000:0000:0000:0000:0000 - fda5:2522:0729:ffff:ffff:ffff:ffff:ffff
+cidr:               fda5:2522:729::/48
+netname:            SUPERNOC-NET-2
+admin-c:            SNOC-DN42
+tech-c:             SNOC-DN42
+mnt-by:             SNOC-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd37:93a6:ed8f::/48
+descr:              deelkar's dn42 network
+origin:             AS64827
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.233.0/24
+descr:              Route object for ICEZ-DN42
+origin:             AS4242422244
+mnt-by:             ICEZ-MNT
+source:             DN42

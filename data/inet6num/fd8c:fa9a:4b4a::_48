@@ -1,0 +1,8 @@
+inet6num:           fd8c:fa9a:4b4a:0000:0000:0000:0000:0000 - fd8c:fa9a:4b4a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8c:fa9a:4b4a::/48
+netname:            GERG-NET-IPV6
+admin-c:            GERG-DN42
+tech-c:             GERG-DN42
+mnt-by:             GERG-MNT
+status:             ASSIGNED
+source:             DN42

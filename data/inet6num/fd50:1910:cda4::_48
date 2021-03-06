@@ -1,0 +1,13 @@
+inet6num:           fd50:1910:cda4:0000:0000:0000:0000:0000 - fd50:1910:cda4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd50:1910:cda4::/48
+netname:            CLARISSA-NETWORK
+descr:              Clarissa Core Network
+country:            HK
+admin-c:            CLARISSA-DN42
+tech-c:             CLARISSA-DN42
+mnt-by:             CLARISSA-MNT
+nserver:            clary.claryhk.dn42
+nserver:            yvonne.claryhk.dn42
+nserver:            saaya.claryhk.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.21.160 - 172.20.21.191
+cidr:               172.20.21.160/27
+netname:            GCC-USR-HK
+descr:              Cirrocumulus Cloud Hong Kong User Network
+admin-c:            LIYUMI-DN42
+tech-c:             LIYUMI-DN42
+mnt-by:             GCC-MNT
+status:             ASSIGNED
+source:             DN42

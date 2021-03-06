@@ -1,0 +1,6 @@
+mntner:             CLEMATIS-MNT
+admin-c:            CLEMATIS-DN42
+tech-c:             CLEMATIS-DN42
+mnt-by:             CLEMATIS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMcYbyIv/Wi2hiTJw3jfo6iBrnnPlBL+pn20NXIv/8X
+source:             DN42

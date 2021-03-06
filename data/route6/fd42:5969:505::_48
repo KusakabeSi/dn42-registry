@@ -1,0 +1,5 @@
+route6:             fd42:5969:505::/48
+origin:             AS4242421194
+max-length:         48
+mnt-by:             LPV-MNT
+source:             DN42

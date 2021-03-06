@@ -1,0 +1,9 @@
+inet6num:           fd70:726f:662e:0000:0000:0000:0000:0000 - fd70:726f:662e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:726f:662e::/48
+netname:            MORIARTY-V6-NET-1
+descr:              prof. Moriarty's dn42 IPv6 research network
+admin-c:            MORIARTY-DN42
+tech-c:             MORIARTY-DN42
+mnt-by:             MORIARTY-MNT
+status:             ASSIGNED
+source:             DN42

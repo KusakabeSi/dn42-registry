@@ -1,0 +1,4 @@
+route:              172.20.236.64/29
+origin:             AS4242422466
+mnt-by:             SHYPRE-MNT
+source:             DN42

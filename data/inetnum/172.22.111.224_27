@@ -1,0 +1,8 @@
+inetnum:            172.22.111.224 - 172.22.111.255
+cidr:               172.22.111.224/27
+netname:            ENPLS-NET-1
+admin-c:            OUTOUT-DN42
+tech-c:             OUTOUT-DN42
+mnt-by:             OUTOUT-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.192.128/26
+descr:              IPv4 dn42 address space of jplitza
+origin:             AS4242420128
+mnt-by:             JPLITZA-MNT
+source:             DN42

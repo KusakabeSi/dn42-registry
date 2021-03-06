@@ -1,0 +1,7 @@
+route:              172.23.128.128/26
+descr:              TXC-NET
+origin:             AS4242423883
+tech-c:             TXC-DN42
+admin-c:            TXC-DN42
+mnt-by:             TXC-MNT
+source:             DN42

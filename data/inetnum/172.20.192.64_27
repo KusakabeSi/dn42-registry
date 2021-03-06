@@ -1,0 +1,11 @@
+inetnum:            172.20.192.64 - 172.20.192.95
+netname:            PICOCLOUD-NET4-1
+country:            CA
+admin-c:            MALAIWAH-DN42
+tech-c:             MALAIWAH-DN42
+mnt-by:             PICOCLOUD-MNT
+nserver:            ns1.picocloud.dn42
+nserver:            ns2.picocloud.dn42
+status:             ASSIGNED
+cidr:               172.20.192.64/27
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242423294
+as-name:            TEMPELGOGO-AS
+descr:              tempelgogo main as
+admin-c:            TEMPELGOGO-DN42
+tech-c:             TEMPELGOGO-DN42
+mnt-by:             TEMPELGOGO-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+aut-num:            AS4242423442
+as-name:            TBRB-AS
+descr:              TBRB Network
+remarks:            Peering: harry@teebrb.net
+remarks:            Peering: OpenVPN PtP Preferred
+remarks:            Peering: Located in Edinburgh, GB
+admin-c:            TBRB-DN42
+tech-c:             TBRB-DN42
+mnt-by:             TBRB-MNT
+source:             DN42

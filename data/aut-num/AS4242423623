@@ -1,0 +1,7 @@
+aut-num:            AS4242423623
+as-name:            BGPTRACE-AS
+descr:              BGPTRACE
+admin-c:            BGPTRACE-DN42
+tech-c:             BGPTRACE-DN42
+mnt-by:             BGPTRACE-MNT
+source:             DN42

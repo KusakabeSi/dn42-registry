@@ -1,0 +1,7 @@
+mntner:             JANFRED-MNT
+descr:              Janfred Maintainer Object
+admin-c:            JANFRED-DN42
+tech-c:             JANFRED-DN42
+mnt-by:             JANFRED-MNT
+auth:               pgp-fingerprint 3BD9FC53FE98BAADEA60737550747B34E88A1A6D
+source:             DN42

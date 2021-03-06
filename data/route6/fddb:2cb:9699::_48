@@ -1,0 +1,6 @@
+route6:             fddb:2cb:9699::/48
+origin:             AS64890
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankenberg
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,5 @@
+route:              172.20.229.160/27
+origin:             AS4242420565
+max-length:         29
+mnt-by:             E1MO-MNT
+source:             DN42

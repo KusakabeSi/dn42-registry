@@ -1,0 +1,4 @@
+route:              172.20.155.88/29
+origin:             AS4242423036
+mnt-by:             ACCELERATOR-MNT
+source:             DN42

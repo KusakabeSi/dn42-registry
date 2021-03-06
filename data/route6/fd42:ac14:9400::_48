@@ -1,0 +1,4 @@
+route6:             fd42:ac14:9400::/48
+origin:             AS4242422043
+mnt-by:             KLEEN-MNT
+source:             DN42

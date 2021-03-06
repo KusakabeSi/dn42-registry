@@ -1,0 +1,7 @@
+mntner:             HIVEMIND-MNT
+admin-c:            HIVEMIND-DN42
+tech-c:             HIVEMIND-DN42
+mnt-by:             HIVEMIND-MNT
+auth:               pgp-fingerprint DF42BF56AA1F1936492C43266DABFB60AC880BE9
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxuUolvgESqvFrENwflPrWZigXE8LXJ13o4DGMIqayMavuYSS1Mqf3bVNVebdIYi2He5ySEbWdrUA/uiAlLmavI/tzxIt2A8YKQfNI1y8+m2h6yYuOOXFyw9jVNC/Lo7Mxcy7LBdM3q05kvBlhMkxSpFBIkM4PT7+CxMqPIHxSFKU7wpjNjtutCT/IqCg9CkbPzUzC74Yh7FKD9hJ9fuX2lSPdpImhjEaM+PPmvCVtzYXEktKvcUZXVZhAZWCdjWqRhhiGOmo+lQX4YoyMMd0Lr7i/kjHFL2XAPrp90p5CJ9cP143PVWMeGVeYATbqUYlOjxvLTzYXGtSWZp9qF6mB tgarcia@stripey
+source:             DN42

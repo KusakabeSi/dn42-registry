@@ -1,0 +1,8 @@
+aut-num:            AS4242421191
+as-name:            YAMAKAJA-AS
+admin-c:            YAMAKAJA-DN42
+tech-c:             YAMAKAJA-DN42
+mnt-by:             YAMAKAJA-MNT
+mp-import:          afi any.unicast from AS4242421191:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242421191:AS-TRANSIT announce ANY
+source:             DN42

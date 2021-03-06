@@ -1,0 +1,8 @@
+mntner:             TMIT-MNT
+descr:              Maintainer for TMIT
+admin-c:            TMIT-DN42
+auth:               pgp-fingerprint 0893203AA49CCA880D67BDF00DDA34DC1E356311
+tech-c:             TMIT-DN42
+mnt-by:             TMIT-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUhjBNWmapkhsT2TgldElND2nkDwrAuO8NKy1yjdwZZ/9xswXqzJzeNThHIiKNARK/+eVJWuyoYAwfHjCCDlQTFFzzycZf86JuiMcqM4ap6IMXF7V0YKRO4cm1+RKIzbSXcg29c93QLdXzTgFXD4B0AQ2kFXZF1E5grvhmxHbpnMs0ozzuhRT7VIiAqGovKAknVxtQULLi0ZTyeBodikkjQi2+FdwGih3hIsBGFIaxeRlgzQAf/L/iqpWOjXSL1Hu5q5xKrdCun6goZqjICg//mMmWE5rQ5TBHh+JJYiEUfHmU4XFXSXXRPZLZuLUyUr4RpdfR+9SDZp/HWwnyNA5H tmit

@@ -1,0 +1,5 @@
+route6:             fda3:d993:602a:babe::/64
+origin:             AS4242420781
+max-length:         64
+mnt-by:             NAB-MNT
+source:             DN42

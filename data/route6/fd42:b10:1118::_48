@@ -1,0 +1,5 @@
+route6:             fd42:b10:1118::/48
+descr:              ZLD-DN42-INET6 route
+origin:             AS4242420118
+mnt-by:             ZLD-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.29.192 - 172.20.29.223
+cidr:               172.20.29.192/27
+netname:            SUDOPARADISE-NETWORK
+admin-c:            SUDOPARADISE-DN42
+tech-c:             SUDOPARADISE-DN42
+mnt-by:             SUDOPARADISE-MNT
+status:             ASSIGNED
+source:             DN42

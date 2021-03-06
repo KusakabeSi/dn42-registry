@@ -1,0 +1,10 @@
+domain:             as4242420211.dn42
+descr:              AS4242420211 Domain
+admin-c:            FUERO-ADM-DN42
+tech-c:             FUERO-TEC-DN42
+mnt-by:             FUERO-MNT
+nserver:            ns1.as4242420211.dn42 172.20.171.97
+nserver:            ns1.as4242420211.dn42 fd00:7882:4abb::1
+nserver:            ns2.as4242420211.dn42 172.20.171.98
+nserver:            ns2.as4242420211.dn42 fd00:7882:4abb::2
+source:             DN42

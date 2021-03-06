@@ -1,0 +1,8 @@
+aut-num:            AS4242420451
+as-name:            CHEBURNET-AS
+descr:              Cheburnet Backbone
+remarks:            HTTP 451 — Unavailable For Legal Reasons
+admin-c:            CHEBURATOR-DN42
+tech-c:             CHEBURATOR-DN42
+mnt-by:             CHEBURNET-MNT
+source:             DN42

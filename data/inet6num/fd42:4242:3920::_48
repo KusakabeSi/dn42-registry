@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:3920:0000:0000:0000:0000:0000 - fd42:4242:3920:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:3920::/48
+netname:            KEBE-NET
+descr:              KEBE Network
+country:            NL
+admin-c:            KEBE-DN42
+tech-c:             KEBE-DN42
+mnt-by:             KEBE-MNT
+status:             ASSIGNED
+source:             DN42

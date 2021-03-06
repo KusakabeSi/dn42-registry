@@ -1,0 +1,9 @@
+inet6num:           fd12:ee00:9898:0000:0000:0000:0000:0000 - fd12:ee00:9898:ffff:ffff:ffff:ffff:ffff
+netname:            PABLO-HESSENET-6
+admin-c:            JAMIE9898-DN42
+tech-c:             JAMIE9898-DN42
+mnt-by:             HESSENET-MNT
+status:             ASSIGNED
+cidr:               fd12:ee00:9898::/48
+country:            FR
+source:             DN42

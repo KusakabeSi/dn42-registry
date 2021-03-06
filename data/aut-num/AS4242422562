@@ -1,0 +1,7 @@
+aut-num:            AS4242422562
+as-name:            DREADMAN-AS
+descr:              foo
+admin-c:            DREADMAN-DN42
+tech-c:             DREADMAN-DN42
+mnt-by:             DREADMAN-MNT
+source:             DN42

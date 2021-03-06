@@ -1,0 +1,7 @@
+aut-num:            AS4242420126
+as-name:            JDB-AS
+descr:              AS number for the brouwer
+admin-c:            DEBROUWER-DN42
+tech-c:             DEBROUWER-DN42
+mnt-by:             DEBROUWER-MNT
+source:             DN42

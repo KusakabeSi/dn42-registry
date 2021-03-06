@@ -1,0 +1,7 @@
+mntner:             YZITE-MNT
+admin-c:            ZSERI-DN42
+tech-c:             ZSERI-DN42
+mnt-by:             YZITE-MNT
+auth:               pgp-fingerprint 7AFBC5950D3A77BDB00F947B229E63AE5644A96D
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOuAE7PaRT6FAtQekgZTCPkuHpS2jjXEohXTFdGB5koX
+source:             DN42

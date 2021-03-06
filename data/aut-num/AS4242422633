@@ -1,0 +1,6 @@
+aut-num:            AS4242422633
+as-name:            EASTBOUND-AS
+admin-c:            EASTBOUND-DN42
+tech-c:             EASTBOUND-DN42
+mnt-by:             EASTBOUND-MNT
+source:             DN42

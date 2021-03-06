@@ -1,0 +1,5 @@
+route6:             fdb6:d08:686b::/48
+descr:              MKB
+origin:             AS4242420039
+mnt-by:             MKB-MNT
+source:             DN42

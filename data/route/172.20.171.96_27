@@ -1,0 +1,4 @@
+route:              172.20.171.96/27
+origin:             AS4242420211
+mnt-by:             FUERO-MNT
+source:             DN42

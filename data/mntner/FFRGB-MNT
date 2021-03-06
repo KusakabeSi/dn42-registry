@@ -1,0 +1,8 @@
+mntner:             FFRGB-MNT
+descr:              Freifunk Regensburg
+abuse-mailbox:      abuse@ffrgb.net
+mnt-by:             FFRGB-MNT
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+auth:               pgp-fingerprint 14F07A4F9C0BBB036A7E7DC23B2BA2B41CA7D8D0
+source:             DN42

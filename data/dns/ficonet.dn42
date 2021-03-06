@@ -1,0 +1,10 @@
+domain:             ficonet.dn42
+descr:              FICONET
+admin-c:            FICO-DN42
+tech-c:             FICO-DN42
+mnt-by:             FICO-MNT
+nserver:            ns1.ficonet.dn42 172.21.79.97
+nserver:            ns1.ficonet.dn42 fd31:3a4f:b7ae::1
+nserver:            ns2.ficonet.dn42 172.21.79.98
+nserver:            ns2.ficonet.dn42 fd31:3a4f:b7ae::2
+source:             DN42

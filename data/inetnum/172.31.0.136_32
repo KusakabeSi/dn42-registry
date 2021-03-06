@@ -1,0 +1,7 @@
+inetnum:            172.31.0.136 - 172.31.0.136
+cidr:               172.31.0.136/32
+netname:            CHAOSVPN-LARSB
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

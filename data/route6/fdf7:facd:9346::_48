@@ -1,0 +1,5 @@
+route6:             fdf7:facd:9346::/48
+origin:             AS4242421115
+max-length:         48
+mnt-by:             ANDYNET-MNT
+source:             DN42

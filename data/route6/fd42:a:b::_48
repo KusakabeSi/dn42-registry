@@ -1,0 +1,5 @@
+route6:             fd42:a:b::/48
+descr:              lutoma ip6net
+origin:             AS64719
+mnt-by:             LUTOMA-MNT
+source:             DN42

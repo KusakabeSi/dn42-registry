@@ -1,0 +1,4 @@
+route6:             fdac:f820:373a::/48
+origin:             AS4242422128
+mnt-by:             AMNET-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.180.32/27
+origin:             AS4242421310
+mnt-by:             KAESEKUCHENPW-MNT
+source:             DN42

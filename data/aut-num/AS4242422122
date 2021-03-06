@@ -1,0 +1,7 @@
+aut-num:            AS4242422122
+as-name:            AS-LELOOP-TESTBGPD1
+descr:              ASN for LeLoop - Used for testing purposes
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+mnt-by:             KANKAN-MNT
+source:             DN42

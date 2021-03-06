@@ -1,0 +1,10 @@
+inetnum:            172.20.149.136 - 172.20.149.143
+netname:            RSDOHERTY-TEST-NETWORKS
+descr:              RSDOHERTY-TEST-NETWORKS
+country:            GB
+admin-c:            RSDOHERTY-DN42
+tech-c:             RSDOHERTY-DN42
+mnt-by:             RSDOHERTY-MNT
+status:             ASSIGNED
+cidr:               172.20.149.136/29
+source:             DN42

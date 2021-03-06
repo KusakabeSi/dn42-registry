@@ -1,0 +1,10 @@
+inet6num:           fdcc:3597:f3cf:0000:0000:0000:0000:0000 - fdcc:3597:f3cf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcc:3597:f3cf::/48
+netname:            TECHMINER-V6
+descr:              TECHMINER-DN42
+country:            US
+admin-c:            EASTON-DN42
+tech-c:             EASTON-DN42
+mnt-by:             EASTON-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             ERITAP-MNT
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+source:             DN42
+auth:               pgp-fingerprint AF4524554BE1C3114D244C53530081C16B9E2EC7

@@ -1,0 +1,9 @@
+inetnum:            172.22.192.0 - 172.22.255.255
+cidr:               172.22.192.0/18
+netname:            NET-BLK219218-DN42
+descr:              DN42 native address space
+remarks:            Not available for allocations, reserved for future use
+policy:             reserved
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

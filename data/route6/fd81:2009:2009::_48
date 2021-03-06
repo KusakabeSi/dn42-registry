@@ -1,0 +1,5 @@
+route6:             fd81:2009:2009::/48
+descr:              Trunet Home Network
+origin:             AS4242422009
+mnt-by:             TRUNET-MNT
+source:             DN42

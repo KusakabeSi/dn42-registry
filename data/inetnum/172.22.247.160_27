@@ -1,0 +1,10 @@
+inetnum:            172.22.247.160 - 172.22.247.191
+netname:            JPLITZA-TRANSFER-NET
+mnt-by:             JPLITZA-MNT
+nserver:            ns01.dn42.jplitza.de
+admin-c:            JPLITZA-DN42
+tech-c:             JPLITZA-DN42
+country:            DE
+status:             ASSIGNED
+cidr:               172.22.247.160/27
+source:             DN42

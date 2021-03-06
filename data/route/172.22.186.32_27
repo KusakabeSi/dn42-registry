@@ -1,0 +1,4 @@
+route:              172.22.186.32/27
+origin:             AS4242422855
+mnt-by:             NICHI-MNT
+source:             DN42

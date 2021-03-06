@@ -1,0 +1,4 @@
+route:              172.23.186.32/27
+origin:             AS4242422575
+mnt-by:             ANDROW-MNT
+source:             DN42

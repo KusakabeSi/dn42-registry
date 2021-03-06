@@ -1,0 +1,6 @@
+mntner:             DGHUBBLE-MNT
+admin-c:            DGHUBBLE-DN42
+tech-c:             DGHUBBLE-DN42
+mnt-by:             DGHUBBLE-MNT
+source:             DN42
+auth:               pgp-fingerprint 2E3D92BF07D9DDCCB3BAE4A48F515AD1602065C8

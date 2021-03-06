@@ -1,0 +1,4 @@
+route:              172.20.163.96/28
+origin:             AS4242423918
+mnt-by:             SNOC-MNT
+source:             DN42

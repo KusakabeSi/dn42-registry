@@ -1,0 +1,6 @@
+mntner:             ALIBABA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAw+Nd4mbr8vm82JcHo3H0rEnHLjn938EWPsToYPfmXtxDZmvXdg+NiBfUj1XxWTopTXisuEUoJ0ojyQQs6VLZz1F6ebIdnzMFgIy3eK3x/Zsm7zj/TYnM6EUDNvOaBMl3HXk2WJsSGbK3/zXNb9pgJHtc4+YGcWMQlMRGoqxVgeF0uJZehhWUssvvXO1KAUOGZl+6pb5D76fPxBEofuQX4OxcQ0yzzEJvqHG6eOK6lRfygMa7w0604LERbHja5eCydZMJcug4fmrqF1O4/dlNxzicqFpu1wnv7nwQ0hHFf0hnBp3iIMvis5LUPx4ExG2DoxbUUcouoaU/VIcVjOxGow== zhangranrui@gmail.com
+admin-c:            ALIBABA-DN42
+tech-c:             ALIBABA-DN42
+mnt-by:             ALIBABA-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdff:feed:c0de:0000:0000:0000:0000:0000 - fdff:feed:c0de:ffff:ffff:ffff:ffff:ffff
+netname:            NEURONET-NET6
+cidr:               fdff:feed:c0de::/48
+descr:              NeuroNet's IPv6 network at the end of the range
+country:            PT
+admin-c:            HARDB1T-DN42
+tech-c:             HARDB1T-DN42
+mnt-by:             HARDB1T-MNT
+status:             ASSIGNED
+org:                ORG-NEURONET
+source:             DN42

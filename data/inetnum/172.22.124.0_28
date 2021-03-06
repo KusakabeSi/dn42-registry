@@ -1,0 +1,9 @@
+inetnum:            172.22.124.0 - 172.22.124.15
+cidr:               172.22.124.0/28
+netname:            GCC-BACKBONE
+descr:              Backbone Network of Cirrocumulus Cloud
+admin-c:            LIYUMI-DN42
+tech-c:             LIYUMI-DN42
+mnt-by:             GCC-MNT
+status:             ASSIGNED
+source:             DN42

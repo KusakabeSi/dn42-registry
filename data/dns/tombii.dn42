@@ -1,0 +1,9 @@
+domain:             tombii.dn42
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42 172.22.102.1
+nserver:            ns2.tombii.dn42 172.22.102.3
+nserver:            ns1.tombii.dn42 fd19:e0a6:1295::1
+nserver:            ns2.tombii.dn42 fd19:e0a6:1295::3
+source:             DN42

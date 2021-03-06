@@ -1,0 +1,11 @@
+inet6num:           fd42:9707:96bd:0000:0000:0000:0000:0000 - fd42:9707:96bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:9707:96bd::/48
+netname:            FELIX-NET
+descr:              Felix Core Network
+country:            US
+admin-c:            FELIX-DN42
+tech-c:             FELIX-DN42
+mnt-by:             FELIX-MNT
+nserver:            ns1.felix.dn42
+status:             ASSIGNED
+source:             DN42

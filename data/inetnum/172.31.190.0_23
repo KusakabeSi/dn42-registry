@@ -1,0 +1,7 @@
+inetnum:            172.31.190.0 - 172.31.191.255
+cidr:               172.31.190.0/23
+netname:            CHAOSVPN-INITLAB
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

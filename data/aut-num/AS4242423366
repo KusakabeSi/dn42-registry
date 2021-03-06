@@ -1,0 +1,7 @@
+aut-num:            AS4242423366
+as-name:            ORUS
+descr:              ORUS TEST AS
+admin-c:            ORUS-DN42
+tech-c:             ORUS-DN42
+mnt-by:             ORUS-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd73:3033:1913::/48
+origin:             AS4242421020
+mnt-by:             5670-MNT
+source:             DN42

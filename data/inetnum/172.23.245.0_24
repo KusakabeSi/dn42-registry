@@ -1,0 +1,11 @@
+inetnum:            172.23.245.0 - 172.23.245.255
+netname:            DARKIT-SPACE
+descr:              DarkIT Space
+nserver:            ns1.dark-it.dn42
+country:            DE
+admin-c:            DARKIT-DN42
+tech-c:             DARKIT-DN42
+mnt-by:             DARKIT-MNT
+status:             ASSIGNED
+cidr:               172.23.245.0/24
+source:             DN42

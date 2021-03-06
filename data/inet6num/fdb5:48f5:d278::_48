@@ -1,0 +1,10 @@
+inet6num:           fdb5:48f5:d278:0000:0000:0000:0000:0000 - fdb5:48f5:d278:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb5:48f5:d278::/48
+netname:            BUROA-NETWORK
+descr:              Network of Buroa
+country:            US
+admin-c:            BUROA-DN42
+tech-c:             BUROA-DN42
+mnt-by:             BUROA-MNT
+status:             ASSIGNED
+source:             DN42

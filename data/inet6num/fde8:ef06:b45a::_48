@@ -1,0 +1,10 @@
+inet6num:           fde8:ef06:b45a:0000:0000:0000:0000:0000 - fde8:ef06:b45a:ffff:ffff:ffff:ffff:ffff
+cidr:               fde8:ef06:b45a::/48
+netname:            NOPE-NETWORK
+descr:              Nope IPv6
+country:            FR
+admin-c:            NOPE-DN42
+tech-c:             NOPE-DN42
+mnt-by:             NOPE-MNT
+status:             ASSIGNED
+source:             DN42

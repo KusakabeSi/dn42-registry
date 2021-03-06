@@ -1,0 +1,7 @@
+mntner:             VRNET-MNT
+descr:              vr network
+admin-c:            VRNET-DN42
+tech-c:             VRNET-DN42
+mnt-by:             VRNET-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAIA5XMDphjWAEnzUAbGa2WuG07OUJa4XAvX3d7JfQQn2f7Aho52cf1Q7ij7s5jJ/FjuN6dnAEOEePX1J3izxiMwH4PxVrx7pBVaAx3bdHLT/1KigXZvtkPeDpD76ATSBaleBQb1tmHe/dzyyEI952qfpF4iTGphu+pBmupJ+O0eRFmrSe31cHc/6f4UdIgHgXtd8u4EgGtt5Ffs7KTR37mrSOpgkhFBGEkt4NIlJh93PbFJFTr9ayQE2guKttWcgW3x+vrZnEIDczo7toz/J04cHVUMviQe21ixwfP4OaypZ3r3cV9qZ14E8WwuWZ1BRHiFc7VqMstoF5VTTkcneX rsa-key-adithepocz-dn42

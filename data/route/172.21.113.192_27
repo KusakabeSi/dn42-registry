@@ -1,0 +1,4 @@
+route:              172.21.113.192/27
+origin:             AS4242422911
+mnt-by:             JUNJUN-MNT
+source:             DN42

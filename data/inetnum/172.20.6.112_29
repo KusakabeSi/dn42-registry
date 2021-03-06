@@ -1,0 +1,11 @@
+inetnum:            172.20.6.112 - 172.20.6.119
+cidr:               172.20.6.112/29
+netname:            NextMoe Group Intermediate Access Project
+org:                ORG-NEXTMOE
+admin-c:            ICECAT-DN42
+tech-c:             ICECAT-DN42
+mnt-by:             ICECAT-MNT
+nserver:            ns1.jerry.dn42
+nserver:            ns.nia.dn42
+status:             ASSIGNED
+source:             DN42

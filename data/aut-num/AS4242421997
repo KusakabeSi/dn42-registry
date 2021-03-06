@@ -1,0 +1,10 @@
+aut-num:            AS4242421997
+as-name:            CALLUM-AS
+descr:              Callum's AS
+remarks:            * Open peering in London (Gbit) - GRE preferred
+remarks:            * Contact dn42@callumaitchison.co.uk
+geo-loc:            GB
+admin-c:            CALLUM-DN42
+tech-c:             CALLUM-DN42
+mnt-by:             CALLUM-MNT
+source:             DN42

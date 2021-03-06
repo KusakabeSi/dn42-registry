@@ -1,0 +1,7 @@
+aut-num:            AS64777
+as-name:            ISAAAC-AS
+descr:              ISAAAC's personal DN42 Network
+admin-c:            ISAAAC-DN42
+tech-c:             ISAAAC-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

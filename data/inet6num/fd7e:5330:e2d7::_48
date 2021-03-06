@@ -1,0 +1,8 @@
+inet6num:           fd7e:5330:e2d7:0000:0000:0000:0000:0000 - fd7e:5330:e2d7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7e:5330:e2d7::/48
+netname:            JPC-NETWORK
+admin-c:            JPC-DN42
+tech-c:             JPC-DN42
+mnt-by:             JPC-MNT
+status:             ASSIGNED
+source:             DN42

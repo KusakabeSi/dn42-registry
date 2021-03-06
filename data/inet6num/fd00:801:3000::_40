@@ -1,0 +1,13 @@
+inet6num:           fd00:0801:3000:0000:0000:0000:0000:0000 - fd00:0801:30ff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:801:3000::/40
+descr:              NET-AIRGAPPED-001v6
+country:            US
+netname:            AIRGAPPED-fd00-0801-3000
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+org:                ORG-AIRGAPPED
+nserver:            ns1.airgapped.dn42
+nserver:            ns2.airgapped.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.23.208.0/23
+origin:             AS4242421976
+admin-c:            CHAOTIKUM-DN42
+tech-c:             CHAOTIKUM-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

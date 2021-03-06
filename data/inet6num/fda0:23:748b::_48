@@ -1,0 +1,12 @@
+inet6num:           fda0:0023:748b:0000:0000:0000:0000:0000 - fda0:0023:748b:ffff:ffff:ffff:ffff:ffff
+netname:            TBSPACE-DE1-IPV6
+descr:              tbspace-DE1 via IPv6
+country:            DE
+admin-c:            TBSPACE-DN42
+tech-c:             TBSPACE-DN42
+mnt-by:             TBSPACE-MNT
+nserver:            ns1.tbspace.de
+nserver:            ns2.tbspace.de
+status:             ASSIGNED
+cidr:               fda0:23:748b::/48
+source:             DN42

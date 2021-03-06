@@ -1,0 +1,10 @@
+inetnum:            172.20.242.128 - 172.20.242.255
+netname:            WWLABS-NET
+descr:              WWLABS-NET
+country:            DE
+admin-c:            THEPAFFY-DN42
+tech-c:             THEPAFFY-DN42
+mnt-by:             WWLABS-MNT
+status:             ASSIGNED
+cidr:               172.20.242.128/25
+source:             DN42

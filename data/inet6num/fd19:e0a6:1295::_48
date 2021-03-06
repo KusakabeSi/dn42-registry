@@ -1,0 +1,10 @@
+inet6num:           fd19:e0a6:1295:0000:0000:0000:0000:0000 - fd19:e0a6:1295:ffff:ffff:ffff:ffff:ffff
+netname:            TOMBII-NET
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+nserver:            ns2.tombii.dn42
+status:             ASSIGNED
+cidr:               fd19:e0a6:1295::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd89:aec1:ca45:0000:0000:0000:0000:0000 - fd89:aec1:ca45:ffff:ffff:ffff:ffff:ffff
+cidr:               fd89:aec1:ca45::/48
+netname:            YTRIZJA-NET-1
+admin-c:            ZSERI-DN42
+tech-c:             ZSERI-DN42
+mnt-by:             YZITE-MNT
+org:                ORG-YTRIZJA
+status:             ASSIGNED
+source:             DN42

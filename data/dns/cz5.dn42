@@ -1,0 +1,6 @@
+domain:             cz5.dn42
+admin-c:            CZ5-DN42
+tech-c:             CZ5-DN42
+mnt-by:             CZ5-MNT
+nserver:            ns1.cz5.dn42 172.20.18.242
+source:             DN42

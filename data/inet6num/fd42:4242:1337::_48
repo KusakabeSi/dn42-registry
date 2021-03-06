@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:1337:0000:0000:0000:0000:0000 - fd42:4242:1337:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1337::/48
+netname:            PANKY-NETWORK
+descr:              Network of Panky
+country:            DE
+admin-c:            PANKY-DN42
+tech-c:             PANKY-DN42
+mnt-by:             PANKY-MNT
+nserver:            russia1.panky.dn42
+nserver:            singapore1.panky.dn42
+status:             ASSIGNED
+source:             DN42

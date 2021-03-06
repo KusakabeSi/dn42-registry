@@ -1,0 +1,5 @@
+route:              172.22.118.0/27
+descr:              LINUTUX-NETWORK
+origin:             AS4242421128
+mnt-by:             LINUTUX-MNT
+source:             DN42

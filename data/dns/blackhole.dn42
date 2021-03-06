@@ -1,0 +1,8 @@
+domain:             blackhole.dn42
+descr:              Blackhole domain
+admin-c:            X-DN42
+tech-c:             X-DN42
+mnt-by:             BLACKHOLE-MNT
+nserver:            ns1.blackhole.dn42 172.22.77.1
+nserver:            ns2.blackhole.dn42 172.22.77.2
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.15.64 - 172.20.15.95
+cidr:               172.20.15.64/27
+netname:            RASP-NETWORK
+descr:              Network of rasp
+country:            AU
+admin-c:            RASP-DN42
+tech-c:             RASP-DN42
+mnt-by:             RASP-MNT
+nserver:            ns1.rasp.dn42
+status:             ASSIGNED
+source:             DN42

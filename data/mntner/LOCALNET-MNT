@@ -1,0 +1,7 @@
+mntner:             LOCALNET-MNT
+descr:              Localnet network maintainer
+auth:               pgp-fingerprint 9EDB014857D7623F0013EF0EE9661BF4FFD8C10D
+admin-c:            OPOTONIL-DN42
+tech-c:             OPOTONIL-DN42
+mnt-by:             LOCALNET-MNT
+source:             DN42

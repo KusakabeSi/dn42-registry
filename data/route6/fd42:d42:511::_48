@@ -1,0 +1,4 @@
+route6:             fd42:d42:511::/48
+origin:             AS4242420511
+mnt-by:             MORTZEL-MNT
+source:             DN42

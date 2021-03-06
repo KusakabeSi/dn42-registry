@@ -1,0 +1,7 @@
+aut-num:            AS4242423759
+as-name:            DRATHIR-OVH-FRA
+descr:              drathir_test_network
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.123.0 - 172.23.123.255
+netname:            DN42-MISAKA-01
+descr:              Misaka Network Experimental Infrastructure at DN42
+country:            US
+admin-c:            AVELINE-DN42
+tech-c:             AVELINE-DN42
+mnt-by:             AVELINE-MNT
+status:             ALLOCATED
+cidr:               172.23.123.0/24
+source:             DN42

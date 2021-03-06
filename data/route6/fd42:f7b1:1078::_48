@@ -1,0 +1,4 @@
+route6:             fd42:f7b1:1078::/48
+origin:             AS4242420210
+mnt-by:             WHMCR-MNT
+source:             DN42

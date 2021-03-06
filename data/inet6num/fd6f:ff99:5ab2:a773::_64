@@ -1,0 +1,10 @@
+inet6num:           fd6f:ff99:5ab2:a773:0000:0000:0000:0000 - fd6f:ff99:5ab2:a773:ffff:ffff:ffff:ffff
+cidr:               fd6f:ff99:5ab2:a773::/64
+netname:            BYTERAVEN-NET6
+descr:              Byteraven DN42 IPv6 block
+country:            FR
+admin-c:            BYTERAVEN-DN42
+tech-c:             BYTERAVEN-DN42
+mnt-by:             BYTERAVEN-MNT
+status:             ASSIGNED
+source:             DN42

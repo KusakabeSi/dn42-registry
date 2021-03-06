@@ -1,0 +1,7 @@
+mntner:             DELEGAO-MNT
+descr:              Delegao DN42 Research Network Maintainer
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+auth:               pgp-fingerprint B2452FBAFB27B1F2EAD652CDDECBB03716DCA328
+source:             DN42

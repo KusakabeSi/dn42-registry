@@ -1,0 +1,4 @@
+route6:             fd42:64:713::/48
+origin:             AS64713
+mnt-by:             MARTIN89-MNT
+source:             DN42

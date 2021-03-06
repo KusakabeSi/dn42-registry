@@ -1,0 +1,10 @@
+domain:             tan.dn42
+descr:              TAN Network
+admin-c:            TAN-DN42
+tech-c:             TAN-DN42
+mnt-by:             TAN-MNT
+nserver:            ns1.tan.dn42 172.22.122.97
+nserver:            ns1.tan.dn42 fd42:4242:2990::1
+nserver:            ns2.tan.dn42 172.22.122.98
+nserver:            ns2.tan.dn42 fd42:4242:2990::2
+source:             DN42

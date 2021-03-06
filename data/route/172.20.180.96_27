@@ -1,0 +1,5 @@
+route:              172.20.180.96/27
+descr:              LIHNIDOS CORE NETWORK
+origin:             AS4242423345
+mnt-by:             LIHNIDOS-MNT
+source:             DN42

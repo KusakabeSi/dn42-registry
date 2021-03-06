@@ -1,0 +1,11 @@
+inetnum:            172.22.63.0 - 172.22.63.15
+netname:            NET-REGISTRY4-DN42
+descr:              DN42 Registry Services
+mnt-by:             BURBLE-MNT
+mnt-by:             JRB0001-MNT
+mnt-by:             XUU-MNT
+nserver:            ns1.burble.dn42
+ds-rdata:           3008 13 2 e4d4882260df98356da204519c7029656633a76c9ef20663b1023a08470c2042
+status:             ASSIGNED PI
+cidr:               172.22.63.0/28
+source:             DN42

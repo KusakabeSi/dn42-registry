@@ -1,0 +1,11 @@
+inetnum:            172.21.101.32 - 172.21.101.63
+cidr:               172.21.101.32/27
+netname:            Fugitive VPN Network
+admin-c:            FUGITIVE-DN42
+tech-c:             FUGITIVE-DN42
+mnt-by:             FUGITIVE-MNT
+status:             ASSIGNED
+country:            RS
+nserver:            ns1.fvpn.dn42
+nserver:            ns2.fvpn.dn42
+source:             DN42

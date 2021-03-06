@@ -1,0 +1,4 @@
+route:              172.21.118.160/28
+origin:             AS4242423535
+mnt-by:             RB67-MNT
+source:             DN42

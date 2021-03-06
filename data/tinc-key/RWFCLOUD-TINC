@@ -1,0 +1,23 @@
+tinc-key:           RWFCLOUD-TINC
+tinc-host:          dn42
+mnt-by:             RWFMON-MNT
+admin-c:            MON-DN42
+subnet:             172.22.132.128/26
+tinc-address:       172.22.132.129
+tinc-file:          
+                    Subnet = 172.22.132.128/26
+                    Address = 172.22.132.129
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEA5zbN4m3WY1Jf5KxraYN0gkzhvLbBQh6YeUD1J7lt66GXTDByEZ02
+                    SupdgBgXSfiOMKaPcFk8DOOHN87fqsex4eGNTzyABTICgMV3yggwvhuAmzXoD/JT
+                    aklrigpC+uCkfOpQWtpesN3EP/niGpxkybAEgMmhk3LWKFMVWX2y2TUWTSf94Yne
+                    zMObxA6GFcxbXNgKMsn7lXNgicd9mfgTf4+Eum5BW++3ULNq+3WZ/M+/1JRaC+lI
+                    y0E0LxMqndZYQMPA+e5PzU3RMUGMbIJiTMcXXRLdqc8EAkfXvHi5paBBoLaZGWRB
+                    STe6B1RwAqBVNLtqb7ytp+kzE1HnoOqh5WWdF0+WdossdbMEbqNjZpH5ex4gs3/x
+                    WS7NJ1hOic43RNgk/1bhOPQPx4cOJVsvimyQkscBn/HWgN4O+t5zew0TT8Qtd/ao
+                    x/+Npvu1RM2Y69vu8wFhPNqvewJWraaz1Ha3cKmJGvx6zUx88bNovwXTZrr2yKJo
+                    IA1dn1U8/7WoUfp53/Mj0N0AX46G6SfNe1LqcOWE1+oM4qSdQdjRxVMEY0yLTUV2
+                    7+pDDcGsm3UNTP8rM9IiJqZrl1gaD9zeUJLkv3omYl4GY3ucgU3jfC+3FXHeKxSd
+                    5yxWWmUy9vSHL3WSVUqSLjUdkJdTudELmMoLRQfhoIq7vm63K/ZNzOUCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

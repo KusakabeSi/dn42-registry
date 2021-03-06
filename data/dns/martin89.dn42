@@ -1,0 +1,7 @@
+domain:             martin89.dn42
+nserver:            adns.martin89.dn42 172.22.113.12
+nserver:            adns.martin89.dn42 fd42:64:713::12
+admin-c:            MARTIN89-DN42
+tech-c:             MARTIN89-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

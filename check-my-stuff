@@ -1,0 +1,19 @@
+#!/bin/sh
+
+if [ "$#" -eq "0" ]
+  then
+    echo "Usage: $0 YOUR-MNT"
+    exit
+fi
+
+BASE="$(readlink -f "$0" 2>/dev/null || python -c 'import os,sys;print(os.path.realpath(sys.argv[1]))' "$0")"
+BASE="$(dirname "$BASE")"
+cd "$BASE" || exit 1
+
+if [ "$1" = "--all" ]; then
+    utils/schema-check/dn42-schema.py -v scan data/ || ( echo "Schema validation failed, please check above!" ; exit 1 )
+else
+    utils/schema-check/dn42-schema.py -v scan data/ -f "data/mntner/$1" || ( echo "Schema validation for mntner object failed, please check above!" ; exit 1 )
+    utils/schema-check/dn42-schema.py -v scan data/ -m "$1" || ( echo "Schema validation for related objects failed, please check above!" ; exit 1 )
+fi
+

@@ -1,0 +1,10 @@
+inetnum:            172.22.131.64 - 172.22.131.95
+netname:            LFRAM-NETWORK-2
+descr:              Luiz's Network
+country:            DE
+admin-c:            LFRAM-DN42
+tech-c:             LFRAM-DN42
+mnt-by:             LFRAM-MNT
+status:             ASSIGNED
+cidr:               172.22.131.64/27
+source:             DN42

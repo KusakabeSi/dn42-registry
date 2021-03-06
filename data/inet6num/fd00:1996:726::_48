@@ -1,0 +1,11 @@
+inet6num:           fd00:1996:0726:0000:0000:0000:0000:0000 - fd00:1996:0726:ffff:ffff:ffff:ffff:ffff
+netname:            FanDe1P-gg-fd00:1996:0726
+descr:              FanDe1P ipv6 network
+country:            CN
+mnt-by:             BOLD-MNT
+admin-c:            BOLD-DN42
+tech-c:             BOLD-DN42
+nserver:            ns1.bold.dn42
+status:             ASSIGNED
+cidr:               fd00:1996:726::/48
+source:             DN42

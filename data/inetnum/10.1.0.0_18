@@ -1,0 +1,11 @@
+inetnum:            10.1.0.0 - 10.1.63.255
+cidr:               10.1.0.0/18
+netname:            ICVPN-RATZEBURG
+nserver:            1.0.1.10.ipv4.registry-sync.dn42
+nserver:            2.0.1.10.ipv4.registry-sync.dn42
+nserver:            3.0.1.10.ipv4.registry-sync.dn42
+nserver:            4.0.1.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ratzeburg
+mnt-by:             DN42-MNT
+source:             ICVPN

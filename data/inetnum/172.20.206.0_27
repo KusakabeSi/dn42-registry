@@ -1,0 +1,8 @@
+inetnum:            172.20.206.0 - 172.20.206.31
+cidr:               172.20.206.0/27
+netname:            SELLERIE-NETWORK
+admin-c:            SELLERIE-DN42
+tech-c:             SELLERIE-DN42
+mnt-by:             SELLERIE-MNT
+status:             ASSIGNED
+source:             DN42

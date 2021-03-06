@@ -1,0 +1,10 @@
+inet6num:           fd6d:3f59:4c68:0000:0000:0000:0000:0000 - fd6d:3f59:4c68:ffff:ffff:ffff:ffff:ffff
+netname:            JELLYCHOU-IPV6
+descr:              Jelly Chou's IP space
+country:            CN
+admin-c:            JELLYCHOU-DN42
+tech-c:             JELLYCHOU-DN42
+mnt-by:             JELLYCHOU-MNT
+status:             ASSIGNED
+cidr:               fd6d:3f59:4c68::/48
+source:             DN42

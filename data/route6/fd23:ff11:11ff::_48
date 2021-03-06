@@ -1,0 +1,5 @@
+route6:             fd23:ff11:11ff::/48
+descr:              Dayi NET
+origin:             AS4242423255
+mnt-by:             DAYI-MNT
+source:             DN42

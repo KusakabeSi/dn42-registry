@@ -1,0 +1,6 @@
+mntner:             CORESTORAGE-MNT
+auth:               pgp-fingerprint 0AE724E8458A56E46ACEA81A6801E755FE59612B
+admin-c:            CORESTORAGE-DN42
+tech-c:             CORESTORAGE-DN42
+mnt-by:             CORESTORAGE-MNT
+source:             DN42

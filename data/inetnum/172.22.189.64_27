@@ -1,0 +1,8 @@
+inetnum:            172.22.189.64 - 172.22.189.95
+cidr:               172.22.189.64/27
+netname:            MOO-NETWORK
+admin-c:            MOO-DN42
+tech-c:             MOO-DN42
+mnt-by:             MOO-MNT
+status:             ASSIGNED
+source:             DN42

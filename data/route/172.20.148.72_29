@@ -1,0 +1,6 @@
+route:              172.20.148.72/29
+origin:             AS4242423402
+mnt-by:             NABOUNO-MNT
+source:             DN42
+admin-c:            NABOUNO-DN42
+tech-c:             NABOUNO-DN42

@@ -1,0 +1,7 @@
+aut-num:            AS76160
+as-name:            NICODUCK-AS
+descr:              nicoduck-AS
+admin-c:            NICODUCK-DN42
+tech-c:             NICODUCK-DN42
+mnt-by:             NICODUCK-MNT
+source:             DN42

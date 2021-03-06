@@ -1,0 +1,7 @@
+mntner:             ANDYNET-MNT
+descr:              ANDYNET maintainer
+admin-c:            ANDYNET-DN42
+tech-c:             ANDYNET-DN42
+mnt-by:             ANDYNET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2wAi8ZYtBh3Cpuu7FvzfSpYTUUVVPqJdQ28RTODYHDA/40RngdJlINruh9uH4DECIJvfX1z/VDSR2WvRTcTqr5j06CHWanrxpV6D86/66iHE3mQMdXn2S8gR6hk+hyFfEk+kOOWJWcZcZL25mzZTY2+vAXhOCAIRcuDYA0BPoTj4iLnqTaL6ksNuxHtRdi774cTqoA3TyJlnYPtX9OfQTGSxTYVqH4WuU8iYBTOec0TppjbBAY/iMXrujabqs8k0Xs3cAcjKBstwCfErEd09nAFZRFHYkB4evWdjOLCv5FRuzmGz5wEGLr4PK3lWA+Q0jvn//kCNpcwrZRLfKpLkj
+source:             DN42

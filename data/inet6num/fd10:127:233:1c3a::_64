@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0233:1c3a:0000:0000:0000:0000 - fd10:0127:0233:1c3a:ffff:ffff:ffff:ffff
+cidr:               fd10:127:233:1c3a::/64
+netname:            MagicNeko-CN office VPN+IX Node(name:liqingge)
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

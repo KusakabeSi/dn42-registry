@@ -1,0 +1,4 @@
+route6:             fd23:7764:3e32::/48
+origin:             AS4242423265
+mnt-by:             WAWEIC-MNT
+source:             DN42

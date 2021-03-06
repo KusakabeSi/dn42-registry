@@ -1,0 +1,10 @@
+inet6num:           fd39:afba:d250:0000:0000:0000:0000:0000 - fd39:afba:d250:ffff:ffff:ffff:ffff:ffff
+cidr:               fd39:afba:d250::/48
+netname:            SPACE55-NETWORK
+descr:              Network of SPACE55
+country:            US
+admin-c:            SPACE55-DN42
+tech-c:             SPACE55-DN42
+mnt-by:             SPACE55-MNT
+status:             ASSIGNED
+source:             DN42

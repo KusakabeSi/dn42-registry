@@ -1,0 +1,7 @@
+domain:             julia.dn42
+admin-c:            JULIA-DN42
+tech-c:             JULIA-DN42
+mnt-by:             JULIA-MNT
+nserver:            ns1.julia.dn42 fdb4:acab:1312::2
+nserver:            ns1.julia.dn42 172.20.15.40
+source:             DN42

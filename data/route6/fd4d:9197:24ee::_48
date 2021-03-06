@@ -1,0 +1,4 @@
+route6:             fd4d:9197:24ee::/48
+origin:             AS4242429946
+mnt-by:             SPLITICE-MNT
+source:             DN42

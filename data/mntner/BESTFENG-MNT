@@ -1,0 +1,7 @@
+mntner:             BESTFENG-MNT
+descr:              BESTFENG
+admin-c:            BESTFENG-DN42
+tech-c:             BESTFENG-DN42
+mnt-by:             BESTFENG-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCl1Z38LV9zkAylGyndpVpg0pHOz0yQq+VpYVF79rFdDvuCvmADvaasYdWXKzUjPl7H2TV9KpLwSYw47ATa5UbhLk+rQIC7v6CFvyb35T8A4tV/nwqdPNUp4cbYz6TeNtB0JNuZL29ingye0csgMtizzCikii3AuW2h7LeO/84a/JQqs25RpMMSNo8OYJ28Pe01IkGSirkXNTvLLwPbQJtE8o+7DuiAcjlFBiJM9issj0dLGrZK56OrJYDvTJ+YRqyOlj4Qmx1EusS79tucHqD7BefMHSRJHURJNvV2paJdS0Yu/PUAD7BcBURDdX6qvHwx4r7jSVjvyWj34zk2YvIj root@localhost.localdomain 
+source:             DN42

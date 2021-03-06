@@ -1,0 +1,10 @@
+inet6num:           fd42:0023:0122:0000:0000:0000:0000:0000 - fd42:0023:0122:ffff:ffff:ffff:ffff:ffff
+netname:            RSPP-DN42-V6-ULA
+descr:              RSPP DN42 IPv6 ULA
+country:            DE
+admin-c:            RSPP-DN42
+tech-c:             RSPP-DN42
+mnt-by:             RSPP-MNT
+status:             ASSIGNED
+cidr:               fd42:23:122::/48
+source:             DN42

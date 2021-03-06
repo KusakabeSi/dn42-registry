@@ -1,0 +1,8 @@
+inetnum:            172.20.58.160 - 172.20.58.191
+cidr:               172.20.58.160/27
+netname:            NEXUS-NET
+admin-c:            NEXUS-DN42
+tech-c:             NEXUS-DN42
+mnt-by:             NEXUS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:8700:90::/48
+origin:             AS4242422061
+mnt-by:             VOIDPTR-MNT
+source:             DN42

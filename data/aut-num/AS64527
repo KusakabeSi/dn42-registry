@@ -1,0 +1,7 @@
+aut-num:            AS64527
+as-name:            LOCALNET-AS
+descr:              Localnet autonomous system
+admin-c:            OPOTONIL-DN42
+tech-c:             OPOTONIL-DN42
+mnt-by:             LOCALNET-MNT
+source:             DN42

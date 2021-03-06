@@ -1,0 +1,8 @@
+inetnum:            172.20.158.96 - 172.20.158.127
+cidr:               172.20.158.96/27
+netname:            C0GT3N-NETWORK
+admin-c:            C0GT3N-DN42
+tech-c:             C0GT3N-DN42
+mnt-by:             C0GT3N-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             svinson.dn42
+admin-c:            SVINSON-DN42
+tech-c:             SVINSON-DN42
+mnt-by:             SVINSON-MNT
+nserver:            dns1.svinson.dn42 172.20.231.34
+nserver:            dns1.svinson.dn42 fd71:cfc3:9259:6935::34
+nserver:            dns2.svinson.dn42 172.20.231.35
+nserver:            dns2.svinson.dn42 fd71:cfc3:9259:6935::35
+source:             DN42

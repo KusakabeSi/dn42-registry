@@ -1,0 +1,4 @@
+route:              172.23.203.64/26
+origin:             AS4242422377
+mnt-by:             MONARCH-MNT
+source:             DN42

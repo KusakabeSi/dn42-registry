@@ -1,0 +1,14 @@
+aut-num:            AS4242422499
+as-name:            AS for NICOLAS Network
+descr:              nicolas.dn42 https://dn42.nicolas.network/
+remarks:            --------------------------------------------------------
+                    New peers are welcome (Wireguard Only)
+                    --------------------------------------------------------
+                    http://nicolas.network/   (NMS/Node Status)
+                    https://dn42.nicolas.network/  (Peering Details/Weathermap)
+                    http://lg.nicolas.network/    (Looking Glass)
+                    --------------------------------------------------------
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd8f:7f6d:be92:8716:0000:0000:0000:0000 - fd8f:7f6d:be92:8716:ffff:ffff:ffff:ffff
+cidr:               fd8f:7f6d:be92:8716::/64
+netname:            NESQUIIKHOST-V6-NET-1
+country:            FR
+admin-c:            NESQUIIKHOST-DN42
+tech-c:             NESQUIIKHOST-DN42
+mnt-by:             NESQUIIKHOST-MNT
+status:             ASSIGNED
+source:             DN42

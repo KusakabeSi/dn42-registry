@@ -1,0 +1,11 @@
+inet6num:           fd42:4992:acbd:0000:0000:0000:0000:0000 - fd42:4992:acbd:ffff:ffff:ffff:ffff:ffff
+netname:            LUC-NETWORK
+descr:              Luclu7's DN42's IPv6 block
+country:            FR
+admin-c:            LUCLU7-DN42
+tech-c:             LUCLU7-DN42
+mnt-by:             LUCLU7-MNT
+nserver:            ns1.luclu7.dn42
+status:             ASSIGNED
+cidr:               fd42:4992:acbd::/48
+source:             DN42

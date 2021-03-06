@@ -1,0 +1,7 @@
+domain:             bannet.dn42
+descr:              BanNet DN42 Website
+admin-c:            CAMERON-DN42
+tech-c:             CAMERON-DN42
+mnt-by:             BANNET-MNT
+nserver:            ns1.bannet.dn42 172.23.109.98
+source:             DN42

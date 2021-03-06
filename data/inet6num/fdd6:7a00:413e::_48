@@ -1,0 +1,12 @@
+inet6num:           fdd6:7a00:413e:0000:0000:0000:0000:0000 - fdd6:7a00:413e:ffff:ffff:ffff:ffff:ffff
+netname:            LIMEDYSE-IPV6-BACKBONE
+descr:              Limedyse's Network Backbone
+country:            CN
+admin-c:            LIMEDYSE-DN42
+tech-c:             LIMEDYSE-DN42
+mnt-by:             LIMEDYSE-MNT
+nserver:            ns1.limedyse.dn42
+nserver:            ns2.limedyse.dn42
+status:             ASSIGNED
+cidr:               fdd6:7a00:413e::/48
+source:             DN42

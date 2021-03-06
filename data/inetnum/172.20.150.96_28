@@ -1,0 +1,8 @@
+inetnum:            172.20.150.96 - 172.20.150.111
+netname:            XEINAL-NET
+admin-c:            XEINAL-DN42
+tech-c:             XEINAL-DN42
+mnt-by:             XEINAL-MNT
+status:             ASSIGNED
+cidr:               172.20.150.96/28
+source:             DN42

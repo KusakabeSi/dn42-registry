@@ -1,0 +1,7 @@
+domain:             iwasinnamuknow.dn42
+admin-c:            IWASINNAMUKNOW-DN42
+tech-c:             IWASINNAMUKNOW-DN42
+mnt-by:             IWASINNAMUKNOW-MNT
+nserver:            ns1.iwasinnamuknow.dn42 fdf9:2eea:f030:1::53
+nserver:            ns2.iwasinnamuknow.dn42 fdf9:2eea:f030:101::53
+source:             DN42

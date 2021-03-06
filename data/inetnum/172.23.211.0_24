@@ -1,0 +1,10 @@
+inetnum:            172.23.211.0 - 172.23.211.255
+netname:            TATONKA-NET
+descr:              tatonka's network
+country:            DE
+admin-c:            TATONKA-DN42
+tech-c:             TATONKA-DN42
+mnt-by:             TATONKA-MNT
+status:             ASSIGNED
+cidr:               172.23.211.0/24
+source:             DN42

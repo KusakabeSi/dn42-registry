@@ -1,0 +1,11 @@
+domain:             cloudyskies.dn42
+descr:              CloudySkies
+admin-c:            CLOUDYSKIES-DN42
+tech-c:             CLOUDYSKIES-DN42
+org:                ORG-CLOUDYSKIES
+mnt-by:             CLOUDYSKIES-MNT
+nserver:            ns1.cloudyskies.dn42 172.20.21.37
+nserver:            ns2.cloudyskies.dn42 172.20.21.38
+nserver:            ns1.cloudyskies.dn42 fd22:e95b:9938::37
+nserver:            ns2.cloudyskies.dn42 fd22:e95b:9938::38
+source:             DN42

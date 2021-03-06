@@ -1,0 +1,10 @@
+inet6num:           fd46:e3dc:db4a:0000:0000:0000:0000:0000 - fd46:e3dc:db4a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd46:e3dc:db4a::/48
+netname:            LIBREHOUSE-NET
+descr:              Network for LibreHouse
+country:            JP
+admin-c:            LIBREHS-DN42
+tech-c:             LIBREHS-DN42
+mnt-by:             LIBREHS-MNT
+status:             ASSIGNED
+source:             DN42

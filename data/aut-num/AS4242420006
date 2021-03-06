@@ -1,0 +1,7 @@
+aut-num:            AS4242420006
+as-name:            MWD-TEST2
+descr:              Test Network 2
+admin-c:            MWD-DN42
+tech-c:             MWD-DN42
+mnt-by:             MWD-MNT
+source:             DN42

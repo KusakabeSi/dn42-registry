@@ -1,0 +1,9 @@
+domain:             mani.dn42
+admin-c:            MANI-DN42
+tech-c:             MANI-DN42
+mnt-by:             MANI-MNT
+nserver:            ns1.mani.dn42 172.22.146.192
+nserver:            ns1.mani.dn42 fd6d:a5fa:383c:53::1
+nserver:            ns2.mani.dn42 172.22.146.193
+nserver:            ns2.mani.dn42 fd6d:a5fa:383c:53::2
+source:             DN42

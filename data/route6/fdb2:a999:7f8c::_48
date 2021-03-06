@@ -1,0 +1,5 @@
+route6:             fdb2:a999:7f8c::/48
+origin:             AS4242422389
+max-length:         48
+mnt-by:             KYLE-MNT
+source:             DN42

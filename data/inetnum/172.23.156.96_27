@@ -1,0 +1,11 @@
+inetnum:            172.23.156.96 - 172.23.156.127
+netname:            NET-NULLL-VMS-LIAN-DN42
+descr:              VMs on lian
+country:            DE
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+nserver:            ns1.0l.dn42
+status:             ASSIGNED
+cidr:               172.23.156.96/27
+source:             DN42

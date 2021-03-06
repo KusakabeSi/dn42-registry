@@ -1,0 +1,8 @@
+domain:             tbspace.dn42
+descr:              main domain
+admin-c:            TBSPACE-DN42
+tech-c:             TBSPACE-DN42
+mnt-by:             TBSPACE-MNT
+nserver:            ns1.tbspace.de
+nserver:            ns2.tbspace.de
+source:             DN42

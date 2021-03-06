@@ -1,0 +1,7 @@
+aut-num:            AS4242420809
+as-name:            HOMELAB-AS
+descr:              HOMELAB
+admin-c:            RC-DN42
+tech-c:             RC-DN42
+mnt-by:             RC-MNT
+source:             DN42

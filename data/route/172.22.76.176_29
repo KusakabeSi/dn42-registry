@@ -1,0 +1,4 @@
+route:              172.22.76.176/29
+origin:             AS4242420091
+mnt-by:             FAUXNETWORKS-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd00:feed:bec::/48
+origin:             AS4242420802
+mnt-by:             KOODA-MNT
+source:             DN42

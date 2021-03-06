@@ -1,0 +1,4 @@
+route:              172.20.191.96/27
+origin:             AS4242421275
+mnt-by:             PROTOCON-MNT
+source:             DN42

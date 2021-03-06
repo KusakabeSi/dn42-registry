@@ -1,0 +1,7 @@
+inet6num:           fd42:0d42:0d42:9001:0000:0000:0000:0000 - fd42:0d42:0d42:9001:ffff:ffff:ffff:ffff
+cidr:               fd42:d42:d42:9001::/64
+netname:            ANYCASTTOR-NET
+descr:              Tor IPv6 anycast address
+mnt-by:             NAPSTERBATER-MNT
+status:             ASSIGNED PI
+source:             DN42

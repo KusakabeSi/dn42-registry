@@ -1,0 +1,7 @@
+mntner:             POMOKE-MNT
+descr:              pomoke's Maintenance Object
+admin-c:            POMOKE-DN42
+tech-c:             POMOKE-DN42
+mnt-by:             POMOKE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPDMGjcceXapcX8/KmUGeLt7j5LfL4aDxasOgW+/MrPv
+source:             DN42

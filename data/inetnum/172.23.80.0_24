@@ -1,0 +1,8 @@
+inetnum:            172.23.80.0 - 172.23.80.255
+netname:            BLACKTOLI-DN42
+country:            BE
+mnt-by:             BLACKTOLI-MNT
+admin-c:            BLACKTOLI-DN42
+status:             ASSIGNED
+cidr:               172.23.80.0/24
+source:             DN42

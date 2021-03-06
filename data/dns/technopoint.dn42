@@ -1,0 +1,7 @@
+domain:             technopoint.dn42
+admin-c:            KM17-DN42
+tech-c:             KM17-DN42
+mnt-by:             TECHNOPOINT-MNT
+nserver:            ns1.technopoint.dn42 172.22.146.34
+nserver:            ns1.gigganet.dn42
+source:             DN42

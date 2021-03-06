@@ -1,0 +1,7 @@
+inet6num:           fdf1:621a:aca3:0000:0000:0000:0000:0000 - fdf1:621a:aca3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:621a:aca3::/48
+netname:            ICVPN-WETZLAR
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wetzlar
+mnt-by:             DN42-MNT
+source:             ICVPN

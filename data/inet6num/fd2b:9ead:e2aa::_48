@@ -1,0 +1,10 @@
+inet6num:           fd2b:9ead:e2aa:0000:0000:0000:0000:0000 - fd2b:9ead:e2aa:ffff:ffff:ffff:ffff:ffff
+netname:            DOOZER-DN42-V6
+descr:              Doozers DN42 v6 Space
+country:            DE
+admin-c:            DOOZER-DN42
+tech-c:             DOOZER-DN42
+mnt-by:             DOOZER-MNT
+status:             ASSIGNED
+cidr:               fd2b:9ead:e2aa::/48
+source:             DN42

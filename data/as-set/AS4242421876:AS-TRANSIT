@@ -1,0 +1,97 @@
+as-set:             AS4242421876:AS-TRANSIT
+mbrs-by-ref:        DL-MNT
+remarks:            -----------------------------
+members:            AS64738
+remarks:            welterde
+remarks:            -----------------------------
+members:            AS76190
+remarks:            TBSPACE
+remarks:            -----------------------------
+members:            AS4242420119
+remarks:            JRB0001
+remarks:            -----------------------------
+members:            AS4242420197
+remarks:            n0emis
+remarks:            -----------------------------
+members:            AS4242420226
+remarks:            iLemonrain DN42 Network
+remarks:            -----------------------------
+members:            AS4242420604
+remarks:            Moecast Network
+remarks:            -----------------------------
+members:            AS4242420780
+remarks:            UFFSALOT
+remarks:            -----------------------------
+members:            AS4242420827
+remarks:            LORKEP
+remarks:            -----------------------------
+members:            AS4242420925
+remarks:            YuetAu Core Network
+remarks:            -----------------------------
+members:            AS4242420977
+remarks:            Moerail Network
+remarks:            -----------------------------
+members:            AS4242421050
+remarks:            NAPSTERBATERs Network
+remarks:            -----------------------------
+members:            AS4242421080
+remarks:            JLU5
+remarks:            -----------------------------
+members:            AS4242421288
+remarks:            NICHOLASCW Network
+remarks:            -----------------------------
+members:            AS4242421331
+remarks:            Niantic Network
+remarks:            -----------------------------
+members:            AS4242421488
+remarks:            KOALA
+remarks:            -----------------------------
+members:            AS4242421516
+remarks:            w1kl4s Network
+remarks:            -----------------------------
+members:            AS4242421588
+remarks:            TECH9 Core Network
+remarks:            -----------------------------
+members:            AS4242421826
+remarks:            Lss233's Primary Network
+remarks:            -----------------------------
+members:            AS4242422092
+remarks:            P3BK4C DN42 Network
+remarks:            -----------------------------
+members:            AS4242422464
+remarks:            Yura Network
+remarks:            -----------------------------
+members:            AS4242422547
+remarks:            Lan Tian's Main Network
+remarks:            -----------------------------
+members:            AS4242422601
+remarks:            burble.dn42
+remarks:            -----------------------------
+members:            AS4242422633
+remarks:            EASTBOUND
+remarks:            -----------------------------
+members:            AS4242422717
+remarks:            HUJK
+remarks:            -----------------------------
+members:            AS4242423088
+remarks:            SUNNET
+remarks:            -----------------------------
+members:            AS4242423315
+remarks:            Unknown Technology Solutions
+remarks:            -----------------------------
+members:            AS4242423618
+remarks:            Jerry Network
+remarks:            -----------------------------
+members:            AS4242423735
+remarks:            CPERINN Network
+remarks:            -----------------------------
+members:            AS4242423856
+remarks:            SCOOTERH928
+remarks:            -----------------------------
+members:            AS4242423914
+remarks:            Kioubit Network
+remarks:            -----------------------------
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+source:             DN42

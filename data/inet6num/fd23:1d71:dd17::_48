@@ -1,0 +1,11 @@
+inet6num:           fd23:1d71:dd17:0000:0000:0000:0000:0000 - fd23:1d71:dd17:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:1d71:dd17::/48
+netname:            V0TTI-NETWORK
+descr:              v0ttis Network
+country:            DE
+admin-c:            V0TTI-DN42
+tech-c:             V0TTI-DN42
+mnt-by:             V0TTI-MNT
+status:             ASSIGNED
+nserver:            ns1.v0tti.dn42
+source:             DN42

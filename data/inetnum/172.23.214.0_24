@@ -1,0 +1,10 @@
+inetnum:            172.23.214.0 - 172.23.214.255
+netname:            NET-FPLETZ-DN42
+descr:              fpletz's DN42 netzwork
+admin-c:            FPLETZ-DN42
+tech-c:             FPLETZ-DN42
+nserver:            ns0.fpletz.dn42
+status:             ASSIGNED
+mnt-by:             FPLETZ-MNT
+cidr:               172.23.214.0/24
+source:             DN42

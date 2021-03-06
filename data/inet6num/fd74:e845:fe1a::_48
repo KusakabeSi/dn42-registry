@@ -1,0 +1,8 @@
+inet6num:           fd74:e845:fe1a:0000:0000:0000:0000:0000 - fd74:e845:fe1a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd74:e845:fe1a::/48
+netname:            DYNOS01-NETWORK
+admin-c:            DYNOS01-DN42
+tech-c:             DYNOS01-DN42
+mnt-by:             DYNOS01-MNT
+status:             ASSIGNED
+source:             DN42

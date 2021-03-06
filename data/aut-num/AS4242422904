@@ -1,0 +1,12 @@
+aut-num:            AS4242422904
+as-name:            DOXZ-AS
+admin-c:            DOXZ-DN42
+remarks:            --------------------------------------------------------
+remarks:            Open peering policy, please check dn42 peerfinder
+remarks:            --------------------------------------------------------
+remarks:            Routing Policies:
+mp-import:          afi any.unicast from AS4242422904:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422904:AS-TRANSIT announce ANY
+tech-c:             DOXZ-DN42
+mnt-by:             DOXZ-MNT
+source:             DN42

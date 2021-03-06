@@ -1,0 +1,9 @@
+inetnum:            172.20.131.32 - 172.20.131.63
+netname:            NET-FLAMESRUNNER-000
+country:            CA
+admin-c:            FLAMESRUNNER-DN42
+tech-c:             FLAMESRUNNER-DN42
+mnt-by:             FLAMESRUNNER-MNT
+status:             ASSIGNED
+cidr:               172.20.131.32/27
+source:             DN42

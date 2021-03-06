@@ -1,0 +1,4 @@
+route6:             fdbe:f027:9965::/48
+origin:             AS4242421668
+mnt-by:             MALINDEX-MNT
+source:             DN42

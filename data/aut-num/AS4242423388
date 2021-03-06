@@ -1,0 +1,7 @@
+aut-num:            AS4242423388
+as-name:            FM AS number
+descr:              FM AS number
+admin-c:            FMSYSADMIN-DN42
+tech-c:             FMSYSADMIN-DN42
+mnt-by:             FM-MNT
+source:             DN42

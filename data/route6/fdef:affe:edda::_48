@@ -1,0 +1,6 @@
+route6:             fdef:affe:edda::/48
+origin:             AS65489
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: greifswald
+mnt-by:             DN42-MNT
+source:             ICVPN

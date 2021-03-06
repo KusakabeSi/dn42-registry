@@ -1,0 +1,5 @@
+route6:             fdbe:aea3:9424::/48
+descr:              Peer with me at atgit@tuta.io
+origin:             AS4242422137
+mnt-by:             DOT-MNT
+source:             DN42

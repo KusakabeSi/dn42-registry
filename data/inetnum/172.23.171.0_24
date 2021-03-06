@@ -1,0 +1,12 @@
+inetnum:            172.23.171.0 - 172.23.171.255
+netname:            NET-CHAOSTREFF-AT
+descr:              Chaostreff AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+nserver:            ns0.at.dn42
+status:             ASSIGNED
+cidr:               172.23.171.0/24
+source:             DN42

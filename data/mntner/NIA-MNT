@@ -1,0 +1,7 @@
+mntner:             NIA-MNT
+descr:              Niantic Maintainer
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+auth:               PGPKEY-961D6DD5
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.150.32/27
+descr:              TORFISH-NETWORK[TESTING]
+origin:             AS4242422240
+mnt-by:             TORFISH-MNT
+source:             DN42

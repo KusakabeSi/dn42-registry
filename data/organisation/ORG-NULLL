@@ -1,0 +1,15 @@
+organisation:       ORG-NULLL
+org-name:           /dev/nulll
+address:            Aachen, Germany
+language:           DE
+remarks:            /dev/nulll provides free and open network infrastructure
+remarks:            for a group of programmers and geeks.
+remarks:            We host websites, mail, file servers and a lot more.
+remarks:            We experiment with technology.
+remarks:            Especially with networking stuff.
+remarks:            Feel free to join us ;-)
+www:                http://dev.0l.de
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+source:             DN42

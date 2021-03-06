@@ -1,0 +1,6 @@
+route6:             fd00:aaaa:251::/48
+origin:             AS4242420144
+origin:             AS208391
+max-length:         48
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

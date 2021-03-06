@@ -1,0 +1,12 @@
+inetnum:            172.22.228.0 - 172.22.228.255
+netname:            CREST-DN42-IP4NET
+descr:              Crest's dn42 network
+country:            DE
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+status:             ASSIGNED
+nserver:            dns1.crest.dn42
+nserver:            dns2.crest.dn42
+cidr:               172.22.228.0/24
+mnt-by:             CREST-MNT
+source:             DN42

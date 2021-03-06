@@ -1,0 +1,9 @@
+route6:             fd10:127:53:53::/64
+max-length:         64
+origin:             AS4201270006
+origin:             AS4242423618
+admin-c:            JERRYXIAO-NEONETWORK
+tech-c:             JERRYXIAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

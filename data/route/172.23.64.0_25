@@ -1,0 +1,5 @@
+route:              172.23.64.0/25
+descr:              CHELNOK-NETWORK
+origin:             AS4242421375
+mnt-by:             ERI-MNT
+source:             DN42

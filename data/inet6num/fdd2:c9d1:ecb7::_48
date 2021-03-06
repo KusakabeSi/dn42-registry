@@ -1,0 +1,8 @@
+inet6num:           fdd2:c9d1:ecb7:0000:0000:0000:0000:0000 - fdd2:c9d1:ecb7:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd2:c9d1:ecb7::/48
+netname:            ALT-NET-1
+admin-c:            ALT-DN42
+tech-c:             ALT-DN42
+mnt-by:             ALT-MNT
+status:             ASSIGNED
+source:             DN42

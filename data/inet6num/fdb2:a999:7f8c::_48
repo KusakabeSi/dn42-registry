@@ -1,0 +1,8 @@
+inet6num:           fdb2:a999:7f8c:0000:0000:0000:0000:0000 - fdb2:a999:7f8c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb2:a999:7f8c::/48
+netname:            KYLE-NET-1
+admin-c:            KYLE-DN42
+tech-c:             KYLE-DN42
+mnt-by:             KYLE-MNT
+status:             ASSIGNED
+source:             DN42

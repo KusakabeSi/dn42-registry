@@ -1,0 +1,16 @@
+aut-num:            AS4242420022
+as-name:            BLAZING
+descr:              A blazing AS
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+remarks:            -------------------------------------
+remarks:            - Peerings added case by case -
+remarks:            Selective peering policy, for peerings, contact
+remarks:            mail: tom@xcv.vc
+remarks:            irc: toBee
+remarks:            - Locations -
+remarks:            Frankfurt/Main IX/Ancotel
+remarks:            NewYork City
+remarks:            -------------------------------------
+mnt-by:             BLAZING-MNT
+source:             DN42

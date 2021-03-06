@@ -1,0 +1,7 @@
+aut-num:            AS4242420179
+as-name:            JPWARD-ASN
+descr:              My DN42 ASN
+admin-c:            JPWARD-DN42
+tech-c:             JPWARD-DN42
+mnt-by:             JPWARD-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             bandie.dn42
+admin-c:            BANDIE-DN42
+tech-c:             BANDIE-DN42
+mnt-by:             BANDIE-MNT
+nserver:            ns.bandie.dn42 172.23.238.193
+nserver:            ns.bandie.dn42 fd42:c42:c42::1
+source:             DN42

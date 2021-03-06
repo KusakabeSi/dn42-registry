@@ -1,0 +1,9 @@
+inet6num:           fd84:fc6d:9cfb:0000:0000:0000:0000:0000 - fd84:fc6d:9cfb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd84:fc6d:9cfb::/48
+netname:            SCHWZR-NET-V6
+country:            DE
+admin-c:            SCHWZR-DN42
+tech-c:             SCHWZR-DN42
+mnt-by:             SCHWZR-MNT
+status:             ASSIGNED
+source:             DN42

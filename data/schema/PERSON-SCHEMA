@@ -1,0 +1,19 @@
+schema:             PERSON-SCHEMA
+ref:                dn42.person
+key:                person          required   single    schema
+key:                nic-hdl         required   single    primary
+key:                mnt-by          required   multiple  lookup=dn42.mntner
+key:                org             optional   multiple  lookup=dn42.organisation
+key:                nick            optional   multiple
+key:                pgp-fingerprint optional   multiple
+key:                www             optional   multiple
+key:                e-mail          optional   multiple
+key:                contact         optional   multiple
+key:                abuse-mailbox   optional   multiple
+key:                phone           optional   multiple
+key:                fax-no          optional   multiple
+key:                address         optional   multiple
+key:                remarks         optional   multiple
+key:                source          required   single    lookup=dn42.registry
+mnt-by:             DN42-MNT
+source:             DN42

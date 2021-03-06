@@ -1,0 +1,7 @@
+domain:             ffnw
+nserver:            1.0.18.10.ipv4.registry-sync.dn42
+nserver:            1.32.18.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nordwest
+mnt-by:             DN42-MNT
+source:             ICVPN

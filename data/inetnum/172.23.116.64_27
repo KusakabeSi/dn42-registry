@@ -1,0 +1,9 @@
+inetnum:            172.23.116.64 - 172.23.116.95
+netname:            RAPID-NINJA-000-NETWORK4
+descr:              RAPID NINJA NETWORK4 000
+admin-c:            ALJAMA-DN42
+tech-c:             ALJAMA-DN42
+mnt-by:             RAPID-NINJA-MNT
+status:             ASSIGNED
+cidr:               172.23.116.64/27
+source:             DN42

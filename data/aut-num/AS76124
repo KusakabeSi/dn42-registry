@@ -1,0 +1,9 @@
+aut-num:            AS76124
+as-name:            BODEMS-AS
+descr:              Bodems home AS
+remarks:            Feel free to ask for peering
+remarks:            new peerings require a BGP session with IPv6
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.23.82.0 - 172.23.82.255
+netname:            RAIDER-DN42-ALLOC1
+descr:              Raiders Network
+country:            DE
+admin-c:            RAIDER-DN42
+tech-c:             RAIDER-DN42
+mnt-by:             LURKAT-MNT
+status:             ALLOCATED
+nserver:            first42.raider.dn42
+nserver:            second42.raider.dn42
+cidr:               172.23.82.0/24
+source:             DN42

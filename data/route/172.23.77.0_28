@@ -1,0 +1,5 @@
+route:              172.23.77.0/28
+descr:              Koumakan Network
+origin:             AS4242421101
+mnt-by:             REMI-MNT
+source:             DN42

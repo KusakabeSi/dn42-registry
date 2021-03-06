@@ -1,0 +1,4 @@
+route:              172.23.173.224/27
+origin:             AS4242422349
+mnt-by:             SKYWARS-MNT
+source:             DN42

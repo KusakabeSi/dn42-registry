@@ -1,0 +1,7 @@
+aut-num:            AS4242422998
+as-name:            CONTROLPLANE-AS-BRANCH
+descr:              CONTROLPLANE-AS-BRANCH, part of ORG-CONTROLPLANE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+source:             DN42

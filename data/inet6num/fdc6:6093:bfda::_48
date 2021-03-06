@@ -1,0 +1,10 @@
+inet6num:           fdc6:6093:bfda:0000:0000:0000:0000:0000 - fdc6:6093:bfda:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc6:6093:bfda::/48
+netname:            DROPBEAR-NET6-HOME
+descr:              Network of dropbear
+country:            AU
+admin-c:            DROPBEAR-DN42
+tech-c:             DROPBEAR-DN42
+mnt-by:             DROPBEAR-MNT
+status:             ASSIGNED
+source:             DN42

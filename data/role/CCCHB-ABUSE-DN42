@@ -1,0 +1,7 @@
+role:               CCCHB-ABUSE-DN42
+abuse-mailbox:      abuse@p5.ccchb.de
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+nic-hdl:            CCCHB-ABUSE-DN42
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

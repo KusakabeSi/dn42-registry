@@ -1,0 +1,6 @@
+domain:             iheel.dn42
+admin-c:            IHEEL-DN42
+tech-c:             IHEEL-DN42
+mnt-by:             IHEEL-MNT
+nserver:            ns1.iedon.dn42
+source:             DN42

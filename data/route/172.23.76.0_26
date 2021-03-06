@@ -1,0 +1,7 @@
+route:              172.23.76.0/26
+descr:              Chaostreff Salzburg Infra
+origin:             AS4242422305
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+source:             DN42

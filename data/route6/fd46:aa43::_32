@@ -1,0 +1,5 @@
+route6:             fd46:aa43::/32
+descr:              The Division Network
+origin:             AS64613
+mnt-by:             LIFEDIO-MNT
+source:             DN42

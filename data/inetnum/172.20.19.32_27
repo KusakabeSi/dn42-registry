@@ -1,0 +1,8 @@
+inetnum:            172.20.19.32 - 172.20.19.63
+cidr:               172.20.19.32/27
+netname:            CREATIX-V4-NET-1
+admin-c:            CREATIX-DN42
+tech-c:             CREATIX-DN42
+mnt-by:             CREATIX-MNT
+status:             ASSIGNED
+source:             DN42

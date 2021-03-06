@@ -1,0 +1,10 @@
+inetnum:            172.23.132.32 - 172.23.132.63
+cidr:               172.23.132.32/27
+netname:            BYTERAVEN-NET4
+descr:              Byteraven DN42 IPv4 block
+country:            FR
+admin-c:            BYTERAVEN-DN42
+tech-c:             BYTERAVEN-DN42
+mnt-by:             BYTERAVEN-MNT
+status:             ASSIGNED
+source:             DN42

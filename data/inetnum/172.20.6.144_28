@@ -1,0 +1,8 @@
+inetnum:            172.20.6.144 - 172.20.6.159
+cidr:               172.20.6.144/28
+netname:            FOXO-NETWORK
+admin-c:            ED-DN42
+tech-c:             ED-DN42
+mnt-by:             FOXO-MNT
+status:             ASSIGNED
+source:             DN42

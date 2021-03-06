@@ -1,0 +1,7 @@
+domain:             sebi.dn42
+descr:              Sebi's DN42 domain
+nserver:            ns.sebi.dn42 172.23.170.1
+admin-c:            SEBI-DN42
+tech-c:             SEBI-DN42
+mnt-by:             SEBI-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd00:1926:817::/48
+origin:             AS4242421331
+max-length:         48
+mnt-by:             NIA-MNT
+source:             DN42

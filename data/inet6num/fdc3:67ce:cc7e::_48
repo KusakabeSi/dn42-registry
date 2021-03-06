@@ -1,0 +1,7 @@
+inet6num:           fdc3:67ce:cc7e:0000:0000:0000:0000:0000 - fdc3:67ce:cc7e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:67ce:cc7e::/48
+netname:            ICVPN-RHEIN-NECKAR
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rhein-neckar
+mnt-by:             DN42-MNT
+source:             ICVPN

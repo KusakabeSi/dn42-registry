@@ -1,0 +1,7 @@
+inet6num:           fd9d:5e08:b9f9:00c3:0000:0000:0000:0000 - fd9d:5e08:b9f9:00c3:ffff:ffff:ffff:ffff
+cidr:               fd9d:5e08:b9f9:c3::/64
+netname:            CHAOSVPN-ORBITER
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

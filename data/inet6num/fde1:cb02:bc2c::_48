@@ -1,0 +1,9 @@
+inet6num:           fde1:cb02:bc2c:0000:0000:0000:0000:0000 - fde1:cb02:bc2c:ffff:ffff:ffff:ffff:ffff
+country:            DE
+admin-c:            MXMLA-DN42
+tech-c:             MXMLA-DN42
+mnt-by:             MXMLA-MNT
+status:             ASSIGNED
+cidr:               fde1:cb02:bc2c::/48
+netname:            Unnamed fde1:cb02:bc2c::/48 Network
+source:             DN42

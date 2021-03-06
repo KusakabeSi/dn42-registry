@@ -1,0 +1,11 @@
+inetnum:            172.23.88.0 - 172.23.88.255
+netname:            ROOT6-NET
+country:            DE
+admin-c:            ROOT6-DN42
+tech-c:             ROOT6-DN42
+mnt-by:             ROOT6-MNT
+status:             ASSIGNED
+nserver:            ns1.root6.dn42
+nserver:            ns2.root6.dn42
+cidr:               172.23.88.0/24
+source:             DN42

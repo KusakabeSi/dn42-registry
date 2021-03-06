@@ -1,0 +1,4 @@
+route:              172.20.48.160/28
+origin:             AS4242422607
+mnt-by:             HAHA-MNT
+source:             DN42

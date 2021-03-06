@@ -1,0 +1,11 @@
+inet6num:           fd42:7331:a07c:0000:0000:0000:0000:0000 - fd42:7331:a07c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:7331:a07c::/48
+netname:            RASP-NETWORK
+descr:              Network of rasp
+country:            AU
+admin-c:            RASP-DN42
+tech-c:             RASP-DN42
+mnt-by:             RASP-MNT
+nserver:            ns1.rasp.dn42
+status:             ASSIGNED
+source:             DN42

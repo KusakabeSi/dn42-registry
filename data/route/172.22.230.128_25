@@ -1,0 +1,5 @@
+route:              172.22.230.128/25
+descr:              UNBEDENKLICH route
+origin:             AS4242420020
+mnt-by:             UNBEDENKLICH-MNT
+source:             DN42

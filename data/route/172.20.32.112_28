@@ -1,0 +1,4 @@
+route:              172.20.32.112/28
+origin:             AS4242421974
+mnt-by:             BUDDY-MNT
+source:             DN42

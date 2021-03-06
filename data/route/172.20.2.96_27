@@ -1,0 +1,4 @@
+route:              172.20.2.96/27
+origin:             AS4242422251
+mnt-by:             SKRTM-MNT
+source:             DN42

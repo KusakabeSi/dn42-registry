@@ -1,0 +1,7 @@
+domain:             mebus.dn42
+admin-c:            MEBUS-DN42
+tech-c:             MEBUS-DN42
+descr:              General Mebus Domain
+mnt-by:             MEBUS-MNT
+nserver:            ns1.mebus.dn42 fd88:c7e:c7b7::1
+source:             DN42

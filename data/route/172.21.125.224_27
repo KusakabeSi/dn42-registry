@@ -1,0 +1,5 @@
+route:              172.21.125.224/27
+descr:              fmauNeko's V4 ROA
+origin:             AS4242422107
+mnt-by:             FMAUNEKO-MNT
+source:             DN42

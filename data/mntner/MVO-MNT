@@ -1,0 +1,6 @@
+mntner:             MVO-MNT
+admin-c:            MVO-DN42
+tech-c:             MVO-DN42
+mnt-by:             MVO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFgIdSJZtW0gWnlCjpFyzhYdJnV7ZNkuB1b1IUI3WqJ5TVGZoGgyXchoTUwhvBUDsShsLThhqXv0JuWiFd/52/i8NXWzs54pCCgefPtvjwH+PelqRMLv6Iay558fVxjcDEd3kR01EjCOJzdBAQ0ogx3B1jTP/hzQ6Fgqf7+9c5c4qGwNyh2HqIeLIQUTsk7JqSPirmGeh/Tzr555UMli6cOFbkJyLpfBr0cP3VrtVc8AZk9XOcufXMenYvcytdlQrbKNtrxBnXQr3yDzxjgN3RiPG7f9dkbhs2nPxAfPaHgyI+zcdaHRFnmRnVoWBRUbQGmuiqlGjV933oXPsrvjHf
+source:             DN42

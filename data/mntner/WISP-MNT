@@ -1,0 +1,7 @@
+mntner:             WISP-MNT
+admin-c:            WISP-DN42
+tech-c:             WISP-DN42
+mnt-by:             WISP-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKemwfrAQEEWPj0DAgzyQUzmPIMgdd6fkl858VhtE4d8
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPXUFuK/VfcARSnCcpKTenc10+ufmFh/ci1qpaS6TyJUuAVChy+nUanPnwaxNHCN3eUPXXMqW/sjA30pAAfnk6BRzPpTDUpjGnVT+ehce5I7bEG2ziR67wIu+qJePbLMJu61lGTdJ/glEuasFGIdeSN/aV12rpeZaMTrKHYg5WxQOFlijajaUlkuQLd8KG0Z99CeWJeoicHOV8cbzhQQ+j6giVN58GyClawt2VT7wlVDbwqG1l+rTFDoG0ohjEAyyTnOPBQtzOqQjH/4BDhwT3bHrl6AWMSff/cJMpEu8of+5byR4BPFl15bS+SdcjtzJUDb/WhhEnBHZfSJceIEultO+SLntyQq/XZimI4yQYtLUmdExfjNUJ7UGeQI83XJKzOEikuKK4pfbyYXYOgxcaI564biJPxp4qFBX+ldv/lGN+/ZV3lrIzfSdug/c9vsOtn7kywocDWIO2r26cv3wJ/g0HyYcW6ngwe5CMQP5lD1gVPrHMhAwEPzSgKjYhH4tGWAFjHfOd+US6o7GHQFBn7lYjFAMWS9qYBzrg08MXg/JUosgtR85FvI2svHwdUUxATHWJOW4NjPORxa1cLCPJODgq6mG9OZLqX1smnzK4/0ecnwQ2toLKZCKG7VftS1iZ2H72uR8gP3+oxjGCXExerr9dGkNxTScCMLqTv1rmGQ==

@@ -1,0 +1,5 @@
+route6:             fd23:1d71:dd17::/48
+origin:             AS4242423929
+max-length:         48
+mnt-by:             V0TTI-MNT
+source:             DN42

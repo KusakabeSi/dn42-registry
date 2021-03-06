@@ -1,0 +1,12 @@
+inet6num:           fdf4:71a1:fc81:0000:0000:0000:0000:0000 - fdf4:71a1:fc81:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:71a1:fc81::/48
+netname:            04DCO-V6-NET-1
+remarks:            Contact 0@04d.co or O4dco on IRC for peering.
+descr:              04dco IPv6 network 1
+country:            RO
+admin-c:            04DCO-DN42
+tech-c:             04DCO-DN42
+mnt-by:             04DCO-MNT
+nserver:            ns0.04dco.dn42
+status:             ASSIGNED
+source:             DN42

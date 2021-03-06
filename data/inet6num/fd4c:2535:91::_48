@@ -1,0 +1,11 @@
+inet6num:           fd4c:2535:0091:0000:0000:0000:0000:0000 - fd4c:2535:0091:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4c:2535:91::/48
+netname:            NEVERBEHAVE-NETWORK
+descr:              Network of NeverBehave
+country:            US
+admin-c:            NEVERBEHAVE-DN42
+tech-c:             NEVERBEHAVE-DN42
+mnt-by:             NEVERBEHAVE-MNT
+nserver:            ns1.neverbehave.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.32.112 - 172.20.32.127
+cidr:               172.20.32.112/28
+netname:            BUDDY-NETWORK
+admin-c:            BUDDY-DN42
+tech-c:             BUDDY-DN42
+mnt-by:             BUDDY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd54:fe4b:9ed1:0000:0000:0000:0000:0000 - fd54:fe4b:9ed1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd54:fe4b:9ed1::/48
+nserver:            ns1.tchekda.dn42
+netname:            TCHEKDA-NET
+descr:              Network of Tchekda
+country:            FR
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+status:             ASSIGNED
+source:             DN42

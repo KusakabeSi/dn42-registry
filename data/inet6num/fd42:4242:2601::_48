@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:2601:0000:0000:0000:0000:0000 - fd42:4242:2601:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2601::/48
+netname:            BURBLE-NETWORK
+descr:              burble.dn42 https://dn42.burble.com/
+country:            UK
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+nserver:            ns1.burble.dn42
+ds-rdata:           53895 13 2 7105a1f1f5cee93b924c8a83676fc9a0958d15b996fffa49218ba50a4477b6c0
+status:             ASSIGNED
+source:             DN42

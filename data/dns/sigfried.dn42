@@ -1,0 +1,7 @@
+domain:             sigfried.dn42
+descr:              Sigfried
+admin-c:            SIGFRIED-DN42
+tech-c:             SIGFRIED-DN42
+mnt-by:             SIGFRIED-MNT
+nserver:            ns1.sigfried.dn42 fd73:6967:6672::53
+source:             DN42

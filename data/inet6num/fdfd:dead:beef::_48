@@ -1,0 +1,10 @@
+inet6num:           fdfd:dead:beef:0000:0000:0000:0000:0000 - fdfd:dead:beef:ffff:ffff:ffff:ffff:ffff
+netname:            PETERCXY-NET-POOL-6-1
+descr:              PeterCxy Networks
+country:            CN
+admin-c:            PC42-DN42
+tech-c:             PC42-DN42
+mnt-by:             PETERCXY-MNT
+status:             ASSIGNED
+cidr:               fdfd:dead:beef::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd07:0d34:7969:0000:0000:0000:0000:0000 - fd07:0d34:7969:ffff:ffff:ffff:ffff:ffff
+cidr:               fd07:d34:7969::/48
+netname:            JERRY-NETWORK
+descr:              Network for Jerry
+admin-c:            JERRY-DN42
+tech-c:             JERRY-DN42
+mnt-by:             JERRY-MNT
+status:             ASSIGNED
+nserver:            ns1.jerry.dn42
+nserver:            ns2.jerry.dn42
+source:             DN42

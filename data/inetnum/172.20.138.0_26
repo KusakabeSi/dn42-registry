@@ -1,0 +1,13 @@
+inetnum:            172.20.138.0 - 172.20.138.63
+cidr:               172.20.138.0/26
+netname:            CLARISSA-NETWORK
+descr:              Clarissa Core Network
+country:            HK
+admin-c:            CLARISSA-DN42
+tech-c:             CLARISSA-DN42
+mnt-by:             CLARISSA-MNT
+nserver:            photographipv4.claryhk.dn42
+nserver:            miraitrainipv4.claryhk.dn42
+nserver:            stepbystepipv4.claryhk.dn42
+status:             ASSIGNED
+source:             DN42

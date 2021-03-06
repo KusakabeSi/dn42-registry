@@ -1,0 +1,9 @@
+inet6num:           fde4:2355:54fe:0000:0000:0000:0000:0000 - fde4:2355:54fe:ffff:ffff:ffff:ffff:ffff
+cidr:               fde4:2355:54fe::/48
+netname:            PESCO-NETWORK
+descr:              pesco's fancy pants personal network
+admin-c:            PESCO-DN42
+tech-c:             PESCO-DN42
+mnt-by:             PESCO-MNT
+status:             ASSIGNED
+source:             DN42

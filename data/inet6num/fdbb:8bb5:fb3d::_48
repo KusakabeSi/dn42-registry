@@ -1,0 +1,12 @@
+inet6num:           fdbb:8bb5:fb3d:0000:0000:0000:0000:0000 - fdbb:8bb5:fb3d:ffff:ffff:ffff:ffff:ffff
+netname:            SPLASH-IPV6
+country:            ZA
+org:                ORG-ZANET
+policy:             open
+admin-c:            SPLASH-DN42
+tech-c:             SPLASH-DN42
+mnt-by:             SPLASH-MNT
+nserver:            ns1.splash.dn42
+status:             ASSIGNED
+cidr:               fdbb:8bb5:fb3d::/48
+source:             DN42

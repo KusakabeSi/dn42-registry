@@ -1,0 +1,9 @@
+domain:             xuu.dn42
+nserver:            lavana.sjc.xuu.dn42 172.22.141.181
+nserver:            lavana.sjc.xuu.dn42 fdea:a15a:77b9:4444::181
+nserver:            rakta.fra.xuu.dn42 172.22.141.191
+nserver:            rakta.fra.xuu.dn42 fdea:a15a:77b9:4444::191
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+source:             DN42

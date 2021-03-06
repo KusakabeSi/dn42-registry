@@ -1,0 +1,5 @@
+route:              172.23.67.0/25
+descr:              BLAZING-DN
+origin:             AS4242420022
+mnt-by:             BLAZING-MNT
+source:             DN42

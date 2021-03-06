@@ -1,0 +1,8 @@
+role:               ORG-SHACK-ABUSE-DN42
+nic-hdl:            ORG-SHACK-ABUSE-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+org:                ORG-SHACK
+abuse-c:            4A6F-DN42
+abuse-mailbox:      abuse@shackspace.de
+source:             DN42

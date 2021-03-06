@@ -1,0 +1,8 @@
+inetnum:            172.23.100.32 - 172.23.100.47
+cidr:               172.23.100.32/28
+netname:            FOOBARS-US-PA
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ASSIGNED
+source:             DN42

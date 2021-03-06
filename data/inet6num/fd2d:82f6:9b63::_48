@@ -1,0 +1,10 @@
+inet6num:           fd2d:82f6:9b63:0000:0000:0000:0000:0000 - fd2d:82f6:9b63:ffff:ffff:ffff:ffff:ffff
+netname:            CREST-DN42-ULA2-IP6NET
+descr:              Crest's primary IPv6 network
+country:            DE
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+status:             ASSIGNED
+cidr:               fd2d:82f6:9b63::/48
+mnt-by:             CREST-MNT
+source:             DN42

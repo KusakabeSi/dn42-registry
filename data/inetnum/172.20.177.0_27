@@ -1,0 +1,8 @@
+inetnum:            172.20.177.0 - 172.20.177.31
+cidr:               172.20.177.0/27
+netname:            SCUTTLE-NET
+admin-c:            SCUTTLEBUG-DN42
+tech-c:             SCUTTLEBUG-DN42
+mnt-by:             SCUTTLEBUG-MNT
+status:             ASSIGNED
+source:             DN42

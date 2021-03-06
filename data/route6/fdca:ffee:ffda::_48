@@ -1,0 +1,5 @@
+route6:             fdca:ffee:ffda::/48
+origin:             AS65038
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+source:             DN42

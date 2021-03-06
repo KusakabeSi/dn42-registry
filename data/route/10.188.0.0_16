@@ -1,0 +1,6 @@
+route:              10.188.0.0/16
+origin:             AS65066
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: troisdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

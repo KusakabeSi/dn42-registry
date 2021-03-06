@@ -1,0 +1,8 @@
+inet6num:           fd0b:10c0:9966:0000:0000:0000:0000:0000 - fd0b:10c0:9966:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:10c0:9966::/48
+netname:            HONDA NET
+admin-c:            HONDA-DN42
+tech-c:             HONDA-DN42
+mnt-by:             HONDA-MNT
+status:             ASSIGNED
+source:             DN42

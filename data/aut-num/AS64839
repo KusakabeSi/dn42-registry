@@ -1,0 +1,8 @@
+aut-num:            AS64839
+as-name:            KRAUTSPACE-AS
+org:                ORG-HACKSPACE-JENA-DN42
+descr:              krautspace.de
+mnt-by:             MARTIN89-MNT
+admin-c:            MARTIN89-DN42
+tech-c:             MARTIN89-DN42
+source:             DN42

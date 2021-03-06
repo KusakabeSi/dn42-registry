@@ -1,0 +1,11 @@
+inet6num:           fdec:0000:0000:0000:0000:0000:0000:0000 - fdec:0000:0000:ffff:ffff:ffff:ffff:ffff
+netname:            NET-WUNIX-IP6-DN42
+descr:              Wunix's IPV6 Lab
+country:            DE
+nserver:            ns1.wunix.dn42
+admin-c:            WUNIX-DN42
+tech-c:             WUNIX-DN42
+mnt-by:             WUNIX-MNT
+status:             ASSIGNED
+cidr:               fdec::/48
+source:             DN42

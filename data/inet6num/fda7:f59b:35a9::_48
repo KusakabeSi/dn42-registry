@@ -1,0 +1,9 @@
+inet6num:           fda7:f59b:35a9:0000:0000:0000:0000:0000 - fda7:f59b:35a9:ffff:ffff:ffff:ffff:ffff
+netname:            XYENON-NETWORK
+country:            CN
+admin-c:            XYENON-DN42
+tech-c:             XYENON-DN42
+mnt-by:             XYENON-MNT
+status:             ASSIGNED
+cidr:               fda7:f59b:35a9::/48
+source:             DN42

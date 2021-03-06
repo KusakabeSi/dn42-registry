@@ -1,0 +1,11 @@
+inet6num:           fd68:beef:c0de:0000:0000:0000:0000:0000 - fd68:beef:c0de:ffff:ffff:ffff:ffff:ffff
+netname:            FSNX-NETWORK
+descr:              FSNX Network
+country:            US
+admin-c:            FSNX-DN42
+tech-c:             FSNX-DN42
+mnt-by:             FSNX-MNT
+nserver:            ns1.fsnx.dn42
+status:             ASSIGNED
+cidr:               fd68:beef:c0de::/48
+source:             DN42

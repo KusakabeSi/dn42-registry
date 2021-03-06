@@ -1,0 +1,6 @@
+route:              172.23.234.192/27
+descr:              SIS-DN42-INET4-BLK1
+origin:             AS4242422950
+origin:             AS202265
+mnt-by:             SIS-MNT
+source:             DN42

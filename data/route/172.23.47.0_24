@@ -1,0 +1,5 @@
+route:              172.23.47.0/24
+descr:              Hadrill Network
+origin:             AS4242420124
+mnt-by:             HADRILL-MNT
+source:             DN42

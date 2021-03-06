@@ -1,0 +1,8 @@
+aut-num:            AS4242420827
+as-name:            LORKEP
+remarks:            Open peering via WireGuard (and possibly others).
+remarks:            See AASG-DN42 for contact information.
+admin-c:            AASG-DN42
+tech-c:             AASG-DN42
+mnt-by:             AASG-MNT
+source:             DN42

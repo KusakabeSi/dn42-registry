@@ -1,0 +1,4 @@
+route:              172.20.2.32/27
+origin:             AS4242420360
+mnt-by:             LABRIQUE-MNT
+source:             DN42

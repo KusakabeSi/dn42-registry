@@ -1,0 +1,4 @@
+route6:             fd69:3053:a295::/48
+origin:             AS4242423510
+mnt-by:             INFTYLOOP-MNT
+source:             DN42

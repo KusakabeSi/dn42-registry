@@ -1,0 +1,9 @@
+inetnum:            172.20.12.128 - 172.20.12.143
+cidr:               172.20.12.128/28
+netname:            LL-NET-1
+nserver:            ns1.ll.dn42
+admin-c:            LL-DN42
+tech-c:             LL-DN42
+mnt-by:             LL-MNT
+status:             ASSIGNED
+source:             DN42

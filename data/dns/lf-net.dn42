@@ -1,0 +1,7 @@
+domain:             lf-net.dn42
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+nserver:            ns1.lf-net.dn42 172.20.138.129
+nserver:            ns1.lf-net.dn42 fda0:23:1f05::1
+source:             DN42

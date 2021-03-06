@@ -1,0 +1,10 @@
+inetnum:            172.21.67.192 - 172.21.67.223
+cidr:               172.21.67.192/27
+netname:            NET-P3BK4C-000
+country:            GR
+admin-c:            P3BK4C-DN42
+tech-c:             P3BK4C-DN42
+mnt-by:             P3BK4C-MNT
+nserver:            dns.pebkac.dn42
+status:             ASSIGNED
+source:             DN42

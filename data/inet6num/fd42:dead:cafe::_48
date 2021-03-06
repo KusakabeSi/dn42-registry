@@ -1,0 +1,10 @@
+inet6num:           fd42:dead:cafe:0000:0000:0000:0000:0000 - fd42:dead:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            PHILLYMESH-NET
+descr:              Philly Mesh
+country:            US
+admin-c:            FAMICOMAN-DN42
+tech-c:             FAMICOMAN-DN42
+mnt-by:             PHILLYMESH-MNT
+status:             ASSIGNED
+cidr:               fd42:dead:cafe::/48
+source:             DN42

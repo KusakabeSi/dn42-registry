@@ -1,0 +1,8 @@
+domain:             litschi.dn42
+descr:              AS4242421220
+admin-c:            LITSCHI-DN42
+tech-c:             LITSCHI-DN42
+mnt-by:             LITSCHI-MNT
+nserver:            ns1.litschi.dn42 172.23.73.65
+nserver:            ns1.litschi.dn42 fd67:24bd:a1ea::1
+source:             DN42

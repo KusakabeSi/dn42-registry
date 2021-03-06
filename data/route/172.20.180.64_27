@@ -1,0 +1,5 @@
+route:              172.20.180.64/27
+descr:              TEST
+origin:             AS4242421308
+mnt-by:             KAESEKUCHENPW-MNT
+source:             DN42

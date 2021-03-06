@@ -1,0 +1,10 @@
+domain:             weiti.dn42
+descr:              WEITI Domain
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+nserver:            ns1.weiti.dn42 172.20.175.193
+nserver:            ns2.weiti.dn42 172.20.175.195
+nserver:            ns1.weiti.dn42 fdf7:17d5:de49::1
+nserver:            ns2.weiti.dn42 fdf7:17d5:de49:1::1
+source:             DN42

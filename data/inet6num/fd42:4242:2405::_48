@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2405:0000:0000:0000:0000:0000 - fd42:4242:2405:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2405::/48
+netname:            UPEC-NETWORK
+descr:              Network of UPEC
+country:            FR
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+org:                ORG-UPEC
+status:             ASSIGNED
+source:             DN42

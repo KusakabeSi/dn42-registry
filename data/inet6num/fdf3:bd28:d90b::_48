@@ -1,0 +1,11 @@
+inet6num:           fdf3:bd28:d90b:0000:0000:0000:0000:0000 - fdf3:bd28:d90b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:bd28:d90b::/48
+netname:            EM0LAR-NETWORK
+descr:              Network of EM0LAR
+country:            DE
+admin-c:            EM0LAR-DN42
+tech-c:             EM0LAR-DN42
+mnt-by:             EM0LAR-MNT
+status:             ASSIGNED
+nserver:            ns1.em0lar.dn42
+source:             DN42

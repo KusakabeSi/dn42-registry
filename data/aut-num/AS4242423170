@@ -1,0 +1,7 @@
+aut-num:            AS4242423170
+as-name:            gio-as1
+descr:              The first AS number for gibbons (dot) io.
+admin-c:            GIO-DN42
+tech-c:             GIO-DN42
+mnt-by:             GIO-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.100.160/27
+origin:             AS4242421243
+mnt-by:             KILOBYTE-MNT
+source:             DN42

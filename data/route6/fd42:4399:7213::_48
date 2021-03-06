@@ -1,0 +1,4 @@
+route6:             fd42:4399:7213::/48
+origin:             AS4242423127
+mnt-by:             HIJACK-MNT
+source:             DN42

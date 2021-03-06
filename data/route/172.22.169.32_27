@@ -1,0 +1,4 @@
+route:              172.22.169.32/27
+origin:             AS4242423337
+mnt-by:             PERKSCO-MNT
+source:             DN42

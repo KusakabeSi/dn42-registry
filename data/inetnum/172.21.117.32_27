@@ -1,0 +1,8 @@
+inetnum:            172.21.117.32 - 172.21.117.63
+cidr:               172.21.117.32/27
+netname:            PIGGY-NETWORK
+admin-c:            PIGGY-DN42
+tech-c:             PIGGY-DN42
+mnt-by:             PIGGY-MNT
+status:             ASSIGNED
+source:             DN42

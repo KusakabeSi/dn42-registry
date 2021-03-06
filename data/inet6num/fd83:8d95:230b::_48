@@ -1,0 +1,10 @@
+inet6num:           fd83:8d95:230b:0000:0000:0000:0000:0000 - fd83:8d95:230b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd83:8d95:230b::/48
+netname:            DHE-NETWORK
+descr:              DHE Netork
+country:            US
+admin-c:            DHE-DN42
+tech-c:             DHE-DN42
+mnt-by:             DHE-MNT
+status:             ASSIGNED
+source:             DN42

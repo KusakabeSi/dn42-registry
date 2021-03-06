@@ -1,0 +1,8 @@
+aut-num:            AS4242420010
+org:                ORG-CCCHB
+as-name:            ANON6789-AS
+descr:              anon6789's AS
+admin-c:            ANON6789-DN42
+tech-c:             ANON6789-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

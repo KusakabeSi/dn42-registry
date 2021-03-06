@@ -1,0 +1,8 @@
+inet6num:           fd2c:2fa3:62f1:0000:0000:0000:0000:0000 - fd2c:2fa3:62f1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2c:2fa3:62f1::/48
+netname:            SUPERNOC-NET-1
+admin-c:            SNOC-DN42
+tech-c:             SNOC-DN42
+mnt-by:             SNOC-MNT
+status:             ASSIGNED
+source:             DN42

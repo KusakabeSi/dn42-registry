@@ -1,0 +1,13 @@
+as-set:             AS4242420123:AS-TRANSIT
+remarks:            JRB0001-MNT
+members:            AS4242420119
+remarks:            ORG-CCCDA
+members:            AS4242420101
+remarks:            HEXA-MNT
+members:            AS64600
+remarks:            XUU-MNT
+members:            AS64737
+admin-c:            GRMML-DN42
+tech-c:             GRMML-DN42
+mnt-by:             GRMML-MNT
+source:             DN42

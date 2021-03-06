@@ -1,0 +1,11 @@
+inet6num:           fd23:2a7a:15ae:0000:0000:0000:0000:0000 - fd23:2a7a:15ae:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:2a7a:15ae::/48
+netname:            BAKABYTE-BACKBONE
+descr:              Bakabyte Backbone Network
+admin-c:            BAKABYTE-DN42
+tech-c:             BAKABYTE-DN42
+org:                ORG-BAKABYTE
+mnt-by:             BAKABYTE-MNT
+nserver:            ns.baka.dn42
+status:             ASSIGNED
+source:             DN42

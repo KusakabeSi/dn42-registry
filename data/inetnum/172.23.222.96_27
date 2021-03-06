@@ -1,0 +1,8 @@
+inetnum:            172.23.222.96 - 172.23.222.127
+netname:            YF-NET
+admin-c:            YF-DN42
+tech-c:             YF-DN42
+mnt-by:             YF-MNT
+status:             ASSIGNED
+cidr:               172.23.222.96/27
+source:             DN42

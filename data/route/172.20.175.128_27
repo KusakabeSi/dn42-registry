@@ -1,0 +1,4 @@
+route:              172.20.175.128/27
+origin:             AS4242420505
+mnt-by:             42ISLIFE-MNT
+source:             DN42

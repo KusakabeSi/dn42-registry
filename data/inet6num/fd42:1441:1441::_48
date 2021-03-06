@@ -1,0 +1,10 @@
+inet6num:           fd42:1441:1441:0000:0000:0000:0000:0000 - fd42:1441:1441:ffff:ffff:ffff:ffff:ffff
+netname:            WXCAFE-NET6
+descr:              Just a random v6 network on here
+country:            FR
+admin-c:            WXCAFE-DN42
+tech-c:             WXCAFE-DN42
+mnt-by:             WXCAFE-MNT
+status:             ALLOCATED
+cidr:               fd42:1441:1441::/48
+source:             DN42

@@ -1,0 +1,13 @@
+inet6num:           fd42:df42:0000:0000:0000:0000:0000:0000 - fd42:df42:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            DARKFASEL-NET
+descr:              Darkfasel
+country:            DE
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             FPLETZ-MNT
+nserver:            ns0.j.dn42
+nserver:            ns1.j.dn42
+status:             ALLOCATED
+cidr:               fd42:df42::/32
+source:             DN42

@@ -1,0 +1,6 @@
+route6:             fdef:ffe0:3ed7::/48
+origin:             AS64896
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ratzeburg
+mnt-by:             DN42-MNT
+source:             ICVPN

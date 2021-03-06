@@ -1,0 +1,7 @@
+mntner:             TAN-MNT
+admin-c:            TAN-DN42
+tech-c:             TAN-DN42
+mnt-by:             TAN-MNT
+auth:               pgp-fingerprint 8D5FF489418939011B11557CE6C6D2565F4C9EDF
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL4wQDJ2glbeVgK8ipBT4mLjWYM6OXJwT3BRpOlg/xDe
+source:             DN42

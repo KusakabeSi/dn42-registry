@@ -1,0 +1,8 @@
+inetnum:            172.23.158.32 - 172.23.158.63
+cidr:               172.23.158.32/27
+netname:            NEVLEZAY-NETWORK
+admin-c:            NEVLEZAY-DN42
+tech-c:             NEVLEZAY-DN42
+mnt-by:             NEVLEZAY-MNT
+status:             ASSIGNED
+source:             DN42

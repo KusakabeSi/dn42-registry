@@ -1,0 +1,8 @@
+inetnum:            172.20.139.176 - 172.20.139.191
+cidr:               172.20.139.176/28
+netname:            SPENCERCW-NETWORK
+admin-c:            SPENCERCW-DN42
+tech-c:             SPENCERCW-DN42
+mnt-by:             SPENCERCW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.23.1.0 - 172.23.1.255
+netname:            CREST-DN42-TEST1
+descr:              Crest's dn42 test network
+country:            DE
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+mnt-by:             CREST-MNT
+status:             ASSIGNED
+nserver:            dns1.crest.dn42
+nserver:            dns2.crest.dn42
+cidr:               172.23.1.0/24
+source:             DN42

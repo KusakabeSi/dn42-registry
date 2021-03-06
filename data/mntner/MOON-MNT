@@ -1,0 +1,6 @@
+mntner:             MOON-MNT
+admin-c:            MOON-DN42
+tech-c:             MOON-DN42
+mnt-by:             MOON-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv/GhTSmob9bkLcubdyUVps6Pc0Mx/4VSoHHoHk4ktlK6MlQ1f/8DYhG4xXPerMmdZ7Lt+BWj6OSfzfVRCe6cueF6vskF5XOAYzpmOGkqwlW2+n3LWAUJjnFY4KylLuz043jWJPiCg9zJtV8EtzhOSBsiEeWCoeTHx6bknOgIcAThjVXPAcZ3RbuTQheWM99FTR3dA0TmKAclV+WsaGl8tItCnGsMkuWa518rn7/8/DB7mTsvyPPdM9ISTdPvHZbLWCuDKCW06F6k6bAbEkYZnf/SEte+FDiPGOE/CAX5bVL4sOnh835sdPQkfCiaU9w1hHZ9TL+vaVnSB6gCb3rON
+source:             DN42

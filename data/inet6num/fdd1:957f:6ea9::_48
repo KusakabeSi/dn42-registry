@@ -1,0 +1,8 @@
+inet6num:           fdd1:957f:6ea9:0000:0000:0000:0000:0000 - fdd1:957f:6ea9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd1:957f:6ea9::/48
+netname:            MODER-NET-1
+admin-c:            MODER-DN42
+tech-c:             MODER-DN42
+mnt-by:             MODER-MNT
+status:             ASSIGNED
+source:             DN42

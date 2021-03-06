@@ -1,0 +1,10 @@
+inet6num:           fd42:e366:3a71:0000:0000:0000:0000:0000 - fd42:e366:3a71:ffff:ffff:ffff:ffff:ffff
+netname:            ALENAN-IPV6-01
+country:            DE
+admin-c:            ALENAN-DN42
+tech-c:             VMANN-DN42
+tech-c:             MUMU-DN42
+mnt-by:             VMANN-MNT
+status:             ASSIGNED
+cidr:               fd42:e366:3a71::/48
+source:             DN42

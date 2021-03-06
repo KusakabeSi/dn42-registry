@@ -1,0 +1,10 @@
+inetnum:            172.20.14.0 - 172.20.14.15
+netname:            WXCAFE-NET4
+descr:              wxcafe-net4
+country:            FR
+admin-c:            WXCAFE-DN42
+tech-c:             WXCAFE-DN42
+mnt-by:             WXCAFE-MNT
+status:             ASSIGNED PI
+cidr:               172.20.14.0/28
+source:             DN42

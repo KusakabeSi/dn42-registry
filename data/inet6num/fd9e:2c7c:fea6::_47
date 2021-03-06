@@ -1,0 +1,10 @@
+inet6num:           fd9e:2c7c:fea6:0000:0000:0000:0000:0000 - fd9e:2c7c:fea7:ffff:ffff:ffff:ffff:ffff
+netname:            FLORIANB-NET
+admin-c:            FLORIANB-DN42
+tech-c:             FLORIANB-DN42
+mnt-by:             FLORIANB-MNT
+nserver:            ns01.florianb.dn42
+nserver:            ns02.florianb.dn42
+status:             ASSIGNED
+cidr:               fd9e:2c7c:fea6::/47
+source:             DN42

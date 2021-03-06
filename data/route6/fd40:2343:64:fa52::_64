@@ -1,0 +1,5 @@
+route6:             fd40:2343:64:fa52::/64
+descr:              nop test
+origin:             AS4242420134
+mnt-by:             NOP-MNT
+source:             DN42

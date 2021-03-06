@@ -1,0 +1,12 @@
+inetnum:            172.23.78.0 - 172.23.78.31
+cidr:               172.23.78.0/27
+remarks:            Peer with at frogjiangyy@gmail.com
+netname:            FROGJIANG-DN42
+descr:              Peer with me at frogjiangyy@gmail.com
+country:            CN
+nserver:            ns1.frogjiang.dn42
+admin-c:            FROGJIANG-DN42
+tech-c:             FROGJIANG-DN42
+mnt-by:             FROGJIANG-MNT
+status:             ASSIGNED
+source:             DN42

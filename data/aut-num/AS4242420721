@@ -1,0 +1,7 @@
+aut-num:            AS4242420721
+as-name:            SESHI-AS
+descr:              Peer with me at ywtzmc@qq.com | ywtzmc@gmail.com ,just a BGP Player
+admin-c:            SESHI-DN42
+tech-c:             SESHI-DN42
+mnt-by:             SESHI-MNT
+source:             DN42

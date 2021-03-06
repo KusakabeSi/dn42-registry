@@ -1,0 +1,77 @@
+#!/usr/bin/env bash
+
+set -e
+
+KSK_PATTERN="(3096|64441)"
+DS_NSERVER="fd42:180:3de0:10:5054:ff:fe87:ea39"
+
+fix_dns() {
+	set -e
+	SRC="$1"
+	DST="$2"
+	TMP="$(mktemp "/tmp/${DST}.XXXXXX")"
+	cp "data/dns/${DST}" "${TMP}"
+	{
+		set -e
+		echo "domain:             ${DST}"
+		cat "${TMP}" | grep -E '^(remarks):' || true
+		cat "data/dns/${SRC}" | grep '^nserver:' | tr -s " " | cut -d' ' -f2 | sort | uniq | xargs -i echo 'nserver:            {}'
+		drill -t "${DST}" "@${DS_NSERVER}" DNSKEY -s | grep sha256 | cut -d: -f2 | sed -E 's/^ [^\t ]+\t900\tIN\tDS\t/ds-rdata:           /g' | grep -E "${KSK_PATTERN}"
+		echo 'org:                ORG-DN42'
+		echo 'mnt-by:             DN42-MNT'
+		echo 'source:             DN42'
+	} > "data/dns/${DST}"
+	rm "${TMP}"
+}
+
+fix_inetnum() {
+	set -e
+	SRC="$1"
+	DST="$2"
+	CLASS="$3"
+	POLICY="$4"
+	DNS_NAME="$5"
+	if [ -f "data/${CLASS}/${DST}" ]; then
+		sed -r -i '/^(nserver|ds-rdata|status|org|policy|mnt-by|source|admin-c|tech-c):.*$/d' "data/${CLASS}/${DST}"
+		{
+			set -e
+			cat "data/dns/${SRC}" | grep '^nserver:' | tr -s " " | cut -d' ' -f2 | sort | uniq | xargs -i echo 'nserver:            {}'
+			drill -t "${DNS_NAME}" "@${DS_NSERVER}" DNSKEY -s | grep sha256 | cut -d: -f2 | sed -E 's/^ [^\t ]+\t900\tIN\tDS\t/ds-rdata:           /g' | grep -E "${KSK_PATTERN}"
+			echo 'status:             ALLOCATED'
+			echo "policy:             ${POLICY}"
+			echo 'org:                ORG-DN42'
+			echo 'mnt-by:             DN42-MNT'
+			echo 'source:             DN42'
+		} >> "data/${CLASS}/${DST}"
+	fi
+}
+
+fix_dns_ds_only() {
+	set -e
+	DST="$1"
+	TMP="$(mktemp "/tmp/${DST}.XXXXXX")"
+	cp "data/dns/${DST}" "${TMP}"
+	{
+		set -e
+		echo "domain:             ${DST}"
+		cat "${TMP}" | grep -E '^(nserver|remarks):' || true
+		drill -t "${DST}" "@${DS_NSERVER}" DNSKEY -s | grep sha256 | cut -d: -f2 | sed -E 's/^ [^\t ]+\t900\tIN\tDS\t/ds-rdata:           /g' | grep -E "${KSK_PATTERN}"
+		echo 'org:                ORG-DN42'
+		echo 'mnt-by:             DN42-MNT'
+		echo 'source:             DN42'
+	} > "data/dns/${DST}"
+	rm "${TMP}"
+}
+
+fix_dns 'delegation-servers.dn42' 'dn42'
+fix_dns 'delegation-servers.dn42' 'registry-sync.dn42'
+fix_dns_ds_only 'delegation-servers.dn42'
+fix_dns_ds_only 'recursive-servers.dn42'
+fix_inetnum 'delegation-servers.dn42' 'fd00::_8' 'inet6num' 'open' 'd.f.ip6.arpa'
+fix_inetnum 'delegation-servers.dn42' '10.0.0.0_8' 'inetnum' 'closed' '10.in-addr.arpa'
+fix_inetnum 'delegation-servers.dn42' "172.20.0.0_16" 'inetnum' 'reserved' "20.172.in-addr.arpa"
+fix_inetnum 'delegation-servers.dn42' "172.21.0.0_16" 'inetnum' 'reserved' "21.172.in-addr.arpa"
+fix_inetnum 'delegation-servers.dn42' "172.22.0.0_16" 'inetnum' 'reserved' "22.172.in-addr.arpa"
+fix_inetnum 'delegation-servers.dn42' "172.23.0.0_16" 'inetnum' 'open' "23.172.in-addr.arpa"
+fix_inetnum 'delegation-servers.dn42' "172.31.0.0_16" 'inetnum' 'closed' "31.172.in-addr.arpa"
+

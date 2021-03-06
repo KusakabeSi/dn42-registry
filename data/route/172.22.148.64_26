@@ -1,0 +1,5 @@
+route:              172.22.148.64/26
+descr:              DELTAMAN-CORE
+origin:             AS4242420047
+mnt-by:             DELTAMAN-MNT
+source:             DN42

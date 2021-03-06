@@ -1,0 +1,6 @@
+route6:             fdec:c0f1:afda::/64
+origin:             AS65115
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: cuxhaven
+mnt-by:             DN42-MNT
+source:             ICVPN

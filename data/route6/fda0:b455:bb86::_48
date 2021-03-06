@@ -1,0 +1,5 @@
+route6:             fda0:b455:bb86::/48
+origin:             AS4242422514
+max-length:         48
+mnt-by:             THARYROK-MNT
+source:             DN42

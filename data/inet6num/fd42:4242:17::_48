@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:0017:0000:0000:0000:0000:0000 - fd42:4242:0017:ffff:ffff:ffff:ffff:ffff
+netname:            NET-JONATHAN-FERGUSON-DN42
+cidr:               fd42:4242:17::/48
+descr:              Jonathan Ferguson's IPv6 Tunnel Allocations
+remarks:            fd42:4242:0017:1::2/64 AS76136 GREinIPv6 2001:470:35:42b::2
+remarks:            fd42:4242:0017:2::2/64 AS4242420022 GREinIPv6 2001:19f0:7000:8ac5::64
+status:             ASSIGNED PA
+country:            SG
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

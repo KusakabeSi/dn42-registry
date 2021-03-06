@@ -1,0 +1,11 @@
+inet6num:           fd67:24bd:a1ea:0000:0000:0000:0000:0000 - fd67:24bd:a1ea:ffff:ffff:ffff:ffff:ffff
+cidr:               fd67:24bd:a1ea::/48
+netname:            LITSCHI-NETWORK
+descr:              Network of litschi (AS4242421220)
+country:            DE
+admin-c:            LITSCHI-DN42
+tech-c:             LITSCHI-DN42
+mnt-by:             LITSCHI-MNT
+nserver:            ns1.litschi.dn42
+status:             ASSIGNED
+source:             DN42

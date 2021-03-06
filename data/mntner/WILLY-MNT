@@ -1,0 +1,6 @@
+mntner:             WILLY-MNT
+admin-c:            WILLY-DN42
+tech-c:             WILLY-DN42
+mnt-by:             WILLY-MNT
+auth:               pgp-fingerprint CBACE67AB16836AFF172FD6C40AFF482903E8C61
+source:             DN42

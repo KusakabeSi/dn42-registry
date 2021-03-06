@@ -1,0 +1,6 @@
+route:              172.20.143.48/28
+origin:             AS4242421826
+mnt-by:             LSS233-MNT
+admin-c:            LSS233-DN42
+tech-c:             LSS233-DN42
+source:             DN42

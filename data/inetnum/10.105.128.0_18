@@ -1,0 +1,7 @@
+inetnum:            10.105.128.0 - 10.105.191.255
+cidr:               10.105.128.0/18
+netname:            ICVPN-TREUCHTLINGEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: treuchtlingen
+mnt-by:             DN42-MNT
+source:             ICVPN

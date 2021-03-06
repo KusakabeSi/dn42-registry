@@ -1,0 +1,4 @@
+route6:             fd2a:1805:30::/48
+origin:             AS4242423805
+mnt-by:             WHEX-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             bill.dn42
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+nserver:            ns1.bill.dn42 172.23.33.33
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            172.31.0.19 - 172.31.0.19
+cidr:               172.31.0.19/32
+netname:            CHAOSVPN-FFHH-SRV01
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

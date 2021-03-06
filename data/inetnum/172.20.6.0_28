@@ -1,0 +1,10 @@
+inetnum:            172.20.6.0 - 172.20.6.15
+netname:            BEN-NET
+descr:              BEN-NET
+country:            DE
+admin-c:            BEN-DN42
+tech-c:             BEN-DN42
+mnt-by:             BEN-MNT
+status:             ASSIGNED
+cidr:               172.20.6.0/28
+source:             DN42

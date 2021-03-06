@@ -1,0 +1,7 @@
+inetnum:            10.120.0.0 - 10.120.255.255
+cidr:               10.120.0.0/16
+netname:            ICVPN-ALTDORF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: altdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

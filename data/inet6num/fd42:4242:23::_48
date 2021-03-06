@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:0023:0000:0000:0000:0000:0000 - fd42:4242:0023:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:23::/48
+netname:            DIZZY-NET
+descr:              Dizzys Homenetwork
+country:            DE
+admin-c:            DIZZY-DN42
+tech-c:             DIZZY-DN42
+mnt-by:             DIZZY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.187.0/24
+descr:              Hackerspace Brussels IPv4 network
+origin:             AS64633
+mnt-by:             DUMMY-MNT
+source:             DN42

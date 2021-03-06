@@ -1,0 +1,10 @@
+inet6num:           fd83:1110:6556:0000:0000:0000:0000:0000 - fd83:1110:6556:ffff:ffff:ffff:ffff:ffff
+cidr:               fd83:1110:6556::/48
+netname:            X1A0-NETWORK
+descr:              Network of x1a0
+country:            SE
+admin-c:            X1A0-DN42
+tech-c:             X1A0-DN42
+mnt-by:             X1A0-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.100.224/27
+origin:             AS4242420141
+mnt-by:             DEEPWATER-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd38:cfa3:7091::/48
+origin:             AS4242423856
+max-length:         48
+mnt-by:             SCOOTERH928-MNT
+source:             DN42

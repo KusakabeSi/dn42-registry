@@ -1,0 +1,10 @@
+inet6num:           fd00:cf35:9507:0000:0000:0000:0000:0000 - fd00:cf35:9507:ffff:ffff:ffff:ffff:ffff
+netname:            GIN42-PEER-NET6
+country:            DE
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+nserver:            ns1.jin42.de
+status:             ASSIGNED
+cidr:               fd00:cf35:9507::/48
+source:             DN42

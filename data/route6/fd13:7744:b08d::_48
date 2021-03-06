@@ -1,0 +1,5 @@
+route6:             fd13:7744:b08d::/48
+origin:             AS4242421359
+max-length:         48
+mnt-by:             LINUS-MNT
+source:             DN42

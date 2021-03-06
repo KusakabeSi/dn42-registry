@@ -1,0 +1,8 @@
+inet6num:           fdfd:adad:adad:0000:0000:0000:0000:0000 - fdfd:adad:adad:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:adad:adad::/48
+netname:            ADAMYI-IPV6-NET
+admin-c:            ADAMYI-DN42
+tech-c:             ADAMYI-DN42
+mnt-by:             ADAMYI-MNT
+status:             ASSIGNED
+source:             DN42

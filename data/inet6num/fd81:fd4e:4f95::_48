@@ -1,0 +1,10 @@
+inet6num:           fd81:fd4e:4f95:0000:0000:0000:0000:0000 - fd81:fd4e:4f95:ffff:ffff:ffff:ffff:ffff
+netname:            DJARNER-IPV6
+descr:              DJARNER
+country:            DK
+admin-c:            DJARNER-DN42
+tech-c:             DJARNER-DN42
+mnt-by:             DJARNER-MNT
+status:             ASSIGNED
+cidr:               fd81:fd4e:4f95::/48
+source:             DN42

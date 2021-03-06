@@ -1,0 +1,11 @@
+inetnum:            172.23.102.0 - 172.23.103.255
+netname:            TOMBII-DN42-NET
+descr:              TOMBII CORE NETWORK
+nserver:            ns1.tombii.dn42
+nserver:            ns2.tombii.dn42
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+status:             ASSIGNED
+cidr:               172.23.102.0/23
+source:             DN42

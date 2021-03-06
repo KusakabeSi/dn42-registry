@@ -1,0 +1,8 @@
+mntner:             DEUT-MNT
+descr:              Deut Maintenance Object
+auth:               pgp-fingerprint 7BA670E9895609900610812C367193A4DBF47F74
+admin-c:            DEUT-DN42
+tech-c:             DEUT-DN42
+mnt-by:             DEUT-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD1I7Y1oYBHU26Zrr9Fl+qlBUigj6sHHn19et/JrpIwe96LHdAWI5gLVs2ISel4v/5/q53pgjsU3Q5mRRGQ7jdptVg0hdJT14xrod8PlCB5mc+DnVud/R9ZaxogyRRyFivBugYXF91E6sBG+p5hNrMAPf6eBgXp2S7lvYAd8STCA5ZJbH4j9bYmPf80AVeGmrN7pAZ8ENvYMbi7vx6S92boh1owWEMPZ49VlU1q8gsBGoZherj63M1ciTpziNKLiKEgVIAdBHHlXQylvFucLqQnABpNhAVnH0poKB21S9givorYnCPBa0D7THXTaxGCCGEIRl1l3duaMeARs+7H5lHjb2W7dBnoIK8kI1NN34p9DOxSY6TawF17V8CHWh3vu/4b8AHR7lxunJAijjfuaby3SJLb9FajCLgFPVUbyQJE95HLlm9YQQds+T016gvZkFsn86frFzFZkh3sEI7AX4bwtHF0Lg9blnN3dnZFipZSmBhsvrZKfofpj9uHAHNqGPcy7uu3IxgYbOBukrhbPQIvJKFqgfQeIuBHwJgM2PihO1K25WbAlT6YCxJChwe3stnk1zySqM/QRlK9cN6B5m44CtIN9VCO+md8ROcaftJPxqtF5fAwjDwAcL9bFYRTMH0HQuXHt/M3NcyaJZcgM5BwGaiHDmT6KyW60b4t8Wa63w==
+source:             DN42

@@ -1,0 +1,8 @@
+aut-num:            AS64768
+as-name:            YANG-AS
+descr:              YANG dn42 AS
+remarks:            Peering requests:   peering@prunk.si
+admin-c:            YANG-DN42
+tech-c:             YANG-DN42
+mnt-by:             YANG-MNT
+source:             DN42

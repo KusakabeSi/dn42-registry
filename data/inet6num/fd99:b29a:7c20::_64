@@ -1,0 +1,8 @@
+inet6num:           fd99:b29a:7c20:0000:0000:0000:0000:0000 - fd99:b29a:7c20:0000:ffff:ffff:ffff:ffff
+cidr:               fd99:b29a:7c20::/64
+netname:            ICVPN-ERZGEBIRGE
+nserver:            1.80.13.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: erzgebirge
+mnt-by:             DN42-MNT
+source:             ICVPN

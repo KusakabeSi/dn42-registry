@@ -1,0 +1,4 @@
+route:              172.23.178.0/26
+origin:             AS4242423510
+mnt-by:             INFTYLOOP-MNT
+source:             DN42

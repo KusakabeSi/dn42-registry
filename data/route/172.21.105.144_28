@@ -1,0 +1,5 @@
+route:              172.21.105.144/28
+descr:              Route for KOISHI-AS
+origin:             AS4242420514
+mnt-by:             RVALUE-MNT
+source:             DN42

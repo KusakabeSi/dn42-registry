@@ -1,0 +1,8 @@
+organisation:       ORG-SIGTERM-NO-RIPE
+org-name:           Sigterm.no
+descr:              Sigerm
+remarks:            bitcoin:           1LoveJttCUrrjwHxntwUp6PeEvL2UkFyWp
+admin-c:            SIGTERM-DN42
+tech-c:             SIGTERM-DN42
+mnt-by:             GREYHAT-SIGTERM-NO-MNT
+source:             DN42

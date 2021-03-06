@@ -1,0 +1,7 @@
+aut-num:            AS4242420084
+as-name:            DTOMATO-AS
+descr:              Daemon Tomato Network
+admin-c:            NICO-DN42
+tech-c:             NICO-DN42
+mnt-by:             DTOMATO-MNT
+source:             DN42

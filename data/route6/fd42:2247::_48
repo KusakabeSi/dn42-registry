@@ -1,0 +1,5 @@
+route6:             fd42:2247::/48
+descr:              IPv6 NGW NETWORK
+origin:             AS4242422247
+mnt-by:             NGW-MNT
+source:             DN42

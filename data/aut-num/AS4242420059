@@ -1,0 +1,8 @@
+aut-num:            AS4242420059
+remarks:            I'd really like AS4242429500. Can anyone make this happen? :)
+as-name:            9500-AS
+descr:              9500's first AS number
+admin-c:            9500-DN42
+tech-c:             9500-DN42
+mnt-by:             9500-MNT
+source:             DN42

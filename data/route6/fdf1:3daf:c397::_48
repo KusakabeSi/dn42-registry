@@ -1,0 +1,5 @@
+route6:             fdf1:3daf:c397::/48
+descr:              LUYS-IPV6
+origin:             AS4242421269
+mnt-by:             LUYS-MNT
+source:             DN42

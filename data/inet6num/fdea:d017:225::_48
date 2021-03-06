@@ -1,0 +1,11 @@
+inet6num:           fdea:d017:0225:0000:0000:0000:0000:0000 - fdea:d017:0225:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:d017:225::/48
+netname:            HITORINO-NETWORK
+descr:              Network of hitorino project.
+country:            CN
+admin-c:            MISAKA-DN42
+tech-c:             MISAKA-DN42
+org:                ORG-HITORINO
+mnt-by:             MISAKA-MNT
+status:             ASSIGNED
+source:             DN42

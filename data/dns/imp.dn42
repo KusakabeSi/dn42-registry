@@ -1,0 +1,7 @@
+domain:             imp.dn42
+admin-c:            ALBS-DN42
+tech-c:             ALBS-DN42
+mnt-by:             IMP-MNT
+nserver:            ns0.imp.dn42 172.20.178.33
+nserver:            ns0.imp.dn42 fdba:0610:d1dd::1
+source:             DN42

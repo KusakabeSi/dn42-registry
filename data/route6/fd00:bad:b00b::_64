@@ -1,0 +1,4 @@
+route6:             fd00:bad:b00b::/64
+origin:             AS4242420467
+mnt-by:             REISENB-MNT
+source:             DN42

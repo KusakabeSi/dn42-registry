@@ -1,0 +1,9 @@
+domain:             fvpn.dn42
+descr:              Fvpn DNS
+admin-c:            FUGITIVE-DN42
+tech-c:             FUGITIVE-DN42
+mnt-by:             FUGITIVE-MNT
+nserver:            ns1.fvpn.dn42    172.21.101.33
+nserver:            ns2.fvpn.dn42    172.21.101.34
+nserver:            ns-v6.fvpn.dn42    fdbd:329d:c58a::1
+source:             DN42

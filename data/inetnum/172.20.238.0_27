@@ -1,0 +1,10 @@
+inetnum:            172.20.238.0 - 172.20.238.31
+netname:            SAMMKO-NET
+nserver:            ns1.sammko.dn42
+status:             ASSIGNED
+country:            SK
+admin-c:            SAMMKO-DN42
+tech-c:             SAMMKO-DN42
+mnt-by:             SAMMKO-MNT
+cidr:               172.20.238.0/27
+source:             DN42

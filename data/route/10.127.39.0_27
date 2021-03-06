@@ -1,0 +1,8 @@
+route:              10.127.39.0/27
+max-length:         29
+origin:             AS4201270009
+admin-c:            TYLER-NEONETWORK
+tech-c:             TYLER-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

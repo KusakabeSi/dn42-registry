@@ -1,0 +1,10 @@
+inetnum:            172.23.202.0 - 172.23.202.255
+netname:            PYROPETER-HOME-DN42-IP4NET
+descr:              PyroPeter's home network
+country:            DE
+admin-c:            PYROPETER-DN42
+tech-c:             PYROPETER-DN42
+status:             ASSIGNED
+cidr:               172.23.202.0/24
+mnt-by:             PYROPETER-MNT
+source:             DN42

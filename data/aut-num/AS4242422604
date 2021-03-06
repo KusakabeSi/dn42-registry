@@ -1,0 +1,12 @@
+aut-num:            AS4242422604
+as-name:            ERITAP-AS
+descr:              ERITAP Network AS
+remarks:            -------------------------
+remarks:            Open for peering requests
+remarks:            Please contact us
+remarks:            -------------------------
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+org:                ORG-ERITAP
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.170.128/28
+descr:              KWQ
+origin:             AS4242420296
+mnt-by:             DAURNIMATOR-MNT
+source:             DN42

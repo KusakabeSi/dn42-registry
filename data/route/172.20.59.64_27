@@ -1,0 +1,4 @@
+route:              172.20.59.64/27
+origin:             AS4242423621
+mnt-by:             TAILSNET-MNT
+source:             DN42

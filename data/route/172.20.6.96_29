@@ -1,0 +1,4 @@
+route:              172.20.6.96/29
+origin:             AS4242420981
+mnt-by:             FOOBARS-MNT
+source:             DN42

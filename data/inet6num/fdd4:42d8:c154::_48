@@ -1,0 +1,10 @@
+inet6num:           fdd4:42d8:c154:0000:0000:0000:0000:0000 - fdd4:42d8:c154:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd4:42d8:c154::/48
+netname:            PETROS
+descr:              PETROS
+country:            GR
+admin-c:            PETROS-DN42
+tech-c:             PETROS-DN42
+mnt-by:             PETROS-MNT
+status:             ASSIGNED
+source:             DN42

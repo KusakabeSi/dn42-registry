@@ -1,0 +1,11 @@
+inet6num:           fdb2:f582:b9d1:0000:0000:0000:0000:0000 - fdb2:f582:b9d1:ffff:ffff:ffff:ffff:ffff
+netname:            DRATHIR-DN42-BASIL-OVH-FRA-GRA-INET6
+descr:              DRATHIR-DN42-BASIL-OVH-FRA-GRA-INET6
+country:            FR
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+nserver:            ns4.drathir.dn42
+status:             ALLOCATED
+cidr:               fdb2:f582:b9d1::/48
+source:             DN42

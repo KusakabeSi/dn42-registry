@@ -1,0 +1,19 @@
+aut-num:            AS76175
+as-name:            DARKIT
+descr:              Dark-IT AS
+remarks:            +------------------------------------+
+remarks:            + OpenVPN and IPSec/GRE peering
+remarks:            + Located in:
+remarks:            + Falkenstein, Germany (Hetzner, RZ17) [IPsec, oVPN]
+remarks:            + Roubaix, France (OVH) [oVPN]
+remarks:            + Beauharnois, Canada (OVH) [oVPN]
+remarks:            + Tokio, Japan (Vultr) [IPsec, oVPN]
+remarks:            + Peering contact DARKIT-DN42
+remarks:            +------------------------------------+
+remarks:            + Peering policy OPEN
+remarks:            + More details: http://dn42.dark-it.net
+remarks:            +------------------------------------+
+admin-c:            DARKIT-DN42
+tech-c:             DARKIT-DN42
+mnt-by:             DARKIT-MNT
+source:             DN42

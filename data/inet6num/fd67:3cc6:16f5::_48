@@ -1,0 +1,8 @@
+inet6num:           fd67:3cc6:16f5:0000:0000:0000:0000:0000 - fd67:3cc6:16f5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd67:3cc6:16f5::/48
+netname:            Unnamed fd67:3cc6:16f5::/48 Network
+admin-c:            IMIR-DN42
+tech-c:             IMIR-DN42
+mnt-by:             IMIR-MNT
+status:             ASSIGNED
+source:             DN42

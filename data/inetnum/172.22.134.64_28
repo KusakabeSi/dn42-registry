@@ -1,0 +1,11 @@
+inetnum:            172.22.134.64 - 172.22.134.79
+netname:            JRAC-NETWORK
+country:            AU
+admin-c:            JRAC-DN42
+tech-c:             JRAC-DN42
+mnt-by:             JRAC-MNT
+nserver:            ns1.jracnet.dn42
+nserver:            ns2.jracnet.dn42
+status:             ASSIGNED
+cidr:               172.22.134.64/28
+source:             DN42

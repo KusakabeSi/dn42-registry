@@ -1,0 +1,8 @@
+inetnum:            172.22.105.32 - 172.22.105.63
+cidr:               172.22.105.32/27
+netname:            JHE-NETWORK
+admin-c:            JHE-DN42
+tech-c:             JHE-DN42
+mnt-by:             JHE-MNT
+status:             ASSIGNED
+source:             DN42

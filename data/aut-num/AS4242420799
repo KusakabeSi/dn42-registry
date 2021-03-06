@@ -1,0 +1,15 @@
+aut-num:            AS4242420799
+as-name:            LIVIDnet
+descr:              AS for AlwaysLivid
+admin-c:            ALWAYSLIVID-DN42
+tech-c:             ALWAYSLIVID-DN42
+mnt-by:             ALWAYSLIVID-MNT
+remarks:            /----------------------------------------------\
+remarks:            | Peering info:                                |
+remarks:            | - Open for peerings. Please reach out!       |
+remarks:            | - Tunnel protocol: Wireguard                 |
+remarks:            |----------------------------------------------|
+remarks:            | Locations:                                   |
+remarks:            | - Athens, Greece (Homelab)                   |
+remarks:            \----------------------------------------------/
+source:             DN42

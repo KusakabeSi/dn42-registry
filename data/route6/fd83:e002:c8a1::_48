@@ -1,0 +1,6 @@
+route6:             fd83:e002:c8a1::/48
+origin:             AS64525
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: uelzen
+mnt-by:             DN42-MNT
+source:             ICVPN

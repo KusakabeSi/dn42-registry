@@ -1,0 +1,18 @@
+aut-num:            AS4242423073
+as-name:            PATERNOT-AS
+admin-c:            PATERNOT-DN42
+tech-c:             PATERNOT-DN42
+mnt-by:             PATERNOT-MNT
+source:             DN42
+remarks:            
+remarks:            Open for Wireguard peering.
+remarks:            Contact: dn42 AT shiva DOT eti DOT br
+remarks:            Or find me (Paternot) on IRC #dn42
+remarks:            I only route DN42 IPv6.
+remarks:            I prefer to use a pair of /127 IPv6 to BGP.
+remarks:            Can work with /128. No link local though.
+remarks:            
+remarks:            I'm at RJ/Brazil.
+remarks:            
+remarks:            You agree to accept the Pico Peering Agreement v1.0 when peering with us.
+remarks:            

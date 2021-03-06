@@ -1,0 +1,34 @@
+aut-num:            AS4242422700
+as-name:            AS-GOTROOT
+descr:              Got root?
+remarks:            Open Peering
+remarks:            .Contact: IRC error404
+remarks:            .         ktims@gotroot.dn42 / ktims@gotroot.ca
+remarks:            .
+remarks:            Locations:
+remarks:            ----------
+remarks:            Vancouver, BC, CA
+remarks:            New York City, NY, US
+remarks:            Toronto, ON, CA
+remarks:            Amsterdam, NL
+remarks:            .
+remarks:            BGP Communities (in addition to DN42 "standard"):
+remarks:            -------------------------------------------------
+remarks:            22700:50001 - Route originated in Vancouver
+remarks:            22700:50002 - Route originated in NYC
+remarks:            22700:50003 - Route originated in Toronto
+remarks:            22700:50004 - Route originated in Amsterdam
+remarks:            .
+remarks:            Internal routing policy
+remarks:            -----------------------
+remarks:            - I always compare MED. iBGP MEDs are based on
+remarks:            baseline latency (in ms) * 10. On import, I
+remarks:            add to your MED based on our peering latency.
+remarks:            - I do not use localpref internally, and do not
+remarks:            differentiate policy between transit & peering.
+remarks:            If you advertise a route to me, I will advertise
+remarks:            it globally, and may choose it for any traffic.
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+source:             DN42

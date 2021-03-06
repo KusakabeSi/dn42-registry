@@ -1,0 +1,11 @@
+inetnum:            172.23.16.0 - 172.23.23.255
+cidr:               172.23.16.0/21
+netname:            NET-BLK31621-DN42
+descr:              Legacy NL-Zuid DN42 IPv4 reserve block
+remarks:            Previously reserved for NL-Zuid infrastructure and exchanges
+remarks:            2019-09-08 Policy set to closed as NL-Zuid no longer exists
+policy:             closed
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

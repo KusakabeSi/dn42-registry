@@ -1,0 +1,9 @@
+domain:             skynet.dn42
+descr:              Skynet domain
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+nserver:            ns1.skynet.dn42 172.22.77.66
+nserver:            ns1.skynet.dn42 fd10:49:4f:1::2
+nserver:            ns2.skynet.dn42 fd10:49:4f:2::2
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdbd:8dc9:3d2b:0000:0000:0000:0000:0000 - fdbd:8dc9:3d2b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbd:8dc9:3d2b::/48
+netname:            GIMPYB-NET-1
+admin-c:            GIMPYB-DN42
+tech-c:             GIMPYB-DN42
+mnt-by:             GIMPYB-MNT
+status:             ASSIGNED
+source:             DN42

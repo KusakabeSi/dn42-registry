@@ -1,0 +1,4 @@
+route:              172.20.187.128/26
+origin:             AS4242423798
+mnt-by:             B3L-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdc7:a5af:3231:0000:0000:0000:0000:0000 - fdc7:a5af:3231:ffff:ffff:ffff:ffff:ffff
+country:            US
+cidr:               fdc7:a5af:3231::/48
+nserver:            jesse.cater.dn42
+nserver:            walter.cater.dn42
+netname:            CATER-NET-1
+admin-c:            CATER-DN42
+tech-c:             CATER-DN42
+mnt-by:             CATER-MNT
+status:             ASSIGNED
+source:             DN42

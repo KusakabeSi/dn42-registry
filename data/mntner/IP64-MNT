@@ -1,0 +1,7 @@
+mntner:             IP64-MNT
+descr:              IP64 NETWORK
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAnQNS7kywW4WRgE6uyZew6gXjhsNq8/paF82DTxIwZNQ8LEoWQnz73v+IoLddwpxJiH7CWjC7bQwNw/gfj0VVfqXrIFJtomJdeht6ciEGT3zjnMFGY1/403cNDK3BoZW2pu0UGjx984FFtYlwV371uUI90uKAdLMp2vMEtV66GzrcpuKaLE9y9SJpUmiaaCjTwKb4bnESt32KC8Ag4iab12CZgMPFcSpbmDEol5pnlxz3Nlv9fBW+gzIhD/EVtBKHs9T3fdgIaBa6JutJ8gNXDaPk3auVjJOeYHomqK84nvoHGgENV5W9so35yTjfP9zJHytTvcHVJRr2ebvWVMU0lw== rsa-key-20171011
+admin-c:            IP64-DN42
+tech-c:             IP64-DN42
+mnt-by:             IP64-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:0470:ed5d:0000:0000:0000:0000:0000 - fd42:0470:ed5d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:470:ed5d::/48
+netname:            MAKERFORCE-NETWORK
+descr:              Network of MakerForce
+country:            SG
+admin-c:            AMBROSE-DN42
+tech-c:             AMBROSE-DN42
+mnt-by:             AMBROSE-MNT
+nserver:            ns1.makerforce.dn42
+status:             ASSIGNED
+source:             DN42

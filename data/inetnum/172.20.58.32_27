@@ -1,0 +1,11 @@
+inetnum:            172.20.58.32 - 172.20.58.63
+cidr:               172.20.58.32/27
+netname:            REDEYE-NETWORK
+admin-c:            ANAND-DN42
+tech-c:             ANAND-DN42
+org:                ORG-REDEYE
+mnt-by:             ANAND-MNT
+nserver:            ns1.redeye.dn42
+nserver:            ns2.redeye.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdea:dead:face::/48
+origin:             AS4242420130
+mnt-by:             TOBIHB-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdf1:f170:b834::/48
+origin:             AS4242420159
+mnt-by:             CBS-MNT
+source:             DN42

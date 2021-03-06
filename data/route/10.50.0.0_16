@@ -1,0 +1,6 @@
+route:              10.50.0.0/16
+origin:             AS65024
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: franken
+mnt-by:             DN42-MNT
+source:             ICVPN

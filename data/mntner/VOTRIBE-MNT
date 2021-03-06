@@ -1,0 +1,6 @@
+mntner:             VOTRIBE-MNT
+admin-c:            VOTRIBE-DN42
+tech-c:             VOTRIBE-DN42
+mnt-by:             VOTRIBE-MNT
+auth:               pgp-fingerprint 294AFE455687D61DD054DB001C717081B7F29EA9
+source:             DN42

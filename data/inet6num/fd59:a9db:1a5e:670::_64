@@ -1,0 +1,10 @@
+inet6num:           fd59:a9db:1a5e:0670:0000:0000:0000:0000 - fd59:a9db:1a5e:0670:ffff:ffff:ffff:ffff
+cidr:               fd59:a9db:1a5e:670::/64
+netname:            FOOBARS
+descr:              FOOBARS IPv6
+country:            NL
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ASSIGNED
+source:             DN42

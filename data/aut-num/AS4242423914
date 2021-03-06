@@ -1,0 +1,10 @@
+aut-num:            AS4242423914
+as-name:            Kioubit Network
+remarks:            **** Open Peering Policy*****
+remarks:            Peering requests: admin@g-load.eu
+remarks:            More information about latency and locations
+remarks:            on https://dn42.g-load.eu
+admin-c:            KIOUBIT-DN42
+tech-c:             KIOUBIT-DN42
+mnt-by:             KIOUBIT-MNT
+source:             DN42

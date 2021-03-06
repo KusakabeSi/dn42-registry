@@ -1,0 +1,7 @@
+domain:             plumbus.dn42
+descr:              plumbus network
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+nserver:            ns1.szf.dn42
+source:             DN42

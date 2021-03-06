@@ -1,0 +1,4 @@
+route6:             fd00:67a2:7d02::/48
+origin:             AS4242422462
+mnt-by:             FREACH-MNT
+source:             DN42

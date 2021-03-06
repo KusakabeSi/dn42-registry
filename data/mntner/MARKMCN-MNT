@@ -1,0 +1,6 @@
+mntner:             MARKMCN-MNT
+admin-c:            MARKMCN-DN42
+tech-c:             MARKMCN-DN42
+mnt-by:             MARKMCN-MNT
+source:             DN42
+auth:               gpg-fingerprint 93E39F5BE377C2EC6606A7BF995A440FAEE3256A

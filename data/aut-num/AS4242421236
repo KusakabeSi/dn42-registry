@@ -1,0 +1,9 @@
+aut-num:            AS4242421236
+remarks:            Open peering, contact me
+admin-c:            DOMINIKH-DN42
+remarks:            IRC: dominikh
+remarks:            Locations: Falkenstein (Germany)
+tech-c:             DOMINIKH-DN42
+mnt-by:             DOMINIKH-MNT
+as-name:            Unnamed aut-num AS4242421236
+source:             DN42

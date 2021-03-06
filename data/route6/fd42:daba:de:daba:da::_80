@@ -1,0 +1,4 @@
+route6:             fd42:daba:de:daba:da::/80
+origin:             AS4242427877
+mnt-by:             PHAUX-MNT
+source:             DN42

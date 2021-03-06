@@ -1,0 +1,6 @@
+route:              10.49.0.0/18
+origin:             AS64900
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: einbeck
+mnt-by:             DN42-MNT
+source:             ICVPN

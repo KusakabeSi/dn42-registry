@@ -1,0 +1,10 @@
+inetnum:            172.23.119.176 - 172.23.119.191
+netname:            SIS-DN42-INET4-VPN1
+descr:              VPN clients
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               172.23.119.176/28
+source:             DN42

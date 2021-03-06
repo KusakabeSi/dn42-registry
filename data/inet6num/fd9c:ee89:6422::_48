@@ -1,0 +1,9 @@
+inet6num:           fd9c:ee89:6422:0000:0000:0000:0000:0000 - fd9c:ee89:6422:ffff:ffff:ffff:ffff:ffff
+netname:            ZKNT-IP6NET
+descr:              ZKNT IP6NET
+admin-c:            HNRD-DN42
+tech-c:             HNRD-DN42
+mnt-by:             ZKNT-MNT
+status:             ASSIGNED
+cidr:               fd9c:ee89:6422::/48
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             MENTHA-MNT
+descr:              Mentha Maintenance Object
+auth:               pgp-fingerprint 1B6A372C0894D8298FEEE9AB14C92FD5C3FC2266
+admin-c:            MENTHA-DN42
+tech-c:             MENTHA-DN42
+mnt-by:             MENTHA-MNT
+source:             DN42

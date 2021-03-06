@@ -1,0 +1,10 @@
+inetnum:            172.20.207.64 - 172.20.207.95
+netname:            LAMENET-DN42
+descr:              LAMENET PA
+country:            BG
+admin-c:            LAMENET-DN42
+tech-c:             LAMENET-DN42
+mnt-by:             LAMENET-MNT
+status:             ALLOCATED
+cidr:               172.20.207.64/27
+source:             DN42

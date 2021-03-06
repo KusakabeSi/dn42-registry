@@ -1,0 +1,6 @@
+inetnum:            172.20.165.128 - 172.20.165.191
+cidr:               172.20.165.128/26
+netname:            MEBUS-LEGACY
+status:             ASSIGNED
+mnt-by:             MEBUS-MNT
+source:             DN42

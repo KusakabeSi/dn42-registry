@@ -1,0 +1,6 @@
+route6:             fddf:bf7:80::/48
+origin:             AS64859
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: badoldesloe
+mnt-by:             DN42-MNT
+source:             ICVPN

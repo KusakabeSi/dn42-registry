@@ -1,0 +1,11 @@
+inetnum:            172.20.143.32 - 172.20.143.47
+cidr:               172.20.143.32/28
+netname:            LALAKIS-NETWORK
+descr:              network of lalakis
+admin-c:            LALAKIS-DN42
+country:            GR
+tech-c:             LALAKIS-DN42
+mnt-by:             LALAKIS-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            lalakis-2.lalakis.dn42

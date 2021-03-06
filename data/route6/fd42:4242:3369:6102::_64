@@ -1,0 +1,5 @@
+route6:             fd42:4242:3369:6102::/64
+descr:              Haruka Network Node
+origin:             AS4242423369
+mnt-by:             HARUKA-MNT
+source:             DN42

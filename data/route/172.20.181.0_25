@@ -1,0 +1,5 @@
+route:              172.20.181.0/25
+descr:              Gotroot
+origin:             AS4242422700
+mnt-by:             GOTROOT-MNT
+source:             DN42

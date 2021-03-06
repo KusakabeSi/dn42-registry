@@ -1,0 +1,7 @@
+domain:             whmcr.dn42
+admin-c:            WHMCR-DN42
+tech-c:             WHMCR-DN42
+mnt-by:             WHMCR-MNT
+nserver:            ns1.whmcr.dn42 fd42:f7b1:1078::2
+nserver:            ns1.whmcr.dn42 172.20.47.130
+source:             DN42

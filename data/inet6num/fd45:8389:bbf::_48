@@ -1,0 +1,9 @@
+inet6num:           fd45:8389:0bbf:0000:0000:0000:0000:0000 - fd45:8389:0bbf:ffff:ffff:ffff:ffff:ffff
+netname:            VPSSOLUTIONS-01-NET6
+country:            US
+admin-c:            CONNOR-DN42
+tech-c:             CONNOR-DN42
+mnt-by:             VPSSOLUTIONS-MNT
+status:             ASSIGNED PI
+cidr:               fd45:8389:bbf::/48
+source:             DN42

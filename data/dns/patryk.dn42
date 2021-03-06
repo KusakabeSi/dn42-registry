@@ -1,0 +1,7 @@
+domain:             patryk.dn42
+admin-c:            PATRYK-DN42
+tech-c:             PATRYK-DN42
+mnt-by:             PATRYK-MNT
+nserver:            ns1.patryk.dn42 172.23.24.1
+nserver:            ns1.patryk.dn42 fd42:4242:443::1
+source:             DN42

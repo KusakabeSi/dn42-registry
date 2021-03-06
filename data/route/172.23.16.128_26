@@ -1,0 +1,6 @@
+route:              172.23.16.128/26
+descr:              NL-ZUID-IX-FKS
+origin:             AS4242420120
+mnt-by:             MARLINC-MNT
+mnt-by:             GRMML-MNT
+source:             DN42

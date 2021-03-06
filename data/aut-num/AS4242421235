@@ -1,0 +1,7 @@
+aut-num:            AS4242421235
+as-name:            DOVY-ALT-AS
+descr:              Alternative AS
+admin-c:            DOVY-DN42
+tech-c:             DOVY-DN42
+mnt-by:             DOVY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdfd:dead:c0de::/64
+origin:             AS4242421230
+mnt-by:             REWBYSOFT-MNT
+source:             DN42

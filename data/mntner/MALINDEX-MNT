@@ -1,0 +1,6 @@
+mntner:             MALINDEX-MNT
+admin-c:            MALINDEX-DN42
+tech-c:             MALINDEX-DN42
+mnt-by:             MALINDEX-MNT
+auth:               pgp-fingerprint 10B0FFEFF2D8263A9B5987D418B67B0FDF8E4CF1
+source:             DN42

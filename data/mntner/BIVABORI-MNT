@@ -1,0 +1,7 @@
+mntner:             BIVABORI-MNT
+descr:              Bivabori Network
+admin-c:            BIVABORI-DN42
+tech-c:             BIVABORI-DN42
+mnt-by:             BIVABORI-MNT
+auth:               pgp-fingerprint B826C65C08CDA357983BEF3009F81DB828DE9B6B
+source:             DN42

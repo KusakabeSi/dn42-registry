@@ -1,0 +1,8 @@
+inetnum:            172.20.135.96 - 172.20.135.127
+cidr:               172.20.135.96/27
+netname:            ZAICA-NETWORK
+mnt-by:             ZAICA-MNT
+admin-c:            ASANYI-DN42
+tech-c:             ASANYI-DN42
+source:             DN42
+status:             ASSIGNED

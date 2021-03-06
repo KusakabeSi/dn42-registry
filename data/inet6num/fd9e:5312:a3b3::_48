@@ -1,0 +1,11 @@
+inet6num:           fd9e:5312:a3b3:0000:0000:0000:0000:0000 - fd9e:5312:a3b3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:5312:a3b3::/48
+netname:            VSL-NET-1
+descr:              Network for VSLNET
+org:                ORG-VSL
+country:            PH
+admin-c:            ELMER-DN42
+tech-c:             ELMER-DN42
+mnt-by:             ELMER-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd0f:6965:e916::/48
+origin:             AS4242422010
+max-length:         48
+mnt-by:             ONVOX-MNT
+source:             DN42

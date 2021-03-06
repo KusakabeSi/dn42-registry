@@ -1,0 +1,4 @@
+route6:             fdfc:e23f:fb45:3234::/64
+origin:             AS0
+mnt-by:             KIOUBIT-MNT
+source:             DN42

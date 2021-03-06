@@ -1,0 +1,4 @@
+route:              172.23.250.32/27
+origin:             AS4242422633
+mnt-by:             EASTBOUND-MNT
+source:             DN42

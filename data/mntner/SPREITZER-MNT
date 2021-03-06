@@ -1,0 +1,7 @@
+mntner:             SPREITZER-MNT
+descr:              Spreitzer in CH
+admin-c:            SPREITZER-DN42
+tech-c:             SPREITZER-DN42
+mnt-by:             SPREITZER-MNT
+source:             DN42
+auth:               pgp-fingerprint BBB7412E285684255600448768D66FF5DDAC361F

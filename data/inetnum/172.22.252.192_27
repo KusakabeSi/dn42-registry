@@ -1,0 +1,10 @@
+inetnum:            172.22.252.192 - 172.22.252.223
+netname:            PR0-NET
+descr:              pr0net TRANS
+country:            DE
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ASSIGNED
+cidr:               172.22.252.192/27
+source:             DN42

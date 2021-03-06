@@ -1,0 +1,6 @@
+route6:             fdd9:a0b1:5bd0::/48
+origin:             AS64863
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mettmann
+mnt-by:             DN42-MNT
+source:             ICVPN

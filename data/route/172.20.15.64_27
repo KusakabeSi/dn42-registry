@@ -1,0 +1,4 @@
+route:              172.20.15.64/27
+origin:             AS4242423230
+mnt-by:             RASP-MNT
+source:             DN42

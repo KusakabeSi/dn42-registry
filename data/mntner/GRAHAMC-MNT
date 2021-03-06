@@ -1,0 +1,6 @@
+mntner:             GRAHAMC-MNT
+admin-c:            GRAHAMC-DN42
+tech-c:             GRAHAMC-DN42
+mnt-by:             GRAHAMC-MNT
+source:             DN42
+auth:               pgp-fingerprint BA94FDF11DA405212864C121FE918C3A98C1030F

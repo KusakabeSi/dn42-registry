@@ -1,0 +1,8 @@
+domain:             kioubit.dn42
+descr:              Information about services: https://dn42.g-load.eu
+admin-c:            KIOUBIT-DN42
+tech-c:             KIOUBIT-DN42
+mnt-by:             KIOUBIT-MNT
+nserver:            ns1.kioubit.dn42 172.20.14.33
+nserver:            ns1.kioubit.dn42 fdcf:8538:9ad5:1111::1
+source:             DN42

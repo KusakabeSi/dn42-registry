@@ -1,0 +1,4 @@
+route6:             fd4c:7750:c7e7::/48
+origin:             AS4242422633
+mnt-by:             EASTBOUND-MNT
+source:             DN42

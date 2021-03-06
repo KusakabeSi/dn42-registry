@@ -1,0 +1,5 @@
+route6:             fd50:3c8f:b8b1::/48
+origin:             AS4242423820
+descr:              SZB86-Network
+mnt-by:             DN42-MNT
+source:             DN42

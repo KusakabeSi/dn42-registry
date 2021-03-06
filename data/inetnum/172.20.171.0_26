@@ -1,0 +1,9 @@
+inetnum:            172.20.171.0 - 172.20.171.63
+netname:            COSNET-NETWORKS
+country:            DE
+admin-c:            COSMIC-DN42
+tech-c:             COSMIC-DN42
+mnt-by:             COSMIC-MNT
+status:             ASSIGNED
+cidr:               172.20.171.0/26
+source:             DN42

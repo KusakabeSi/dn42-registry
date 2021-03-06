@@ -1,0 +1,10 @@
+inetnum:            172.20.246.32 - 172.20.246.63
+netname:            WILDCODER-HOME
+descr:              Wildcoder Home Allocation
+country:            ZA
+admin-c:            IANWILDCODER-DN42
+tech-c:             IANWILDCODER-DN42
+mnt-by:             WILDCODER-MNT
+status:             ASSIGNED
+cidr:               172.20.246.32/27
+source:             DN42

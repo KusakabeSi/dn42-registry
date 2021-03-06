@@ -1,0 +1,4 @@
+route6:             fd16:abc0:dffd::/48
+origin:             AS4242420530
+mnt-by:             LANAO-MNT
+source:             DN42

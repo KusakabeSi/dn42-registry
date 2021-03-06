@@ -1,0 +1,7 @@
+domain:             w1kl4s.dn42
+admin-c:            W1KL4S-DN42
+tech-c:             W1KL4S-DN42
+mnt-by:             W1KL4S-MNT
+nserver:            ns1.w1kl4s.dn42 172.23.193.1
+nserver:            ns2.w1kl4s.dn42 fd25:af2d:1f51:53::1
+source:             DN42

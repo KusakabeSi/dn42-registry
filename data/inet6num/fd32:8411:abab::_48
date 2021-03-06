@@ -1,0 +1,11 @@
+inet6num:           fd32:8411:abab:0000:0000:0000:0000:0000 - fd32:8411:abab:ffff:ffff:ffff:ffff:ffff
+cidr:               fd32:8411:abab::/48
+netname:            ERITAP-IPV6-NET-1
+country:            NL
+nserver:            ns.eritap.dn42
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+org:                ORG-ERITAP
+status:             ASSIGNED
+source:             DN42

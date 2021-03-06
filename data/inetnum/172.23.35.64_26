@@ -1,0 +1,9 @@
+inetnum:            172.23.35.64 - 172.23.35.127
+netname:            HIGHER-IPV4
+country:            CN
+admin-c:            HIGHER-DN42
+tech-c:             HIGHER-DN42
+mnt-by:             HIGHER-MNT
+status:             ASSIGNED
+cidr:               172.23.35.64/26
+source:             DN42

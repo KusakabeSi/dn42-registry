@@ -1,0 +1,10 @@
+inet6num:           fd42:0128:0026:0000:0000:0000:0000:0000 - fd42:0128:0026:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-JPLITZA-DN42
+country:            DE
+admin-c:            JPLITZA-DN42
+tech-c:             JPLITZA-DN42
+mnt-by:             JPLITZA-MNT
+nserver:            ns01.dn42.jplitza.de
+status:             ASSIGNED
+cidr:               fd42:128:26::/48
+source:             DN42

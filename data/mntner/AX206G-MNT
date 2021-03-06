@@ -1,0 +1,8 @@
+mntner:             AX206G-MNT
+admin-c:            AX206G-DN42
+tech-c:             AX206G-DN42
+mnt-by:             AX206G-MNT
+auth:               pgp-fingerprint D2959202DDFFD1292FB3A1F9FA8F2D40B19FF52D
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBRHNYvfS5eEMsor1snch4mbpqTidoiyIAmyUMm669cn
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoRivxDC8xnC132gNNPd6lOe/PVG+GPO+dXLw/VghuRCPvuqP753KGWtG+V5znfr/ejc8W0Et8qeb+weRXlEZNj6NsEehdV1+feX81r2A0cLZSQzlQ4Pn4uFVwtqVEABL/O1+lX4Ws5J3GXM4AOuGCDBZuoY2QHFs/p4ZM2s219GTAS00MBmrthMKzD1V5LstCCPbSk8/h5SBPFLE+E6Oq2/GCG0e+blBmE1d/uabfGbNjArttu+7tPgp6rmQmkpLCGzRW9WekotJqvqda2bilbLsttcYXWKBlH0ByVPeVBi7gmKgJHUOyk1AkLkVBbpOsn+AM9rMIEL9Dc+xFsNOP
+source:             DN42

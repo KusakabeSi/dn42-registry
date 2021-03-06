@@ -1,0 +1,4 @@
+route:              172.20.29.160/27
+origin:             AS4242422408
+mnt-by:             NICOLAS-MNT
+source:             DN42

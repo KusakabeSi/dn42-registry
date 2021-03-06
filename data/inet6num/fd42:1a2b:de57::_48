@@ -1,0 +1,10 @@
+inet6num:           fd42:1a2b:de57:0000:0000:0000:0000:0000 - fd42:1a2b:de57:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1a2b:de57::/48
+netname:            FCC-dn42
+descr:              dn42 network for MN Free Comupting Club
+country:            US
+admin-c:            GODEL-DN42
+tech-c:             GODEL-DN42
+mnt-by:             FCC-MNT
+source:             DN42
+status:             ASSIGNED

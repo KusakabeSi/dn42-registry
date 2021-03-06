@@ -1,0 +1,8 @@
+inetnum:            172.20.32.16 - 172.20.32.31
+cidr:               172.20.32.16/28
+netname:            SUAWEK-NET-V4-1
+admin-c:            SUAWEK-DN42
+tech-c:             SUAWEK-DN42
+mnt-by:             SUAWEK-MNT
+status:             ASSIGNED
+source:             DN42

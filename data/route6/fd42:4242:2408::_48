@@ -1,0 +1,5 @@
+route6:             fd42:4242:2408::/48
+origin:             AS4242422408
+max-length:         48
+mnt-by:             NICOLAS-MNT
+source:             DN42

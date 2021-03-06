@@ -1,0 +1,11 @@
+inetnum:            172.22.68.0 - 172.22.68.31
+netname:            IMLONGHAO-NETWORK
+descr:              imlonghao IPv4 Network
+country:            CN
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+nserver:            ns.imlonghao.dn42
+status:             ASSIGNED
+cidr:               172.22.68.0/27
+source:             DN42

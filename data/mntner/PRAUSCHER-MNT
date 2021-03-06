@@ -1,0 +1,7 @@
+mntner:             PRAUSCHER-MNT
+descr:              Patrick Rauscher <prauscher>
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+source:             DN42
+auth:               pgp-fingerprint 31E64F8042984BA4E830C574966642860AECFC71

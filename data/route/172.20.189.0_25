@@ -1,0 +1,4 @@
+route:              172.20.189.0/25
+origin:             AS4242420037
+mnt-by:             UTLEYCCKS-MNT
+source:             DN42

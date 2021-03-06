@@ -1,0 +1,8 @@
+inetnum:            172.20.5.192 - 172.20.5.223
+cidr:               172.20.5.192/27
+netname:            DIGILINK-NETWORK
+admin-c:            DIGILINK-DN42
+tech-c:             DIGILINK-DN42
+mnt-by:             DIGILINK-MNT
+status:             ASSIGNED
+source:             DN42

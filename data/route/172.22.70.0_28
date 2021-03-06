@@ -1,0 +1,6 @@
+route:              172.22.70.0/28
+origin:             AS76198
+remarks:            Temporary route object for debugging
+mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

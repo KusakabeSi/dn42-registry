@@ -1,0 +1,5 @@
+route6:             fda0:bbe1:38d::/48
+descr:              TRRUNDES-V6
+origin:             AS4242420160
+mnt-by:             TRRUNDE-MNT
+source:             DN42

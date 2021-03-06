@@ -1,0 +1,4 @@
+route:              172.20.42.160/27
+origin:             AS4242423928
+mnt-by:             TOPSARUN-MNT
+source:             DN42

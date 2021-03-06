@@ -1,0 +1,4 @@
+route6:             fd83:8d95:230b::/48
+origin:             AS4242423569
+mnt-by:             DHE-MNT
+source:             DN42

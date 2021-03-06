@@ -1,0 +1,7 @@
+inetnum:            10.105.0.0 - 10.105.63.255
+cidr:               10.105.0.0/18
+netname:            ICVPN-SCHWABACH
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: schwabach
+mnt-by:             DN42-MNT
+source:             ICVPN

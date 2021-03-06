@@ -1,0 +1,6 @@
+route6:             fdd0:77f2:44de::/48
+descr:              Peer with me at firehazard@mtahost.co
+origin:             AS4242422077
+max-length:         64
+mnt-by:             FEU-MNT
+source:             DN42

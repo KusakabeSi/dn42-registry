@@ -1,0 +1,7 @@
+mntner:             SOMNET-MNT
+admin-c:            SOMNET-DN42
+tech-c:             SOMNET-DN42
+mnt-by:             SOMNET-MNT
+remarks:            pin-sha256:OG9f6XD9Ztlzelwzu/hdStoOk2EQPiPhxHi5JFWI4eg=
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjPxYYseIDs2PoJoaLr9FYhlT95CZtdVyLCRnMgtpg+0rrH+m3E6Q7721aseX5sL4PozhZA/kf+btipIRdqlZruXJprR9eTazQghSmASX8SZOssUy3+k6pdQ2ObJu4AmKPDukBeihem16fUTztO/NGL7SjFu/BTzXwaySJDirIp8OubPaS7F199eXlfgQpU1xJuleY8ip/1+3dmECtXbr0F0GMbLVf6guzh7+ExEaL+JwQbKUQ4lQIJhatnUIxk7gLGWDCEsdYLJxNujuaVDHVjApEmTvEFAcZH0np7cjTtcLGGN0hZgPE3ghxOgyrgOLGWzSnHMVqF+CzqbgcBorl
+source:             DN42

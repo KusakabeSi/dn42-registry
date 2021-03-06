@@ -1,0 +1,12 @@
+inet6num:           fd42:abcd:ef00:0000:0000:0000:0000:0000 - fd42:abcd:ef00:ffff:ffff:ffff:ffff:ffff
+netname:            LERNET-IPV6
+descr:              LERNET IPv6 Range
+country:            GB
+admin-c:            LER-DN42
+tech-c:             LER-DN42
+mnt-by:             LERNET-MNT
+nserver:            ns1.lernet.dn42
+nserver:            ns2.lernet.dn42
+status:             ASSIGNED
+cidr:               fd42:abcd:ef00::/48
+source:             DN42

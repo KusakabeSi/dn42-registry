@@ -1,0 +1,6 @@
+domain:             adnidor.dn42
+admin-c:            ADNIDOR-DN42
+tech-c:             ADNIDOR-DN42
+mnt-by:             ADNIDOR-MNT
+nserver:            ns.adnidor.dn42 172.20.4.33
+source:             DN42

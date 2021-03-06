@@ -1,0 +1,7 @@
+mntner:             DAN-MNT
+admin-c:            DAN-DN42
+tech-c:             DAN-DN42
+mnt-by:             DAN-MNT
+auth:               pgp-fingerprint F18103A82485F3E5D758B39326F6883DACCB3F41
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBmKiQZZQI3jX8Sc2kuwVTg+zjIocEeD84FV9HAlS8JDgllXVcoBVAc/LM4K0Ko5GMwdKoTUa5TC0huaCJonSmZwCr1oRG5DEnwMIdawzMr03U1Fk1tLOO863w/+sbat+Ch8KfAQKB+AjZnFSHeOktz0Nv/JY0yi1BEjS1In7YruOTDpeVIorvIVhc64Q0GwWcpS3/ebdMnJ4nF7IJe/1qYJLs6uDYa837HfZuMO4hkVTYi+O1HyjJqFNtu6OYFcp2kDhI8XoT7auzXoPRp4kBgUw+gJDDLaKYUuYwsKbZ9I87HmywXWgzzIxFYYPibI9SVVwnDTEFptwQ8gdI0/uB daniel
+source:             DN42

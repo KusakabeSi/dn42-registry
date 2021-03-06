@@ -1,0 +1,11 @@
+inetnum:            172.23.234.0 - 172.23.234.15
+netname:            TYPHON-NETWORK
+descr:              TYPHON-NETWORK
+country:            DE
+nserver:            pluto.typhon.dn42
+admin-c:            TYPHON-DN42
+tech-c:             TYPHON-DN42
+mnt-by:             TYPHON-MNT
+status:             ASSIGNED
+cidr:               172.23.234.0/28
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             fan.dn42
+admin-c:            BECKFAN-DN42
+tech-c:             BECKFAN-DN42
+mnt-by:             BECKFAN-MNT
+nserver:            ns.fan.dn42 172.23.99.130
+nserver:            ns2.fan.dn42 172.23.99.129
+source:             DN42

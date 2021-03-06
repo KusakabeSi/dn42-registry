@@ -1,0 +1,6 @@
+mntner:             DOZENCLOUD-MNT
+admin-c:            DOZENCLOUD-DN42
+tech-c:             DOZENCLOUD-DN42
+mnt-by:             DOZENCLOUD-MNT
+auth:               pgp-fingerprint 6FF60096C94F50058CF9683C24C16528B177BEFB
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.102.0/23
+descr:              TOMBII CORE NETWORK
+origin:             AS4242420321
+mnt-by:             TOMBII-DN42-MNT
+source:             DN42

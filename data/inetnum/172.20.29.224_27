@@ -1,0 +1,11 @@
+inetnum:            172.20.29.224 - 172.20.29.255
+cidr:               172.20.29.224/27
+netname:            PHOWORK-NETWORK
+admin-c:            CARLOTRONICS-DN42
+tech-c:             CARLOTRONICS-DN42
+mnt-by:             CARLOTRONICS-MNT
+org:                ORG-PHOWORK
+status:             ASSIGNED
+nserver:            ns1.phowork.dn42
+nserver:            ns2.phowork.dn42
+source:             DN42

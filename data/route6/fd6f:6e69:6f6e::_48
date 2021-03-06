@@ -1,0 +1,5 @@
+route6:             fd6f:6e69:6f6e::/48
+origin:             AS4242423847
+max-length:         48
+mnt-by:             THEQ-MNT
+source:             DN42

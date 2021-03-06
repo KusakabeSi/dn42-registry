@@ -1,0 +1,9 @@
+mntner:             ZHAOFENG-MNT
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+remarks:            ====================
+auth:               pgp-fingerprint 0C20AA073FF575E28F30A61435AFCB9FDBC59D07
+auth:               pgp-fingerprint 7F55777C745EA2082DCA2F5D5040FCD63E1C6262
+remarks:            ====================
+source:             DN42

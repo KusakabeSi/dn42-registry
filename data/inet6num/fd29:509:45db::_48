@@ -1,0 +1,10 @@
+inet6num:           fd29:0509:45db:0000:0000:0000:0000:0000 - fd29:0509:45db:ffff:ffff:ffff:ffff:ffff
+netname:            BUZER-02-NET
+descr:              buzer.net
+country:            FI
+admin-c:            BUZER-DN42
+tech-c:             BUZER-DN42
+mnt-by:             BUZER-MNT
+status:             ASSIGNED
+cidr:               fd29:509:45db::/48
+source:             DN42

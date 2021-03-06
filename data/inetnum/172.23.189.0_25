@@ -1,0 +1,11 @@
+inetnum:            172.23.189.0 - 172.23.189.127
+netname:            NET-HOME-DELTAMAN-DN42
+descr:              Small BGP peer subnets
+country:            NL
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+status:             ALLOCATED
+nserver:            ns1.deltaman.dn42
+cidr:               172.23.189.0/25
+source:             DN42

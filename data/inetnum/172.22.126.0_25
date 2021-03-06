@@ -1,0 +1,11 @@
+inetnum:            172.22.126.0 - 172.22.126.127
+cidr:               172.22.126.0/25
+netname:            JICHI
+admin-c:            FREACH-DN42
+tech-c:             FREACH-DN42
+mnt-by:             FREACH-MNT
+org:                ORG-JICHI
+nserver:            a.dns.rqz.dn42
+nserver:            b.dns.rqz.dn42
+status:             ASSIGNED
+source:             DN42

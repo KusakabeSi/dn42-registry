@@ -1,0 +1,11 @@
+domain:             cheng.dn42
+admin-c:            CHENG-DN42
+tech-c:             CHENG-DN42
+mnt-by:             CHENG-MNT
+nserver:            ns1.cheng.dn42 172.21.79.81
+nserver:            ns1.cheng.dn42 fdfd:a97f:d939:689f::0001
+nserver:            ns2.cheng.dn42 172.22.79.82
+nserver:            ns2.cheng.dn42 fdfd:a97f:d939:689f::0002
+nserver:            ns3.cheng.dn42 172.22.79.83
+nserver:            ns3.cheng.dn42 fdfd:a97f:d939:689f::0003
+source:             DN42

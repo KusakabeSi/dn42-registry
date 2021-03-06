@@ -1,0 +1,12 @@
+inetnum:            172.20.64.0 - 172.20.71.255
+cidr:               172.20.64.0/21
+descr:              Chaos Computer Club Darmstadt
+remarks:            members-only suballocations
+netname:            CCCDA-20150527
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+status:             ALLOCATED
+policy:             closed
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd23:a2b2:9527::/48
+origin:             AS4242421223
+mnt-by:             WORLDNET-MNT
+source:             DN42

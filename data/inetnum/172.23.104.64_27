@@ -1,0 +1,9 @@
+inetnum:            172.23.104.64 - 172.23.104.95
+cidr:               172.23.104.64/27
+netname:            Arg Network Core
+admin-c:            ARG-DN42
+tech-c:             ARG-DN42
+nserver:            ns.nia.dn42
+mnt-by:             ARG-MNT
+status:             ASSIGNED
+source:             DN42

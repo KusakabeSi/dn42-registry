@@ -1,0 +1,7 @@
+mntner:             HARUKA-MNT
+descr:              HARUKA
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9FkatcnPNoy8hn2AGPZdcJ2aKeNGkNhT6SRw3yWizOOgbIPbfYXljQIkgteLmYckkM77xayIdA5H+9SJ8ESMCrhYpRe3CLvJicm/+jL06vKaobdl4idXvOChiHIuC3zmsZ43vA7a4HxOhUG/fNSCnbh3838O1fEkA2L22s+sp3V0YNMyaZ2h/Z9k1pNs+RQNI7rfKIssmQKVkWm9EL5wFv1NrpXdoccPXxEbAl2YMYPRg47H378/F/qsQAaNu7QNnIBmHrD4OCaYm/HfVMJXFRz496MsUJE4+bgFQN6eiiHY0z8qF4kW9LG8GYqUsXhvRxFpMuyoRH9wX9raVR2+d haruka
+admin-c:            HARUKA-DN42
+tech-c:             HARUKA-DN42
+mnt-by:             HARUKA-MNT
+source:             DN42

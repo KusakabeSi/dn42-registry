@@ -1,0 +1,5 @@
+route6:             fd63:b0d8:696e::/48
+origin:             AS4242420316
+max-length:         48
+mnt-by:             CYPHERPUNK-MNT
+source:             DN42

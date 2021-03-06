@@ -1,0 +1,11 @@
+inet6num:           fd42:0d42:2706:0000:0000:0000:0000:0000 - fd42:0d42:2706:ffff:ffff:ffff:ffff:ffff
+netname:            MAJOR-NET
+descr:              Major
+country:            DE
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+nserver:            ns1.major.dn42
+status:             ASSIGNED
+cidr:               fd42:d42:2706::/48
+source:             DN42

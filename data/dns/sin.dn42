@@ -1,0 +1,6 @@
+domain:             sin.dn42
+nserver:            pimp.sin.dn42 172.22.16.6
+admin-c:            ASTRO-DN42
+tech-c:             ASTRO-DN42
+mnt-by:             ASTRO-MNT
+source:             DN42

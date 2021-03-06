@@ -1,0 +1,5 @@
+route:              172.22.92.0/24
+descr:              nihilus' v4 route
+origin:             AS64692
+mnt-by:             DUMMY-MNT
+source:             DN42

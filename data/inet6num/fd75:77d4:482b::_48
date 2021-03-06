@@ -1,0 +1,10 @@
+inet6num:           fd75:77d4:482b:0000:0000:0000:0000:0000 - fd75:77d4:482b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:77d4:482b::/48
+netname:            SBERNAUER-NETWORK
+descr:              Network of sbernauer
+country:            DE
+admin-c:            SBERNAUER-DN42
+tech-c:             SBERNAUER-DN42
+mnt-by:             SBERNAUER-MNT
+status:             ASSIGNED
+source:             DN42

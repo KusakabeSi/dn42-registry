@@ -1,0 +1,10 @@
+inet6num:           fdcf:cafe:0eba:0000:0000:0000:0000:0000 - fdcf:cafe:0eba:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:cafe:eba::/48
+netname:            EBAN-NETWORK
+descr:              Eban's Network
+country:            FR
+admin-c:            EBAN-DN42
+tech-c:             EBAN-DN42
+mnt-by:             EBAN-MNT
+status:             ASSIGNED
+source:             DN42

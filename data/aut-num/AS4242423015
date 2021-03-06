@@ -1,0 +1,7 @@
+aut-num:            AS4242423015
+as-name:            HOMELAB
+descr:              HOMELAB
+admin-c:            HOMELAB-DN42
+tech-c:             HOMELAB-DN42
+mnt-by:             HOMELAB-MNT
+source:             DN42

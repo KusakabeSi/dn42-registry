@@ -1,0 +1,10 @@
+inet6num:           fd31:f6ee:ab9d:0000:0000:0000:0000:0000 - fd31:f6ee:ab9d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:f6ee:ab9d::/48
+netname:            RIPPERFOX-NETWORK
+descr:              Network of RIPPERFOX
+country:            DE
+admin-c:            RIPPERFOX-DN42
+tech-c:             RIPPERFOX-DN42
+mnt-by:             RIPPERFOX-MNT
+status:             ASSIGNED
+source:             DN42

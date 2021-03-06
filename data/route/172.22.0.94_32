@@ -1,0 +1,12 @@
+route:              172.22.0.94/32
+descr:              dn42 anycast tor
+remarks:            DRIXTER-MNT
+origin:             AS56662
+remarks:            GERGERNET-MNT
+origin:             AS4242420077
+remarks:            BLAZING-MNT
+origin:             AS4242420022
+remarks:            NAPSTERBATER-MNT
+origin:             AS4242421050
+mnt-by:             NAPSTERBATER-MNT
+source:             DN42

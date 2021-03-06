@@ -1,0 +1,11 @@
+inet6num:           fd96:2cee:e8cd:0000:0000:0000:0000:0000 - fd96:2cee:e8cd:ffff:ffff:ffff:ffff:ffff
+netname:            DAKNOBNET-CORE
+descr:              DaKnObNET Core
+country:            GR
+admin-c:            DAKNOB-DN42
+tech-c:             DAKNOB-DN42
+mnt-by:             DAKNOB-MNT
+nserver:            ns1.daknob.dn42
+status:             ASSIGNED
+cidr:               fd96:2cee:e8cd::/48
+source:             DN42

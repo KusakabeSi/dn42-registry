@@ -1,0 +1,10 @@
+inetnum:            172.23.222.128 - 172.23.222.143
+cidr:               172.23.222.128/28
+netname:            AFTBIT-NETWORK
+country:            US
+admin-c:            AFTBIT-DN42
+tech-c:             AFTBIT-DN42
+mnt-by:             AFTBIT-MNT
+status:             ASSIGNED
+nserver:            ns1.aftbit.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd28:cb8f:4c92::/48
+descr:              Peer with me at mailto:dn42@kskb.eu.org or https://t.me/KusakabeSi
+origin:             AS4242421817
+mnt-by:             KSKB-MNT
+source:             DN42

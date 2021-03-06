@@ -1,0 +1,12 @@
+inetnum:            172.20.21.32 - 172.20.21.63
+cidr:               172.20.21.32/27
+netname:            CLOUDYSKIES-NET
+country:            US
+admin-c:            CLOUDYSKIES-DN42
+tech-c:             CLOUDYSKIES-DN42
+org:                ORG-CLOUDYSKIES
+mnt-by:             CLOUDYSKIES-MNT
+nserver:            ns1.cloudyskies.dn42
+nserver:            ns2.cloudyskies.dn42
+status:             ASSIGNED
+source:             DN42

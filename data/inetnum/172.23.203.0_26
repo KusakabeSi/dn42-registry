@@ -1,0 +1,8 @@
+inetnum:            172.23.203.0 - 172.23.203.63
+cidr:               172.23.203.0/26
+netname:            MONARCH-NETWORK-01
+admin-c:            THEOM-DN42
+tech-c:             THEOM-DN42
+mnt-by:             MONARCH-MNT
+status:             ASSIGNED
+source:             DN42

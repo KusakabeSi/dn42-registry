@@ -1,0 +1,46 @@
+aut-num:            AS4242421331
+as-name:            Niantic Network
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+org:                ORG-NIA
+source:             DN42
+mp-import:          afi any.unicast from AS-NIA:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-PEER announce AS-NIA
+mp-import:          afi any.unicast from AS-NIA:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-UPSTREAM announce AS-NIA AS-NIA:AS-DOWNSTREAM
+remarks:            
+remarks:            +-----------------------------------------+
+remarks:            |             Niantic Network             |
+remarks:            +-----------------------------------------+
+remarks:            | Niantic Network is maintained by        |
+remarks:            |  Strategic Explorations (AS207268).     |
+remarks:            | We also welcome peers in clearnet.      |
+remarks:            +-----------------------------------------+
+remarks:            | Open for Peering                        |
+remarks:            | Peering Location at:                    |
+remarks:            |  - New York City                        |
+remarks:            |  - Los Angeles                          |
+remarks:            |  - Vancouver                            |
+remarks:            |  - London                               |
+remarks:            |  - Singapore                            |
+remarks:            |  - Hong Kong                            |
+remarks:            |  - Romania                              |
+remarks:            |  - Tokyo                                |
+remarks:            |  - Korea (Unstable)                     |
+remarks:            |  - Luxembourg (Unstable)                |
+remarks:            |  - Taiwan (Unstable)                    |
+remarks:            |  - Seattle (Unstable)                   |
+remarks:            |  - Fremont (Unstable)                   |
+remarks:            |  - China (See AS4242421332)             |
+remarks:            +-----------------------------------------+
+remarks:            | Contact: dn42@strexp.net                |
+remarks:            | Knowledge Base: https://kb.strexp.net   |
+remarks:            | Looking Glass: https://lg.nia.dn42      |
+remarks:            | Anycast Whois: whois.nia.dn42           |
+remarks:            | Network Info: https://info.nia.dn42     |
+remarks:            +-----------------------------------------+

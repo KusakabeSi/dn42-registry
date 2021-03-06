@@ -1,0 +1,5 @@
+route6:             fd94:dba8:42b0::/48
+descr:              Peer with me at dn42@hujk.eu.org
+origin:             AS4242422717
+mnt-by:             HUJK-MNT
+source:             DN42

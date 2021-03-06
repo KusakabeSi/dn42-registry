@@ -1,0 +1,7 @@
+mntner:             SNT-MNT
+admin-c:            SNT-DN42
+tech-c:             SNT-DN42
+mnt-by:             SNT-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAzXGECKXkELZn5HAsp1CIsGnxjDBolMPa73o6ZONei49hnzTjmpjfDpn36z3eEU8kGAsiS9Ucevl96lhydb0BvLYBowcaySjJnTzQb9U0Y8LE1C+tmRebSbrWLg3heQ5uXrz2kqgR2WN347pzWrqdxqghcssKIKqZ4uel9EOYPb8TDUrbg7RbEBvxsWXr8YHYzzOfWOSeCxBykPv7hPag4st0Y6/g2mdQ+D5FeqvjyOC3zhZxiXC3al9J/oZmmIHu3V2N1Q+6GoWU5P2E+WqvajDaFwrA8LyHFokynD83g0Ui0sDj4wfzDvOmQ4lJ16gff2/DngYxHPiPSWGJj8OhEw==
+auth:               pgp-fingerprint F44D59044F703ED42B09DBA8FBA5FE16995A27A3
+source:             DN42

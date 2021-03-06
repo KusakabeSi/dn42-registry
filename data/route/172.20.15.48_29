@@ -1,0 +1,5 @@
+route:              172.20.15.48/29
+descr:              BT709 Communications
+origin:             AS4242421103
+mnt-by:             BT709-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fde0:93fa:7a0::/48
+origin:             AS0
+remarks:            IXP networks typically should not be part of the global routing table
+mnt-by:             DN42-MNT
+source:             DN42

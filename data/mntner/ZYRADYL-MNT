@@ -1,0 +1,10 @@
+mntner:             ZYRADYL-MNT
+descr:              Zyradyl's Maintainer Object
+auth:               pgp-fingerprint 60672EBC6A870EE94E43DC8DDF0CEC35688111D3
+admin-c:            ZYRADYL-DN42
+tech-c:             ZYRADYL-DN42
+mnt-by:             ZYRADYL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC50s7qN2yGRCbZEXE+RuaCypodABUF8XtG9IHIe0jmOcTwty5V7N7IyaK/xWgsjZezTG/RVRkeJTgdDGCIVRD3jEsW9N+Fy9YLFmNcPIKga8ARsuzT3keufuSHXMktwo1M2HHhGF/nxEBa8PFiRvCtAGVrqUWCx4x0WPJ8kq3txoqrV8wO3t1V4/w3Imqpew49/5KElG+3rSg59Bpb03XNXGURblQuZjWk8ZAC9F+6/NYUFeU3eKkczmPi+T69E57AfOh7HlW7o5fgksCNt8mN+1Qdp5MpO/xOumYtqmM5EzPDOYJDckxctQgQ8KQLzTyvKluXstHzE8iO3vfxNckUTu5SlAJUXlE2QU9ZSLJLW/OyA6+6NAdg7n9aw9m//FmaDMC7GIu2RbyFjPIKRGWPha7OdAA1qvjvDYgQ+JVzd2B8/PiVlNHj2Uk7tVVjTwUbfuS/885KNz3jFPZgBHvQU6gHeVbqOFpCaB2RqOiljMOaigZfrDv6f7lr/lNp4UyiJFOQEzH8uprzkao3nHeRqaavI2PjWqmG+SsmYM3P1kgIGOato2ZyVAqOqYOimKOaB33BTP8Bg8i4TMpX/OlH4G7YnGKiPOGoBk59TC9djey9jYbcRZI/nQB4ntJbAT4tX7H/ekpL4SEylQbNdoTtXWPEXFpuw/gSPE1JQ4xk9Q== nmspencer@icloud.com
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP55U0S6wOKk1okvhc5r8buzOxH/zK6J9fZc0dDjIFz6 nmspencer@icloud.com
+auth:               PGPKEY-688111D3
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd5e:6ea6:f0a1:0000:0000:0000:0000:0000 - fd5e:6ea6:f0a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:6ea6:f0a1::/48
+netname:            CRABNECK-NETWORK
+descr:              Crabneck IPv6 Network, Swedish POP
+country:            SE
+admin-c:            CRILLE-DN42
+tech-c:             CRILLE-DN42
+mnt-by:             CRABNECK-MNT
+status:             ASSIGNED
+source:             DN42

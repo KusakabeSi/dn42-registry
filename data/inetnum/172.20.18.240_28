@@ -1,0 +1,10 @@
+inetnum:            172.20.18.240 - 172.20.18.255
+netname:            CZ5-CORE-NETWORK
+country:            US
+admin-c:            CZ5-DN42
+tech-c:             CZ5-DN42
+mnt-by:             CZ5-MNT
+nserver:            ns1.cz5.dn42
+status:             ASSIGNED
+cidr:               172.20.18.240/28
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.245.216 - 172.20.245.223
+netname:            OTTERS-HOME-INET4-NETWORK
+descr:              Otters' IPv4 home network
+country:            FR
+admin-c:            KOODA-DN42
+tech-c:             KOODA-DN42
+mnt-by:             KOODA-MNT
+status:             ASSIGNED
+cidr:               172.20.245.216/29
+source:             DN42

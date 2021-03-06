@@ -1,0 +1,10 @@
+inetnum:            172.23.160.0 - 172.23.160.63
+netname:            PETROS
+descr:              PETROS
+country:            GR
+admin-c:            PETROS-DN42
+tech-c:             PETROS-DN42
+mnt-by:             PETROS-MNT
+status:             ASSIGNED
+cidr:               172.23.160.0/26
+source:             DN42

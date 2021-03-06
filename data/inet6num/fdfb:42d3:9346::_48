@@ -1,0 +1,8 @@
+inet6num:           fdfb:42d3:9346:0000:0000:0000:0000:0000 - fdfb:42d3:9346:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfb:42d3:9346::/48
+netname:            LEAH2-NET6
+admin-c:            LEAH2-DN42
+tech-c:             LEAH2-DN42
+mnt-by:             LEAH2-MNT
+status:             ASSIGNED
+source:             DN42

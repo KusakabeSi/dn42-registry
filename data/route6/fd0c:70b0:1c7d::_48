@@ -1,0 +1,5 @@
+route6:             fd0c:70b0:1c7d::/48
+origin:             AS4242421275
+max-length:         48
+mnt-by:             PROTOCON-MNT
+source:             DN42

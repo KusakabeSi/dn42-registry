@@ -1,0 +1,7 @@
+aut-num:            AS4242420099
+as-name:            PATATA01-AS
+descr:              Patata Network AS
+admin-c:            OSPREY-DN42
+tech-c:             OSPREY-DN42
+mnt-by:             PATATA-MNT
+source:             DN42

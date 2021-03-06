@@ -1,0 +1,9 @@
+inet6num:           fd9e:e609:dde2:0000:0000:0000:0000:0000 - fd9e:e609:dde2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:e609:dde2::/48
+netname:            SKRTM-NET-1
+descr:              Skrtm Network
+admin-c:            SKRTM-DN42
+tech-c:             SKRTM-DN42
+mnt-by:             SKRTM-MNT
+status:             ASSIGNED
+source:             DN42

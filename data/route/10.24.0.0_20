@@ -1,0 +1,6 @@
+route:              10.24.0.0/20
+origin:             AS65045
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: treuenbrietzen
+mnt-by:             DN42-MNT
+source:             ICVPN

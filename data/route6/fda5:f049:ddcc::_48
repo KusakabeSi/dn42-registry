@@ -1,0 +1,5 @@
+route6:             fda5:f049:ddcc::/48
+origin:             AS4242420196
+max-length:         48
+mnt-by:             LZ1OPS-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             feuerrot.dn42
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+nserver:            irbis.feuerrot.dn42 172.23.148.1
+source:             DN42

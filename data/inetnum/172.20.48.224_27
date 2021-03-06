@@ -1,0 +1,8 @@
+inetnum:            172.20.48.224 - 172.20.48.255
+cidr:               172.20.48.224/27
+netname:            BABBLE-V4-NET-1
+admin-c:            BABBLE-DN42
+tech-c:             BABBLE-DN42
+mnt-by:             BABBLE-MNT
+status:             ASSIGNED
+source:             DN42

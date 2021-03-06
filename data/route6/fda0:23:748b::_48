@@ -1,0 +1,5 @@
+route6:             fda0:23:748b::/48
+descr:              tbspace IPv6
+origin:             AS76190
+mnt-by:             TBSPACE-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.110.0.0 - 10.110.255.255
+cidr:               10.110.0.0/16
+netname:            ICVPN-BOCHUM
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bochum
+mnt-by:             DN42-MNT
+source:             ICVPN

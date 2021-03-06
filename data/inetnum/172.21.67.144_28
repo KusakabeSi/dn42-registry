@@ -1,0 +1,9 @@
+inetnum:            172.21.67.144 - 172.21.67.159
+cidr:               172.21.67.144/28
+netname:            HAMMYNET-NETWORK
+admin-c:            HAMPTON-DN42
+tech-c:             HAMPTON-DN42
+mnt-by:             HAMMYNET-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            blue.ns.hammynet.dn42

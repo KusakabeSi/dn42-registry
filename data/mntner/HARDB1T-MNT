@@ -1,0 +1,10 @@
+mntner:             HARDB1T-MNT
+descr:              Hardb1t Maintainer Object
+admin-c:            HARDB1T-DN42
+tech-c:             HARDB1T-DN42
+mnt-by:             HARDB1T-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIBuMsyKan3au1y9NQ709yj+lVlrZ/kZ3Lth6x9HCdTBsA/tGF9BvrvwlypwgPIqrMNLWFYtMkHKdlJM/mRSHFz+iWP0qfaCEzc8WVE5ZXMIAC3bJh3nQiJBXB3+CHMiKsbF3W6yOeTYy92RRJa1BcsApNsJChePpq7ub8btO+CVpQ==
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQnRe2jVrgdYurshulMXLDUcsfdeLssP9tDMq5x2R6oRPek8dmq14L7sUCcMbeJP0bNN7SbnFqPfALo74vMXnnzFh/hm7KWrt7GaFZ8TILzy632oKRKMrYuQo3mtHuwbTf+CqLQ3QD+JdRvBTm9TaYoiWPu71Rb1uMRGycbwROePkrigEVsIw+auxYZkWRB1W6qp5lKyfLsm/oJy3aZBHKFNccs40yaUajvbwCOtxkcbJRo/cJ/vr4m2scrJo6jY3ioQVFInNaf9nnCUL8cC+dpJs+aJQ5DHsMqHInbfbtHVEXyG8PFAk0Ffug+LABP8XyW+Rp+rkBno6pNi0MeoJR
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjIa6fXsEVLfC7TxqGzqhRc7ISY831XlF0+i/bAMXXKCzZ0G6fsTy+PM6Z+dZguT84ddKlurqOJQpegS+7HswLdJOyKiiHc7E+3YOE85TxL5pC30tGJ7X1RpbVpmBrWHrYBqpeUFNwYsJyAAJ7kcKHYV34hHeoKMl8IvJm1xUthoWcPOyiRpOj15J8juQ8Gr9JSEvzJoCqarktaS+W+G/Jv0iibFqc+vBrgkwjcT0bBFEYMtwJ/h3eSxrEcHvahciBpY8m3R/YfnrNnnfEDHLPZ2th0CPHK2/C7f8N2r6kK7UIdjl2u8F51xb4Q8OQgTFexZTG0HI05523uWMfHBR7
+auth:               pgp-fingerprint 8423013424F4ED19CF92EE5FB02F2544E9EE061B
+source:             DN42

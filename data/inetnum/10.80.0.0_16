@@ -1,0 +1,7 @@
+inetnum:            10.80.0.0 - 10.80.255.255
+cidr:               10.80.0.0/16
+netname:            ICVPN-MUENCHEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenchen
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,12 @@
+inetnum:            172.20.120.0 - 172.20.123.255
+cidr:               172.20.120.0/22
+descr:              CCC Aachen
+netname:            NET-BLK12022-DN42
+policy:             ask
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             SPQ-MNT
+mnt-by:             FEUERROT-MNT
+mnt-by:             ND-MNT
+status:             ALLOCATED
+source:             DN42

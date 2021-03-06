@@ -1,0 +1,10 @@
+inetnum:            172.20.190.144 - 172.20.190.159
+netname:            DRATHIR-DN42-BASIL-OVH-FRA-GRA-INET
+descr:              DRATHIR-DN42-BASIL-OVH-FRA-GRA-INET
+country:            FR
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.190.144/28
+source:             DN42

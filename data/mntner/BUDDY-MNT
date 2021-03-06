@@ -1,0 +1,7 @@
+mntner:             BUDDY-MNT
+admin-c:            BUDDY-DN42
+tech-c:             BUDDY-DN42
+mnt-by:             BUDDY-MNT
+auth:               pgp-fingerprint 1FD4B51EF9D79D9D1F103A2AFC7BBBCFADBAD998
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn5sGfDZbNB5U5NKOG2VownygAjzy/ksWtYTIXPHIcYND26NnJbc4JKN2QD8fPtucGfS/uQNURSacUiT5mXzOHCR5br97KPxTeeckuKVPILzSyeNkqgBNx3lByDi649+1cQBWQlGJHJ+kXU2gqdlfw4NeiNLBWJf8bAd46EEAxhxvOmxxHoOJ0mWhaApAgl+5Z3hI1mdorjcZK4cJKTbiesVTJaf2ESAqXiCAURX/PW6zKIMAXvgYbqZ8Xlmw9oq39hd0ItyRJxtA9uoo9lADivr0es2xqNyCJ620TYTsDV0h6EjvSKYSuA0Q6+1oKPx2RA13N8psOaUm6Rtm4FS/5
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             0l.dn42
+descr:              /dev/nulll dns
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+nserver:            ns1.0l.dn42 172.23.156.162
+nserver:            ns1.0l.dn42 fd42:4dd0:ff00:101:5054:ff:fe2d:d2ca
+source:             DN42

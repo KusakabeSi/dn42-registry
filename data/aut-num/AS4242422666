@@ -1,0 +1,7 @@
+aut-num:            AS4242422666
+as-name:            HEKKER-AS
+descr:              SickHekker's AS
+admin-c:            SICKHEKKER-DN42
+tech-c:             SICKHEKKER-DN42
+mnt-by:             HEKKER-MNT
+source:             DN42

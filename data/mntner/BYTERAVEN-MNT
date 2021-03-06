@@ -1,0 +1,7 @@
+mntner:             BYTERAVEN-MNT
+descr:              Byteraven Maintenance Object
+admin-c:            BYTERAVEN-DN42
+tech-c:             BYTERAVEN-DN42
+mnt-by:             BYTERAVEN-MNT
+source:             DN42
+auth:               pgp-fingerprint F2997F3A91358DE64D326277EB02E119598FC1A4

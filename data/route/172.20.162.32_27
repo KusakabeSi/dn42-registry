@@ -1,0 +1,5 @@
+route:              172.20.162.32/27
+origin:             AS4242423964
+max-length:         27
+mnt-by:             ARCH-MNT
+source:             DN42

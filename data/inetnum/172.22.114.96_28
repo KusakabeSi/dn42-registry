@@ -1,0 +1,11 @@
+inetnum:            172.22.114.96 - 172.22.114.111
+cidr:               172.22.114.96/28
+netname:            MAXNETR-V4-DN42
+descr:              MAXNET Research Network IPv4 Block
+country:            HK
+admin-c:            MAXC-DN42
+tech-c:             MAXC-DN42
+mnt-by:             MAXC-MNT
+status:             ASSIGNED
+nserver:            ns.maxnetworks.dn42
+source:             DN42

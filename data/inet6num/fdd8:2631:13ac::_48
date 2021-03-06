@@ -1,0 +1,12 @@
+inet6num:           fdd8:2631:13ac:0000:0000:0000:0000:0000 - fdd8:2631:13ac:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd8:2631:13ac::/48
+netname:            MIKI-NETWORK
+descr:              Network for Miki
+country:            DE
+admin-c:            MIKI-DN42
+tech-c:             MIKI-DN42
+mnt-by:             MIKI-MNT
+nserver:            ns1.miki.dn42
+nserver:            ns2.miki.dn42
+status:             ASSIGNED
+source:             DN42

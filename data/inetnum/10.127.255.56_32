@@ -1,0 +1,8 @@
+inetnum:            10.127.255.56 - 10.127.255.56
+cidr:               10.127.255.56/32
+netname:            frank-hsinchu-1
+admin-c:            FRANK-NEONETWORK
+tech-c:             FRANK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

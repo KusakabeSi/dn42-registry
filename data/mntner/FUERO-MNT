@@ -1,0 +1,6 @@
+mntner:             FUERO-MNT
+admin-c:            FUERO-ADM-DN42
+tech-c:             FUERO-TEC-DN42
+mnt-by:             FUERO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAB+wCbjsZUdG+EZjP6TTJoUWbGlRHtesZKAW+tJOBRwY7sA5VrbBHraUIrmp7LSVNu/doFydHbce90MjmphXWjINBAcZJp/25KWZjCJRTWaE92Ami5fFFSeTY4k7l3W0si4clruJGv7X9AfjuGgya6o7bXsVFWfmuUtfnKskm9CKTgRi5ZOTUnEsgy6UVTnSuKW32En0z4M5OyUpoc4mj6Jh2eNOeKYK54A3tss6gQMJCOjN3itXA1pn2t4esgnaXfYw8631ip94skcq8R/qStJtjPF+XA4HXdiIZBfMUEAdEzBSYFGp0vUuL6NYUl+CYbFgH9egd4hrOiW3SIWcWvwLsVxtqP9On9Iecp52jOupFPP2XgWhEJNxOmRszqDfCWxjQqHM/ncGU1wROckZcPnrYlwy1NFCMTWcmabbgo7u8BDolYBxQ6uAU1PqmXEZ1NZOT8+13Nilk4ZF0lLfod+fgdPMz9prrLx+JprtS4zGomwXHgHSKzIc/etBBoksxvi/+VY4Rx+axGL8CezM4bHYk7MWdjSqMLVJn7gXQcU3O/OV4rcPL2Iyvo7rkE/gF+qbRbtubtzfnE/f+fFjGSlzMHelyQAHQpVPn9E7DEfJxGfw+khf5M00VsULgTBYYUTY4cEXxYp9yJHI9HQNdKyUhEVcIND2u+rf33UQ== fuero@gandalf
+source:             DN42

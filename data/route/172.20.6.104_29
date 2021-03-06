@@ -1,0 +1,4 @@
+route:              172.20.6.104/29
+origin:             AS4242421921
+mnt-by:             ANDATCHE-MNT
+source:             DN42

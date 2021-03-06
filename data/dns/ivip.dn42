@@ -1,0 +1,8 @@
+domain:             ivip.dn42
+admin-c:            IVIP-DN42
+tech-c:             IVIP-DN42
+mnt-by:             IVIP-MNT
+nserver:            ns1.ivip.dn42 172.22.101.129
+nserver:            ns1.ivip.dn42 fd88:8888:8888::8
+remarks:            DNS hosted by ivip.dn42
+source:             DN42

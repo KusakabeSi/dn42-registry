@@ -1,0 +1,6 @@
+domain:             speedtest.dn42
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+nserver:            ns1.nl-zuid.dn42
+source:             DN42

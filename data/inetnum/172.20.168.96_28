@@ -1,0 +1,8 @@
+inetnum:            172.20.168.96 - 172.20.168.111
+cidr:               172.20.168.96/28
+netname:            BJ-NETWORK
+admin-c:            BJ-DN42
+tech-c:             BJ-DN42
+mnt-by:             BJ-MNT
+status:             ASSIGNED
+source:             DN42

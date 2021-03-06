@@ -1,0 +1,8 @@
+inetnum:            172.22.44.0 - 172.22.45.255
+netname:            NET-JCHOME-DN42
+admin-c:            JCHOME-DN42
+tech-c:             JCHOME-DN42
+mnt-by:             JCIX-MNT
+status:             ASSIGNED
+cidr:               172.22.44.0/23
+source:             DN42

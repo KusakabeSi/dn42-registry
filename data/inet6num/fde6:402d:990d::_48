@@ -1,0 +1,11 @@
+inet6num:           fde6:402d:990d:0000:0000:0000:0000:0000 - fde6:402d:990d:ffff:ffff:ffff:ffff:ffff
+netname:            HIVE76-NETWORK
+descr:              Hive76 Network Allocation
+country:            US
+org:                ORG-HIVE76
+admin-c:            JFRED-DN42
+tech-c:             JFRED-DN42
+mnt-by:             JFRED-MNT
+status:             ASSIGNED
+cidr:               fde6:402d:990d::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd0e:3d8c:2dd6:8e6e:0000:0000:0000:0000 - fd0e:3d8c:2dd6:8e6e:ffff:ffff:ffff:ffff
+cidr:               fd0e:3d8c:2dd6:8e6e::/64
+netname:            MATTPROD-V6-NET-1
+country:            FR
+admin-c:            MATTPROD-DN42
+tech-c:             MATTPROD-DN42
+mnt-by:             MATTPROD-MNT
+status:             ASSIGNED
+source:             DN42

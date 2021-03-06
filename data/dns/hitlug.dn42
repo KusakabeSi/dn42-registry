@@ -1,0 +1,9 @@
+domain:             hitlug.dn42
+descr:              This domain object is maintained by HITLUG and is only for demonstration use.
+org:                ORG-HITLUG
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+nserver:            ns1.hitlug.dn42 172.22.134.33
+nserver:            ns1.hitlug.dn42 fd94:267a:f14e::1
+source:             DN42

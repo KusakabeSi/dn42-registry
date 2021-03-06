@@ -1,0 +1,11 @@
+inetnum:            172.20.12.0 - 172.20.12.63
+netname:            HARUKA-NETBLK2
+descr:              Haruka Network Block
+country:            CN
+admin-c:            HARUKA-DN42
+tech-c:             HARUKA-DN42
+mnt-by:             HARUKA-MNT
+nserver:            ns.haruka.dn42
+status:             ASSIGNED
+cidr:               172.20.12.0/26
+source:             DN42

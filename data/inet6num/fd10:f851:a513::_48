@@ -1,0 +1,9 @@
+inet6num:           fd10:f851:a513:0000:0000:0000:0000:0000 - fd10:f851:a513:ffff:ffff:ffff:ffff:ffff
+netname:            HOMELAB route
+country:            RO
+admin-c:            RC-DN42
+tech-c:             RC-DN42
+mnt-by:             RC-MNT
+status:             ASSIGNED PA
+cidr:               fd10:f851:a513::/48
+source:             DN42

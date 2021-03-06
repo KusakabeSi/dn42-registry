@@ -1,0 +1,11 @@
+inet6num:           fdf7:17d5:de49:0000:0000:0000:0000:0000 - fdf7:17d5:de49:ffff:ffff:ffff:ffff:ffff
+netname:            NET-WEITI-02
+descr:              v6 Weiti Space
+country:            DE
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+status:             ALLOCATED
+nserver:            ns1.weiti.dn42
+cidr:               fdf7:17d5:de49::/48
+source:             DN42

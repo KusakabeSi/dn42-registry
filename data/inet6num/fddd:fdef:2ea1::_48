@@ -1,0 +1,12 @@
+inet6num:           fddd:fdef:2ea1:0000:0000:0000:0000:0000 - fddd:fdef:2ea1:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:fdef:2ea1::/48
+netname:            JOT23-HOME-NET
+country:            PL
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+status:             ASSIGNED
+nserver:            ns1.jot23.dn42
+nserver:            ns2.jot23.dn42
+ds-rdata:           43090 8 2 392197929956632157256a66c2b9ac8da16adbbdb1264dc737840762f3308894
+source:             DN42

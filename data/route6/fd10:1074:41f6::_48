@@ -1,0 +1,6 @@
+route6:             fd10:1074:41f6::/48
+descr:              ALLO DN42 V6 ROA
+origin:             AS64752
+max-length:         48
+mnt-by:             ALLO-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             TOINUX-MNT
+admin-c:            TOINUX-DN42
+tech-c:             TOINUX-DN42
+mnt-by:             TOINUX-MNT
+source:             DN42
+auth:               pgp-fingerprint 1C74FCC5CBA84C8B9237BEF87E67CDAFFB633C6F

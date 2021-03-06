@@ -1,0 +1,12 @@
+inet6num:           fddd:fe2f:de5a:0000:0000:0000:0000:0000 - fddd:fe2f:de5a:ffff:ffff:ffff:ffff:ffff
+netname:            NET-JOMAT
+descr:              jomat network
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.jmt.dn42
+nserver:            ns1.jmt.dn42
+status:             ASSIGNED
+cidr:               fddd:fe2f:de5a::/48
+source:             DN42

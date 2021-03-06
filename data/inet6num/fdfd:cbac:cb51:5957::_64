@@ -1,0 +1,9 @@
+inet6num:           fdfd:cbac:cb51:5957:0000:0000:0000:0000 - fdfd:cbac:cb51:5957:ffff:ffff:ffff:ffff
+cidr:               fdfd:cbac:cb51:5957::/64
+netname:            0XCB-V6-NET-1
+country:            DE
+admin-c:            0XCB-DN42
+tech-c:             0XCB-DN42
+mnt-by:             0XCB-MNT
+status:             ASSIGNED
+source:             DN42

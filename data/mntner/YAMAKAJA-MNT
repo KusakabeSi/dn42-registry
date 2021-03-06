@@ -1,0 +1,8 @@
+mntner:             YAMAKAJA-MNT
+admin-c:            YAMAKAJA-DN42
+tech-c:             YAMAKAJA-DN42
+mnt-by:             YAMAKAJA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDyh2grnV9uwS4EwIDRvk6uwfoT73h+zIO+iVkmNw86RQk3gTsqM4l1pycFdlCHlK5lCHnpCd+qpmIVlekKkQAhzhNuU0aXf4Xsi3LEgBSHU4tUER9g9m50Ho4ntW6n/EUvxAoN7PlCH0jYtBs3yvS12eO+XiWtjQOZt3c4DXbP8Uh5EpJDSu32AmFo2Ay6JHG+OpmUhKu8nErPVwecYpAydYFERZQkF7NMqZn9YuN978kXpHJ3bQTaipHLh1d7Zxqfip3i5vB0s0KGXr1CFR7EzmkYN1jSqaFvlVUG3xT1cOJYHyIY1DjqvAWC7lRxerEgyjEJe0zrUIO3vyz5O9wHx/rylnk+J2HWycUxrt6/wfOwZl3AQDUMJ7URf5lMuq/2bR7C2iKH/h5WAna5EZMv3ZciRBDu9sdeHoGQQP5pOn1oWe3lj0gIY+82eL4VfPzOhmWbW2rK3UTTqCi8wBpc8vV7+J08GTdlpaV0UC4w18HhYOXzaAmUwFy/1JIcTjCLO8uwA0vsJ4+qWWZFQCcl9vRwcZK9CSUmE1hYt9TQnNffuWp7VpwecOxRTlb97rVz0W8KrWl70KhbXT5iO7/Rm8mnOkVjgwL/BFtzkIQvkmg9fU/WzykgjLs7koxnJkY1PkyL78h9LwZD0SxHkLr/JBLXxB6V39yPb7+vQTZCiQ==
+auth:               pgp-fingerprint EBAAF92A2BA5CFA8EACA1E16C7B901C381F1ADA7
+remarks:            pin-sha256:0U5tVm/2ZTlYbZayZrD5lXF8RBPLSR6L8hiycSDaVMk=
+source:             DN42

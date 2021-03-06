@@ -1,0 +1,12 @@
+inetnum:            172.23.158.64 - 172.23.158.127
+netname:            SLOTHLOGISTICS-BB
+descr:              Sloth Dallas VPN Client Space
+country:            US
+nserver:            ns1.sl.dn42
+nserver:            ns2.sl.dn42
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+status:             ASSIGNED PI
+cidr:               172.23.158.64/26
+source:             DN42

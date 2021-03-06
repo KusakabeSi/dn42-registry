@@ -1,0 +1,4 @@
+route:              172.23.101.192/27
+origin:             AS4242422340
+mnt-by:             ROBOTHAM-MNT
+source:             DN42

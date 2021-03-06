@@ -1,0 +1,11 @@
+inetnum:            172.22.127.64 - 172.22.127.95
+netname:            WXMN-NET-2
+descr:              Network used by IUT Béziers projects
+country:            DE
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+nserver:            ns1.waxman.dn42
+status:             ASSIGNED
+cidr:               172.22.127.64/27
+source:             DN42

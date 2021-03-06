@@ -1,0 +1,5 @@
+route:              172.22.38.0/24
+descr:              strehi's dn42 network
+origin:             AS4242421761
+mnt-by:             STREHI-DN42-MNT
+source:             DN42

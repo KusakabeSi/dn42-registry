@@ -1,0 +1,6 @@
+domain:             v0tti.dn42
+admin-c:            V0TTI-DN42
+tech-c:             V0TTI-DN42
+mnt-by:             V0TTI-MNT
+nserver:            ns1.v0tti.dn42 fd23:1d71:dd17:aaaa::1
+source:             DN42

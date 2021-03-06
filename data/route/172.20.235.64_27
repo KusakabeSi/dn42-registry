@@ -1,0 +1,4 @@
+route:              172.20.235.64/27
+origin:             AS4242420318
+mnt-by:             DYNAMICT-MNT
+source:             DN42

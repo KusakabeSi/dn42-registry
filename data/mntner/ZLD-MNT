@@ -1,0 +1,7 @@
+mntner:             ZLD-MNT
+descr:              CN-ZLD-LAB
+admin-c:            ZLD-DN42
+tech-c:             ZLD-DN42
+mnt-by:             ZLD-MNT
+source:             DN42
+auth:               gpg-fingerprint 4797CCEBCE479A617C2BCB55E5D0EF13B93A23B4

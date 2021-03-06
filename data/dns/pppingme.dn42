@@ -1,0 +1,7 @@
+domain:             pppingme.dn42
+descr:              pppingme.dn42
+admin-c:            PPPINGME-DN42
+tech-c:             PPPINGME-DN42
+mnt-by:             PPPINGME-MNT
+nserver:            icmp.pppingme.dn42 172.23.234.98
+source:             DN42

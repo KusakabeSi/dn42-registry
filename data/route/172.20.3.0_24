@@ -1,0 +1,5 @@
+route:              172.20.3.0/24
+descr:              ISP DN42 Customers
+origin:             AS4242420467
+mnt-by:             REISENB-MNT
+source:             DN42

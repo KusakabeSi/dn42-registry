@@ -1,0 +1,4 @@
+route6:             fdc5:ed74:2222::/48
+origin:             AS4242423516
+mnt-by:             OCTET-MNT
+source:             DN42

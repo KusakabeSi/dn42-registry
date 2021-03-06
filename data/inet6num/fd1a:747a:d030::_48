@@ -1,0 +1,12 @@
+inet6num:           fd1a:747a:d030:0000:0000:0000:0000:0000 - fd1a:747a:d030:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1a:747a:d030::/48
+netname:            HIVEMIND-IP6-NETWORK
+descr:              HIVEMIND experimental DN42 IPv6 network
+country:            GB
+admin-c:            HIVEMIND-DN42
+tech-c:             HIVEMIND-DN42
+mnt-by:             HIVEMIND-MNT
+status:             ASSIGNED
+nserver:            ns1.hivemind.dn42
+nserver:            ns2.hivemind.dn42
+source:             DN42

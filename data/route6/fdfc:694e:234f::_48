@@ -1,0 +1,5 @@
+route6:             fdfc:694e:234f::/48
+origin:             AS4242422904
+max-length:         48
+mnt-by:             DOXZ-MNT
+source:             DN42

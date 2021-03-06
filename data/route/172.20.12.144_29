@@ -1,0 +1,4 @@
+route:              172.20.12.144/29
+origin:             AS4242421550
+mnt-by:             BISCUITTIN-MNT
+source:             DN42

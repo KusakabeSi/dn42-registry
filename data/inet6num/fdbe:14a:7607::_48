@@ -1,0 +1,8 @@
+inet6num:           fdbe:014a:7607:0000:0000:0000:0000:0000 - fdbe:014a:7607:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbe:14a:7607::/48
+netname:            OKASHI-NET
+admin-c:            OKASHI-DN42
+tech-c:             OKASHI-DN42
+mnt-by:             OKASHI-MNT
+status:             ASSIGNED
+source:             DN42

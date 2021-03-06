@@ -1,0 +1,5 @@
+route:              172.20.232.32/27
+descr:              Magical Circle TestNet V4
+origin:             AS4242420741
+mnt-by:             FUTURSOLO-MNT
+source:             DN42

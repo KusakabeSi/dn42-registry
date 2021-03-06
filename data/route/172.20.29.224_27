@@ -1,0 +1,6 @@
+route:              172.20.29.224/27
+origin:             AS4242422432
+admin-c:            CARLOTRONICS-DN42
+tech-c:             CARLOTRONICS-DN42
+mnt-by:             CARLOTRONICS-MNT
+source:             DN42

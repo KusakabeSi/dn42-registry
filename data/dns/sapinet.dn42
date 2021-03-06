@@ -1,0 +1,7 @@
+domain:             sapinet.dn42
+admin-c:            SAPINET-DN42
+tech-c:             SAPINET-DN42
+mnt-by:             SAPINET-MNT
+nserver:            alpha.ns.sapinet.dn42 172.20.169.1
+nserver:            beta.ns.sapinet.dn42 172.20.169.2
+source:             DN42

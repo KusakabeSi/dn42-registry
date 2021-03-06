@@ -1,0 +1,5 @@
+route6:             fdbb:35ff:aa4e::/48
+descr:              TIMWEB
+origin:             AS4242422891
+mnt-by:             TIMWEB-MNT
+source:             DN42

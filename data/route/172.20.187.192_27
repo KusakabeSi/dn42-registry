@@ -1,0 +1,4 @@
+route:              172.20.187.192/27
+origin:             AS4242422683
+mnt-by:             RAED-MNT
+source:             DN42

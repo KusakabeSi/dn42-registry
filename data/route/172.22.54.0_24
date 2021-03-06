@@ -1,0 +1,4 @@
+route:              172.22.54.0/24
+origin:             AS64654
+mnt-by:             HAEGAR-MNT
+source:             DN42

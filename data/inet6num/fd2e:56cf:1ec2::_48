@@ -1,0 +1,10 @@
+inet6num:           fd2e:56cf:1ec2:0000:0000:0000:0000:0000 - fd2e:56cf:1ec2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:56cf:1ec2::/48
+netname:            IRONFLAKE-NETWORK
+descr:              Ironflake's Network
+country:            FR
+admin-c:            KEGERUNEKU-DN42
+tech-c:             KEGERUNEKU-DN42
+mnt-by:             IRONFLAKE-MNT
+status:             ASSIGNED
+source:             DN42

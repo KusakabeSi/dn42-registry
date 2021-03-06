@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:1375:0000:0000:0000:0000:0000 - fd42:4242:1375:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1375::/48
+netname:            CHELNOK-NETWORK
+org:                ORG-CHELNOK
+descr:              Network of chelnok
+country:            DE
+admin-c:            ERI-DN42
+tech-c:             ERI-DN42
+mnt-by:             ERI-MNT
+status:             ASSIGNED
+source:             DN42

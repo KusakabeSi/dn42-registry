@@ -1,0 +1,7 @@
+domain:             vrnet.dn42
+nserver:            ns1.vrnet.dn42 172.21.118.133
+nserver:            ns2.vrnet.dn42 172.21.118.144
+admin-c:            VRNET-DN42
+tech-c:             VRNET-DN42
+mnt-by:             VRNET-MNT
+source:             DN42

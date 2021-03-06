@@ -1,0 +1,10 @@
+inet6num:           fd93:8225:737e:0000:0000:0000:0000:0000 - fd93:8225:737e:ffff:ffff:ffff:ffff:ffff
+netname:            FISCALCHEIS-DN42-V6-ULA
+descr:              FISCALCHEIS's ula ipv6 network
+country:            ES
+mnt-by:             FISCALCHEIS-MNT
+admin-c:            FISCO-DN42
+tech-c:             FISCO-DN42
+status:             ASSIGNED
+cidr:               fd93:8225:737e::/48
+source:             DN42

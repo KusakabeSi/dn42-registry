@@ -1,0 +1,4 @@
+route:              172.21.89.0/27
+origin:             AS4242421063
+mnt-by:             ZIIS-MNT
+source:             DN42

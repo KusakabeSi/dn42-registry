@@ -1,0 +1,5 @@
+route6:             fd42:2347:a::/48
+origin:             AS4242422347
+max-length:         48
+mnt-by:             DELEGAO-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             SPACE24-MNT
+admin-c:            SPACE24-DN42
+tech-c:             SPACE24-DN42
+mnt-by:             SPACE24-MNT
+auth:               pgp-fingerprint 3212DE1E78AB0406BB954E46ACAF00FFBA96ADB5
+source:             DN42

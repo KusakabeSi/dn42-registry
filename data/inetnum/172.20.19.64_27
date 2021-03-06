@@ -1,0 +1,8 @@
+inetnum:            172.20.19.64 - 172.20.19.95
+cidr:               172.20.19.64/27
+netname:            ROUTEDBITS-V4-NET-1
+admin-c:            ORG-ROUTEDBITS-DN42
+tech-c:             ORG-ROUTEDBITS-DN42
+mnt-by:             ROUTEDBITS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             jamieweb.dn42
+descr:              JamieWeb
+admin-c:            JAMIEWEB-DN42
+tech-c:             JAMIEWEB-DN42
+mnt-by:             JAMIEWEB-MNT
+nserver:            ns1.jamieweb.dn42 172.20.32.97
+nserver:            ns1.jamieweb.dn42 fd5c:d982:d80d:9243::2
+source:             DN42

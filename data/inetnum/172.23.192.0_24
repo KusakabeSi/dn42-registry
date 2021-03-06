@@ -1,0 +1,10 @@
+inetnum:            172.23.192.0 - 172.23.192.255
+netname:            FRITZ-EXT1-IP4NET
+descr:              Fritz' extended network
+country:            DE
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+status:             ASSIGNED
+cidr:               172.23.192.0/24
+source:             DN42

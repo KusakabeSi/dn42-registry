@@ -1,0 +1,10 @@
+inet6num:           fd42:0456:e567:0000:0000:0000:0000:0000 - fd42:0456:e567:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:456:e567::/48
+netname:            RDEV-NETWORK
+descr:              rdev.info Network
+country:            DE
+admin-c:            STEPHRDEV-DN42
+tech-c:             STEPHRDEV-DN42
+mnt-by:             RDEV-MNT
+status:             ASSIGNED
+source:             DN42

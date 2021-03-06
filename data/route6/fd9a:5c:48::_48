@@ -1,0 +1,6 @@
+route6:             fd9a:5c:48::/48
+origin:             AS4242420181
+max-length:         64
+pingable:           fd9a:5c:48::5:1
+mnt-by:             MGL-MNT
+source:             DN42

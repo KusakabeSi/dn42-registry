@@ -1,0 +1,13 @@
+mntner:             BRONWISP-MNT
+descr:              Bronberg WISP Maintainer
+admin-c:            TWAKKIE-DN42
+admin-c:            IANWILDCODER-DN42
+admin-c:            DOMBOK-DN42
+tech-c:             DOMBOK-DN42
+tech-c:             IANWILDCODER-DN42
+tech-c:             TWAKKIE-DN42
+mnt-by:             BRONWISP-MNT
+mnt-by:             WILDCODER-MNT
+mnt-by:             TWAKKIE-MNT
+mnt-by:             DOMBOK-MNT
+source:             DN42

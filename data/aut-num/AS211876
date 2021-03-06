@@ -1,0 +1,15 @@
+aut-num:            AS211876
+as-name:            FIXMIX-AS
+descr:              fixmix Network
+org:                ORG-FIXMIX
+mp-import:          afi any.unicast from AS-FIXMIX-42:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-FIXMIX-42:AS-TRANSIT announce ANY
+remarks:            +-------------------------------------+
+remarks:            |        fixmix Network on DN42       |
+remarks:            +-------------------------------------+
+remarks:            |  see AS4242421876 for more details  |
+remarks:            +-------------------------------------+
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+source:             RIPE

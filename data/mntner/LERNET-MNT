@@ -1,0 +1,8 @@
+mntner:             LERNET-MNT
+descr:              Light Emitting Resistor Maintainer
+auth:               pgp-fingerprint 3A89C5D34FA118758F67C3FCE81F29F189B9D1F6
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCl5b9vrfrmk+FW/1fe7oae6iMdVs7XaQ7B7UjvN4xWb20vG6rw91YTKrtQX5cq6lpehCguu8dLIjyBeMNT2Acf35ELGI2ifveI2fgeVlb/B3FM3zRr1LmvntWZ9uTjuFBgnmq/eBeX2Nzq/W3spEabS5Qv6OjOjunqxm5IjCwhe78t4nMuVb7oCGo548COD5Hqftk+7WTcNYEDw7ZfCkz4NOLZcxv+Hnk7jR4TjzTErN+ivtdb2F6qxMdGinTPFpRs1c5QDwn34fbJOaTpsPvELffrV9pV/b6LJve+Y4SKqkBEQ+fol4KHPprVxbJrA0+GvTRnA2edjPZiAbFdMNjfzYDBlfD8Ae6l7vsNdXC7E8QwxJOXTgg68cIyZmp9sK9h4xz7oPZqqCTW+/9eCY7LzPDH3KvjN0y3orqIosgk6kjf9+Ch9DPd5xf70yZ2iAC3nTSNV+MeuclHtHmr/6IwxsBdb98qbK8cipBzXN+wdy/0n+CHN5dYyWbUoTVFG4FHI4bLl/Icm+2to9A6pV3qVxIXaW2Vp4ME6vLYwLN3OiVeZvEZ7SeLjj5Dp06UpZMsVtQwXFLHUN2HK58UWunSitEIw86RJ79nKadLRkeX39+Q+yFd7X3mMc14jbI+nxd5JkFtub6f0kQJrUNmxAgsjpsQB2oEFxa74uq+g4VOrw==
+admin-c:            LER-DN42
+tech-c:             LER-DN42
+mnt-by:             LERNET-MNT
+source:             DN42

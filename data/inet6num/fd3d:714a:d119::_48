@@ -1,0 +1,9 @@
+inet6num:           fd3d:714a:d119:0000:0000:0000:0000:0000 - fd3d:714a:d119:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3d:714a:d119::/48
+netname:            PACKETFRAME-IPV6-1
+org:                ORG-PACKETFRAME
+admin-c:            PACKETFRAME-DN42
+tech-c:             PACKETFRAME-DN42
+mnt-by:             PACKETFRAME-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+domain:             n.dn42
+descr:              domain for neo network
+admin-c:            NEO-DN42
+tech-c:             NEO-DN42
+mnt-by:             NEO-MNT
+nserver:            ns1.n.dn42 172.20.47.1
+nserver:            ns1.n.dn42 185.140.54.34
+nserver:            ns2.n.dn42 172.20.47.2
+nserver:            ns2.n.dn42 185.121.163.226
+nserver:            ns1.n.dn42.veryamt.com
+source:             DN42

@@ -1,0 +1,9 @@
+mntner:             SK9-MNT
+admin-c:            SK9-DN42
+tech-c:             SK9-DN42
+mnt-by:             SK9-MNT
+remarks:            SSH Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDuD7wwFXw/3wFmWjthpuWYicg9NwCXyUNCoHX5dzzkx+F67KFscpt78eYTE675ft/uIHUPaEyNIgoRMs7LoyCRMnsRsmpXx3Qq3O2CCr3XawIPlAj1UwXBzZ67XhVRkteA4KPWQSojkiVXT+Tjagw12Y5jAJe/y0abcY0CaHUJFCE2N5JZoTgUrCbOpfbqGLNNa1d6ZKSvvpIzfYNviCtWzMzymaJOktAoxks9A4GgZkzcm36qSaT09klvqvYPCmDum/MJ13mbHhLAkJjHLFyejDQIOJ2YmvYBsb8//se9lHE1WZlS60TpBLlY6QZMLA+r0GDx8Le1QsFXEJRuwE7pCGGLckiH6cuqBS3CNk88XQyiQqW7tVFG5yI1RsdpYIZC6aBEbERJCw07k+D5viPywLiuo+y2TmjSzAdihOa+1MEAtrNzUHQwwkxURiM8eI360yPbo+r6xsUrnv26N93PWsacCdI6jEQ5JyUKa9HZZZTFYoaaaWx7/6GDUl8R/WxzgpHGzpGskACS3Py/Hh5deHsoAo5lEHsbw3mimnn/SGjAtOZbrVFdwp52ueYFhrpcHtQiW7s3E3OX839xJ1mp3k0P21BfCIecNkb8qu0Di9VLHZZinUk0uumnSMRRKKOD4uFEalDgONAFM5iOYZarNjT+deWWX83CRDghN/8+5Q== daniel@pc
+remarks:            PGP Fingerprint:
+auth:               pgp-fingerprint 071F1EB12A610929450D8DEC0523DF412F14D28A
+source:             DN42

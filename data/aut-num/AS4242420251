@@ -1,0 +1,7 @@
+aut-num:            AS4242420251
+as-name:            HANLIN-AS
+descr:              Hanlin DN42 Network
+admin-c:            HANLIN-DN42
+tech-c:             HANLIN-DN42
+mnt-by:             HANLIN-MNT
+source:             DN42

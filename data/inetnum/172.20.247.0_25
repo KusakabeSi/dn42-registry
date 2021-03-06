@@ -1,0 +1,9 @@
+inetnum:            172.20.247.0 - 172.20.247.127
+netname:            N7-NET-01
+country:            US
+admin-c:            N7NET-DN42
+tech-c:             N7NET-DN42
+mnt-by:             N7-NET-MNT
+status:             ASSIGNED
+cidr:               172.20.247.0/25
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             LIFEDIO-MNT
+descr:              lifehome Studio - DN42 Division
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK0kOln4PwgsdJqcH9FT8+tfqPt1Am360Tz8mS+/nFly
+auth:               pgp-fingerprint 5743B814494C7C58362B96BA4B155ECEBCC832AF
+admin-c:            LIFEHOME-DN42
+tech-c:             LIFEHOME-DN42
+mnt-by:             LIFEDIO-MNT
+source:             DN42

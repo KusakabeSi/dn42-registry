@@ -1,0 +1,10 @@
+inet6num:           fdac:1662:9edd:0000:0000:0000:0000:0000 - fdac:1662:9edd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdac:1662:9edd::/48
+netname:            ERGONOMICROBOT-NET6
+descr:              IPv6 network of Ergonomic Robot
+country:            BE
+admin-c:            ERGRBT-DN42
+tech-c:             ERGRBT-DN42
+mnt-by:             ERGRBT-MNT
+status:             ASSIGNED
+source:             DN42

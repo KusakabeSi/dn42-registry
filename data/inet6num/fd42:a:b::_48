@@ -1,0 +1,15 @@
+inet6num:           fd42:000a:000b:0000:0000:0000:0000:0000 - fd42:000a:000b:ffff:ffff:ffff:ffff:ffff
+netname:            LUTOMA-IP6NET
+descr:              lutoma main IP6 network
+country:            DE
+country:            AT
+country:            CA
+country:            US
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+zone-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+nserver:            ns1.lutoma.dn42
+status:             ASSIGNED
+cidr:               fd42:a:b::/48
+source:             DN42

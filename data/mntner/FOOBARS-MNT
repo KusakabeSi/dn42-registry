@@ -1,0 +1,6 @@
+mntner:             FOOBARS-MNT
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBCJO3GAHWtA98rse7c7hpHS9vDPJUtGatu/x2fx9cHyfSwX8aVUcA2fTrcn4TG1F/rx9cAF1uKuUR3dTR1CV73e4wwTulugTK4rKizpO92PnUQBJ4o4C7tL8GLG3eJuy7gYFUKtJtwHV7msOA8AJshbtN6DGKvm821SMCX2XlrHB4pMzB0mjV5RIfkRzy4b323e64SXN8a6yfI1aGDi4hh7gBYK0KZxUTqsTSq4yCHNbAN/r7nmoEIzsTgoPLfnpxCi2rO/sz3miejXzgR5jF+PnfE5fqHBkEzRe9ugWIEmaIU1qmdoBpvATffYHkSo3aetnLlBzu/VFyhJM0sokN foo@foo

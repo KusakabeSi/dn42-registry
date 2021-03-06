@@ -1,0 +1,4 @@
+route6:             fdb1:e72a:343d::/48
+origin:             AS4242420207
+mnt-by:             ROUTEDBITS-MNT
+source:             DN42

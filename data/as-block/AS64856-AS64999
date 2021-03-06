@@ -1,0 +1,8 @@
+as-block:           AS64856-AS64999
+descr:              dn42 native ASN block (legacy)
+remarks:            this block was allocated to encourage people to use the private AS range reserved
+remarks:            by IANA instead of the 76100-76199 block.
+remarks:            Please only make an assignment from this block if you can't use 4 byte ASNs.
+mnt-by:             DN42-MNT
+policy:             closed
+source:             DN42

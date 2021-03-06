@@ -1,0 +1,5 @@
+route6:             fd08:66b0:3114:56dd::/64
+origin:             AS4242423938
+max-length:         64
+mnt-by:             CLEMENTD-MNT
+source:             DN42

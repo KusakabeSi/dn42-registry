@@ -1,0 +1,9 @@
+inetnum:            10.55.192.0 - 10.55.255.255
+cidr:               10.55.192.0/18
+netname:            ICVPN-NEUNKIRCHEN
+nserver:            55.255.55.10.ipv4.registry-sync.dn42
+nserver:            3.192.55.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neunkirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

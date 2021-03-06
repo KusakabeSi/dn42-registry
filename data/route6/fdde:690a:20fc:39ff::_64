@@ -1,0 +1,5 @@
+route6:             fdde:690a:20fc:39ff::/64
+origin:             AS4242422204
+max-length:         64
+mnt-by:             REACT-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.23.43.112 - 172.23.43.127
+netname:            NET-ASTRONET-000
+country:            NO
+admin-c:            ASTRONET-DN42
+tech-c:             ASTRONET-DN42
+mnt-by:             ASTRONET-MNT
+status:             ASSIGNED
+cidr:               172.23.43.112/28
+source:             DN42

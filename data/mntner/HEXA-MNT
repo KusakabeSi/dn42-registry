@@ -1,0 +1,8 @@
+mntner:             HEXA-MNT
+descr:              hexa
+remarks:            pin-sha256:ZVubuyd5nv6JXNAyA8K2+ESw49mswNEOhKEHKdrjYaM=
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJWhnfqUWBHlYhV7GpW9XkZVcbTnGIYq2Jupga2fP4pY
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+source:             DN42

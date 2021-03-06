@@ -1,0 +1,10 @@
+inetnum:            172.22.132.0 - 172.22.132.63
+netname:            CALLUM-NETWORK
+descr:              Callum's Network
+country:            GB
+admin-c:            CALLUM-DN42
+tech-c:             CALLUM-DN42
+mnt-by:             CALLUM-MNT
+status:             ASSIGNED
+cidr:               172.22.132.0/26
+source:             DN42

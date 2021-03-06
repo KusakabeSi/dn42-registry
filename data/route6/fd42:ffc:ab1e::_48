@@ -1,0 +1,4 @@
+route6:             fd42:ffc:ab1e::/48
+origin:             AS4242420146
+mnt-by:             GENOFIRE-MNT
+source:             DN42

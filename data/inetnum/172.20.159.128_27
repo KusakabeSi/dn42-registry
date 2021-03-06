@@ -1,0 +1,9 @@
+inetnum:            172.20.159.128 - 172.20.159.159
+cidr:               172.20.159.128/27
+netname:            KEVIN
+admin-c:            KEVIN-DN42
+tech-c:             KEVIN-DN42
+mnt-by:             KEVIN-MNT
+country:            TW
+status:             ASSIGNED
+source:             DN42

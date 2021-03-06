@@ -1,0 +1,8 @@
+inetnum:            172.22.160.32 - 172.22.160.47
+cidr:               172.22.160.32/28
+netname:            cap's primary network
+admin-c:            CAP-DN42
+tech-c:             CAP-DN42
+mnt-by:             CAP-MNT
+status:             ASSIGNED
+source:             DN42

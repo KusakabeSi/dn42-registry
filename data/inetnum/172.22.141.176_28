@@ -1,0 +1,10 @@
+inetnum:            172.22.141.176 - 172.22.141.191
+cidr:               172.22.141.176/28
+netname:            XUU-CA-DN42
+descr:              Xuu CA Network
+country:            CA
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+status:             ASSIGNED
+source:             DN42

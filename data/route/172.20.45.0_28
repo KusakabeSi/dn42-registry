@@ -1,0 +1,4 @@
+route:              172.20.45.0/28
+origin:             AS4242421341
+mnt-by:             PAPAYAWHIP-MNT
+source:             DN42

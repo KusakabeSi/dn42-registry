@@ -1,0 +1,9 @@
+inet6num:           fd42:dead:face:0000:0000:0000:0000:0000 - fd42:dead:face:ffff:ffff:ffff:ffff:ffff
+netname:            THB-NETWORK-V6
+country:            DE
+admin-c:            THB-DN42
+tech-c:             THB-DN42
+mnt-by:             TOBIHB-MNT
+status:             ASSIGNED
+cidr:               fd42:dead:face::/48
+source:             DN42

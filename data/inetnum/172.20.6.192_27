@@ -1,0 +1,10 @@
+inetnum:            172.20.6.192 - 172.20.6.223
+netname:            LEMELISK-CLIENT
+descr:              Lemelisk's Client Network
+country:            DE
+admin-c:            LEMELISK-DN42
+tech-c:             LEMELISK-DN42
+mnt-by:             LEMELISK-MNT
+status:             ASSIGNED
+cidr:               172.20.6.192/27
+source:             DN42

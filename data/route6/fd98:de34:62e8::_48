@@ -1,0 +1,6 @@
+route6:             fd98:de34:62e8::/48
+origin:             AS4242422647
+descr:              pomoke Network - inet6
+max-length:         48
+mnt-by:             POMOKE-MNT
+source:             DN42

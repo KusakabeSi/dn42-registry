@@ -1,0 +1,6 @@
+route6:             fd32:c1ee:db11::/48
+origin:             AS4242420148
+mnt-by:             LALAKIS-MNT
+admin-c:            LALAKIS-DN42
+tech-c:             LALAKIS-DN42
+source:             DN42

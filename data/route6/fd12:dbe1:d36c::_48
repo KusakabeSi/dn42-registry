@@ -1,0 +1,5 @@
+route6:             fd12:dbe1:d36c::/48
+origin:             AS4242422843
+max-length:         48
+mnt-by:             MCBROWN-MNT
+source:             DN42

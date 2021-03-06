@@ -1,0 +1,6 @@
+mntner:             ALPACA-MNT
+admin-c:            ALPACA-DN42
+tech-c:             ALPACA-DN42
+mnt-by:             ALPACA-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH/ecFNf+bTHnzdiLAYoVjLjfSFpf7f4gFToO4pihfQT
+source:             DN42

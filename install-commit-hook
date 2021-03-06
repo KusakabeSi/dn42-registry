@@ -1,0 +1,20 @@
+#!/bin/sh
+
+if [ $# -eq 0 ]
+  then
+    echo "Usage: $0 YOUR-MNT"
+    exit
+fi
+
+BASE="$(readlink -f "$0" 2>/dev/null || python -c 'import os,sys;print(os.path.realpath(sys.argv[1]))' "$0")"
+BASE="$(dirname "$BASE")"
+cd "$BASE" || exit 1
+
+cat > .git/hooks/pre-commit <<EOF
+#!/bin/sh
+
+./check-my-stuff "$1" || exit 1
+
+EOF
+chmod +x .git/hooks/pre-commit
+

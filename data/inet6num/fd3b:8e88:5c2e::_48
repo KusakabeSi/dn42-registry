@@ -1,0 +1,9 @@
+inet6num:           fd3b:8e88:5c2e:0000:0000:0000:0000:0000 - fd3b:8e88:5c2e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3b:8e88:5c2e::/48
+netname:            CONSOMA-V6-1
+country:            FR
+admin-c:            CONSOMA-DN42
+tech-c:             CONSOMA-DN42
+mnt-by:             CONSOMA-MNT
+status:             ASSIGNED
+source:             DN42

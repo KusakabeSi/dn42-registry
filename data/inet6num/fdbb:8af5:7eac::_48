@@ -1,0 +1,10 @@
+inet6num:           fdbb:8af5:7eac:0000:0000:0000:0000:0000 - fdbb:8af5:7eac:ffff:ffff:ffff:ffff:ffff
+netname:            FUSL-DN42-IPV6-IT-MIL-A
+descr:              FUSL-DN42-IPV6-IT-MIL-A
+country:            IT
+admin-c:            FUSL-DN42
+tech-c:             FUSL-DN42
+mnt-by:             FUSL-MNT
+status:             ASSIGNED
+cidr:               fdbb:8af5:7eac::/48
+source:             DN42

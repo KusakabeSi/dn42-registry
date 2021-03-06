@@ -1,0 +1,6 @@
+route:              10.198.0.0/16
+origin:             AS65242
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westpfalz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,11 @@
+inet6num:           fdc9:67ea:76a5:0000:0000:0000:0000:0000 - fdc9:67ea:76a5:ffff:ffff:ffff:ffff:ffff
+netname:            SIDEREAL-NETWORK
+nserver:            ns1.sidereal.dn42
+nserver:            ns2.sidereal.dn42
+country:            CA
+admin-c:            SIDEREAL-DN42
+tech-c:             SIDEREAL-DN42
+mnt-by:             SIDEREAL-MNT
+status:             ASSIGNED
+cidr:               fdc9:67ea:76a5::/48
+source:             DN42

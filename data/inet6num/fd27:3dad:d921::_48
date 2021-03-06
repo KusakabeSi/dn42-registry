@@ -1,0 +1,10 @@
+inet6num:           fd27:3dad:d921:0000:0000:0000:0000:0000 - fd27:3dad:d921:ffff:ffff:ffff:ffff:ffff
+netname:            BYRN-IP6-CLIENT-NET
+descr:              Client Subnet
+country:            US
+admin-c:            BYRN-DN42
+tech-c:             BYRN-DN42
+mnt-by:             BYRN-MNT
+status:             ALLOCATED
+cidr:               fd27:3dad:d921::/48
+source:             DN42

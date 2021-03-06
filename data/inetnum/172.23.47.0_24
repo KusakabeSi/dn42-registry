@@ -1,0 +1,10 @@
+inetnum:            172.23.47.0 - 172.23.47.255
+netname:            HADRILL-NETWORK
+descr:              Hadrill Network
+country:            GB
+admin-c:            HADRILL-DN42
+tech-c:             HADRILL-DN42
+mnt-by:             HADRILL-MNT
+status:             ALLOCATED
+cidr:               172.23.47.0/24
+source:             DN42

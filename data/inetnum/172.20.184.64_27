@@ -1,0 +1,9 @@
+inetnum:            172.20.184.64 - 172.20.184.95
+cidr:               172.20.184.64/27
+netname:            GDEV v4 Alloc A
+admin-c:            GDEV-DN42
+tech-c:             GDEV-DN42
+mnt-by:             GDEV-MNT
+status:             ASSIGNED
+nserver:            1.ns.gibbons.dn42
+source:             DN42

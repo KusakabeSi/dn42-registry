@@ -1,0 +1,4 @@
+route:              172.20.6.0/28
+origin:             AS4242421506
+mnt-by:             BEN-MNT
+source:             DN42

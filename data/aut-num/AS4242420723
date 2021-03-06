@@ -1,0 +1,6 @@
+aut-num:            AS4242420723
+as-name:            DROPBEAR-AS
+admin-c:            DROPBEAR-DN42
+tech-c:             DROPBEAR-DN42
+mnt-by:             DROPBEAR-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.17.0 - 172.20.17.255
+netname:            HARUKA-TESTNET
+descr:              Haruka Test Network
+country:            CN
+admin-c:            HARUKA-DN42
+tech-c:             HARUKA-DN42
+mnt-by:             HARUKA-MNT
+nserver:            ns.haruka.dn42
+status:             ASSIGNED
+cidr:               172.20.17.0/24
+source:             DN42

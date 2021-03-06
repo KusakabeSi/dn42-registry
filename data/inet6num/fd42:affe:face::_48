@@ -1,0 +1,9 @@
+inet6num:           fd42:affe:face:0000:0000:0000:0000:0000 - fd42:affe:face:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:affe:face::/48
+netname:            RAPPET-NETWORK
+country:            DE
+admin-c:            RAPPET-DN42
+tech-c:             RAPPET-DN42
+mnt-by:             RAPPET-MNT
+status:             ASSIGNED
+source:             DN42

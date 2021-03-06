@@ -1,0 +1,8 @@
+aut-num:            AS4242420101
+as-name:            CCCDA-AS
+descr:              Chaos Computer Club Darmstadt
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+source:             DN42

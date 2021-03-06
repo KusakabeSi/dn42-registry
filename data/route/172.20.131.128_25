@@ -1,0 +1,4 @@
+route:              172.20.131.128/25
+origin:             AS4242422365
+mnt-by:             LISUX-MNT
+source:             DN42

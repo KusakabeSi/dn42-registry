@@ -1,0 +1,5 @@
+route:              172.21.65.32/28
+descr:              Route for ADRA-NET4
+origin:             AS4242422379
+mnt-by:             ADRA-MNT
+source:             DN42

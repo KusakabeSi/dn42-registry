@@ -1,0 +1,4 @@
+route:              172.21.82.0/27
+origin:             AS4242421017
+mnt-by:             DRMESSANO-MNT
+source:             DN42

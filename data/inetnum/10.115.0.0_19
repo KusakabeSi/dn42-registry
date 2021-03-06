@@ -1,0 +1,12 @@
+inetnum:            10.115.0.0 - 10.115.31.255
+cidr:               10.115.0.0/19
+netname:            ICVPN-CUXHAVEN
+nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.ipv6.registry-sync.dn42
+nserver:            2.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.ipv6.registry-sync.dn42
+nserver:            3.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.ipv6.registry-sync.dn42
+nserver:            4.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.ipv6.registry-sync.dn42
+nserver:            5.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.f.a.1.f.0.c.c.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: cuxhaven
+mnt-by:             DN42-MNT
+source:             ICVPN

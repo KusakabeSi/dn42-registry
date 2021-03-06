@@ -1,0 +1,10 @@
+inet6num:           fd98:0308:41fc:0000:0000:0000:0000:0000 - fd98:0308:41fc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd98:308:41fc::/48
+netname:            VILLISEK-NETWORK
+descr:              VILLISEK personal use network
+country:            FR
+admin-c:            VILLISEK-DN42
+tech-c:             VILLISEK-DN42
+mnt-by:             VILLISEK-MNT
+status:             ASSIGNED
+source:             DN42

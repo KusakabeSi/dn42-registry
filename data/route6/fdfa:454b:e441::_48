@@ -1,0 +1,5 @@
+route6:             fdfa:454b:e441::/48
+origin:             AS4242422522
+max-length:         48
+mnt-by:             AM-MNT
+source:             DN42

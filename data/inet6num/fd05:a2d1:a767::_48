@@ -1,0 +1,11 @@
+inet6num:           fd05:a2d1:a767:0000:0000:0000:0000:0000 - fd05:a2d1:a767:ffff:ffff:ffff:ffff:ffff
+cidr:               fd05:a2d1:a767::/48
+netname:            MUNSTERNET-NETWORK
+descr:              Network of MUNSTERNET
+country:            CH
+admin-c:            MUNSTERNET-DN42
+tech-c:             MUNSTERNET-DN42
+mnt-by:             MUNSTERNET-MNT
+status:             ASSIGNED
+nserver:            ns1.munsternet.dn42
+source:             DN42

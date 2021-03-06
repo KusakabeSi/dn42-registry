@@ -1,0 +1,8 @@
+inetnum:            172.20.164.128 - 172.20.164.191
+cidr:               172.20.164.128/26
+netname:            CLEMENTPRIMOT-NETWORK
+admin-c:            CLEMENTPRIMOT-DN42
+tech-c:             CLEMENTPRIMOT-DN42
+mnt-by:             CLEMENTPRIMOT-MNT
+status:             ASSIGNED
+source:             DN42

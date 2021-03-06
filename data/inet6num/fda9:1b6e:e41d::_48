@@ -1,0 +1,10 @@
+inet6num:           fda9:1b6e:e41d:0000:0000:0000:0000:0000 - fda9:1b6e:e41d:ffff:ffff:ffff:ffff:ffff
+cidr:               fda9:1b6e:e41d::/48
+netname:            ORANGE-NET
+descr:              Network of OrangeOverflow
+country:            DE
+admin-c:            ORANGE-DN42
+tech-c:             ORANGE-DN42
+mnt-by:             ORANGE-MNT
+status:             ASSIGNED
+source:             DN42

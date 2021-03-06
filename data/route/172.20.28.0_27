@@ -1,0 +1,4 @@
+route:              172.20.28.0/27
+origin:             AS4242420154
+mnt-by:             AGH-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.23.193.32/27
+origin:             AS4242421401
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+source:             DN42

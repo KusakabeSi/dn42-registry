@@ -1,0 +1,7 @@
+mntner:             KRSTN-MNT
+admin-c:            KRSTN-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             KRSTN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC5QYEN24m+6UevBfONJlHG4F2DyJvxwhr1CREUPjkevQS2pBow40oOxW4gR0ugyBKaBFlF4X1lJszfeLVaBqlm/X5e83j11irZgg7j8QovKhx6amKBRtomqTcZ2U4w5nCQKnCSLxvtsV6aQ82tgiDdRLuhnjE08B3M248uK7PqWrh49xV/AecnHfl7e5WMa4BPVBCWUT5OC/n+K5I2MV2tahs7n+Np7i5c9RffPux8xyqEWO++RPr0vGZ4sjIWei7mzhIEQbxFv73DU3wIIeLlIbKbtmImCPAdrPJd4o/Gs0fmZnWTXyQx2sU2l0QYtsmMZzf9phlGX0KnwVURdK5
+remarks:            pin-sha256:BJYB6QKf1vOirT9WoeqUrlvtYl/tWYfRdPyoTGlFNHY=
+source:             DN42

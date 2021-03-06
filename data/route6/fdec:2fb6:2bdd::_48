@@ -1,0 +1,5 @@
+route6:             fdec:2fb6:2bdd::/48
+origin:             AS4242420529
+max-length:         64
+mnt-by:             DKJOKER-MNT
+source:             DN42

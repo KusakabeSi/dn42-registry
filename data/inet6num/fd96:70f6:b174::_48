@@ -1,0 +1,11 @@
+inet6num:           fd96:70f6:b174:0000:0000:0000:0000:0000 - fd96:70f6:b174:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:70f6:b174::/48
+netname:            TAAVI-NET-V6-1
+descr:              IPv6 block for TAAVInet
+country:            FI
+admin-c:            TAAVI-DN42
+tech-c:             TAAVI-DN42
+mnt-by:             TAAVI-MNT
+status:             ASSIGNED
+nserver:            ns01.taavi.dn42
+source:             DN42

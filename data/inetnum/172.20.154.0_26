@@ -1,0 +1,8 @@
+inetnum:            172.20.154.0 - 172.20.154.63
+cidr:               172.20.154.0/26
+netname:            TDS-NET
+admin-c:            TDS-DN42
+tech-c:             TDS-DN42
+mnt-by:             TDS-MNT
+status:             ASSIGNED
+source:             DN42

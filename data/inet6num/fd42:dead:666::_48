@@ -1,0 +1,10 @@
+inet6num:           fd42:dead:0666:0000:0000:0000:0000:0000 - fd42:dead:0666:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:dead:666::/48
+netname:            NETLAB-NETWORK
+descr:              Network of Netlab
+country:            SE
+admin-c:            NETLAB-DN42
+tech-c:             NETLAB-DN42
+mnt-by:             NETLAB-MNT
+status:             ASSIGNED
+source:             DN42

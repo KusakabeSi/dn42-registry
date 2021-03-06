@@ -1,0 +1,10 @@
+inet6num:           fdfc:2689:117c:0000:0000:0000:0000:0000 - fdfc:2689:117c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:2689:117c::/48
+netname:            PONS-NETWORK
+descr:              p0ns Network 
+country:            CL
+admin-c:            PONS-DN42
+tech-c:             PONS-DN42
+mnt-by:             PONS-MNT
+status:             ASSIGNED
+source:             DN42

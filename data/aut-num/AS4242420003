@@ -1,0 +1,7 @@
+aut-num:            AS4242420003
+as-name:            GIGA-AS
+descr:              Homenetwork of Gigadoc2
+admin-c:            GIGA-DN42
+tech-c:             GIGA-DN42
+mnt-by:             GIGA-MNT
+source:             DN42

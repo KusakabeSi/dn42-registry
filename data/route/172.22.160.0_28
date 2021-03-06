@@ -1,0 +1,4 @@
+route:              172.22.160.0/28
+origin:             AS4242420996
+mnt-by:             QUITE-MNT
+source:             DN42

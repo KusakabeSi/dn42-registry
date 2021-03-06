@@ -1,0 +1,10 @@
+inet6num:           fd42:e881:1500:0000:0000:0000:0000:0000 - fd42:e881:150f:ffff:ffff:ffff:ffff:ffff
+netname:            BASNET-MAIN
+descr:              Basnet
+country:            GB
+admin-c:            BASIL-DN42
+tech-c:             BASIL-DN42
+mnt-by:             BASIL-MNT
+status:             ASSIGNED
+cidr:               fd42:e881:1500::/44
+source:             DN42

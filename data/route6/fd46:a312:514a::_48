@@ -1,0 +1,5 @@
+route6:             fd46:a312:514a::/48
+origin:             AS4242422309
+max-length:         48
+mnt-by:             LEOLEOASD-MNT
+source:             DN42

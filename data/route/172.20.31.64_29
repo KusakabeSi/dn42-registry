@@ -1,0 +1,4 @@
+route:              172.20.31.64/29
+origin:             AS4242421109
+mnt-by:             IMIR-MNT
+source:             DN42

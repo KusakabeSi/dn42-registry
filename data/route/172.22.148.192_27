@@ -1,0 +1,5 @@
+route:              172.22.148.192/27
+descr:              SVTH Network
+origin:             AS4242423110
+mnt-by:             SVTH-MNT
+source:             DN42

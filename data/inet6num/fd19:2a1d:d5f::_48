@@ -1,0 +1,10 @@
+inet6num:           fd19:2a1d:0d5f:0000:0000:0000:0000:0000 - fd19:2a1d:0d5f:ffff:ffff:ffff:ffff:ffff
+netname:            ZAUNEI-ULA-IP6NET
+descr:              Zaunei IPv6 Network
+country:            DE
+admin-c:            ZAUNEI-DN42
+tech-c:             ZAUNEI-DN42
+mnt-by:             ZAUNEI-MNT
+status:             ASSIGNED
+cidr:               fd19:2a1d:d5f::/48
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242421117
+as-name:            NEDKO-AS1
+descr:              Nedko's first AS
+admin-c:            NEDKO-DN42
+tech-c:             NEDKO-DN42
+mnt-by:             NEDKO-MNT
+source:             DN42

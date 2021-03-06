@@ -1,0 +1,8 @@
+aut-num:            AS64753
+as-name:            BARNSLIG-AS
+descr:              Welcome to the Kindergarten network
+remarks:            Open peering in FFM, AMS or HAM
+admin-c:            BARNSLIG-DN42
+tech-c:             BARNSLIG-DN42
+mnt-by:             BARNEHAGE-MNT
+source:             DN42

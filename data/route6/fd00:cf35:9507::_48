@@ -1,0 +1,5 @@
+route6:             fd00:cf35:9507::/48
+descr:              GIN42-PEER4-NET6
+origin:             AS4242423005
+mnt-by:             GIN42-MNT
+source:             DN42

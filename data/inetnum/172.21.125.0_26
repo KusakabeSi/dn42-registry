@@ -1,0 +1,11 @@
+inetnum:            172.21.125.0 - 172.21.125.63
+netname:            FLORIANB-NET
+country:            EU
+admin-c:            FLORIANB-DN42
+tech-c:             FLORIANB-DN42
+mnt-by:             FLORIANB-MNT
+nserver:            ns01.florianb.dn42
+nserver:            ns02.florianb.dn42
+status:             ASSIGNED
+cidr:               172.21.125.0/26
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd62:0172:0023:0234:0000:0000:0000:0000 - fd62:0172:0023:0234:ffff:ffff:ffff:ffff
+netname:            TYPHON-IPV6-NETWORK
+descr:              TYPHON-IPV6-NETWORK
+country:            DE
+admin-c:            TYPHON-DN42
+tech-c:             TYPHON-DN42
+mnt-by:             TYPHON-MNT
+status:             ASSIGNED
+cidr:               fd62:172:23:234::/64
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd5f:b56c:2823:0000:0000:0000:0000:0000 - fd5f:b56c:2823:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5f:b56c:2823::/48
+netname:            SKUSIX1-NETWORK
+descr:              First IPv6 network of Sku Savi
+country:            IT
+admin-c:            SKUSAVI-DN42
+tech-c:             SKUSAVI-DN42
+mnt-by:             SKUSAVI-MNT
+nserver:            ns.skusavi.dn42
+status:             ASSIGNED
+source:             DN42

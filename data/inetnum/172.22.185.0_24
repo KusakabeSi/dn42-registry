@@ -1,0 +1,9 @@
+inetnum:            172.22.185.0 - 172.22.185.255
+netname:            NODAUF-NETWORK
+country:            FR
+admin-c:            NODAUF-DN42
+tech-c:             NODAUF-DN42
+mnt-by:             NODAUF-MNT
+status:             ASSIGNED
+cidr:               172.22.185.0/24
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd40:2200:1975:0000:0000:0000:0000:0000 - fd40:2200:1975:ffff:ffff:ffff:ffff:ffff
+netname:            FL-NET6
+descr:              fl
+country:            FR
+admin-c:            FL-DN42
+tech-c:             FL-DN42
+mnt-by:             FL-MNT
+status:             ASSIGNED
+nserver:            ns.fl.dn42
+cidr:               fd40:2200:1975::/48
+source:             DN42

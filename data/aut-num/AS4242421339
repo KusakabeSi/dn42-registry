@@ -1,0 +1,18 @@
+aut-num:            AS4242421339
+as-name:            twink0rNET
+descr:              twink0rNET DN42
+admin-c:            TWINK0R-DN42
+tech-c:             TWINK0R-DN42
+mnt-by:             TWINK0R-MNT
+remarks:            +------------------------------------------+
+remarks:            |     Open Peering, for peering ask at     |
+remarks:            |           irc:twink0r@hackint            |
+remarks:            |          IX : NL-ZUID , DN42-IX          |
+remarks:            |  Peering EU                              |
+remarks:            |  Italia - Milan # 1 Gbit/s               |
+remarks:            |  England - London # 1 Gbit/s             |
+remarks:            |  Netherlands - Amsterdam # 1 Gbit/s      |
+remarks:            |  Peering US                              |
+remarks:            |  US - Los Angeles # Setup                |
+remarks:            +------------------------------------------+
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.22.0/23
+descr:              Ikey Routes
+origin:             AS4242421410
+mnt-by:             IKEY-MNT
+source:             DN42

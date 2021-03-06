@@ -1,0 +1,4 @@
+route6:             fd88:1926:817::/48
+origin:             AS4242420251
+mnt-by:             HANLIN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdf3:bd28:d90b::/48
+origin:             AS4242420215
+max-length:         48
+mnt-by:             EM0LAR-MNT
+source:             DN42

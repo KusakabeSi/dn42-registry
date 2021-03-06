@@ -1,0 +1,11 @@
+inetnum:            172.22.180.128 - 172.22.180.191
+cidr:               172.22.180.128/26
+netname:            JASON-IPV4NETWORK
+descr:              Jason R&D Network
+country:            CN
+admin-c:            JASON-DN42
+tech-c:             JASON-DN42
+mnt-by:             JASON-MNT
+status:             ASSIGNED
+nserver:            ns1.jason.dn42
+source:             DN42

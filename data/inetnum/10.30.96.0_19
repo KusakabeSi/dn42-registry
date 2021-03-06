@@ -1,0 +1,7 @@
+inetnum:            10.30.96.0 - 10.30.127.255
+cidr:               10.30.96.0/19
+netname:            ICVPN-FUERSTENWALDE
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: fuerstenwalde
+mnt-by:             DN42-MNT
+source:             ICVPN

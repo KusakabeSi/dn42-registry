@@ -1,0 +1,7 @@
+domain:             taavi.dn42
+admin-c:            TAAVI-DN42
+tech-c:             TAAVI-DN42
+mnt-by:             TAAVI-MNT
+nserver:            ns01.taavi.dn42 172.22.130.129
+nserver:            ns01.taavi.dn42 fd96:70f6:b174::1
+source:             DN42

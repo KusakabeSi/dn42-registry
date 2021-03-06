@@ -1,0 +1,8 @@
+inetnum:            172.22.245.128 - 172.22.245.255
+netname:            AFICS-NET2
+cidr:               172.22.245.128/25
+admin-c:            AFICS-DN42
+tech-c:             AFICS-DN42
+mnt-by:             AFICS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.255.160 - 172.22.255.175
+netname:            TINC-IX-1-NET
+descr:              Tinc-IX-1 network
+remarks:            tinc-hosts  SET-1-DN42-TINC
+admin-c:            UVES-DN42
+tech-c:             UVES-DN42
+mnt-by:             DUMMY-MNT
+status:             ASSIGNED
+cidr:               172.22.255.160/28
+source:             DN42

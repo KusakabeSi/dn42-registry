@@ -1,0 +1,11 @@
+inet6num:           fd00:0bad:c0de:0000:0000:0000:0000:0000 - fd00:0bad:c0de:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:bad:c0de::/48
+netname:            SNEK-NETWORK
+descr:              SNEK Network
+country:            US
+admin-c:            SNEK-DN42
+tech-c:             SNEK-DN42
+mnt-by:             SNEK-MNT
+nserver:            ns1.snek.dn42
+status:             ASSIGNED
+source:             DN42

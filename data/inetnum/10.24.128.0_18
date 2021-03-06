@@ -1,0 +1,9 @@
+inetnum:            10.24.128.0 - 10.24.191.255
+cidr:               10.24.128.0/18
+netname:            ICVPN-LUXEMBOURG
+nserver:            10.128.24.10.ipv4.registry-sync.dn42
+nserver:            0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luxembourg
+mnt-by:             DN42-MNT
+source:             ICVPN

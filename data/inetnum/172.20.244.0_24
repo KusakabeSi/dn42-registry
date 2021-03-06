@@ -1,0 +1,10 @@
+inetnum:            172.20.244.0 - 172.20.244.255
+netname:            OIDA-M33
+descr:              OIDA-M33
+country:            DE
+admin-c:            OIDA-DN42
+tech-c:             OIDA-DN42
+mnt-by:             OIDA-MNT
+status:             ASSIGNED
+cidr:               172.20.244.0/24
+source:             DN42

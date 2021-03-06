@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:2f2f:0000:0000:0000:0000:0000 - fd10:0127:2f2f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:2f2f::/48
+netname:            Edward_P-Ezpro-V6
+admin-c:            EDWARD-P-NEONETWORK
+tech-c:             EDWARD-P-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

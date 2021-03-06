@@ -1,0 +1,7 @@
+domain:             whois.dn42
+nserver:            lavana.sjc.xuu.dn42
+nserver:            rakta.fra.xuu.dn42
+mnt-by:             XUU-MNT
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+source:             DN42

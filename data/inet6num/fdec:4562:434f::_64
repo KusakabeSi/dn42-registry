@@ -1,0 +1,7 @@
+inet6num:           fdec:4562:434f:0000:0000:0000:0000:0000 - fdec:4562:434f:0000:ffff:ffff:ffff:ffff
+cidr:               fdec:4562:434f::/64
+netname:            ICVPN-EBERSDORF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ebersdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

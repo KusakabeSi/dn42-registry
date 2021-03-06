@@ -1,0 +1,9 @@
+inet6num:           fde1:e602:947a:0000:0000:0000:0000:0000 - fde1:e602:947a:ffff:ffff:ffff:ffff:ffff
+netname:            EINSELF-INET6-DN42
+country:            DE
+admin-c:            1ELF-DN42
+tech-c:             1ELF-DN42
+mnt-by:             1ELF-MNT
+status:             ASSIGNED
+cidr:               fde1:e602:947a::/48
+source:             DN42

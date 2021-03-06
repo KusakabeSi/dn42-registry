@@ -1,0 +1,10 @@
+inet6num:           fde3:8334:267e:0000:0000:0000:0000:0000 - fde3:8334:267e:ffff:ffff:ffff:ffff:ffff
+cidr:               fde3:8334:267e::/48
+netname:            UFFSALOT-NETWORK
+descr:              Network of UFFSALOT
+country:            DE
+admin-c:            UFFSALOT-DN42
+tech-c:             UFFSALOT-DN42
+mnt-by:             UFFSALOT-MNT
+status:             ASSIGNED
+source:             DN42

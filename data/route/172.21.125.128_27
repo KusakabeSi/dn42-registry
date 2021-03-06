@@ -1,0 +1,4 @@
+route:              172.21.125.128/27
+origin:             AS4242422053
+mnt-by:             MODER-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.33.48 - 172.20.33.63
+cidr:               172.20.33.48/28
+netname:            CLOUDFILES
+admin-c:            CLOUDFILES-DN42
+tech-c:             CLOUDFILES-DN42
+mnt-by:             CLOUDFILES-MNT
+status:             ASSIGNED
+source:             DN42

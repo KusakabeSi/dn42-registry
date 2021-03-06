@@ -1,0 +1,5 @@
+route6:             fd74:40ee:b38a::/48
+descr:              Hackerspace Bielefeld IPv6 ULA
+origin:             AS4242423342
+mnt-by:             BODEMS-MNT
+source:             DN42

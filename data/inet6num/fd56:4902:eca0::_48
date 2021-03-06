@@ -1,0 +1,11 @@
+inet6num:           fd56:4902:eca0:0000:0000:0000:0000:0000 - fd56:4902:eca0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd56:4902:eca0::/48
+netname:            CLERIE-NETWORK
+descr:              clerie's network
+country:            DE
+admin-c:            CLERIE-DN42
+tech-c:             CLERIE-DN42
+mnt-by:             CLERIE-MNT
+status:             ASSIGNED
+nserver:            ns1.clerie.dn42
+source:             DN42

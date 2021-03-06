@@ -1,0 +1,7 @@
+domain:             unixbros.dn42
+descr:              Domain for true bros!
+admin-c:            Z3BRA-DN42
+tech-c:             Z3BRA-DN42
+mnt-by:             UNIXBROS-MNT
+nserver:            ns1.unixbros.dn42 172.23.199.8
+source:             DN42

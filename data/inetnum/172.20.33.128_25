@@ -1,0 +1,10 @@
+inetnum:            172.20.33.128 - 172.20.33.255
+cidr:               172.20.33.128/25
+netname:            ADAMYI-IPV4-NET
+admin-c:            ADAMYI-DN42
+tech-c:             ADAMYI-DN42
+mnt-by:             ADAMYI-MNT
+nserver:            ns1.adamyi.dn42
+nserver:            ns2.adamyi.dn42
+status:             ASSIGNED
+source:             DN42

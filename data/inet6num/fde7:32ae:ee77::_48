@@ -1,0 +1,11 @@
+inet6num:           fde7:32ae:ee77:0000:0000:0000:0000:0000 - fde7:32ae:ee77:ffff:ffff:ffff:ffff:ffff
+netname:            SOMNET-V6-01
+descr:              SOMNET IPv6
+country:            US
+admin-c:            SOMNET-DN42
+tech-c:             SOMNET-DN42
+mnt-by:             SOMNET-MNT
+nserver:            ns1.somnet.dn42
+status:             ASSIGNED
+cidr:               fde7:32ae:ee77::/48
+source:             DN42

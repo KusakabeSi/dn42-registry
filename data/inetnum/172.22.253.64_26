@@ -1,0 +1,11 @@
+inetnum:            172.22.253.64 - 172.22.253.127
+netname:            CERISELAND-DN42-IP4NET
+descr:              Ceriseland private address
+country:            FR
+admin-c:            CERISELAND-DN42
+tech-c:             CERISELAND-DN42
+mnt-by:             CERISELAND-MNT
+nserver:            ns0.ceriseland.dn42
+status:             ASSIGNED
+cidr:               172.22.253.64/26
+source:             DN42

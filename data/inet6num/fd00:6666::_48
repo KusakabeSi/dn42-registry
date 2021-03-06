@@ -1,0 +1,11 @@
+inet6num:           fd00:6666:0000:0000:0000:0000:0000:0000 - fd00:6666:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:6666::/48
+netname:            BILL-NETWORK
+descr:              Network of Bill
+country:            CN
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+org:                ORG-BIDGROUP
+mnt-by:             BILL-MNT
+status:             ASSIGNED
+source:             DN42

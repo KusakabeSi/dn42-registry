@@ -1,0 +1,8 @@
+inetnum:            172.20.228.128 - 172.20.228.191
+cidr:               172.20.228.128/26
+netname:            ELBOUDDUNTI-NETWORK
+admin-c:            MEB-DN42
+tech-c:             MEB-DN42
+mnt-by:             MEB-MNT
+status:             ASSIGNED
+source:             DN42

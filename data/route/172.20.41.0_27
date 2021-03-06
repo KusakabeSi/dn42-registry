@@ -1,0 +1,4 @@
+route:              172.20.41.0/27
+origin:             AS4242422381
+mnt-by:             ODVIK-MNT
+source:             DN42

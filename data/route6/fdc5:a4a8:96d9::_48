@@ -1,0 +1,5 @@
+route6:             fdc5:a4a8:96d9::/48
+origin:             AS4242422607
+max-length:         48
+mnt-by:             HAHA-MNT
+source:             DN42

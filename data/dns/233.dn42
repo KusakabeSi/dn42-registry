@@ -1,0 +1,6 @@
+domain:             233.dn42
+admin-c:            OXYGEN233-DN42
+tech-c:             OXYGEN233-DN42
+mnt-by:             OXYGEN233-MNT
+nserver:            ns1.iedon.dn42
+source:             DN42

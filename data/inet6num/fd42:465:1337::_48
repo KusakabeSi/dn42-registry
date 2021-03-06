@@ -1,0 +1,10 @@
+inet6num:           fd42:0465:1337:0000:0000:0000:0000:0000 - fd42:0465:1337:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:465:1337::/48
+nserver:            ns1.ags131.dn42
+nserver:            ns2.ags131.dn42
+netname:            AGS-NETWORK
+admin-c:            AGS-DN42
+tech-c:             AGS-DN42
+mnt-by:             AGS-MNT
+status:             ASSIGNED
+source:             DN42

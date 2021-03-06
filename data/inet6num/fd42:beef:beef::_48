@@ -1,0 +1,10 @@
+inet6num:           fd42:beef:beef:0000:0000:0000:0000:0000 - fd42:beef:beef:ffff:ffff:ffff:ffff:ffff
+netname:            BEN-V6-NET
+descr:              BEN-V6-NET
+country:            DE
+admin-c:            BEN-DN42
+tech-c:             BEN-DN42
+mnt-by:             BEN-MNT
+status:             ASSIGNED
+cidr:               fd42:beef:beef::/48
+source:             DN42

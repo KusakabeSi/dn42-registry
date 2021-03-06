@@ -1,0 +1,8 @@
+mntner:             BRUEGGUS-MNT
+descr:              Brueggus Maintenance Object
+auth:               pgp-fingerprint 64661DB16DBDBC48F76C1D4256D0AB0A3B365D83
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEuybOA1cMk6lW97cWf6XUcpye+3j9OFXi/5IZIoJ2WF
+admin-c:            BRUEGGUS-DN42
+tech-c:             BRUEGGUS-DN42
+mnt-by:             BRUEGGUS-MNT
+source:             DN42

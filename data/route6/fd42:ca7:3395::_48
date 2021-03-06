@@ -1,0 +1,5 @@
+route6:             fd42:ca7:3395::/48
+origin:             AS4242423395
+max-length:         48
+mnt-by:             SHEBANG-MNT
+source:             DN42

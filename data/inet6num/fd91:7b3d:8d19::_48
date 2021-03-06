@@ -1,0 +1,9 @@
+inet6num:           fd91:7b3d:8d19:0000:0000:0000:0000:0000 - fd91:7b3d:8d19:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:7b3d:8d19::/48
+netname:            FNK-IPV6
+admin-c:            FNK-DN42
+tech-c:             FNK-DN42
+mnt-by:             FNK-MNT
+nserver:            ns1.wsfnk.dn42
+status:             ASSIGNED
+source:             DN42

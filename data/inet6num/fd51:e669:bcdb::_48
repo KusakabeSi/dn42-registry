@@ -1,0 +1,9 @@
+inet6num:           fd51:e669:bcdb:0000:0000:0000:0000:0000 - fd51:e669:bcdb:ffff:ffff:ffff:ffff:ffff
+netname:            NET-PHYSTRAX-000
+country:            CA
+admin-c:            MADYODA-DN42
+tech-c:             MADYODA-DN42
+mnt-by:             PHYSTRAX-MNT
+status:             ASSIGNED
+cidr:               fd51:e669:bcdb::/48
+source:             DN42

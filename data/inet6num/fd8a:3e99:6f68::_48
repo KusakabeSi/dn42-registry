@@ -1,0 +1,9 @@
+inet6num:           fd8a:3e99:6f68:0000:0000:0000:0000:0000 - fd8a:3e99:6f68:ffff:ffff:ffff:ffff:ffff
+netname:            SANSOM-NET
+country:            CZ
+admin-c:            SANSOM-DN42
+tech-c:             SANSOM-DN42
+mnt-by:             SANSOM-MNT
+status:             ASSIGNED
+cidr:               fd8a:3e99:6f68::/48
+source:             DN42

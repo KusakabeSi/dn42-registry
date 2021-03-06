@@ -1,0 +1,8 @@
+inetnum:            172.22.255.144 - 172.22.255.159
+admin-c:            TISET-DN42
+tech-c:             TISET-DN42
+mnt-by:             TISET-MNT
+status:             ASSIGNED
+cidr:               172.22.255.144/28
+netname:            Unnamed 172.22.255.144/28 Network
+source:             DN42

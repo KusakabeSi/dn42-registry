@@ -1,0 +1,13 @@
+aut-num:            AS4242421842
+as-name:            WHSINTH
+remarks:            -------------------------------------
+remarks:            Peering available:
+remarks:            - Thailand: CSLoxInfo CyberWorld
+remarks:            Contact: dn42@whs.in.th manatsawin@gmail.com
+remarks:            PGP ID: 461CCB345AD1E4A5 / https://keybase.io/whs
+remarks:            -------------------------------------
+descr:              whs.in.th / project cupcode
+admin-c:            WHS-DN42
+tech-c:             WHS-DN42
+mnt-by:             WHS-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.22.135.16 - 172.22.135.31
+cidr:               172.22.135.16/28
+netname:            0XCB-V4-NET-1
+country:            DE
+admin-c:            0XCB-DN42
+tech-c:             0XCB-DN42
+mnt-by:             0XCB-MNT
+status:             ASSIGNED
+source:             DN42

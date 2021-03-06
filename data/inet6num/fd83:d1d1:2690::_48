@@ -1,0 +1,11 @@
+inet6num:           fd83:d1d1:2690:0000:0000:0000:0000:0000 - fd83:d1d1:2690:ffff:ffff:ffff:ffff:ffff
+cidr:               fd83:d1d1:2690::/48
+netname:            QINLONG-NETWORK
+descr:              Network of QINLONG
+country:            CN
+admin-c:            QINLONG-DN42
+tech-c:             QINLONG-DN42
+mnt-by:             QINLONG-MNT
+nserver:            ns1.qinlong.dn42
+status:             ASSIGNED
+source:             DN42

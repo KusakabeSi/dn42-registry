@@ -1,0 +1,8 @@
+role:               Alenan Org Role
+nic-hdl:            ALENAN-DN42
+admin-c:            VMANN-DN42
+admin-c:            MUMU-DN42
+tech-c:             VMANN-DN42
+tech-c:             MUMU-DN42
+mnt-by:             VMANN-MNT
+source:             DN42

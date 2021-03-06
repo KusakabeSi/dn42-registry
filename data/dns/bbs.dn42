@@ -1,0 +1,6 @@
+domain:             bbs.dn42
+admin-c:            NICHOLASCW-DN42
+tech-c:             NICHOLASCW-DN42
+mnt-by:             NICHOLASCW-MNT
+nserver:            ns1.nicholascw.dn42
+source:             DN42

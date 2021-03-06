@@ -1,0 +1,9 @@
+inetnum:            172.20.162.32 - 172.20.162.63
+cidr:               172.20.162.32/27
+netname:            ARCH-NET-1
+admin-c:            ARCH-DN42
+tech-c:             ARCH-DN42
+remarks:            do you want to hear a stupid story? look at the route6 fd71:2bc7:20dc::_48
+mnt-by:             ARCH-MNT
+status:             ASSIGNED
+source:             DN42

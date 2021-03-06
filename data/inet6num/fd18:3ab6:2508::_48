@@ -1,0 +1,9 @@
+inet6num:           fd18:3ab6:2508:0000:0000:0000:0000:0000 - fd18:3ab6:2508:ffff:ffff:ffff:ffff:ffff
+cidr:               fd18:3ab6:2508::/48
+netname:            CLEMENT-NETWORK
+country:            FR
+admin-c:            CLEMENT-DN42
+tech-c:             CLEMENT-DN42
+mnt-by:             CLEMENT-MNT
+status:             ASSIGNED
+source:             DN42

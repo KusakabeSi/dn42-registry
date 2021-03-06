@@ -1,0 +1,8 @@
+inetnum:            172.22.101.208 - 172.22.101.223
+cidr:               172.22.101.208/28
+netname:            MARKR-NETWORK
+admin-c:            MARKR-DN42
+tech-c:             MARKR-DN42
+mnt-by:             MARKR-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd8f:e080:bfad:0000:0000:0000:0000:0000 - fd8f:e080:bfad:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8f:e080:bfad::/48
+netname:            PERKSCO-NET-IPV6-1
+admin-c:            JPERKS-DN42
+tech-c:             JPERKS-DN42
+mnt-by:             PERKSCO-MNT
+status:             ASSIGNED
+source:             DN42

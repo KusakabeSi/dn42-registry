@@ -1,0 +1,12 @@
+inet6num:           fd37:13a8:98d6:0000:0000:0000:0000:0000 - fd37:13a8:98d6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd37:13a8:98d6::/48
+netname:            OZARK-NETWORK
+descr:              Network of Oz-Ark
+country:            AU
+admin-c:            EXPERIMENT626-DN42
+tech-c:             EXPERIMENT626-DN42
+nserver:            ns1-syd.oz-ark.dn42
+nserver:            ns1-bri.oz-ark.dn42
+mnt-by:             OZARK-MNT
+status:             ASSIGNED
+source:             DN42

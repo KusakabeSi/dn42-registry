@@ -1,0 +1,7 @@
+aut-num:            AS4242420259
+as-name:            NOROUTE-AS
+descr:              no-route.org AS Number
+admin-c:            SYSOFABLAB-DN42
+tech-c:             SYSOFABLAB-DN42
+mnt-by:             NOROUTE-MNT
+source:             DN42

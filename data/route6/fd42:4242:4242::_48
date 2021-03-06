@@ -1,0 +1,5 @@
+route6:             fd42:4242:4242::/48
+descr:              MODERN NETWORKING
+origin:             AS4242421124
+mnt-by:             MOD-MNT
+source:             DN42

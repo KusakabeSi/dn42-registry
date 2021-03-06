@@ -1,0 +1,9 @@
+inetnum:            172.22.172.96 - 172.22.172.127
+netname:            MORTZEL-NET
+country:            DE
+admin-c:            MORTZEL-DN42
+tech-c:             MORTZEL-DN42
+mnt-by:             MORTZEL-MNT
+status:             ASSIGNED
+cidr:               172.22.172.96/27
+source:             DN42

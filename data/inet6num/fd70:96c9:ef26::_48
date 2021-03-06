@@ -1,0 +1,10 @@
+inet6num:           fd70:96c9:ef26:0000:0000:0000:0000:0000 - fd70:96c9:ef26:ffff:ffff:ffff:ffff:ffff
+netname:            GERGER-V6NET1
+descr:              Gerger's V6-Space
+country:            DE
+admin-c:            GERGER-DN42
+tech-c:             GERGER-DN42
+mnt-by:             GERGERNET-MNT
+status:             ASSIGNED
+cidr:               fd70:96c9:ef26::/48
+source:             DN42

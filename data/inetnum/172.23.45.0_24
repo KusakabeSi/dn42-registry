@@ -1,0 +1,11 @@
+inetnum:            172.23.45.0 - 172.23.45.255
+netname:            HSB-ORG-NET4
+descr:              Hackerspace Bielefeld e.V.
+nserver:            rt-core.hsb.dn42
+country:            DE
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+status:             ASSIGNED
+cidr:               172.23.45.0/24
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             FICO-MNT
+admin-c:            FICO-DN42
+tech-c:             FICO-DN42
+mnt-by:             FICO-MNT
+auth:               pgp-fingerprint 18B9607180933D2D47717A41AB0AB61C102E330D
+source:             DN42

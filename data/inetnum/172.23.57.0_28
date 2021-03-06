@@ -1,0 +1,8 @@
+inetnum:            172.23.57.0 - 172.23.57.15
+cidr:               172.23.57.0/28
+netname:            LOINTAIN
+admin-c:            ALEXSHPILKIN-DN42
+tech-c:             ALEXSHPILKIN-DN42
+mnt-by:             LOINTAIN-MNT
+status:             ASSIGNED
+source:             DN42

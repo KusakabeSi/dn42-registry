@@ -1,0 +1,6 @@
+route6:             fdf3:2049:5152::/48
+origin:             AS64866
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: herford
+mnt-by:             DN42-MNT
+source:             ICVPN

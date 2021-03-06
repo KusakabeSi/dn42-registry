@@ -1,0 +1,6 @@
+route:              10.215.0.0/16
+origin:             AS65083
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: suedpfalz
+mnt-by:             DN42-MNT
+source:             ICVPN

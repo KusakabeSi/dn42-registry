@@ -1,0 +1,6 @@
+mntner:             MACNESS-MNT
+descr:              Maintainer for MACNESS
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FOO-MNT
+source:             DN42

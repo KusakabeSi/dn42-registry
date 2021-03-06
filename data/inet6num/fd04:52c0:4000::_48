@@ -1,0 +1,11 @@
+inet6num:           fd04:52c0:4000:0000:0000:0000:0000:0000 - fd04:52c0:4000:ffff:ffff:ffff:ffff:ffff
+netname:            JD52RU-IPV6NET
+descr:              JD52RU IPV6
+country:            RU
+admin-c:            JD52RU-DN42
+tech-c:             JD52RU-DN42
+mnt-by:             JD52RU-MNT
+status:             ASSIGNED
+cidr:               fd04:52c0:4000::/48
+nserver:            ns1.jd52ru.dn42
+source:             DN42

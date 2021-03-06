@@ -1,0 +1,8 @@
+inetnum:            172.22.110.224 - 172.22.110.255
+cidr:               172.22.110.224/27
+netname:            FABRATERIA-NETWORK
+admin-c:            M4OC-DN42
+tech-c:             DESMOND-DN42
+mnt-by:             FABRATERIA-MNT
+status:             ASSIGNED
+source:             DN42

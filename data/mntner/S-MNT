@@ -1,0 +1,7 @@
+mntner:             S-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAq6O8qAjOFVJ0qvTBISScdZ4zTKZnk9cdD6H4C0mGOJSSch4D3fGiS9dNiuxjefklYxKkBIiTugukNbYECmyKyMzUW2rNTEgEdHIQbBToMUVGGi+9IZFhZgH9aEND6Mo4caN26WCqtK7D2YVrPQFDUQUQsaQ6i0+GC6LoTwA2NisgEfreECZNVz+53lhwCznXHEtPqTP8/swiwAO7fNO7tqVqJG7PNrFS2rQ3mIDjo7bMaeoS7nYx92bQzNDREm+dptXrMsRwQSiUeYBJ93JInrh2AvxcPhTcgIdv8HCpMfF6yhm7iytBCx0J8CTfuNS/tzcG3+FaTi8wloKKJGldeQ== soma@inet6.hu
+descr:              Private Maintainer
+admin-c:            S-DN42
+tech-c:             S-DN42
+mnt-by:             S-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route6:             fd81:edb3:71d8::/48
+origin:             AS4242422953
+max-length:         48
+mnt-by:             CLERIE-MNT
+mnt-by:             NEX-MNT
+source:             DN42

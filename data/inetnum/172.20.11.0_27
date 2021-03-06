@@ -1,0 +1,11 @@
+inetnum:            172.20.11.0 - 172.20.11.31
+netname:            TWINK0R-NET
+descr:              twink0rNET-IT
+country:            IT
+admin-c:            TWINK0R-DN42
+tech-c:             TWINK0R-DN42
+mnt-by:             TWINK0R-MNT
+nserver:            ns2.auth.twink0r.dn42
+status:             ASSIGNED
+cidr:               172.20.11.0/27
+source:             DN42

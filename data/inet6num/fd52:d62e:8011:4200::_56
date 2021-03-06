@@ -1,0 +1,12 @@
+inet6num:           fd52:d62e:8011:4200:0000:0000:0000:0000 - fd52:d62e:8011:42ff:ffff:ffff:ffff:ffff
+netname:            TRAE32566-NETWORK
+descr:              Trae32566 network
+country:            US
+admin-c:            TRAE32566-DN42
+tech-c:             TRAE32566-DN42
+mnt-by:             TRAE32566-MNT
+nserver:            ns01.trae32566.org
+nserver:            ns02.trae32566.org
+status:             ASSIGNED
+cidr:               fd52:d62e:8011:4200::/56
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.155.64/28
+origin:             AS4242423566
+mnt-by:             MOMIJI-MNT
+source:             DN42

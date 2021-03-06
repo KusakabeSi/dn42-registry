@@ -1,0 +1,9 @@
+inetnum:            172.22.137.96 - 172.22.137.127
+netname:            VICTORROMAN-MAIN-NET
+country:            ES
+admin-c:            VICTORROMAN-DN42
+tech-c:             VICTORROMAN-DN42
+mnt-by:             VICTORROMAN-MNT
+status:             ASSIGNED
+cidr:               172.22.137.96/27
+source:             DN42

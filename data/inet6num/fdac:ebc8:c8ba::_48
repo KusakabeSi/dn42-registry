@@ -1,0 +1,8 @@
+inet6num:           fdac:ebc8:c8ba:0000:0000:0000:0000:0000 - fdac:ebc8:c8ba:ffff:ffff:ffff:ffff:ffff
+cidr:               fdac:ebc8:c8ba::/48
+netname:            FANTASQUEX-NET
+admin-c:            FANTASQUEX-DN42
+tech-c:             FANTASQUEX-DN42
+mnt-by:             FANTASQUEX-MNT
+status:             ASSIGNED
+source:             DN42

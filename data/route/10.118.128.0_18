@@ -1,0 +1,6 @@
+route:              10.118.128.0/18
+origin:             AS65043
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: schweiz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inetnum:            172.20.158.0 - 172.20.158.31
+netname:            NULLROUTE-DN42
+admin-c:            GRAWITY-DN42
+tech-c:             GRAWITY-DN42
+mnt-by:             NULLROUTE-MNT
+status:             ASSIGNED PA
+cidr:               172.20.158.0/27
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.131.32/27
+descr:              MTR-ROUTE-VPN
+origin:             AS4242421166
+mnt-by:             MTR-MNT
+source:             DN42

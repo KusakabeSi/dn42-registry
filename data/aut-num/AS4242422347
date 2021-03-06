@@ -1,0 +1,8 @@
+aut-num:            AS4242422347
+as-name:            FOSSIBLE-AS
+remarks:            Fossible.sh DN42 Research Network
+org:                ORG-FOSSIBLE
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+source:             DN42

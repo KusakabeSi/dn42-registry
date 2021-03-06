@@ -1,0 +1,6 @@
+domain:             jd52ru.dn42
+admin-c:            JD52RU-DN42
+tech-c:             JD52RU-DN42
+mnt-by:             JD52RU-MNT
+nserver:            ns1.jd52ru.dn42 172.20.150.15
+source:             DN42

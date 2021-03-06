@@ -1,0 +1,12 @@
+inet6num:           fd6d:a5fa:383c:0000:0000:0000:0000:0000 - fd6d:a5fa:383c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6d:a5fa:383c::/48
+netname:            MANI-NET-1
+descr:              Network of Mani
+country:            AU
+admin-c:            MANI-DN42
+tech-c:             MANI-DN42
+mnt-by:             MANI-MNT
+status:             ASSIGNED
+nserver:            ns1.mani.dn42
+nserver:            ns2.mani.dn42
+source:             DN42

@@ -1,0 +1,11 @@
+aut-num:            AS4242421994
+as-name:            AS-RLKT
+descr:              Ralukat.eu Networks
+remarks:            +--------------------------+
+remarks:            | RALUKAT.eu TESTNET       |
+remarks:            | VPN connection available |
+remarks:            +--------------------------+
+admin-c:            RLKT-DN42
+tech-c:             RLKT-DN42
+mnt-by:             RLKT-MNT
+source:             DN42

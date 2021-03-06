@@ -1,0 +1,4 @@
+route:              172.20.138.0/26
+origin:             AS4242420998
+mnt-by:             CLARISSA-MNT
+source:             DN42

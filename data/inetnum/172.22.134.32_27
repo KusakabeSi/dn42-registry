@@ -1,0 +1,12 @@
+inetnum:            172.22.134.32 - 172.22.134.63
+cidr:               172.22.134.32/27
+netname:            HITLUG-DEMO-NETWORK
+descr:              This inetnum object is maintained by HITLUG and is only for demonstration use.
+country:            CN
+org:                ORG-HITLUG
+nserver:            ns1.hitlug.dn42
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+status:             ASSIGNED
+source:             DN42

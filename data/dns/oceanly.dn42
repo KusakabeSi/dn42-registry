@@ -1,0 +1,9 @@
+domain:             oceanly.dn42
+admin-c:            SEAN-DN42
+tech-c:             SEAN-DN42
+mnt-by:             OCEANLY-MNT
+nserver:            ns1.oceanly.dn42 172.20.224.188
+nserver:            ns1.oceanly.dn42 fdb8:d95e:191a:53::1
+nserver:            ns2.oceanly.dn42 172.20.224.189
+nserver:            ns2.oceanly.dn42 fdb8:d95e:191a:53::2
+source:             DN42

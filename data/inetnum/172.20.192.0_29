@@ -1,0 +1,9 @@
+inetnum:            172.20.192.0 - 172.20.192.7
+cidr:               172.20.192.0/29
+netname:            LEOLEOASD-NETWORK
+admin-c:            LEOLEOASD-DN42
+tech-c:             LEOLEOASD-DN42
+mnt-by:             LEOLEOASD-MNT
+status:             ASSIGNED
+source:             DN42
+country:            CN

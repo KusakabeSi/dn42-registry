@@ -1,0 +1,5 @@
+route:              172.23.43.104/29
+descr:              WhiteWolf's ZA Net 3
+origin:             AS4242428202
+mnt-by:             WOLF-MNT
+source:             DN42

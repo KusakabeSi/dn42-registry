@@ -1,0 +1,14 @@
+aut-num:            AS4242420097
+as-name:            THEPAFFY-AS
+remarks:            +--------------------------------+
+remarks:            | Peering over OpenVPN           |
+remarks:            | Open policy                    |
+remarks:            +--------------------------------+
+remarks:            | mail: thepaffy@thepaffy.de     |
+remarks:            | twitter: @thepaffy             |
+remarks:            +--------------------------------+
+descr:              THEPAFFY-AS
+admin-c:            THEPAFFY-DN42
+tech-c:             THEPAFFY-DN42
+mnt-by:             THEPAFFY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.230.0/26
+origin:             AS4242423921
+mnt-by:             KUS-MNT
+source:             DN42

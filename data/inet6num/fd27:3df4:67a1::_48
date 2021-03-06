@@ -1,0 +1,8 @@
+inet6num:           fd27:3df4:67a1:0000:0000:0000:0000:0000 - fd27:3df4:67a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd27:3df4:67a1::/48
+netname:            GISCHELEMAN-NETWORK
+admin-c:            GISCHELEMAN-DN42
+tech-c:             GISCHELEMAN-DN42
+mnt-by:             GISCHELEMAN-MNT
+status:             ASSIGNED
+source:             DN42

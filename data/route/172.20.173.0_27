@@ -1,0 +1,4 @@
+route:              172.20.173.0/27
+origin:             AS4242420139
+mnt-by:             HYDRA-MNT
+source:             DN42

@@ -1,0 +1,34 @@
+aut-num:            AS4242422237
+as-name:            MUNSTERNET-AS
+remarks:            
+remarks:            -------------------------------------------------------
+remarks:            Always looking for peers: see https://dn42.munsternet.eu
+remarks:            --------------------------------------------------------
+remarks:            Peering info:
+remarks:            - IPv4 or IPv6 clearnet, but IPv6 only DN42
+remarks:            - Tunnel protocol: Wireguard
+remarks:            --------------------------------------------------------
+remarks:            Peering locations:
+remarks:            - fr-par01.dn42.munsternet.eu (France, Paris, TH2)
+remarks:            - ch-zrh01.dn42.munsternet.eu (Switzerland, Zürich, ZH5)
+remarks:            - ch-zrh02.dn42.munsternet.eu (Switzerland, Zürich, ZH2)
+remarks:            - ca-bhs01.dn42.munsternet.eu (Canada, Beauharnois, BHS005)
+remarks:            - sg-sin01.dn42.munsternet.eu (Singapore, Singapore, SGP1)
+remarks:            - More to come...
+remarks:            --------------------------------------------------------
+remarks:            
+remarks:            INVALID and UNKNOWN ROA records are filtered
+remarks:            Routes with the BLACKHOLE community are redistributed to peers only if they implement the RFC7999 as well.
+remarks:            
+mp-import:          afi any.unicast from AS4242422237:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422237:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242422237:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS4242422237:AS-UPSTREAM announce AS4242422237 AS4242422237:AS-DOWNSTREAM
+mp-import:          afi any.unicast from AS4242422237:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242422237:AS-PEER announce AS4242422237
+mp-import:          afi any.unicast from AS4242422237:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242422237:AS-DOWNSTREAM announce ANY
+admin-c:            MUNSTERNET-DN42
+tech-c:             MUNSTERNET-DN42
+mnt-by:             MUNSTERNET-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+as-set:             AS-LINSERVERS
+descr:              Linservers AS set
+members:            AS4242421987
+admin-c:            JIMMY-DN42
+tech-c:             JIMMY-DN42
+mnt-by:             LINSERVERS-MNT
+source:             DN42

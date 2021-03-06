@@ -1,0 +1,6 @@
+route:              10.252.64.0/18
+origin:             AS64899
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saar
+mnt-by:             DN42-MNT
+source:             ICVPN

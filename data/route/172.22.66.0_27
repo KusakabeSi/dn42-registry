@@ -1,0 +1,4 @@
+route:              172.22.66.0/27
+origin:             AS4242421207
+mnt-by:             SECRETMINE-MNT
+source:             DN42

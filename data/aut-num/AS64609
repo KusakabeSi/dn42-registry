@@ -1,0 +1,7 @@
+aut-num:            AS64609
+as-name:            SOMA-AS
+descr:              soma's AS
+admin-c:            SOMA-DN42
+tech-c:             SOMA-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

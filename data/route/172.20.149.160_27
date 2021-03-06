@@ -1,0 +1,5 @@
+route:              172.20.149.160/27
+descr:              DCR Route
+origin:             AS4242422102
+mnt-by:             DCR-MNT
+source:             DN42

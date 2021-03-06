@@ -1,0 +1,11 @@
+inet6num:           fd42:0ccc:00da:0000:0000:0000:0000:0000 - fd42:0ccc:00da:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IP6-CCCDA
+descr:              CCC Darmstadt
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cccda.dn42
+status:             ASSIGNED
+cidr:               fd42:ccc:da::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd42:6eda:b66a:0000:0000:0000:0000:0000 - fd42:6eda:b66a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6eda:b66a::/48
+netname:            MOONFISH-NETWORK
+country:            DE
+admin-c:            MOONFISH-DN42
+tech-c:             MOONFISH-DN42
+mnt-by:             MOONFISH-MNT
+status:             ASSIGNED
+source:             DN42

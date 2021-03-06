@@ -1,0 +1,4 @@
+route6:             fd42:a66a:faaf::/48
+origin:             AS4242423976
+mnt-by:             WHEAT-MNT
+source:             DN42

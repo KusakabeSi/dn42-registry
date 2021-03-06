@@ -1,0 +1,10 @@
+inet6num:           fd0a:3599:3930:0000:0000:0000:0000:0000 - fd0a:3599:3930:ffff:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6
+descr:              IPv6 Block of ATR Net
+country:            EU
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ALLOCATED
+cidr:               fd0a:3599:3930::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.149.128 - 172.20.149.135
+netname:            BURKESOOTY-NETWORK
+descr:              burkesooty subnet
+country:            GB
+admin-c:            BURKESOOTY-DN42
+tech-c:             BURKESOOTY-DN42
+mnt-by:             BURKESOOTY-MNT
+status:             ASSIGNED
+cidr:               172.20.149.128/29
+source:             DN42

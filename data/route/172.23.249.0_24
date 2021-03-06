@@ -1,0 +1,4 @@
+route:              172.23.249.0/24
+origin:             AS4242421338
+mnt-by:             PSYKE-MNT
+source:             DN42

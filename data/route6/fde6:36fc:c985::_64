@@ -1,0 +1,6 @@
+route6:             fde6:36fc:c985::/64
+origin:             AS65527
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: goettingen
+mnt-by:             DN42-MNT
+source:             ICVPN

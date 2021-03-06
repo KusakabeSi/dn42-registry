@@ -1,0 +1,10 @@
+inetnum:            172.20.4.224 - 172.20.4.255
+netname:            ADNIDOR-EXPERIMENTAL-NET
+nserver:            ns.adnidor.dn42
+country:            DE
+admin-c:            ADNIDOR-DN42
+tech-c:             ADNIDOR-DN42
+mnt-by:             ADNIDOR-MNT
+status:             ASSIGNED
+cidr:               172.20.4.224/27
+source:             DN42

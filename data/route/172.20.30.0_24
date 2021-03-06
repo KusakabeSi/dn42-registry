@@ -1,0 +1,4 @@
+route:              172.20.30.0/24
+origin:             AS4242423042
+mnt-by:             SK9-MNT
+source:             DN42

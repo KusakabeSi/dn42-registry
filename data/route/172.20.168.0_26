@@ -1,0 +1,4 @@
+route:              172.20.168.0/26
+origin:             AS4242421015
+mnt-by:             NCN-MNT
+source:             DN42

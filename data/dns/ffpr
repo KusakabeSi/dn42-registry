@@ -1,0 +1,9 @@
+domain:             ffpr
+nserver:            1.192.15.10.ipv4.registry-sync.dn42
+nserver:            2.192.15.10.ipv4.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.b.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.7.3.6.c.1.2.8.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: prignitz
+mnt-by:             DN42-MNT
+source:             ICVPN

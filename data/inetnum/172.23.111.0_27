@@ -1,0 +1,10 @@
+inetnum:            172.23.111.0 - 172.23.111.31
+cidr:               172.23.111.0/27
+netname:            QPLI920501-NETWORK
+admin-c:            QPLI920501-DN42
+tech-c:             QPLI920501-DN42
+mnt-by:             QPLI920501-MNT
+nserver:            ns1.evenet.dn42
+nserver:            ns2.evenet.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2233:0000:0000:0000:0000:0000 - fd42:4242:2233:ffff:ffff:ffff:ffff:ffff
+netname:            HANKB-IPV6-DN42-2
+descr:              Experimental Network
+country:            US
+admin-c:            HANKB-DN42
+admin-c:            HANKB-DN42
+tech-c:             HANKB-DN42
+mnt-by:             HANKB-MNT
+status:             ASSIGNED
+cidr:               fd42:4242:2233::/48
+source:             DN42

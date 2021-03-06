@@ -1,0 +1,7 @@
+aut-num:            AS4242423975
+as-name:            FELIX-AS
+descr:              Felix Core AS
+admin-c:            FELIX-DN42
+tech-c:             FELIX-DN42
+mnt-by:             FELIX-MNT
+source:             DN42

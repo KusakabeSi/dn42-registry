@@ -1,0 +1,10 @@
+inetnum:            172.22.75.0 - 172.22.75.255
+netname:            NET4-NET75-STEPHANJ-DN42
+descr:              stephanj
+country:            DE
+admin-c:            STEPHANJ-DN42
+tech-c:             STEPHANJ-DN42
+status:             ASSIGNED
+mnt-by:             STEPHANJ-DN42-MNT
+cidr:               172.22.75.0/24
+source:             DN42

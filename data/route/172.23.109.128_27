@@ -1,0 +1,5 @@
+route:              172.23.109.128/27
+pingable:           172.23.109.129
+origin:             AS4242420899
+mnt-by:             LOSER-MNT
+source:             DN42

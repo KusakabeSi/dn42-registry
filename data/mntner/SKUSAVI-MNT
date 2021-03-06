@@ -1,0 +1,6 @@
+mntner:             SKUSAVI-MNT
+admin-c:            SKUSAVI-DN42
+tech-c:             SKUSAVI-DN42
+mnt-by:             SKUSAVI-MNT
+source:             DN42
+auth:               pgp-fingerprint 9D6ED14798AFFE9EB85B241BF97E1CA5194DDDF4

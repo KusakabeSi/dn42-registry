@@ -1,0 +1,8 @@
+inetnum:            172.22.114.32 - 172.22.114.63
+cidr:               172.22.114.32/27
+netname:            RELIGHT-NETWORK
+admin-c:            RELIGHT-DN42
+tech-c:             RELIGHT-DN42
+mnt-by:             RELIGHT-MNT
+status:             ASSIGNED
+source:             DN42

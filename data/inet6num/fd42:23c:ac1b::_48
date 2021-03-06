@@ -1,0 +1,11 @@
+inet6num:           fd42:023c:ac1b:0000:0000:0000:0000:0000 - fd42:023c:ac1b:ffff:ffff:ffff:ffff:ffff
+netname:            WL-DN42
+descr:              _ wl
+country:            CX
+admin-c:            ALICEWL-DN42
+tech-c:             ALICEWL-DN42
+mnt-by:             ALICE-DN42-MNT
+nserver:            n.wl.dn42
+status:             ALLOCATED PA
+cidr:               fd42:23c:ac1b::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.148.160/27
+origin:             AS4242422506
+mnt-by:             KAI-MNT
+source:             DN42

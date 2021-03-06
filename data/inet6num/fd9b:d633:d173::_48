@@ -1,0 +1,10 @@
+inet6num:           fd9b:d633:d173:0000:0000:0000:0000:0000 - fd9b:d633:d173:ffff:ffff:ffff:ffff:ffff
+netname:            NARNIA-ULA-NET
+descr:              Narnia ULA Network
+country:            AU
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+status:             ASSIGNED PI
+cidr:               fd9b:d633:d173::/48
+source:             DN42

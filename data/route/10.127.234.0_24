@@ -1,0 +1,8 @@
+route:              10.127.234.0/24
+max-length:         29
+origin:             AS141706
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

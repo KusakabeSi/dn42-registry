@@ -1,0 +1,7 @@
+aut-num:            AS4242421668
+as-name:            MALINDEX-AS
+descr:              Peer with me at noc@imoe.ac.cn
+admin-c:            MALINDEX-DN42
+tech-c:             MALINDEX-DN42
+mnt-by:             MALINDEX-MNT
+source:             DN42

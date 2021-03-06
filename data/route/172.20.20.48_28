@@ -1,0 +1,4 @@
+route:              172.20.20.48/28
+origin:             AS4242420238
+mnt-by:             DJARNER-MNT
+source:             DN42

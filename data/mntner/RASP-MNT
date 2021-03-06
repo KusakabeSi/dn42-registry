@@ -1,0 +1,7 @@
+mntner:             RASP-MNT
+admin-c:            RASP-DN42
+tech-c:             RASP-DN42
+mnt-by:             RASP-MNT
+auth:               pgp-fingerprint CE748219CB93DEF1BBA3A1BD87B4FD6421C6E277
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHAk8nWS1hg49Eo2HY8EcO51wHHknNWBLlbqyBwWHVXf410TTArMPmn/fP2pjJxHHGDtWTcj/NpzhINzoypxTEn0qMp4GVz+jxSNUm6hMsGMJFRWnYuJU38FhJRKGikVvzOkN2ERrebqaXiR+KiUgUpKQz4DRf3hAqQUJtlULRpfjnC4TuP64Zc578zMWEOdgQAzwTxBOOiYfoHnrHj5OoTJvb4HZEjYqr/Gi9g8reKCONA4wwKWJQxpCqlMj2K6pk6x6ijtvXxLU1KsW0+qctuftAYw2Y8cL9j2j/2aYH930YAI84ewp/x/CzMNFAiMCWk1sArRI/VjswVT0BX77h
+source:             DN42

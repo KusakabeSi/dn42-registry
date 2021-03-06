@@ -1,0 +1,8 @@
+inetnum:            172.23.34.0 - 172.23.34.63
+cidr:               172.23.34.0/26
+netname:            SOSG-IPV4-A
+admin-c:            KYON-DN42
+tech-c:             KYON-DN42
+mnt-by:             KYON-MNT
+status:             ASSIGNED
+source:             DN42

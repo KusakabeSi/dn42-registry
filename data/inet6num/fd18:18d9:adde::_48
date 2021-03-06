@@ -1,0 +1,12 @@
+inet6num:           fd18:18d9:adde:0000:0000:0000:0000:0000 - fd18:18d9:adde:ffff:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6
+descr:              IPv6 Block of ATR Net
+country:            CN
+country:            HK
+country:            JP
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ALLOCATED
+cidr:               fd18:18d9:adde::/48
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fda0:747e:ab29:2195:0000:0000:0000:0000 - fda0:747e:ab29:2195:ffff:ffff:ffff:ffff
+cidr:               fda0:747e:ab29:2195::/64
+netname:            ICVPN-RADEVORMWALD
+nserver:            247.0.27.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: radevormwald
+mnt-by:             DN42-MNT
+source:             ICVPN

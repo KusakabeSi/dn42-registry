@@ -1,0 +1,10 @@
+inetnum:            172.20.164.0 - 172.20.164.63
+netname:            OS23-XTN1
+descr:              XTN1
+country:            DE
+admin-c:            OS23-DN42
+tech-c:             OS23-DN42
+mnt-by:             XTN1-MNT
+status:             ASSIGNED
+cidr:               172.20.164.0/26
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             LOADFRONT-MNT
+admin-c:            ORG-LOADFRONT-DN42
+tech-c:             ORG-LOADFRONT-DN42
+mnt-by:             LOADFRONT-MNT
+auth:               pgp-fingerprint C676AF05E1B06EFA7E04547217D3EC3EA95EB0C4
+source:             DN42

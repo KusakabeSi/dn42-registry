@@ -1,0 +1,8 @@
+inetnum:            172.20.46.168 - 172.20.46.175
+cidr:               172.20.46.168/29
+netname:            SHEBANG-NETWORK
+admin-c:            SHEBANG-DN42
+tech-c:             SHEBANG-DN42
+mnt-by:             SHEBANG-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             skusavi.dn42
+nserver:            ns.skusavi.dn42 172.23.151.144
+nserver:            ns.skusavi.dn42 fd5f:b56c:2823::1
+admin-c:            SKUSAVI-DN42
+tech-c:             SKUSAVI-DN42
+mnt-by:             SKUSAVI-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.173.0 - 172.20.173.31
+netname:            HYDRANET-MT
+country:            MT
+admin-c:            HYDRA-DN42
+tech-c:             HYDRA-DN42
+mnt-by:             HYDRA-MNT
+status:             ASSIGNED
+cidr:               172.20.173.0/27
+source:             DN42

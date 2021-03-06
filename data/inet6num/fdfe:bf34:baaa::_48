@@ -1,0 +1,10 @@
+inet6num:           fdfe:bf34:baaa:0000:0000:0000:0000:0000 - fdfe:bf34:baaa:ffff:ffff:ffff:ffff:ffff
+netname:            RVALUE-IPV6
+descr:              IPv6 for KOISHI-AS
+country:            CN
+admin-c:            RVALUE-DN42
+tech-c:             RVALUE-DN42
+mnt-by:             RVALUE-MNT
+status:             ASSIGNED
+cidr:               fdfe:bf34:baaa::/48
+source:             DN42

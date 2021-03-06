@@ -1,0 +1,8 @@
+inet6num:           fd0c:70b0:1c7d:0000:0000:0000:0000:0000 - fd0c:70b0:1c7d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0c:70b0:1c7d::/48
+netname:            PROTOCON-NET
+admin-c:            PROTOCALL7-DN42
+tech-c:             PROTOCALL7-DN42
+mnt-by:             PROTOCON-MNT
+status:             ASSIGNED
+source:             DN42

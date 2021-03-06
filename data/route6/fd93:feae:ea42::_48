@@ -1,0 +1,5 @@
+route6:             fd93:feae:ea42::/48
+origin:             AS4242423822
+max-length:         48
+mnt-by:             STEVEFAN1999-MNT
+source:             DN42

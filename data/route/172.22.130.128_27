@@ -1,0 +1,4 @@
+route:              172.22.130.128/27
+origin:             AS4242423270
+mnt-by:             TAAVI-MNT
+source:             DN42

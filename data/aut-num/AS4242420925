@@ -1,0 +1,11 @@
+aut-num:            AS4242420925
+as-name:            YuetAu Core Network's ASN
+admin-c:            YUETAU-DN42
+tech-c:             YUETAU-DN42
+mnt-by:             YUETAU-MNT
+source:             DN42
+remarks:            / \----------------------------------------------------,
+remarks:            \_,|                                                   |
+remarks:            |    Open For Peering at https://dn42.yuetau.net/   |
+remarks:            |  ,--------------------------------------------------
+remarks:            \_/_________________________________________________/

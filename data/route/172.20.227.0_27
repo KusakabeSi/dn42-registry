@@ -1,0 +1,4 @@
+route:              172.20.227.0/27
+origin:             AS4242423965
+mnt-by:             AX206G-MNT
+source:             DN42

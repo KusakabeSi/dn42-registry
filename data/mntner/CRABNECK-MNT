@@ -1,0 +1,7 @@
+mntner:             CRABNECK-MNT
+descr:              Maintainer object for Crabneck
+admin-c:            CRILLE-DN42
+tech-c:             CRILLE-DN42
+auth:               pgp-fingerprint: C4B094A1EF635BD692B8CC19331576F50CE83DB7
+mnt-by:             CRABNECK-MNT
+source:             DN42

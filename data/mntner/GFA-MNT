@@ -1,0 +1,6 @@
+mntner:             GFA-MNT
+admin-c:            GFA-DN42
+tech-c:             GFA-DN42
+mnt-by:             GFA-MNT
+auth:               pgp-fingerprint 27263FA42553615F904A7EBE2A40A2ECB8DAD8D5
+source:             DN42

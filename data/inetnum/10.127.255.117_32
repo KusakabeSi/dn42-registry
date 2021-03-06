@@ -1,0 +1,8 @@
+inetnum:            10.127.255.117 - 10.127.255.117
+cidr:               10.127.255.117/32
+netname:            MagicNeko-TW Snode(name:none)
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

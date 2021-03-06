@@ -1,0 +1,7 @@
+route:              172.23.254.0/23
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+origin:             AS4242420255
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             kai-server.dn42
+descr:              Domain, what else?
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.as4242422506.dn42
+nserver:            ns1.fastnameserver.eu
+source:             DN42

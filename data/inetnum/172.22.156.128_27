@@ -1,0 +1,8 @@
+inetnum:            172.22.156.128 - 172.22.156.159
+cidr:               172.22.156.128/27
+netname:            OZARK-NETWORK
+admin-c:            EXPERIMENT626-DN42
+tech-c:             EXPERIMENT626-DN42
+mnt-by:             OZARK-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.59.64 - 172.23.59.95
+cidr:               172.23.59.64/27
+netname:            LPV-NETWORK
+admin-c:            LPV-DN42
+tech-c:             LPV-DN42
+mnt-by:             LPV-MNT
+status:             ASSIGNED
+source:             DN42

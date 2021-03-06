@@ -1,0 +1,7 @@
+inetnum:            10.22.0.0 - 10.22.255.255
+cidr:               10.22.0.0/16
+netname:            ICVPN-POTSDAM
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: potsdam
+mnt-by:             DN42-MNT
+source:             ICVPN

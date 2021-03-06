@@ -1,0 +1,19 @@
+tinc-key:           DEELKAR-TINC
+tinc-host:          deelkar
+remarks:            * This object was generated based on info from legacy
+remarks:            * wiki and existing host files
+compression:        9
+subnet:             172.22.255.187/32
+tinc-address:       83.169.16.132
+admin-c:            DEELKAR-DN42
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet = 172.22.255.187/32
+                    Address = 83.169.16.132
+                    Compression = 9
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIGJAoGBAK8rXc+EvW+92XxQKaVX4n/JBgS0dq2jSq4So97W93JtRiMcy5hZCtL4
+                    sfnJ6TI19s2bL/AQjQvMBKouLr2ltEPdvVTWmZugHyp3VRjwG4rpi6nzovEUjSy/
+                    M0Dm0zZ6fSFoDnS7nD65AaR7ySS1QDxac0FWUqEoMqLz06uOSiaPAgMBAAE=
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.54.0 - 172.20.54.31
+netname:            PETERCXY-NET-DN42-POOL
+descr:              PeterCxy Networks Pool
+country:            CN
+admin-c:            PC42-DN42
+tech-c:             PC42-DN42
+mnt-by:             PETERCXY-MNT
+status:             ALLOCATED
+cidr:               172.20.54.0/27
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.111.0 - 172.22.111.63
+netname:            HADRILL-NET
+descr:              DN42 Gateway
+country:            GB
+admin-c:            HADRILL-DN42
+tech-c:             HADRILL-DN42
+mnt-by:             HADRILL-MNT
+status:             ALLOCATED
+cidr:               172.22.111.0/26
+source:             DN42

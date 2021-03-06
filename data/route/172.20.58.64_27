@@ -1,0 +1,4 @@
+route:              172.20.58.64/27
+origin:             AS4242423556
+mnt-by:             TSYS-MNT
+source:             DN42

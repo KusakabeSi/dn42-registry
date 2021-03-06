@@ -1,0 +1,7 @@
+mntner:             ABSLIMIT-MNT
+descr:              abslimit Maintainer Object
+auth:               pgp-fingerprint D1BBD9E6EA8A31CD6CF76852E9C94C9A9A5F2DB3
+admin-c:            ABSLIMIT-DN42
+tech-c:             ABSLIMIT-DN42
+mnt-by:             ABSLIMIT-MNT
+source:             DN42

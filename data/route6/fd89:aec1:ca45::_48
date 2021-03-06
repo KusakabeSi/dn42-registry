@@ -1,0 +1,5 @@
+route6:             fd89:aec1:ca45::/48
+origin:             AS4242422942
+max-length:         64
+mnt-by:             YZITE-MNT
+source:             DN42

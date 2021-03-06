@@ -1,0 +1,4 @@
+route:              172.20.160.64/26
+origin:             AS4242420616
+mnt-by:             AOTOKI-MNT
+source:             DN42

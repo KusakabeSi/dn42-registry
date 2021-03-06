@@ -1,0 +1,9 @@
+inet6num:           fd22:ad17:8e8d:0000:0000:0000:0000:0000 - fd22:ad17:8e8d:ffff:ffff:ffff:ffff:ffff
+netname:            SHIVA-NETWORK
+country:            BR
+admin-c:            PATERNOT-DN42
+tech-c:             PATERNOT-DN42
+mnt-by:             PATERNOT-MNT
+status:             ASSIGNED
+cidr:               fd22:ad17:8e8d::/48
+source:             DN42

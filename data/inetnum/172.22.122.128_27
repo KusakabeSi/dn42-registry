@@ -1,0 +1,11 @@
+inetnum:            172.22.122.128 - 172.22.122.159
+netname:            MALINDEX-IPV4
+remarks:            Peer with me at i@imoe.ac.cn
+descr:              Peer with me at i@imoe.ac.cn
+country:            CN
+admin-c:            MALINDEX-DN42
+tech-c:             MALINDEX-DN42
+mnt-by:             MALINDEX-MNT
+status:             ASSIGNED
+cidr:               172.22.122.128/27
+source:             DN42

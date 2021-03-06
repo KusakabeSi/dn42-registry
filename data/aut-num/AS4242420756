@@ -1,0 +1,7 @@
+aut-num:            AS4242420756
+as-name:            LEMELISK-AS
+descr:              Lemelisk's private test-AS
+admin-c:            LEMELISK-DN42
+tech-c:             LEMELISK-DN42
+mnt-by:             LEMELISK-MNT
+source:             DN42

@@ -1,0 +1,13 @@
+domain:             hex.dn42
+admin-c:            HEXAWOLF-DN42
+tech-c:             FOXCPP-DN42
+descr:              HEXANET Network
+org:                ORG-HEXANET
+mnt-by:             HEXANET-MNT
+nserver:            h.delegation-servers.dn42
+remarks:            Additional NS records in case one of anycast instances start to misbehave
+nserver:            gamma.hex.dn42 fda6:2474:15a4:1084::1
+nserver:            epsilon.hex.dn42 fda6:2474:15a4:445e::1
+ds-rdata:           47871 15 2 0e57df94f53f8f7e904bcb71543833b74ed90993367c80b2b39f6090a570c8b5
+ds-rdata:           47871 15 4 8bad58d45005d62258116d784f4e4bfa05379549290329e85729cd5ca9fee20c7d29942aed5dfb2892dc55eaa93646b3
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             MAXC-MNT
+admin-c:            MAXC-DN42
+tech-c:             MAXC-DN42
+mnt-by:             MAXC-MNT
+auth:               pgp-fingerprint C23C54CB792262E7DA609E51AEE13D39001F74EB
+source:             DN42

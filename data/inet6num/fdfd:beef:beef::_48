@@ -1,0 +1,10 @@
+inet6num:           fdfd:beef:beef:0000:0000:0000:0000:0000 - fdfd:beef:beef:ffff:ffff:ffff:ffff:ffff
+netname:            DDEV-IPV6-1
+descr:              IPV6-NETMASTER-v6-1
+country:            DE
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+status:             ALLOCATED PA
+cidr:               fdfd:beef:beef::/48
+source:             DN42

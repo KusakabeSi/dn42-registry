@@ -1,0 +1,4 @@
+route:              172.20.29.96/27
+origin:             AS4242423059
+mnt-by:             WP140Z-MNT
+source:             DN42

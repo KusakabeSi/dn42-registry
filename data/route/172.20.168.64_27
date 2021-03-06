@@ -1,0 +1,4 @@
+route:              172.20.168.64/27
+origin:             AS4242423335
+mnt-by:             BIRB-MNT
+source:             DN42

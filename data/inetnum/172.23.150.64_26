@@ -1,0 +1,8 @@
+inetnum:            172.23.150.64 - 172.23.150.127
+cidr:               172.23.150.64/26
+netname:            ABCDE-Extennal network 
+admin-c:            ABCDE-DN42
+tech-c:             ABCDE-DN42
+mnt-by:             ABCDE-MNT
+status:             ASSIGNED
+source:             DN42

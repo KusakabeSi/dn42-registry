@@ -1,0 +1,8 @@
+inetnum:            172.20.172.64 - 172.20.172.95
+netname:            WOLFLAB
+admin-c:            TW-DN42
+tech-c:             TW-DN42
+mnt-by:             WOLFLAB-MNT
+status:             ASSIGNED
+cidr:               172.20.172.64/27
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:3110:4242::/48
+descr:              SVTH Network
+origin:             AS4242423110
+mnt-by:             SVTH-MNT
+source:             DN42

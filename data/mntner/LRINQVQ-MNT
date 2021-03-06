@@ -1,0 +1,7 @@
+mntner:             LRINQVQ-MNT
+descr:              LrinQVQ MNT
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE9wia4Zfu5JU/D+tf7nJOhaup39gqSApCEBwwq5uBbxF0BJqTPmGQwgGTJbKIMH8mhPqxjmxAEcOJlpc/9KF+c= lrin@eggqvq.com
+admin-c:            LRINQVQ-DN42
+tech-c:             LRINQVQ-DN42
+mnt-by:             LRINQVQ-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.21.64.64/27
+origin:             AS4242421116
+mnt-by:             CHUANCHAN-MNT
+source:             DN42

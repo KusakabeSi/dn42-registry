@@ -1,0 +1,12 @@
+inet6num:           fd94:267a:f14e:0000:0000:0000:0000:0000 - fd94:267a:f14e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:267a:f14e::/48
+netname:            HITLUG-DEMO-NETWORK
+descr:              This inet6num object is maintained by HITLUG and is only for demonstration use.
+country:            CN
+org:                ORG-HITLUG
+nserver:            ns1.hitlug.dn42
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+status:             ASSIGNED
+mnt-by:             BILL-MNT
+source:             DN42

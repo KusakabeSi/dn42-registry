@@ -1,0 +1,10 @@
+inet6num:           fda6:bf36:9b89:0000:0000:0000:0000:0000 - fda6:bf36:9b89:ffff:ffff:ffff:ffff:ffff
+cidr:               fda6:bf36:9b89::/48
+netname:            XAOTIC-NETWORK
+descr:              Network of XAOTIC
+country:            TW
+admin-c:            XAOTIC-DN42
+tech-c:             XAOTIC-DN42
+mnt-by:             XAOTIC-MNT
+status:             ASSIGNED
+source:             DN42

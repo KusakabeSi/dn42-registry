@@ -1,0 +1,10 @@
+inetnum:            172.20.142.128 - 172.20.142.255
+netname:            DN42-JONSBOX-A
+descr:              JONSBOX
+admin-c:            JONSBOX-DN42
+tech-c:             JONSBOX-DN42
+mnt-by:             JONSBOX-MNT
+status:             ALLOCATED
+nserver:            dns.wiregrid.dn42
+cidr:               172.20.142.128/25
+source:             DN42

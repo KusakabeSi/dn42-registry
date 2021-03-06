@@ -1,0 +1,10 @@
+inetnum:            172.23.128.96 - 172.23.128.127
+cidr:               172.23.128.96/27
+netname:            Bakabyte Network
+admin-c:            BAKABYTE-DN42
+tech-c:             BAKABYTE-DN42
+mnt-by:             BAKABYTE-MNT
+org:                ORG-BAKABYTE
+nserver:            ns.baka.dn42
+status:             ASSIGNED
+source:             DN42

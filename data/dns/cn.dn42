@@ -1,0 +1,9 @@
+domain:             cn.dn42
+descr:              xiaoyu-net
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+nserver:            ns.xiaoyu.dn42
+nserver:            ns.cn.dn42 172.21.70.18
+nserver:            ns.cn.dn42 fd5c:f0f:39fc::18
+source:             DN42

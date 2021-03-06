@@ -1,0 +1,5 @@
+route:              172.23.13.0/29
+origin:             AS4242423913
+max-length:         29
+mnt-by:             SOHA-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.22.76.176 - 172.22.76.183
+netname:            FAUXHOLE-NETWORK
+descr:              IPs for the Faux Hole
+country:            US
+admin-c:            ROJUINEX-DN42
+tech-c:             ROJUINEX-DN42
+mnt-by:             FAUXNETWORKS-MNT
+nserver:            ns1.fauxnetworks.dn42
+nserver:            ns2.fauxnetworks.dn42
+status:             ASSIGNED
+cidr:               172.22.76.176/29
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.97.0 - 172.22.97.255
+nserver:            ns.lynx.dn42
+netname:            LEX-DN42
+country:            GB
+admin-c:            LEX-DN42
+tech-c:             LEX-DN42
+mnt-by:             LEX-MNT
+status:             ASSIGNED
+cidr:               172.22.97.0/24
+source:             DN42

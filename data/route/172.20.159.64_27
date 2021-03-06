@@ -1,0 +1,4 @@
+route:              172.20.159.64/27
+origin:             AS4242421115
+mnt-by:             ANDYNET-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd69:3053:a295:0000:0000:0000:0000:0000 - fd69:3053:a295:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:3053:a295::/48
+netname:            INFTYLOOP-NETWORK
+descr:              Network of inftyloop.tech
+country:            CN
+admin-c:            INFTYLOOP-DN42
+tech-c:             INFTYLOOP-DN42
+mnt-by:             INFTYLOOP-MNT
+status:             ASSIGNED
+source:             DN42

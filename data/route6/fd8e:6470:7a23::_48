@@ -1,0 +1,8 @@
+route6:             fd8e:6470:7a23::/48
+origin:             AS64742
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+max-length:         48
+pingable:           fd8e:6470:7a23:100::9
+mnt-by:             KANKAN-MNT
+source:             DN42

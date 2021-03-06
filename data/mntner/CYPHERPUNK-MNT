@@ -1,0 +1,6 @@
+mntner:             CYPHERPUNK-MNT
+admin-c:            CYPHERPUNK-DN42
+tech-c:             CYPHERPUNK-DN42
+mnt-by:             CYPHERPUNK-MNT
+auth:               pgp-fingerprint 97C5D9D92A4F7947988E0644D0D25848678A563F
+source:             DN42

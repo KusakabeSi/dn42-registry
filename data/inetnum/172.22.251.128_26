@@ -1,0 +1,11 @@
+inetnum:            172.22.251.128 - 172.22.251.191
+netname:            HAX404-DN42-TRANSFER
+descr:              hax404's Transfer Network
+admin-c:            HAX404-DN42
+tech-c:             HAX404-DN42
+mnt-by:             HAX404-MNT
+nserver:            chero.hax404.dn42
+nserver:            froschschenkel.hax404.dn42
+status:             ASSIGNED
+cidr:               172.22.251.128/26
+source:             DN42

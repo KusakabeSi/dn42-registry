@@ -1,0 +1,15 @@
+inet6num:           fdef:ffc0:3dd7:0000:0000:0000:0000:0000 - fdef:ffc0:3dd7:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:ffc0:3dd7::/48
+netname:            ICVPN-LUEBECK
+nserver:            1.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            252.0.130.10.ipv4.registry-sync.dn42
+nserver:            253.0.130.10.ipv4.registry-sync.dn42
+nserver:            254.0.130.10.ipv4.registry-sync.dn42
+nserver:            255.0.130.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

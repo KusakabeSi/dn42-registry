@@ -1,0 +1,7 @@
+inetnum:            172.20.12.80 - 172.20.12.95
+cidr:               172.20.12.80/28
+netname:            SHASHWAT-NETWORK
+admin-c:            SHASHWAT-DN42
+tech-c:             SHASHWAT-DN42
+mnt-by:             SHASHWAT-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.229.96/28
+origin:             AS4242422440
+mnt-by:             SABERNET-MNT
+source:             DN42

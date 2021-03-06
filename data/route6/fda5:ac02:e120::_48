@@ -1,0 +1,5 @@
+route6:             fda5:ac02:e120::/48
+origin:             AS4242422369
+max-length:         48
+mnt-by:             BITCLOUD-MNT
+source:             DN42

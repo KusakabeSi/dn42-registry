@@ -1,0 +1,13 @@
+organisation:       ORG-NL-ZUID
+org-name:           ORG-NL-ZUID
+e-mail:             noreply@nl-zuid.dn42
+descr:              The NL Zuid exchange organization
+remarks:            Join #NL-Zuid on Hackint for support
+www:                https://nl-zuid.dn42
+admin-c:            THVMH-DN42
+admin-c:            MARLINC-DN42
+admin-c:            SOURIS-DN42
+admin-c:            TWINK0R-DN42
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+source:             DN42

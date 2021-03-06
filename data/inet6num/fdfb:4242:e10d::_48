@@ -1,0 +1,11 @@
+inet6num:           fdfb:4242:e10d:0000:0000:0000:0000:0000 - fdfb:4242:e10d:ffff:ffff:ffff:ffff:ffff
+netname:            PICOCLOUD-NET6
+country:            CA
+admin-c:            MALAIWAH-DN42
+tech-c:             MALAIWAH-DN42
+mnt-by:             PICOCLOUD-MNT
+nserver:            ns1.picocloud.dn42
+nserver:            ns2.picocloud.dn42
+status:             ASSIGNED
+cidr:               fdfb:4242:e10d::/48
+source:             DN42

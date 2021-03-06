@@ -1,0 +1,4 @@
+route6:             fdb9:fff1:dbbf::/48
+origin:             AS4242423866
+mnt-by:             LYM-MNT
+source:             DN42

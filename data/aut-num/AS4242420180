@@ -1,0 +1,14 @@
+aut-num:            AS4242420180
+as-name:            Gatuno ASN
+descr:              Gatuno Network ASN
+remarks:            * Open Peering Policy
+remarks:            * GRE/Plain preferred, GRE/IPSecv1 supported
+remarks:            * Want to peer with me? Please send an email to gatuno [at] gatuno.mx
+remarks:            * Location: Guadalajara, México
+remarks:            * Are you new to DN42 and want to join? I'll be happy to help you
+remarks:            * just send an email.
+remarks:            * Also available in telegram as gatunomx
+admin-c:            GATUNO-DN42
+tech-c:             GATUNO-DN42
+mnt-by:             GATUNO-MNT
+source:             DN42

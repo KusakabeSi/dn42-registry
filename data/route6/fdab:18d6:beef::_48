@@ -1,0 +1,5 @@
+route6:             fdab:18d6:beef::/48
+origin:             AS4242423434
+max-length:         48
+mnt-by:             CIP-MNT
+source:             DN42

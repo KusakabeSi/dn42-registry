@@ -1,0 +1,9 @@
+inetnum:            10.132.0.0 - 10.132.255.255
+cidr:               10.132.0.0/16
+netname:            ICVPN-HOCHSTIFT
+nserver:            53.251.132.10.ipv4.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2.f.2.4.3.2.0.6.2.2.3.0.a.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hochstift
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+domain:             uffsalot.dn42
+admin-c:            UFFSALOT-DN42
+tech-c:             UFFSALOT-DN42
+mnt-by:             UFFSALOT-MNT
+nserver:            ns1.dn42.brand-web.net
+nserver:            ns2.dn42.brand-web.net
+source:             DN42

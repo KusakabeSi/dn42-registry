@@ -1,0 +1,8 @@
+inet6num:           fd5c:998a:b6a5:0000:0000:0000:0000:0000 - fd5c:998a:b6a5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5c:998a:b6a5::/48
+netname:            XKEY-NET-1
+admin-c:            XKEY-DN42
+tech-c:             XKEY-DN42
+mnt-by:             XKEY-MNT
+status:             ASSIGNED
+source:             DN42

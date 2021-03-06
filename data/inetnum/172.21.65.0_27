@@ -1,0 +1,10 @@
+inetnum:            172.21.65.0 - 172.21.65.31
+netname:            OTARONET-1
+descr:              otaro
+country:            DE
+admin-c:            ZANEI-DN42
+tech-c:             ZANEI-DN42
+mnt-by:             OTAROSEVEN-MNT
+status:             ASSIGNED
+cidr:               172.21.65.0/27
+source:             DN42

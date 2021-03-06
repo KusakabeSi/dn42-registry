@@ -1,0 +1,4 @@
+route:              172.23.151.160/28
+origin:             AS4242421457
+mnt-by:             RAITO-MNT
+source:             DN42

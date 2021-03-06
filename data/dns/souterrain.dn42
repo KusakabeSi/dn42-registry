@@ -1,0 +1,7 @@
+domain:             souterrain.dn42
+nserver:            ns.souterrain.dn42 172.21.101.98
+nserver:            ns.souterrain.dn42 fda4:c3cb:737c::53
+admin-c:            SOUTERRAIN-DN42
+tech-c:             SOUTERRAIN-DN42
+mnt-by:             SOUTERRAIN-MNT
+source:             DN42

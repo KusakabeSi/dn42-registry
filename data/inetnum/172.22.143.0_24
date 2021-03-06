@@ -1,0 +1,10 @@
+inetnum:            172.22.143.0 - 172.22.143.255
+netname:            NET-VE7ALB-INET4
+descr:              testnet global IPv4
+country:            CA
+admin-c:            RADIOGUY-DN42
+tech-c:             RADIOGUY-DN42
+mnt-by:             RADIOGUY-MNT
+status:             ASSIGNED
+cidr:               172.22.143.0/24
+source:             DN42

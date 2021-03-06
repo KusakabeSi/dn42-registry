@@ -1,0 +1,10 @@
+inet6num:           fd79:e89a:2412:0000:0000:0000:0000:0000 - fd79:e89a:2412:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-FF02-DENKBRETT
+descr:              ff02.net IPv6 prefix derived from denkbrett
+country:            DE
+admin-c:            ELCH-DN42
+tech-c:             ELCH-DN42
+mnt-by:             FF02-MNT
+status:             ASSIGNED
+cidr:               fd79:e89a:2412::/48
+source:             DN42

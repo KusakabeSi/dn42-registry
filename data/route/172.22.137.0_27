@@ -1,0 +1,5 @@
+route:              172.22.137.0/27
+descr:              Peer with me at atgit@tuta.io
+origin:             AS4242422137
+mnt-by:             DOT-MNT
+source:             DN42

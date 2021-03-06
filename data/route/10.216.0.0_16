@@ -1,0 +1,6 @@
+route:              10.216.0.0/16
+origin:             AS65034
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luenen
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,6 @@
+route:              10.129.0.0/16
+origin:             AS65056
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: flensburg
+mnt-by:             DN42-MNT
+source:             ICVPN

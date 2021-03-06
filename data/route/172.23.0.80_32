@@ -1,0 +1,11 @@
+route:              172.23.0.80/32
+descr:              dn42 wiki anycast
+origin:             AS4242420123
+origin:             AS64737
+origin:             AS64719
+origin:             AS4242422601
+mnt-by:             GRMML-MNT
+mnt-by:             XUU-MNT
+mnt-by:             LUTOMA-MNT
+mnt-by:             BURBLE-MNT
+source:             DN42

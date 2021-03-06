@@ -1,0 +1,11 @@
+inet6num:           fd23:0ccc:ac00:0000:0000:0000:0000:0000 - fd23:0ccc:ac00:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:ccc:ac00::/48
+descr:              CCC Aachen
+org:                ORG-CCCAC
+admin-c:            CCCAC-DN42
+tech-c:             CCCAC-DN42
+mnt-by:             ND-MNT
+mnt-by:             SPQ-MNT
+status:             ALLOCATED
+netname:            Unnamed fd23:ccc:ac00::/48 Network
+source:             DN42

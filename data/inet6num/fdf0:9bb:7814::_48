@@ -1,0 +1,16 @@
+inet6num:           fdf0:09bb:7814:0000:0000:0000:0000:0000 - fdf0:09bb:7814:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:9bb:7814::/48
+netname:            ICVPN-FREIBURG
+nserver:            103.0.60.10.ipv4.registry-sync.dn42
+nserver:            106.0.60.10.ipv4.registry-sync.dn42
+nserver:            112.0.60.10.ipv4.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.b.b.9.0.0.f.d.f.ipv6.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.b.b.9.0.0.f.d.f.ipv6.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.3.6.a.4.1.8.7.b.b.9.0.0.f.d.f.ipv6.registry-sync.dn42
+nserver:            3.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+nserver:            6.1.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+nserver:            2.2.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.8.2.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: freiburg
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,10 @@
+inet6num:           fdf6:8994:e4d9:0000:0000:0000:0000:0000 - fdf6:8994:e4d9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf6:8994:e4d9::/48
+netname:            PELETHIEC-NET6
+descr:              pelethiec's IPv6 network
+country:            FR
+admin-c:            PELETHIEC-DN42
+tech-c:             PELETHIEC-DN42
+mnt-by:             PELETHIEC-MNT
+status:             ASSIGNED
+source:             DN42

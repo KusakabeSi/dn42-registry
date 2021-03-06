@@ -1,0 +1,8 @@
+domain:             fl.dn42
+descr:              fl
+admin-c:            FL-DN42
+tech-c:             FL-DN42
+mnt-by:             FL-MNT
+nserver:            ns.fl.dn42 172.22.105.65
+nserver:            ns.fl.dn42 fd40:2200:1975::ac:16:69:41
+source:             DN42

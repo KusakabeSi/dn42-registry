@@ -1,0 +1,7 @@
+inetnum:            10.24.0.0 - 10.24.15.255
+cidr:               10.24.0.0/20
+netname:            ICVPN-TREUENBRIETZEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: treuenbrietzen
+mnt-by:             DN42-MNT
+source:             ICVPN

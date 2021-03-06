@@ -1,0 +1,13 @@
+aut-num:            AS4242420086
+as-name:            James' Transits
+admin-c:            JAMESITS-DN42
+tech-c:             JAMESITS-DN42
+mnt-by:             JAMESITS-MNT
+descr:              Experimental overlay network managed by Jamesits.
+remarks:            --------------------------------------------------
+remarks:            Email: jamesswineson@gmail.com
+remarks:            Telegram: @Jamesits ( https://t.me/Jamesits )
+remarks:            --------------------------------------------------
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZ/8tyLheDXx9lYwByc1F4hwtH5/ym08ElHhFEMe1/pHDaf+ThiBxbNNs4D0ZYboI+PdDX7Y6vZX9BcXZ4vOhB+Ky5O0ASqZSCxKnhaCkiYxGFRx+tO1SEKc7Wz7cRYuotbQN0e2W7P9VhejQuMGvtS59wVVIOGpour1E7DlTd7HpbVohqKws1Ku5EQ0h3KDjYj0j6eha4JmNFczBfBk8KCO9eol3C6XW+pmBS2qdwtr/ii44oUxXxizT/Jk03aYLVqnPfuWHlO2gODDullKE3cpfVhxaSZDmnBq5T5tuxE/fE5b+RCL8QBi1nVh9c63iiZ/SXeYqPSq3Du/etQinD james-mbp
+remarks:            GPG Key Fingerprint F37F 9BC8 BBE8 C9AB 7EC2  D7E3 5CE8 0C34 0ACC 0CC0
+source:             DN42

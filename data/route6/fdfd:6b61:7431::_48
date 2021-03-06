@@ -1,0 +1,5 @@
+route6:             fdfd:6b61:7431::/48
+descr:              RLKT assigned addresses (ipv6)
+origin:             AS4242421994
+mnt-by:             RLKT-MNT
+source:             DN42

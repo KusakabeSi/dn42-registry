@@ -1,0 +1,7 @@
+inetnum:            10.46.0.0 - 10.46.63.255
+cidr:               10.46.0.0/18
+netname:            ICVPN-NEUWIED
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neuwied
+mnt-by:             DN42-MNT
+source:             ICVPN

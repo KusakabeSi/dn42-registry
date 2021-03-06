@@ -1,0 +1,5 @@
+route6:             fd62:a393:3d91::/48
+descr:              LINUTUX-NETWORK
+origin:             AS4242421128
+mnt-by:             LINUTUX-MNT
+source:             DN42

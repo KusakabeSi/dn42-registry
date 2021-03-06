@@ -1,0 +1,10 @@
+inet6num:           fd42:0fa6:0000:0000:0000:0000:0000:0000 - fd42:0fa6:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:fa6::/48
+netname:            PICKLEBRIC-NETWORK
+descr:              PICKLEBRIC-NETWORK
+country:            US
+admin-c:            GRGR-DN42
+tech-c:             GRGR-DN42
+mnt-by:             GRGR-MNT
+status:             ASSIGNED
+source:             DN42

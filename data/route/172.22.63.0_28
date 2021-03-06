@@ -1,0 +1,13 @@
+route:              172.22.63.0/28
+descr:              DN42 Registry Services
+remarks:            JRB0001-MNT
+origin:             AS4242420119
+remarks:            XUU-MNT
+origin:             AS64737
+remarks:            BURBLE-MNT
+origin:             AS4242422601
+max-length:         29
+mnt-by:             JRB0001-MNT
+mnt-by:             XUU-MNT
+mnt-by:             BURBLE-MNT
+source:             DN42

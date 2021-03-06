@@ -1,0 +1,9 @@
+inetnum:            172.22.0.43 - 172.22.0.43
+netname:            ANYCASTWHOIS-IP4NET
+descr:              Whois IPv4 anycast network
+remarks:            Hosts on this network supply whois service.
+admin-c:            PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               172.22.0.43/32
+source:             DN42

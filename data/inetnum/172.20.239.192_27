@@ -1,0 +1,13 @@
+inetnum:            172.20.239.192 - 172.20.239.223
+cidr:               172.20.239.192/27
+netname:            SARU-MOE
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MNT
+nserver:            lb.ns.saru.dn42
+nserver:            saru.ns.saru.dn42
+nserver:            hebi.ns.saru.dn42
+nserver:            umidanuki.ns.saru.dn42
+nserver:            hitsuji.ns.saru.dn42
+status:             ASSIGNED
+source:             DN42

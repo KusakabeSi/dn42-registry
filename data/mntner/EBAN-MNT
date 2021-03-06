@@ -1,0 +1,6 @@
+mntner:             EBAN-MNT
+admin-c:            EBAN-DN42
+tech-c:             EBAN-DN42
+mnt-by:             EBAN-MNT
+auth:               pgp-fingerprint 044F842F4F567605F7BBEBF806B80D1B73754E02
+source:             DN42

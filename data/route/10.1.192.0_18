@@ -1,0 +1,6 @@
+route:              10.1.192.0/18
+origin:             AS64863
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mettmann
+mnt-by:             DN42-MNT
+source:             ICVPN

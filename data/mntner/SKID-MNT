@@ -1,0 +1,8 @@
+mntner:             SKID-MNT
+admin-c:            SKID-DN42
+tech-c:             SKID-DN42
+mnt-by:             SKID-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6UcqQ58o63GRWKTyKhPr84xNiErVQtCRc/k4B3z21E skid@alpha
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAEe94jwtfMqv68fYr63m91v+k/TNZBrbQX+uB0kYv5d skid@neptune
+auth:               gpg-fingerprint 71E589D2ADA9F40156CE4374B11B7C56F111C320

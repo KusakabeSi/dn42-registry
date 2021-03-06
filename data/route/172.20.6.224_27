@@ -1,0 +1,4 @@
+route:              172.20.6.224/27
+origin:             AS4242421114
+mnt-by:             GRGR-MNT
+source:             DN42

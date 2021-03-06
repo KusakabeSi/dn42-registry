@@ -1,0 +1,5 @@
+route6:             fd96:70f6:b174::/48
+origin:             AS4242423270
+max-length:         48
+mnt-by:             TAAVI-MNT
+source:             DN42

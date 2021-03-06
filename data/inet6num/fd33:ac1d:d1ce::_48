@@ -1,0 +1,10 @@
+inet6num:           fd33:ac1d:d1ce:0000:0000:0000:0000:0000 - fd33:ac1d:d1ce:ffff:ffff:ffff:ffff:ffff
+netname:            ALS7-NET
+descr:              ALS7 IPV6
+country:            AT
+admin-c:            ALS7-DN42
+tech-c:             ALS7-DN42
+mnt-by:             ALS7-MNT
+status:             ASSIGNED
+cidr:               fd33:ac1d:d1ce::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdfb:df0c:0c64:0000:0000:0000:0000:0000 - fdfb:df0c:0c64:ffff:ffff:ffff:ffff:ffff
+netname:            DEUT-NET-IPV6
+descr:              Deut IPv6 network
+country:            FR
+admin-c:            DEUT-DN42
+tech-c:             DEUT-DN42
+mnt-by:             DEUT-MNT
+status:             ALLOCATED PI
+cidr:               fdfb:df0c:c64::/48
+source:             DN42

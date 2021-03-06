@@ -1,0 +1,8 @@
+domain:             consoma.dn42
+descr:              Consoma
+admin-c:            CONSOMA-DN42
+tech-c:             CONSOMA-DN42
+mnt-by:             CONSOMA-MNT
+nserver:            ns1.consoma.dn42 172.21.106.161
+nserver:            ns1.consoma.dn42 fd3b:8e88:5c2e::1
+source:             DN42

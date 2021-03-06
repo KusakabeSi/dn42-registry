@@ -1,0 +1,10 @@
+inetnum:            172.20.231.16 - 172.20.231.31
+netname:            CK-ipv4-NET
+descr:              CK ipv4 range
+country:            HK
+admin-c:            CK-DN42
+tech-c:             CK-DN42
+mnt-by:             CK-MNT
+status:             ASSIGNED
+cidr:               172.20.231.16/28
+source:             DN42

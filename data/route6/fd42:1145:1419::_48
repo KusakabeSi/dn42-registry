@@ -1,0 +1,6 @@
+route6:             fd42:1145:1419::/48
+descr:              Yura Network IPv6
+origin:             AS4242422464
+max-length:         64
+mnt-by:             MOE-MNT
+source:             DN42

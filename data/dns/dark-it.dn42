@@ -1,0 +1,6 @@
+domain:             dark-it.dn42
+admin-c:            DARKIT-DN42
+tech-c:             DARKIT-DN42
+mnt-by:             DARKIT-MNT
+nserver:            ns1.dark-it.dn42 172.23.245.1
+source:             DN42

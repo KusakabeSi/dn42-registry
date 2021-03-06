@@ -1,0 +1,7 @@
+inet6num:           fdf9:9417:5844:0000:0000:0000:0000:0000 - fdf9:9417:5844:0000:ffff:ffff:ffff:ffff
+cidr:               fdf9:9417:5844::/64
+netname:            ICVPN-ROTHENBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rothenburg
+mnt-by:             DN42-MNT
+source:             ICVPN

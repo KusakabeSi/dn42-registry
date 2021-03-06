@@ -1,0 +1,10 @@
+inet6num:           fd27:2313:eee5:0000:0000:0000:0000:0000 - fd27:2313:eee5:ffff:ffff:ffff:ffff:ffff
+netname:            MOJO-NET
+descr:              MOJO NET
+country:            JO
+admin-c:            MOJO-DN42
+tech-c:             MOJO-DN42
+mnt-by:             MOJO-MNT
+status:             ASSIGNED
+cidr:               fd27:2313:eee5::/48
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdb8:dff5:dea0:0000:0000:0000:0000:0000 - fdb8:dff5:dea0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb8:dff5:dea0::/48
+netname:            CAPITOL-AG-NET-1
+admin-c:            MNAGEL-DN42
+tech-c:             MNAGEL-DN42
+mnt-by:             MNAGEL-MNT
+status:             ASSIGNED
+source:             DN42

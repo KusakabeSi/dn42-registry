@@ -1,0 +1,10 @@
+inetnum:            172.20.185.0 - 172.20.185.255
+netname:            TOMBII-IX
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+status:             ALLOCATED
+nserver:            ns1.dns.dn42
+nserver:            ns2.dns.dn42
+cidr:               172.20.185.0/24
+source:             DN42

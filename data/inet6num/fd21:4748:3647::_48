@@ -1,0 +1,13 @@
+inet6num:           fd21:4748:3647:0000:0000:0000:0000:0000 - fd21:4748:3647:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:4748:3647::/48
+netname:            TONYZHAO-NETWORK
+descr:              TonyZhao's Simple Network
+country:            CN
+admin-c:            TONYZHAO-DN42
+tech-c:             TONYZHAO-DN42
+remarks:            You may refer to https://10.tonyzhao.xyz/dn42/ for details.
+nserver:            ns1.tonyzhao.dn42
+nserver:            ns2.tonyzhao.dn42
+mnt-by:             TONYZHAO-MNT
+status:             ASSIGNED
+source:             DN42

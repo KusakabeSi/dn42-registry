@@ -1,0 +1,4 @@
+route6:             fd7b:7d64:4dae::/48
+origin:             AS4242423692
+mnt-by:             TOINUX-MNT
+source:             DN42

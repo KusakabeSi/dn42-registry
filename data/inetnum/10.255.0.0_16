@@ -1,0 +1,9 @@
+inetnum:            10.255.0.0 - 10.255.255.255
+cidr:               10.255.0.0/16
+netname:            ICVPN-KREISGT
+nserver:            53.128.255.10.ipv4.registry-sync.dn42
+nserver:            3.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.1.3.1.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kreisgt
+mnt-by:             DN42-MNT
+source:             ICVPN

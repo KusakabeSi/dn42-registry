@@ -1,0 +1,12 @@
+domain:             ck.dn42
+descr:              CK network Service
+admin-c:            CK-DN42
+tech-c:             CK-DN42
+mnt-by:             CK-MNT
+nserver:            ns1.ck.dn42 172.20.231.21
+nserver:            ns2.ck.dn42 172.20.231.22
+nserver:            ns3.ck.dn42 172.20.231.23
+nserver:            ns1.ck.dn42 fd1d:8832:3c69::1
+nserver:            ns2.ck.dn42 fd1d:8832:3c69::2
+nserver:            ns3.ck.dn42 fd1d:8832:3c69::3
+source:             DN42

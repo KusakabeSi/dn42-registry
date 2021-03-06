@@ -1,0 +1,11 @@
+inetnum:            172.22.119.128 - 172.22.119.191
+netname:            FRITZ-CORE-IP4NET
+descr:              Fritz' backbone network
+country:            DE
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+status:             ASSIGNED
+nserver:            ns.192.23.172.in-addr.arpa
+cidr:               172.22.119.128/26
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.161.192/26
+origin:             AS4242420074
+mnt-by:             SPLASH-MNT
+source:             DN42

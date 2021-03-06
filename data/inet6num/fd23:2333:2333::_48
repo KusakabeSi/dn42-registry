@@ -1,0 +1,10 @@
+inet6num:           fd23:2333:2333:0000:0000:0000:0000:0000 - fd23:2333:2333:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:2333:2333::/48
+netname:            MAGICALCIRCLE-TESTNET-V6
+descr:              Magical Circle TestNet V6
+country:            FR
+admin-c:            FUTURSOLO-DN42
+tech-c:             FUTURSOLO-DN42
+mnt-by:             FUTURSOLO-MNT
+status:             ASSIGNED
+source:             DN42

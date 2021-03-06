@@ -1,0 +1,4 @@
+route:              172.20.47.160/27
+origin:             AS4242421942
+mnt-by:             CHUCKOGGY-MNT
+source:             DN42

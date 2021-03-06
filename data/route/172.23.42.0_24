@@ -1,0 +1,6 @@
+route:              172.23.42.0/24
+origin:             AS64600
+origin:             AS4242420101
+pingable:           172.23.42.3
+mnt-by:             HEXA-MNT
+source:             DN42

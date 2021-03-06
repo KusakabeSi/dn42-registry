@@ -1,0 +1,4 @@
+route6:             fdea:2eb5:7420::/48
+origin:             AS4242422673
+mnt-by:             CORESTORAGE-MNT
+source:             DN42

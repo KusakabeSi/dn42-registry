@@ -1,0 +1,5 @@
+route:              172.22.111.0/26
+descr:              DN42 Gateway
+origin:             AS4242420124
+mnt-by:             HADRILL-MNT
+source:             DN42

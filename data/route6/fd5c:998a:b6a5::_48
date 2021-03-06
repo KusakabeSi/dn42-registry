@@ -1,0 +1,5 @@
+route6:             fd5c:998a:b6a5::/48
+origin:             AS4242420218
+max-length:         48
+mnt-by:             XKEY-MNT
+source:             DN42

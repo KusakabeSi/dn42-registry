@@ -1,0 +1,4 @@
+route:              172.21.92.32/27
+origin:             AS4242423090
+mnt-by:             HEIAS-MNT
+source:             DN42

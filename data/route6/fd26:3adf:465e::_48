@@ -1,0 +1,5 @@
+route6:             fd26:3adf:465e::/48
+origin:             AS4242422850
+max-length:         48
+mnt-by:             VICTORROMAN-MNT
+source:             DN42

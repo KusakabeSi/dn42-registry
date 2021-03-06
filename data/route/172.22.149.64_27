@@ -1,0 +1,4 @@
+route:              172.22.149.64/27
+origin:             AS4242421145
+mnt-by:             KANA-MNT
+source:             DN42

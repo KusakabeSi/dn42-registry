@@ -1,0 +1,7 @@
+inet6num:           fd51:2bb2:fd0d:0000:0000:0000:0000:0000 - fd51:2bb2:fd0d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd51:2bb2:fd0d::/48
+netname:            CHAOSVPN-FFHH-SRV01
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,8 @@
+inet6num:           fdfd:6b61:7431:0000:0000:0000:0000:0000 - fdfd:6b61:7431:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:6b61:7431::/48
+netname:            NET6-RLKT
+admin-c:            RLKT-DN42
+tech-c:             RLKT-DN42
+mnt-by:             RLKT-MNT
+status:             ASSIGNED
+source:             DN42

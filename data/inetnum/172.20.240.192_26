@@ -1,0 +1,10 @@
+inetnum:            172.20.240.192 - 172.20.240.255
+netname:            LAIN-INETNUM
+descr:              LAIN inetnum
+country:            CN
+admin-c:            LAIN-DN42
+tech-c:             LAIN-DN42
+mnt-by:             LAIN-MNT
+status:             ASSIGNED
+cidr:               172.20.240.192/26
+source:             DN42

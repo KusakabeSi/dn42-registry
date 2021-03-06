@@ -1,0 +1,28 @@
+aut-num:            AS4242422092
+as-name:            P3BK4C DN42 Network
+admin-c:            P3BK4C-DN42
+tech-c:             P3BK4C-DN42
+mnt-by:             P3BK4C-MNT
+remarks:            +--------------------------------------------+
+remarks:            |     ____ _____ ____  _  ___  _    ____     |
+remarks:            |    |  _ \___ /| __ )| |/ / || |  / ___|    |
+remarks:            |    | |_) ||_ \|  _ \| ' /| || |_| |        |
+remarks:            |    |  __/___) | |_) | . \|__   _| |___     |
+remarks:            |    |_|  |____/|____/|_|\_\  |_|  \____|    |
+remarks:            |    ******************* DN42 Network ***    |
+remarks:            +--------------------------------------------+
+remarks:            |                                            |
+remarks:            | E-mail........: dn42@pebkac.gr             |
+remarks:            | IRC (Hackint).: tomkap                     |
+remarks:            | Information...: https://dn42.pebkac.gr/    |
+remarks:            |                 https://pebkac.dn42/       |
+remarks:            | Looking Glass.: https://lg.dn42.pebkac.gr/ |
+remarks:            |                 https://lg.pebkac.dn42/    |
+remarks:            |                                            |
+remarks:            |--------------------------------------------|
+remarks:            |           - Peering Locations -            |
+remarks:            |--------------------------------------------|
+remarks:            | Athens, GR / Amsterdam, NL / Paris, FR     |
+remarks:            | New York (NJ), USA /              more TBA |
+remarks:            +--------------------------------------------+
+source:             DN42

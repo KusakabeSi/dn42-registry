@@ -1,0 +1,4 @@
+route6:             fd2d:82f6:9b63::/48
+origin:             AS64828
+mnt-by:             CREST-MNT
+source:             DN42

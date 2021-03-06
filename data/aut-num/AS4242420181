@@ -1,0 +1,16 @@
+aut-num:            AS4242420181
+as-name:            MGL Network
+descr:              mgl.dn42 https://dn42.miegl.cz/
+remarks:            ---------------------------------------------------
+remarks:            Always looking for new peers!
+remarks:            Contact josef@miegl.cz or miegl@hackint
+remarks:            ---------------------------------------------------
+remarks:            https://dn42.miegl.cz/      - Peering details
+remarks:            https://lg.dn42.miegl.cz/   - Bird looking glass
+remarks:            ---------------------------------------------------
+mp-import:          afi any.unicast from AS4242420181:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242420181:AS-TRANSIT announce ANY
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+source:             DN42

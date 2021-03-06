@@ -1,0 +1,8 @@
+inetnum:            172.20.228.224 - 172.20.228.255
+cidr:               172.20.228.224/27
+netname:            NEUTRINET-NET-1
+admin-c:            THARYROK-DN42
+tech-c:             THARYROK-DN42
+mnt-by:             THARYROK-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+route6:             fd71:2bc7:20dc::/48
+origin:             AS4242423964
+max-length:         48
+remarks:            ARCH networking inc. (not really) main route thingy
+remarks:            // stupid shit below, don't blame me
+remarks:            you know, one time i asked a lir for a /48 and an ASN, but my /48 didn't have proper IRR...
+remarks:            guess what, their entire /29 was under a single route.
+remarks:            smart stuff.
+remarks:            // end of stupid shit
+mnt-by:             ARCH-MNT
+source:             DN42

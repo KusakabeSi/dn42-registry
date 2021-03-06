@@ -1,0 +1,8 @@
+inet6num:           fd44:ccc3:5454:0000:0000:0000:0000:0000 - fd44:ccc3:5454:ffff:ffff:ffff:ffff:ffff
+cidr:               fd44:ccc3:5454::/48
+netname:            RB67-NET6-1
+admin-c:            RB67-DN42
+tech-c:             RB67-DN42
+mnt-by:             RB67-MNT
+status:             ASSIGNED
+source:             DN42

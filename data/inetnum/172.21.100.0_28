@@ -1,0 +1,13 @@
+inetnum:            172.21.100.0 - 172.21.100.15
+netname:            NETCLIPSE-NETWORK-CORE
+descr:              NETCLIPSE-NETWORK-CORE
+country:            MY
+admin-c:            NETCLIPSE-DN42
+tech-c:             NETCLIPSE-DN42
+mnt-by:             NETCLIPSE-MNT
+nserver:            ns1.netclipse.dn42
+nserver:            ns2.netclipse.dn42
+nserver:            ns3.netclipse.dn42
+status:             ASSIGNED
+cidr:               172.21.100.0/28
+source:             DN42

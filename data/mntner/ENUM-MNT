@@ -1,0 +1,6 @@
+mntner:             ENUM-MNT
+descr:              Me.
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             ENUM-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.33.96/27
+origin:             AS4242423854
+mnt-by:             MITORAJ-MNT
+source:             DN42

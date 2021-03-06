@@ -1,0 +1,10 @@
+inetnum:            172.23.177.32 - 172.23.177.63
+netname:            CRUTH-NETWORK
+country:            BE
+org:                ORG-CRUTH
+admin-c:            CRUTH-DN42
+tech-c:             CRUTH-DN42
+mnt-by:             CRUTH-MNT
+status:             ASSIGNED
+cidr:               172.23.177.32/27
+source:             DN42

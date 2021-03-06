@@ -1,0 +1,11 @@
+inet6num:           fd8a:b0f1:babe:0000:0000:0000:0000:0000 - fd8a:b0f1:babe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8a:b0f1:babe::/48
+netname:            PSM-NETWORK
+descr:              Network of PSM
+country:            SE
+admin-c:            PSM-DN42
+tech-c:             PSM-DN42
+mnt-by:             PSM-MNT
+nserver:            ns1.psm.dn42
+status:             ASSIGNED
+source:             DN42

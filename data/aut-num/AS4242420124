@@ -1,0 +1,20 @@
+aut-num:            AS4242420124
+as-name:            HADRILL-AS
+remarks:            JackNet™ - Maintained by
+remarks:            Hadrill Online across Europe!
+remarks:            |-----------------------------|
+remarks:            | 10Gbps uplinks over Europe! |
+remarks:            | London, Amsterdam, Roubaix, |
+remarks:            |  Gravelines, Paris, Geneva, |
+remarks:            |    Falkenstein, Frankfurt   |
+remarks:            |-----------------------------|
+remarks:            |        Peer with me!        |
+remarks:            |  Email: jack@hadrill.co.uk  |
+remarks:            | IRC: jackhadrill (Not 24/7) |
+remarks:            |-----------------------------|
+remarks:            | GRE, IPIP, OpenVPN. IPv4/v6 |
+remarks:            |-----------------------------|
+admin-c:            HADRILL-DN42
+tech-c:             HADRILL-DN42
+mnt-by:             HADRILL-MNT
+source:             DN42

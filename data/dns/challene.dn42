@@ -1,0 +1,7 @@
+domain:             challene.dn42
+descr:              challene
+admin-c:            CHALLENE-DN42
+tech-c:             CHALLENE-DN42
+mnt-by:             CHALLENE-MNT
+nserver:            ns.challene.dn42 172.20.59.27
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:0403:0000:0000:0000:0000:0000:0000 - fd42:0403:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            SOLTIUDE-V6
+descr:              V6 superblock
+country:            US
+admin-c:            DEVANS-DN42
+tech-c:             DEVANS-DN42
+mnt-by:             SOLITUDE-MNT
+nserver:            ns1.solitude.dn42
+status:             ASSIGNED
+cidr:               fd42:403::/32
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             CPBARNES-MNT
+admin-c:            CPBARNES-DN42
+tech-c:             CPBARNES-DN42
+mnt-by:             CPBARNES-MNT
+source:             DN42
+auth:               pgp-fingerprint 5EE7FE3C69F44CD34AFD0C64ADF07443C7CFDA87

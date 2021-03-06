@@ -1,0 +1,5 @@
+route6:             fdfe:bf34:baaa::/48
+descr:              Route for KOISHI-AS
+origin:             AS4242420514
+mnt-by:             RVALUE-MNT
+source:             DN42

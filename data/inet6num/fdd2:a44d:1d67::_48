@@ -1,0 +1,10 @@
+inet6num:           fdd2:a44d:1d67:0000:0000:0000:0000:0000 - fdd2:a44d:1d67:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd2:a44d:1d67::/48
+netname:            CARAK-NET
+descr:              carak.fr DN42 experimental network
+country:            FR
+admin-c:            CARAK-DN42
+tech-c:             CARAK-DN42
+mnt-by:             CARAK-MNT
+status:             ASSIGNED
+source:             DN42

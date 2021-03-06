@@ -1,0 +1,9 @@
+inetnum:            172.20.15.96 - 172.20.15.127
+cidr:               172.20.15.96/27
+netname:            LINUXGEMINI-NETWORK
+country:            TR
+admin-c:            LINUXGEMINI-DN42
+tech-c:             LINUXGEMINI-DN42
+mnt-by:             LINUXGEMINI-MNT
+status:             ASSIGNED
+source:             DN42

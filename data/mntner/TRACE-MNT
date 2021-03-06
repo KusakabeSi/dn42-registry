@@ -1,0 +1,7 @@
+mntner:             TRACE-MNT
+descr:              TRACE maintainer
+admin-c:            TRACE-DN42
+tech-c:             TRACE-DN42
+auth:               pgp-fingerprint 763AAFEB568E6D99A9780EC5E20A46529E65F13C
+mnt-by:             TRACE-MNT
+source:             DN42

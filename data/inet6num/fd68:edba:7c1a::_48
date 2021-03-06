@@ -1,0 +1,9 @@
+inet6num:           fd68:edba:7c1a:0000:0000:0000:0000:0000 - fd68:edba:7c1a:ffff:ffff:ffff:ffff:ffff
+netname:            DCVOIP-IPV6-DN42
+country:            GB
+admin-c:            DCVOIP-DN42
+tech-c:             DCVOIP-DN42
+mnt-by:             DCVOIP-MNT
+status:             ASSIGNED
+cidr:               fd68:edba:7c1a::/48
+source:             DN42

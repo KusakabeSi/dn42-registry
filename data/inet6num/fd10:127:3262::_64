@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:3262:0000:0000:0000:0000:0000 - fd10:0127:3262:0000:ffff:ffff:ffff:ffff
+cidr:               fd10:127:3262::/64
+netname:            Moe
+admin-c:            MOE-NEONETWORK
+tech-c:             MOE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

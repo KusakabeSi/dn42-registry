@@ -1,0 +1,4 @@
+route6:             fd5b:a2c5:fe5c::/48
+origin:             AS4242423321
+mnt-by:             MARKTELEPORT-MNT
+source:             DN42

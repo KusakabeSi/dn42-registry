@@ -1,0 +1,13 @@
+inet6num:           fd39:001c:2c1b:0000:0000:0000:0000:0000 - fd39:001c:2c1b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd39:1c:2c1b::/48
+netname:            SARU-MOE
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MNT
+nserver:            lb.ns.saru.dn42
+nserver:            saru.ns.saru.dn42
+nserver:            hebi.ns.saru.dn42
+nserver:            umidanuki.ns.saru.dn42
+nserver:            hitsuji.ns.saru.dn42
+status:             ASSIGNED
+source:             DN42

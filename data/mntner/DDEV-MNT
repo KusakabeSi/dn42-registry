@@ -1,0 +1,7 @@
+mntner:             DDEV-MNT
+descr:              debiandev test foru bgp routing
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAVcczhDYxEfEpr5P7hIIiBInafNP279w3oSSxNiirddiph3Q16l3f4Mejw8swpoYZQgyPSD8Zx5Pw5LsF5GpxfQfQXuSkzZiGeTeays6Vwg2MOyU5dDbGaxwMy50I9aZkaK+Mv6CGs1IQ3Ja+D/u4Azqf/n7gszVE4/6x08r9JClhnKyxLueys4uHVR160ozf/PtpMyVQo15JiKUvgrkU3mexMehK5XUUC4Zvmu/lhGTLfG5b7jfeseQdbRiwdrCKP+uG8aWjkfXwCwozYe/DGkPsOOGOK6S53C6oqZ0FZOcY4C3qxlti/9IwCCzBk0KPU4JG5ZhoOOnz+nJjBtKd info@myhost.pro
+source:             DN42

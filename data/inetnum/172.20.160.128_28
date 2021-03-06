@@ -1,0 +1,10 @@
+inetnum:            172.20.160.128 - 172.20.160.143
+netname:            DRATHIR-DN42-FLORIANB-AT-1-INET
+descr:              DRATHIR-DN42-FLORIANB-AT-1-INET
+country:            AT
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.160.128/28
+source:             DN42

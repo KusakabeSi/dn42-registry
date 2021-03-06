@@ -1,0 +1,5 @@
+route:              172.20.156.0/23
+descr:              WEITI Network
+origin:             AS4242423906
+mnt-by:             WEITI-MNT
+source:             DN42

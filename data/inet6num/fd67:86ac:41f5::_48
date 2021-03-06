@@ -1,0 +1,10 @@
+inet6num:           fd67:86ac:41f5:0000:0000:0000:0000:0000 - fd67:86ac:41f5:ffff:ffff:ffff:ffff:ffff
+netname:            GMACHINE-NETWORK
+descr:              Gmachine network
+country:            US
+admin-c:            GMACHINE-DN42
+tech-c:             GMACHINE-DN42
+mnt-by:             GMACHINE-MNT
+status:             ASSIGNED
+cidr:               fd67:86ac:41f5::/48
+source:             DN42

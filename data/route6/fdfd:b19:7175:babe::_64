@@ -1,0 +1,4 @@
+route6:             fdfd:b19:7175:babe::/64
+origin:             AS4242421110
+mnt-by:             N2S-MNT
+source:             DN42

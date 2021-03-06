@@ -1,0 +1,10 @@
+inet6num:           fd4d:9197:24ee:0000:0000:0000:0000:0000 - fd4d:9197:24ee:ffff:ffff:ffff:ffff:ffff
+netname:            SPLIT-NET
+country:            AU
+admin-c:            SPLITICE-DN42
+tech-c:             SPLITICE-DN42
+mnt-by:             SPLITICE-MNT
+nserver:            splitice.dn42
+status:             ASSIGNED
+cidr:               fd4d:9197:24ee::/48
+source:             DN42

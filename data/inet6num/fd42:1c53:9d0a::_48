@@ -1,0 +1,9 @@
+inet6num:           fd42:1c53:9d0a:0000:0000:0000:0000:0000 - fd42:1c53:9d0a:ffff:ffff:ffff:ffff:ffff
+netname:            LOCONOX-NET6
+country:            FR
+admin-c:            LOCONOX-DN42
+tech-c:             LOCONOX-DN42
+mnt-by:             LOCONOX-MNT
+status:             ASSIGNED
+cidr:               fd42:1c53:9d0a::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd93:2559:f2ef::/48
+descr:              BUNNY
+origin:             AS4242420053
+mnt-by:             BUNNY-MNT
+source:             DN42

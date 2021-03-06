@@ -1,0 +1,12 @@
+inetnum:            172.20.57.0 - 172.20.57.255
+netname:            NET-HACK-SBG
+descr:              Hackspace Salzburg
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+nserver:            ns0.at.dn42
+status:             ASSIGNED
+cidr:               172.20.57.0/24
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fda3:9087:3028::/48
+origin:             AS4242421290
+mnt-by:             KNS-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdfe:1647:a2bb:0000:0000:0000:0000:0000 - fdfe:1647:a2bb:ffff:ffff:ffff:ffff:ffff
+netname:            ARENDTSEN-NET6
+cidr:               fdfe:1647:a2bb::/48
+descr:              ARENDTSEN network
+country:            DE
+admin-c:            ARENDTSEN-DN42
+tech-c:             ARENDTSEN-DN42
+mnt-by:             ARENDTSEN-MNT
+status:             ASSIGNED
+source:             DN42

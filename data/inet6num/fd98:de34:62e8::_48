@@ -1,0 +1,10 @@
+inet6num:           fd98:de34:62e8:0000:0000:0000:0000:0000 - fd98:de34:62e8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd98:de34:62e8::/48
+netname:            pomoke-network
+descr:              inet6 of pomoke
+admin-c:            POMOKE-DN42
+tech-c:             POMOKE-DN42
+mnt-by:             POMOKE-MNT
+status:             ASSIGNED
+nserver:            ns-a.pomoke.dn42
+source:             DN42

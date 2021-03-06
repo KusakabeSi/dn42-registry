@@ -1,0 +1,6 @@
+domain:             docsteel.dn42
+nserver:            ns0.docsteel.dn42 172.22.170.53
+admin-c:            DOCSTEEL-DN42
+tech-c:             DOCSTEEL-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

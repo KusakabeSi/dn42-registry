@@ -1,0 +1,4 @@
+route:              172.20.21.64/27
+origin:             AS4242423949
+mnt-by:             PALAKIS-MNT
+source:             DN42

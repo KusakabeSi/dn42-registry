@@ -1,0 +1,11 @@
+inetnum:            172.22.92.0 - 172.22.92.255
+netname:            NET-NIHILUS-HOME
+descr:              nihilus' network at home
+country:            DE
+admin-c:            NIHILUS-DN42
+tech-c:             NIHILUS-DN42
+status:             ASSIGNED PI
+nserver:            ns.nihilus.dn42
+cidr:               172.22.92.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

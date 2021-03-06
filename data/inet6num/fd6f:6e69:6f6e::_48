@@ -1,0 +1,14 @@
+inet6num:           fd6f:6e69:6f6e:0000:0000:0000:0000:0000 - fd6f:6e69:6f6e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6f:6e69:6f6e::/48
+netname:            ONION-NET-V2
+descr:              Tor-Onion Proxy Service
+remarks:            fd o:ni:on - 80bit Onionname Mapping
+country:            DE
+admin-c:            THEQ-DN42
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+nserver:            ns1.theq.dn42
+nserver:            ns2.theq.dn42
+nserver:            ns3.theq.dn42
+status:             ASSIGNED
+source:             DN42

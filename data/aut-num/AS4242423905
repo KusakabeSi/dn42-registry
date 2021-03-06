@@ -1,0 +1,48 @@
+aut-num:            AS4242423905
+as-name:            WEITI-AS
+descr:              Weiti.ORG
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+remarks:            |---------------------------------------------------------------------------|
+remarks:            |                                                                           |
+remarks:            | Peering Information on https://weiti.dn42/ or https://dn42-svc.weiti.org/ |
+remarks:            | Send peering request to weiti@weiti.org or via irc: weiti                 |
+remarks:            |---------------------------------------------------------------------------|
+remarks:            |                                                                           |
+remarks:            | Find more informations about Services on https://weiti.dn42/              |
+remarks:            | Looking Glass on https://lg.weiti.dn42                                    |
+remarks:            |                                                                           |
+remarks:            |---------------------------------------------------------------------------|
+remarks:            |                                                                           |
+remarks:            | Peering Locations:                                                        |
+remarks:            |                                                                           |
+remarks:            | DE: dn42-de01.weiti.org (NUE), dn42-gw.weiti.org (FAL)                    |
+remarks:            | FR: dn42-fr01.weiti.org (GRA)                                             |
+remarks:            | UK: dn42-uk01.weiti.org (LON)                                             |
+remarks:            | US: dn42-us01.weiti.org (LAX)                                             |
+remarks:            | AU: dn42-au01.weiti.org (SYD)                                             |
+remarks:            |                                                                           |
+remarks:            |---------------------------------------------------------------------------|
+remarks:            | I divide into 4 Peering Types: Upstream, Peer, Client, IXP                |
+remarks:            |                                                                           |
+remarks:            | Upstream: Import all Routes,                                              |
+remarks:            |           Export only my Peer/Client/Self Routes                          |
+remarks:            |                                                                           |
+remarks:            | Peer    : Import only Peer Routes (route objects!)                        |
+remarks:            |           Export only my Peer/Client/Self Routes                          |
+remarks:            |                                                                           |
+remarks:            | Client  : Import only Client Routes (Route Objects + ROA)                 |
+remarks:            |           Export all known Routes (Transit for Clients)                   |
+remarks:            |                                                                           |
+remarks:            | IXP     : Import only Routes with X AS Path Lenght (1 with RR)            |
+remarks:            |           Export only Self Routes for my ASes                             |
+remarks:            |                                                                           |
+remarks:            | Internal i prefer my direct peerings within AS, use of localpref:         |
+remarks:            |                                                                           |
+remarks:            | Clients/Peers/Upstream Originates : 150                                   |
+remarks:            | IXP                               : 110                                   |
+remarks:            | Upstreams                         : 100                                   |
+remarks:            |                                                                           |
+remarks:            |---------------------------------------------------------------------------|
+source:             DN42

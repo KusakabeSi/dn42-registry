@@ -1,0 +1,5 @@
+route6:             fd1b:7f7d:dd55::/48
+descr:              Registerd ULA subnet
+origin:             AS4242420045
+mnt-by:             DELTAMAN-MNT
+source:             DN42

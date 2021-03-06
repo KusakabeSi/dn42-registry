@@ -1,0 +1,7 @@
+aut-num:            AS4242420065
+as-name:            KRAKEN ASN-2
+admin-c:            KRAKEN-DN42
+tech-c:             KRAKEN-DN42
+mnt-by:             KRAKEN-MNT
+descr:              ASN for io.kraken
+source:             DN42

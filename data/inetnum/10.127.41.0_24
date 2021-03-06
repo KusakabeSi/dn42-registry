@@ -1,0 +1,8 @@
+inetnum:            10.127.41.0 - 10.127.41.255
+cidr:               10.127.41.0/24
+netname:            NiceLabs IX IPv4 Pool
+admin-c:            SEPTS-NEONETWORK
+tech-c:             SEPTS-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

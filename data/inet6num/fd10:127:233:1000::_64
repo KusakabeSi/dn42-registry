@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0233:1000:0000:0000:0000:0000 - fd10:0127:0233:1000:ffff:ffff:ffff:ffff
+cidr:               fd10:127:233:1000::/64
+netname:            icecat
+admin-c:            ICECAT-NEONETWORK
+tech-c:             ICECAT-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

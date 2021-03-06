@@ -1,0 +1,5 @@
+route6:             fdff:8695:18b7::/48
+origin:             AS203099
+max-length:         48
+mnt-by:             LOADFRONT-MNT
+source:             DN42

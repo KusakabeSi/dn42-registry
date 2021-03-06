@@ -1,0 +1,8 @@
+inetnum:            172.22.132.128 - 172.22.132.143
+cidr:               172.22.132.128/28
+netname:            PZTRN-NETWORK
+admin-c:            PZTRN-DN42
+tech-c:             PZTRN-DN42
+mnt-by:             PZTRN-MNT
+status:             ASSIGNED
+source:             DN42

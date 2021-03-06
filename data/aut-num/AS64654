@@ -1,0 +1,7 @@
+aut-num:            AS64654
+as-name:            HAEGAR-AS
+descr:              Gateway to ChaosVPN
+admin-c:            HAEGAR-DN42
+tech-c:             HAEGAR-DN42
+mnt-by:             HAEGAR-MNT
+source:             DN42

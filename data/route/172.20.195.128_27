@@ -1,0 +1,4 @@
+route:              172.20.195.128/27
+origin:             AS4242421979
+mnt-by:             MDUCHARME-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:ac16:17bd:0000:0000:0000:0000:0000 - fd42:ac16:17bd:ffff:ffff:ffff:ffff:ffff
+netname:            BLOKJE-IPV6
+descr:              Blokje IPv6 Range
+country:            NL
+admin-c:            BLOKJE-DN42
+tech-c:             BLOKJE-DN42
+mnt-by:             BLOKJE-MNT
+status:             ALLOCATED
+cidr:               fd42:ac16:17bd::/48
+source:             DN42

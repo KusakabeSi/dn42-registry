@@ -1,0 +1,5 @@
+route6:             fd00:172:2334::/48
+origin:             AS4242422900
+max-length:         48
+mnt-by:             KYON-MNT
+source:             DN42

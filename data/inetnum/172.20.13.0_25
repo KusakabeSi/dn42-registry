@@ -1,0 +1,11 @@
+inetnum:            172.20.13.0 - 172.20.13.127
+netname:            MOEU-NET
+admin-c:            MOEU-DN42
+tech-c:             MOEU-DN42
+mnt-by:             MOEU-MNT
+nserver:            ns1.moeunet.dn42
+nserver:            ns2.moeunet.dn42
+nserver:            ns3.moeunet.dn42
+status:             ASSIGNED
+cidr:               172.20.13.0/25
+source:             DN42

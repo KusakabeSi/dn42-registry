@@ -1,0 +1,6 @@
+route:              172.20.129.160/27
+max-length:         27
+descr:              burble.dn42 Nodes - https://dn42.burble.com/
+origin:             AS4242422601
+mnt-by:             BURBLE-MNT
+source:             DN42

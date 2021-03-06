@@ -1,0 +1,11 @@
+inet6num:           fd36:92df:6a62:9df2:0000:0000:0000:0000 - fd36:92df:6a62:9df2:ffff:ffff:ffff:ffff
+cidr:               fd36:92df:6a62:9df2::/64
+netname:            ECOR-NETWORK
+descr:              Network of ECOR
+country:            US
+admin-c:            DFF3BC-DN42
+tech-c:             DFF3BC-DN42
+mnt-by:             ECOR-MNT
+org:                ORG-ECOR
+status:             ASSIGNED
+source:             DN42

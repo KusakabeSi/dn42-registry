@@ -1,0 +1,5 @@
+route6:             fd94:a80f:cd40::/48
+origin:             AS4242420312
+max-length:         48
+mnt-by:             SHARP-MNT
+source:             DN42

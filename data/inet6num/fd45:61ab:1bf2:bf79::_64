@@ -1,0 +1,9 @@
+inet6num:           fd45:61ab:1bf2:bf79:0000:0000:0000:0000 - fd45:61ab:1bf2:bf79:ffff:ffff:ffff:ffff
+cidr:               fd45:61ab:1bf2:bf79::/64
+netname:            SEEK42-NETWORK
+country:            US
+admin-c:            SEEK42-DN42
+tech-c:             SEEK42-DN42
+mnt-by:             SEEK42-MNT
+status:             ASSIGNED
+source:             DN42

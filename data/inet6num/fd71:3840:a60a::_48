@@ -1,0 +1,9 @@
+inet6num:           fd71:3840:a60a:0000:0000:0000:0000:0000 - fd71:3840:a60a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd71:3840:a60a::/48
+netname:            ZEYPHROS-NETWORK
+descr:              Zeyphr. Inc
+admin-c:            ZEYPHROS-DN42
+tech-c:             ZEYPHROS-DN42
+mnt-by:             ZEYPHROS-MNT
+status:             ASSIGNED
+source:             DN42

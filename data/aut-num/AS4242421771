@@ -1,0 +1,7 @@
+aut-num:            AS4242421771
+as-name:            PEK-AS
+descr:              AS in PEK
+admin-c:            PEK-DN42
+tech-c:             PEK-DN42
+mnt-by:             PEK-MNT
+source:             DN42

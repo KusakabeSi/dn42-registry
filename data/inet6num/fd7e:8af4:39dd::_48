@@ -1,0 +1,8 @@
+inet6num:           fd7e:8af4:39dd:0000:0000:0000:0000:0000 - fd7e:8af4:39dd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7e:8af4:39dd::/48
+netname:            LUCABER-V6-NET-1
+admin-c:            LUCABER-DN42
+tech-c:             LUCABER-DN42
+mnt-by:             LUCABER-MNT
+status:             ASSIGNED
+source:             DN42

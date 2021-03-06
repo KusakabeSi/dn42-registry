@@ -1,0 +1,5 @@
+route6:             fd00:9990::/48
+descr:              TAYLES-NET6
+origin:             AS4242429990
+mnt-by:             TAYLES-MNT
+source:             DN42

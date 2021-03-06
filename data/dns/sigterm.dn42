@@ -1,0 +1,8 @@
+domain:             sigterm.dn42
+descr:              GXA
+admin-c:            GXA-DN42
+tech-c:             GXA-DN42
+mnt-by:             GXA-MNT
+nserver:            a.ns.sigterm.dn42 172.20.194.65
+nserver:            b.ns.sigterm.dn42 172.20.194.92
+source:             DN42

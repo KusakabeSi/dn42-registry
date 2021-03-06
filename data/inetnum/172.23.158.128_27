@@ -1,0 +1,10 @@
+inetnum:            172.23.158.128 - 172.23.158.159
+netname:            FEAX-NETWORK
+descr:              FEAX SYSTEMS NETWORK
+country:            DE
+admin-c:            FEAX-DN42
+tech-c:             FEAX-DN42
+mnt-by:             FEAX-MNT
+status:             ASSIGNED
+cidr:               172.23.158.128/27
+source:             DN42

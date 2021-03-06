@@ -1,0 +1,7 @@
+mntner:             TUX333-MNT
+auth:               pgp-fingerprint 0BB453C403744D249BE33934A46907B00B9AFF2F
+admin-c:            TUX333-DN42
+tech-c:             TUX333-DN42
+mnt-by:             TUX333-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLc8Nz2A9nIL9ZCxm4WYdtAyVApbZZoPzuUiaa1X4MkTuXHbjfEytS1lH9vD7CFInXhqOG8S18hvu7sdCkHgZi/iZOCiKqgjVqtTgP1dprAiijf3CnfwC8r5j3DIbEKS2KFgGveYhDXZ752qgA2Xf/MVaROEtRen9E/spb4n4A5fswYrVnEt6+xbxDdby9UcWbDLf6nbzZ/Pq/n0nkSsTRXlaWJE/7+vqTvVHPfunVEbIqw2+YZSgXQo0dP99UHR2rkednDr3kvdi/gvMYW3ALm+mirK2KTM/nShwDb/wFncfJh0Egx4dZHoVJSnc9qAUKv1Y1zRX32D7vXeCFok6L TUX333-MNT@ix.aperture-laboratories.science
+source:             DN42

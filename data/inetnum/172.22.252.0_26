@@ -1,0 +1,10 @@
+inetnum:            172.22.252.0 - 172.22.252.63
+netname:            MACIAS-DN42-v4-TRANSFER
+descr:              TRANSFERNETWORK
+country:            DE
+admin-c:            MACIAS-DN42
+tech-c:             MACIAS-DN42
+status:             ASSIGNED
+cidr:               172.22.252.0/26
+mnt-by:             DUMMY-MNT
+source:             DN42

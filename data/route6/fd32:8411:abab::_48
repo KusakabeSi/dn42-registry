@@ -1,0 +1,6 @@
+route6:             fd32:8411:abab::/48
+origin:             AS4242422604
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+source:             DN42

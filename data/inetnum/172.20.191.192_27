@@ -1,0 +1,10 @@
+inetnum:            172.20.191.192 - 172.20.191.223
+cidr:               172.20.191.192/27
+netname:            YURA-IPV4
+descr:              Yura Network IPv4
+admin-c:            YURA-DN42
+tech-c:             YURA-DN42
+nserver:            ns1.moecast.dn42
+mnt-by:             MOE-MNT
+status:             ASSIGNED
+source:             DN42

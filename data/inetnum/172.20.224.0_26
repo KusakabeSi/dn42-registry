@@ -1,0 +1,10 @@
+inetnum:            172.20.224.0 - 172.20.224.63
+cidr:               172.20.224.0/26
+netname:            X84-DN42-1-NET
+descr:              Initial IPv4 DN42 allocation for X84
+country:            CA
+admin-c:            X84-NOC-DN42
+tech-c:             X84-NOC-DN42
+mnt-by:             X84-MNT
+status:             ASSIGNED
+source:             DN42

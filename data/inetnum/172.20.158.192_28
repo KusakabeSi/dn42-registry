@@ -1,0 +1,10 @@
+inetnum:            172.20.158.192 - 172.20.158.207
+cidr:               172.20.158.192/28
+netname:            VSL-NET-1
+descr:              Network for VSLNET
+org:                ORG-VSL
+admin-c:            ELMER-DN42
+tech-c:             ELMER-DN42
+mnt-by:             ELMER-MNT
+status:             ASSIGNED
+source:             DN42

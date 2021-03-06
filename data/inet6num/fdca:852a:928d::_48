@@ -1,0 +1,10 @@
+inet6num:           fdca:852a:928d:0000:0000:0000:0000:0000 - fdca:852a:928d:ffff:ffff:ffff:ffff:ffff
+netname:            NET-REWBYSOFT-001
+remarks:            This prefix will be decomissioned shortly.
+country:            NL
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+status:             ASSIGNED
+cidr:               fdca:852a:928d::/48
+source:             DN42

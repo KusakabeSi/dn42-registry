@@ -1,0 +1,5 @@
+route:              172.21.65.0/27
+descr:              OTARONET
+origin:             AS4242420778
+mnt-by:             OTAROSEVEN-MNT
+source:             DN42

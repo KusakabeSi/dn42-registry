@@ -1,0 +1,8 @@
+mntner:             WXCAFE-MNT
+descr:              WXCAFE
+auth:               pgp-fingerprint 4383472C5D4D7AE38E9EF9EAB329CD324466C0C7
+auth:               pgp-fingerprint 92B5A811AE4B1D550689863D58DD226B3EA71DC7
+admin-c:            WXCAFE-DN42
+tech-c:             WXCAFE-DN42
+mnt-by:             WXCAFE-MNT
+source:             DN42

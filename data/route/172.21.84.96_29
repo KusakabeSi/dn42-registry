@@ -1,0 +1,4 @@
+route:              172.21.84.96/29
+origin:             AS4242420883
+mnt-by:             KUGATSU-MNT
+source:             DN42

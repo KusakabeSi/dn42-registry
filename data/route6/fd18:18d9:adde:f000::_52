@@ -1,0 +1,5 @@
+route6:             fd18:18d9:adde:f000::/52
+descr:              ATR IPv6 Anycast Network
+origin:             AS4242421233
+mnt-by:             ATR-MNT
+source:             DN42

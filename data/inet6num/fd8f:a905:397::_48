@@ -1,0 +1,9 @@
+inet6num:           fd8f:a905:0397:0000:0000:0000:0000:0000 - fd8f:a905:0397:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8f:a905:397::/48
+netname:            BANNET-NETWORK
+country:            GB
+admin-c:            CAMERON-DN42
+tech-c:             CAMERON-DN42
+mnt-by:             BANNET-MNT
+status:             ASSIGNED
+source:             DN42

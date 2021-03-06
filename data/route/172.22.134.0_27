@@ -1,0 +1,4 @@
+route:              172.22.134.0/27
+origin:             AS4242423942
+mnt-by:             JO-JO-MNT
+source:             DN42

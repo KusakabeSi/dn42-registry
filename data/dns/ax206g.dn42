@@ -1,0 +1,12 @@
+domain:             ax206g.dn42
+descr:              AX206G Domain
+admin-c:            AX206G-DN42
+tech-c:             AX206G-DN42
+mnt-by:             AX206G-MNT
+nserver:            ns1.ax206g.dn42 172.20.45.32
+nserver:            ns1.ax206g.dn42 fd42:bbbb:c0de::53
+nserver:            ns2.ax206g.dn42 172.20.227.8
+nserver:            ns2.ax206g.dn42 fd42:bbbb:cafe:53::53
+nserver:            ns.ax206g.dn42 fd42:bbbb:c0de::53
+nserver:            ns.ax206g.dn42 172.20.45.32
+source:             DN42

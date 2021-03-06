@@ -1,0 +1,7 @@
+aut-num:            AS4242423994
+as-name:            Cas. networks
+descr:              The default AS for CAS
+admin-c:            CDREUVER-DN42
+tech-c:             CDREUVER-DN42
+mnt-by:             CAS-MNT
+source:             DN42

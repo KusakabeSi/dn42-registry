@@ -1,0 +1,10 @@
+inetnum:            172.21.99.192 - 172.21.99.223
+cidr:               172.21.99.192/27
+netname:            TAGLIO-NETWORK
+admin-c:            TAGLIO-DN42
+tech-c:             TAGLIO-DN42
+mnt-by:             TAGLIO-MNT
+status:             ASSIGNED
+nserver:            ns1.telecomlobby.dn42
+nserver:            ns2.telecomlobby.dn42
+source:             DN42

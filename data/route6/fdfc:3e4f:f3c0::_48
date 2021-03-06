@@ -1,0 +1,5 @@
+route6:             fdfc:3e4f:f3c0::/48
+descr:              UNBEDENKLICH route
+origin:             AS4242420020
+mnt-by:             UNBEDENKLICH-MNT
+source:             DN42

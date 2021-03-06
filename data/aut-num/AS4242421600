@@ -1,0 +1,13 @@
+aut-num:            AS4242421600
+as-name:            SMRSH-TEST-AS
+descr:              smrsh DN42 test network
+remarks:            +-----------+----------------------------------------+
+remarks:            | Location: Various Temporary Locations              |
+remarks:            +-----------+----------------------------------------+
+remarks:            | This network is for testing only. Peering requests |
+remarks:            | should see AS76167 for information.                |
+remarks:            +----------------------------------------------------+
+admin-c:            DRACOLING-DN42
+tech-c:             DRACOLING-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

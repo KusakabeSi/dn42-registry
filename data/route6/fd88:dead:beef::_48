@@ -1,0 +1,5 @@
+route6:             fd88:dead:beef::/48
+descr:              MITSUHA-NETWORKS
+origin:             AS4242423886
+mnt-by:             MITSUHA-MNT
+source:             DN42

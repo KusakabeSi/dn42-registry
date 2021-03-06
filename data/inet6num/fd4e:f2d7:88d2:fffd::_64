@@ -1,0 +1,15 @@
+inet6num:           fd4e:f2d7:88d2:fffd:0000:0000:0000:0000 - fd4e:f2d7:88d2:fffd:ffff:ffff:ffff:ffff
+cidr:               fd4e:f2d7:88d2:fffd::/64
+netname:            ICVPN-SAAR
+nserver:            1.193.24.10.ipv4.registry-sync.dn42
+nserver:            2.193.24.10.ipv4.registry-sync.dn42
+nserver:            3.193.24.10.ipv4.registry-sync.dn42
+nserver:            4.193.24.10.ipv4.registry-sync.dn42
+nserver:            1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ipv6.registry-sync.dn42
+nserver:            2.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ipv6.registry-sync.dn42
+nserver:            3.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ipv6.registry-sync.dn42
+nserver:            4.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.2.d.8.8.7.d.2.f.e.4.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saar
+mnt-by:             DN42-MNT
+source:             ICVPN

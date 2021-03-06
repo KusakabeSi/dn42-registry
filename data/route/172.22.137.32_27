@@ -1,0 +1,5 @@
+route:              172.22.137.32/27
+origin:             AS4242422647
+mnt-by:             POMOKE-MNT
+descr:              pomoke Network - inet
+source:             DN42

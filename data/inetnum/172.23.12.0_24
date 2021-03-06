@@ -1,0 +1,11 @@
+inetnum:            172.23.12.0 - 172.23.12.255
+cidr:               172.23.12.0/24
+netname:            NET-LN01-DN42
+descr:              Localnet IPv4 network
+country:            ES
+admin-c:            OPOTONIL-DN42
+tech-c:             OPOTONIL-DN42
+mnt-by:             LOCALNET-MNT
+nserver:            ns1.localnet.dn42
+status:             ASSIGNED
+source:             DN42

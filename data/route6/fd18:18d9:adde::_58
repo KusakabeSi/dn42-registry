@@ -1,0 +1,5 @@
+route6:             fd18:18d9:adde::/58
+descr:              ATR Home Routing Network
+origin:             AS4242421233
+mnt-by:             ATR-MNT
+source:             DN42

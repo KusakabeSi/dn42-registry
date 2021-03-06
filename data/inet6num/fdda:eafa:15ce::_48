@@ -1,0 +1,10 @@
+inet6num:           fdda:eafa:15ce:0000:0000:0000:0000:0000 - fdda:eafa:15ce:ffff:ffff:ffff:ffff:ffff
+netname:            DENNIS-NETWORK
+descr:              Dennis Network
+country:            DK
+admin-c:            DENNIS-DN42
+tech-c:             DENNIS-DN42
+mnt-by:             DENNIS-MNT
+status:             ASSIGNED
+cidr:               fdda:eafa:15ce::/48
+source:             DN42

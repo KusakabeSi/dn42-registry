@@ -1,0 +1,10 @@
+inetnum:            172.20.199.0 - 172.20.199.255
+netname:            ANDI-DN42-VM-SRV
+descr:              VM Servers
+country:            DE
+admin-c:            ANDI-DN42
+tech-c:             ANDI-DN42
+mnt-by:             ANDI--MNT
+status:             ALLOCATED
+cidr:               172.20.199.0/24
+source:             DN42

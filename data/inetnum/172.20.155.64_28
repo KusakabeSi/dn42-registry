@@ -1,0 +1,10 @@
+inetnum:            172.20.155.64 - 172.20.155.79
+cidr:               172.20.155.64/28
+netname:            MOMIJI-NETWORK
+country:            JP
+admin-c:            MOMIJI-DN42
+tech-c:             MOMIJI-DN42
+mnt-by:             MOMIJI-MNT
+nserver:            ns1.momiji.dn42
+status:             ASSIGNED
+source:             DN42

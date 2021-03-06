@@ -1,0 +1,12 @@
+inetnum:            172.22.132.64 - 172.22.132.79
+cidr:               172.22.132.64/28
+netname:            AMNET-NETWORK
+descr:              Network of Amnet for Link Vpn
+country:            TH
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
+nserver:            ns1.amnet.dn42
+nserver:            ns2.amnet.dn42
+status:             ASSIGNED
+source:             DN42

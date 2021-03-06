@@ -1,0 +1,6 @@
+mntner:             SCUTTLEBUG-MNT
+auth:               pgp-fingerprint D55CDC96B9D2C7411CB6F3904E5048A2275BBA76
+admin-c:            SCUTTLEBUG-DN42
+tech-c:             SCUTTLEBUG-DN42
+mnt-by:             SCUTTLEBUG-MNT
+source:             DN42

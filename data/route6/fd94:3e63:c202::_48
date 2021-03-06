@@ -1,0 +1,6 @@
+route6:             fd94:3e63:c202::/48
+origin:             AS4242423238
+admin-c:            NORNET-DN42
+tech-c:             NORNET-DN42
+mnt-by:             NORNET-MNT
+source:             DN42

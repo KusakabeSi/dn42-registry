@@ -1,0 +1,9 @@
+inetnum:            172.22.255.96 - 172.22.255.127
+netname:            YOUNGAGE-TRANSFER
+country:            DE
+admin-c:            HEJ-DN42
+tech-c:             HEJ-DN42
+mnt-by:             HEJ-MNT
+status:             ASSIGNED
+cidr:               172.22.255.96/27
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.18.128/27
+origin:             AS4242421842
+mnt-by:             WHS-MNT
+source:             DN42

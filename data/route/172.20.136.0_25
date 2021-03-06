@@ -1,0 +1,4 @@
+route:              172.20.136.0/25
+origin:             AS4242429946
+mnt-by:             SPLITICE-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdfb:9a90:fa25::/48
+descr:              FABIAN AS4242423961 ROUTE
+origin:             AS4242423961
+mnt-by:             FC-MNT
+source:             DN42

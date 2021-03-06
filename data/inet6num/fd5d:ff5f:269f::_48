@@ -1,0 +1,12 @@
+inet6num:           fd5d:ff5f:269f:0000:0000:0000:0000:0000 - fd5d:ff5f:269f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5d:ff5f:269f::/48
+netname:            NUXIS-NETWORK
+descr:              Nuxis Networks Network
+country:            NO
+admin-c:            MBG18-DN42
+tech-c:             MBG18-DN42
+mnt-by:             NUXIS-MNT
+org:                ORG-NUXIS
+nserver:            ns.nuxis.dn42
+status:             ASSIGNED
+source:             DN42

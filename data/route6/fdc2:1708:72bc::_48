@@ -1,0 +1,4 @@
+route6:             fdc2:1708:72bc::/48
+origin:             AS4242422713
+mnt-by:             ENP2S0-MNT
+source:             DN42

@@ -1,0 +1,15 @@
+aut-num:            AS4242422609
+as-name:            WORX-AS
+descr:              WORX Network range
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+remarks:            +---------------------------------------------------+
+remarks:            |                 Open peering policy               |
+remarks:            |            Mail: daniel@storozhev.net             |
+remarks:            |                   Twitter: @dstoro                |
+remarks:            +---------------------------------------------------+
+remarks:            | Server Location:                                  |
+remarks:            | Roubaix, France (250MBit/s link)                  |
+remarks:            +---------------------------------------------------+
+source:             DN42

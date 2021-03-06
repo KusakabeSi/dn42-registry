@@ -1,0 +1,40 @@
+aut-num:            AS4242420321
+as-name:            TOMBII-DN42
+descr:              TOMBII CORE NETWORK
+remarks:            +-------------------------------------------------+
+remarks:            | AS 4242420321                                   |
+remarks:            +-------------------------------------------------+
+remarks:            | http://tombii.dn42/                             |
+remarks:            | Contact: admin@tombii-dn42.com                  |
+remarks:            +-------------------------------------------------+
+remarks:            +-------------------------------------------------+
+remarks:            | Peering locations                               |
+remarks:            +-------------------------------------------------+
+remarks:            | EU:                                             |
+remarks:            +-------------------------------------------------+
+remarks:            | DE: Falkenstein (Hetzner)                       |
+remarks:            | FR: Paris (Online.net)                          |
+remarks:            | FR: Roubaix (OVH)                               |
+remarks:            | IT: Milan (SeFlow)                              |
+remarks:            | NL: Rotterdam (i3d)                             |
+remarks:            +-------------------------------------------------+
+remarks:            | NA:                                             |
+remarks:            +-------------------------------------------------+
+remarks:            | Dallas, TX (QueryFoundry)                       |
+remarks:            | Los Angeles, CA (Quadranet)                     |
+remarks:            | Piscataway, NJ (Choopa)                         |
+remarks:            | Toronto, CA (CloudAtCost)                       |
+remarks:            +-------------------------------------------------+
+remarks:            | ASIA:                                           |
+remarks:            +-------------------------------------------------+
+remarks:            +-------------------------------------------------+
+remarks:            +-------------------------------------------------+
+remarks:            | Services                                        |
+remarks:            +-------------------------------------------------+
+remarks:            | US: LAX-IX (https://nl-zuid.dn42/)              |
+remarks:            | US: NY-IX  (https://nl-zuid.dn42/)              |
+remarks:            +-------------------------------------------------+
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+source:             DN42

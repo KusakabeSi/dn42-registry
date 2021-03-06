@@ -1,0 +1,10 @@
+inet6num:           fd23:9fed:1099:0000:0000:0000:0000:0000 - fd23:9fed:1099:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:9fed:1099::/48
+netname:            MVO-NETWORK
+descr:              Marvo.ru Network
+country:            DE
+admin-c:            MVO-DN42
+tech-c:             MVO-DN42
+mnt-by:             MVO-MNT
+status:             ASSIGNED
+source:             DN42

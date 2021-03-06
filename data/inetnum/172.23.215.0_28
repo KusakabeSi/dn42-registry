@@ -1,0 +1,10 @@
+inetnum:            172.23.215.0 - 172.23.215.15
+netname:            CAZAGEN-NETWORK
+descr:              Cazagen Network
+country:            GB
+admin-c:            CAZAGEN-DN42
+tech-c:             CAZAGEN-DN42
+mnt-by:             CAZAGEN-MNT
+status:             ASSIGNED
+cidr:               172.23.215.0/28
+source:             DN42

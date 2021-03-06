@@ -1,0 +1,4 @@
+route:              172.20.239.128/26
+origin:             AS4242423514
+mnt-by:             LFNET-MNT
+source:             DN42

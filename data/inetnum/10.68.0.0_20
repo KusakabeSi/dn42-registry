@@ -1,0 +1,7 @@
+inetnum:            10.68.0.0 - 10.68.15.255
+cidr:               10.68.0.0/20
+netname:            ICVPN-BELGIEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: belgien
+mnt-by:             DN42-MNT
+source:             ICVPN

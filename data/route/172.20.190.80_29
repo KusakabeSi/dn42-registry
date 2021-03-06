@@ -1,0 +1,5 @@
+route:              172.20.190.80/29
+descr:              PSM-NET
+origin:             AS4242423926
+mnt-by:             PSM-MNT
+source:             DN42

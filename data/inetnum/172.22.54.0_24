@@ -1,0 +1,10 @@
+inetnum:            172.22.54.0 - 172.22.54.255
+netname:            NET-HAEGAR-DN42
+remarks:            * Imported from legacy topology page ( https://dn42.net/trac/wiki/IPv4-topology )
+country:            DE
+admin-c:            HAEGAR-DN42
+tech-c:             HAEGAR-DN42
+mnt-by:             HAEGAR-MNT
+status:             ASSIGNED
+cidr:               172.22.54.0/24
+source:             DN42

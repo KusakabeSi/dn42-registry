@@ -1,0 +1,11 @@
+inetnum:            172.20.59.0 - 172.20.59.63
+netname:            CHALLENE-NET
+nserver:            ns.challene.dn42
+descr:              CHALLENE
+country:            SG
+admin-c:            CHALLENE-DN42
+tech-c:             CHALLENE-DN42
+mnt-by:             CHALLENE-MNT
+status:             ALLOCATED
+cidr:               172.20.59.0/26
+source:             DN42

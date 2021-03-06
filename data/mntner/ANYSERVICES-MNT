@@ -1,0 +1,6 @@
+mntner:             ANYSERVICES-MNT
+admin-c:            ANYSERVICES-DN42
+tech-c:             ANYSERVICES-DN42
+mnt-by:             ANYSERVICES-MNT
+source:             DN42
+auth:               pgp-fingerprint ED6FEFE0ED91FD5E8E627E36FF149DF935233841

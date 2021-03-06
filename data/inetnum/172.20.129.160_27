@@ -1,0 +1,12 @@
+inetnum:            172.20.129.160 - 172.20.129.191
+netname:            BURBLE-DN42-NODES
+descr:              burble.dn42 Nodes - https://dn42.burble.com/
+country:            UK
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+nserver:            ns1.burble.dn42
+ds-rdata:           56504 13 2 21d2ff8aee649aca23fdd4d8134e8c181e2bd05410ab15c5997eb6feabf115af
+status:             ASSIGNED
+cidr:               172.20.129.160/27
+source:             DN42

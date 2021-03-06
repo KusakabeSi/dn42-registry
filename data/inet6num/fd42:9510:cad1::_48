@@ -1,0 +1,10 @@
+inet6num:           fd42:9510:cad1:0000:0000:0000:0000:0000 - fd42:9510:cad1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:9510:cad1::/48
+netname:            COLNET-NETWORK
+descr:              Colnet Network
+country:            CO
+admin-c:            CARLOSJS-DN42
+tech-c:             CARLOSJS-DN42
+mnt-by:             CARLOSJS-MNT
+status:             ASSIGNED
+source:             DN42

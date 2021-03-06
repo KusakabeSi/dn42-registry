@@ -1,0 +1,8 @@
+inet6num:           fd80:9527:0000:0000:0000:0000:0000:0000 - fd80:9527:0000:ffff:ffff:ffff:ffff:ffff
+admin-c:            JALEN-DN42
+tech-c:             JALEN-DN42
+mnt-by:             DRIVERSP-MNT
+status:             ALLOCATED
+cidr:               fd80:9527::/48
+netname:            Unnamed fd80:9527::/48 Network
+source:             DN42

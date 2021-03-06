@@ -1,0 +1,5 @@
+route6:             fd26:13ad:1cb6::/48
+origin:             AS4242423303
+mnt-by:             MAKNET-MNT
+max-length:         48
+source:             DN42

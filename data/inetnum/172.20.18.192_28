@@ -1,0 +1,10 @@
+inetnum:            172.20.18.192 - 172.20.18.207
+netname:            SCHABEN-NET01
+descr:              alarmschaben's first network
+country:            DE
+admin-c:            ALARMSCHABEN-DN42
+tech-c:             ALARMSCHABEN-DN42
+mnt-by:             ALARMSCHABEN-MNT
+status:             ASSIGNED
+cidr:               172.20.18.192/28
+source:             DN42

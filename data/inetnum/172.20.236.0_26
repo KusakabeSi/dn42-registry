@@ -1,0 +1,8 @@
+inetnum:            172.20.236.0 - 172.20.236.63
+cidr:               172.20.236.0/26
+netname:            SHARP-NETWORK
+admin-c:            SHARP-DN42
+tech-c:             SHARP-DN42
+mnt-by:             SHARP-MNT
+status:             ASSIGNED
+source:             DN42

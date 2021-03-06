@@ -1,0 +1,9 @@
+inetnum:            172.20.46.64 - 172.20.46.79
+netname:            NOJJA-NET
+country:            FR
+admin-c:            NOJJA-DN42
+tech-c:             NOJJA-DN42
+mnt-by:             NOJJA-MNT
+status:             ASSIGNED
+cidr:               172.20.46.64/28
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.202.0 - 172.20.202.63
+netname:            YUYUKO-DN42-IPV4
+remarks:            Peer with me at dn42@yuyuko.com
+descr:              yuyuko network
+admin-c:            YUYUKO-DN42
+tech-c:             YUYUKO-DN42
+mnt-by:             YUYUKO-MNT
+status:             ASSIGNED
+cidr:               172.20.202.0/26
+source:             DN42

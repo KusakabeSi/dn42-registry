@@ -1,0 +1,4 @@
+route:              172.22.110.224/27
+origin:             AS4242421918
+mnt-by:             FABRATERIA-MNT
+source:             DN42

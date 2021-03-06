@@ -1,0 +1,6 @@
+mntner:             MAX-MNT
+admin-c:            MAX-DN42
+tech-c:             MAX-DN42
+mnt-by:             MAX-MNT
+auth:               pgp-fingerprint 1DB1752DD90317AFA416D620EA9D0F1A4941114E
+source:             DN42

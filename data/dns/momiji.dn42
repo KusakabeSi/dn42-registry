@@ -1,0 +1,8 @@
+domain:             momiji.dn42
+descr:              MOMIJI
+admin-c:            MOMIJI-DN42
+tech-c:             MOMIJI-DN42
+mnt-by:             MOMIJI-MNT
+nserver:            ns1.momiji.dn42 172.20.155.65
+nserver:            ns1.momiji.dn42 fddf:375c:489e::1
+source:             DN42

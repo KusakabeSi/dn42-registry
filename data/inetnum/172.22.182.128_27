@@ -1,0 +1,9 @@
+inetnum:            172.22.182.128 - 172.22.182.159
+cidr:               172.22.182.128/27
+netname:            SZB86-NETv4-1
+admin-c:            SZB86-DN42
+tech-c:             SZB86-DN42
+mnt-by:             SZB86-MNT
+country:            HU
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fda7:fb2b:4733::/48
+origin:             AS4242421848
+max-length:         48
+mnt-by:             MISTERGEEK-MNT
+source:             DN42

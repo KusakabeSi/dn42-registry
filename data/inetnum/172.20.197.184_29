@@ -1,0 +1,10 @@
+inetnum:            172.20.197.184 - 172.20.197.191
+netname:            ATR-TRANSIT
+descr:              ATR Internal Transit Addresses
+country:            HK
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               172.20.197.184/29
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             telecomlobby.dn42
+admin-c:            TAGLIO-DN42
+tech-c:             TAGLIO-DN42
+mnt-by:             TAGLIO-MNT
+nserver:            ns1.telecomlobby.dn42 172.21.99.194
+nserver:            ns1.telecomlobby.dn42 fda2:73ea:f77f:53::4
+nserver:            ns2.telecomlobby.dn42 172.21.99.196
+nserver:            ns2.telecomlobby.dn42 fda2:73ea:f77f:53::6
+source:             DN42

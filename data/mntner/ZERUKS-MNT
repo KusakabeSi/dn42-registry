@@ -1,0 +1,7 @@
+mntner:             ZERUKS-MNT
+descr:              Zeruks
+admin-c:            ZERUKS-DN42
+tech-c:             ZERUKS-DN42
+mnt-by:             ZERUKS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYKw4BTJatekKgYsoMH2Hzc73xv2aRl55dylfuHikx19/Peo4Wd/0Lh5qj+oHqN5sEKaaE63bB84EH9569IMiXIFsOu3pSadqMk5jmfqyjOQFu9SxXTYcOahXePQebFtWEf65WIJt80tACXks9pB15U06Q5zerZsvFxgm5vnppMqILtivGtT4leWNqcIWpJUxQw6uDV9HwE/W2unXVLDmM22EnCxj7gv9qTTzDcBUmfY50u0K2R1VxOQ5pAv6L50K9FzA61IXUf0IRTNVNWpCEXe4sbrPlER0JzSCGQUx4SI+uLHo7khXKPVSupPgIRUYyCbxY2dCp0ZB3UJQj77LX
+source:             DN42

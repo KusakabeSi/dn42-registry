@@ -1,0 +1,9 @@
+inet6num:           fdff:b02d:2ef7:0000:0000:0000:0000:0000 - fdff:b02d:2ef7:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:b02d:2ef7::/48
+netname:            ZOTAN-NET-1
+admin-c:            ZOTAN-DN42
+tech-c:             ZOTAN-DN42
+mnt-by:             ZOTAN-MNT
+status:             ASSIGNED
+nserver:            ns1.zotan.dn42
+source:             DN42

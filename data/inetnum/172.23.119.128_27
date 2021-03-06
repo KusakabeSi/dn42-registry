@@ -1,0 +1,10 @@
+inetnum:            172.23.119.128 - 172.23.119.159
+cidr:               172.23.119.128/27
+netname:            NIRN-NET-2
+admin-c:            NIRN-DN42
+tech-c:             NIRN-DN42
+mnt-by:             NIRN-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.nirn.dn42
+nserver:            ns2.nirn.dn42

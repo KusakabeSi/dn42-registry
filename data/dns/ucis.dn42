@@ -1,0 +1,8 @@
+domain:             ucis.dn42
+nserver:            ns1.ucis.dn42 172.22.166.2
+nserver:            ns3.ucis.dn42 172.22.166.6
+nserver:            ns1.ucis.nl
+admin-c:            UFO-DN42
+tech-c:             UFO-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

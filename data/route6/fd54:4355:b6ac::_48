@@ -1,0 +1,4 @@
+route6:             fd54:4355:b6ac::/48
+origin:             AS4242420212
+mnt-by:             BLING-MNT
+source:             DN42

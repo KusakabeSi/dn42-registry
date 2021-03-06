@@ -1,0 +1,7 @@
+mntner:             XTN1-MNT
+descr:              My little test Network
+admin-c:            OS23-DN42
+tech-c:             OS23-DN42
+mnt-by:             XTN1-MNT
+source:             DN42
+auth:               pgp-fingerprint F80B8ACC1C741BBE35ED9D354BA94A851F223240

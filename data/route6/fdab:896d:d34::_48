@@ -1,0 +1,4 @@
+route6:             fdab:896d:d34::/48
+origin:             AS4242420093
+mnt-by:             WWLABS-MNT
+source:             DN42

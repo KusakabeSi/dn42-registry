@@ -1,0 +1,6 @@
+route6:             fda4:1721:8451::/48
+origin:             AS65201
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: meckenheim
+mnt-by:             DN42-MNT
+source:             ICVPN

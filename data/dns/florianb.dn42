@@ -1,0 +1,7 @@
+domain:             florianb.dn42
+admin-c:            FLORIANB-DN42
+tech-c:             FLORIANB-DN42
+mnt-by:             FLORIANB-MNT
+nserver:            ns01.florianb.dn42 172.21.125.1
+nserver:            ns02.florianb.dn42 172.21.125.2
+source:             DN42

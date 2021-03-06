@@ -1,0 +1,11 @@
+inetnum:            172.20.171.64 - 172.20.171.79
+netname:            LUELISTAN-TRANSFER-NET
+descr:              dem luelistan sein Transfernetz
+country:            DE
+admin-c:            LUELISTAN-DN42
+tech-c:             LUELISTAN-DN42
+mnt-by:             LUELISTAN-MNT
+nserver:            ns1.teamwiki.net
+status:             ASSIGNED
+cidr:               172.20.171.64/28
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd28:4a00:7533::/48
+origin:             AS4242421938
+mnt-by:             BABBLE-MNT
+source:             DN42

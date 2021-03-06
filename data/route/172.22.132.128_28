@@ -1,0 +1,4 @@
+route:              172.22.132.128/28
+origin:             AS4242423055
+mnt-by:             PZTRN-MNT
+source:             DN42

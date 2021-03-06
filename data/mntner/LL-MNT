@@ -1,0 +1,10 @@
+mntner:             LL-MNT
+descr:              For the love of routing!
+admin-c:            LL-DN42
+tech-c:             LL-DN42
+mnt-by:             LL-MNT
+auth:               PGPKEY-764AE616
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOYA6o73mkbMITTlZ7R6VZgB9uB8+KlAW9ATN2R335kU
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjYZieWFQA9brzy3ZKv0g0BOJpbUx3602XpJaYScrQ9hUzsLJlgIUFeXMQW8nAgx5pa//zcJzeW4VXb4MGTb14CyG51dQu3AMuUZEXoGhmsr1PfTJakNW7eigr3/cjT2wqvoYwrF2ZKpi3Wm+fYtD3z/Y5SqZiRBImVTFPnWAqsM1fAF7Ekk1tssqfnmYMZx+extbA9hSaa6gf3gq5gNJxM3BIxmaM662bdPeQ403SuQ8lrfP7a85lpDQGgDnHoAL9tS7l2Uc+0spoJEYfRY8RTQA9iDWsB5uzI42GSekhi3aWTl6kJ2C9XgcD44xLHH/yhdc1nAHm3caEVzXGc4Vx
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGFZMj2S4zIHe2HrdywzTKsBLGWYQCnPvwdcYcGxwg8+kg6vylW9a6c9GCL21NMLT1xvs5yX2qz3IfZrDMB5Dv3GQEvTlAr5WzkOPiOlNkaGVQ0EB5UKm6sV+MkiXnwo+/CIlg9y9zgQD8JIylzUabJjq9yvpt7FXJG0fSlPDR0gnXrJw== 
+source:             DN42

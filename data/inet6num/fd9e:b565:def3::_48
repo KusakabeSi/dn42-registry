@@ -1,0 +1,8 @@
+inet6num:           fd9e:b565:def3:0000:0000:0000:0000:0000 - fd9e:b565:def3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9e:b565:def3::/48
+netname:            BAUDLORD-NET-1
+admin-c:            BAUDLORD-DN42
+tech-c:             BAUDLORD-DN42
+mnt-by:             BAUDLORD-MNT
+status:             ASSIGNED
+source:             DN42

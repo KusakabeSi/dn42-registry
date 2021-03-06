@@ -1,0 +1,9 @@
+inetnum:            172.23.161.128 - 172.23.161.255
+netname:            XAX-BB
+descr:              xax42-backbone
+admin-c:            SLASH-DN42
+tech-c:             SLASH-DN42
+mnt-by:             XAX-MNT
+status:             ALLOCATED PI
+cidr:               172.23.161.128/25
+source:             DN42

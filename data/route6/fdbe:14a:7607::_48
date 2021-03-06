@@ -1,0 +1,5 @@
+route6:             fdbe:14a:7607::/48
+origin:             AS4242423419
+max-length:         48
+mnt-by:             OKASHI-MNT
+source:             DN42

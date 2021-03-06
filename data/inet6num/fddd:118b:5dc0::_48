@@ -1,0 +1,10 @@
+inet6num:           fddd:118b:5dc0:0000:0000:0000:0000:0000 - fddd:118b:5dc0:ffff:ffff:ffff:ffff:ffff
+netname:            XSE-NETWORK
+descr:              xse's ipv6 network
+country:            FR
+admin-c:            XSE-DN42
+tech-c:             XSE-DN42
+mnt-by:             XSE-MNT
+status:             ASSIGNED PA
+cidr:               fddd:118b:5dc0::/48
+source:             DN42

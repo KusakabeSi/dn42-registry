@@ -1,0 +1,7 @@
+inetnum:            10.13.64.0 - 10.13.79.255
+cidr:               10.13.64.0/20
+netname:            ICVPN-MUENDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenden
+mnt-by:             DN42-MNT
+source:             ICVPN

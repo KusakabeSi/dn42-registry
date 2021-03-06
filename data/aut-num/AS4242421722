@@ -1,0 +1,37 @@
+aut-num:            AS4242421722
+as-name:            Tchekda
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+source:             DN42
+descr:              Tchekda http://tchekda.dn42 | https://dn42.tchekda.fr
+remarks:            --------------------------------------------------------
+remarks:            Always happy to peer with you ! Contact me for peering : contact@tchekda.fr | Telegram : Tchekda
+remarks:            Looking Glass : http://lg42.tchekda.dn42 | https://lg42.tchekda.fr
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Web site : https://dn42.tchekda.fr/
+remarks:            - Wireguard preferred
+remarks:            - Support Multi-Protocol over BGPv6 is Preferred
+remarks:            - Transit provided by default
+remarks:            --------------------------------------------------------
+remarks:            Peering Location :
+remarks:            - peer.dn42.tchekda.fr (Paris, FR)
+remarks:            - lyon.dn42.tchekda.fr (Lyon, FR)
+remarks:            --------------------------------------------------------
+remarks:            Peering Policy :
+remarks:            - At least one BGP session (IPv4 or IPv6). Multi-Protocol preferred
+remarks:            - Contact information in registry should be valid
+remarks:            - Having another peer is optional but recommended for redundancy
+remarks:            - Export filtering is recommended
+remarks:            --------------------------------------------------------
+remarks:            Routing Policy :
+remarks:            - Default :
+remarks:            |  - Export : All known routes (Transit)
+remarks:            |  - Import : All ROA_VALID routes
+mp-import:          afi any.unicast from AS4242421722:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242421722:AS-TRANSIT announce ANY
+remarks:            - On Request :
+remarks:            |  - Export : Only my routes and/or peer routes
+remarks:            |  - Import : Only peer routes
+remarks:            --------------------------------------------------------

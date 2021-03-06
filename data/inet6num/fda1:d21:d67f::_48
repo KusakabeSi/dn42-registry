@@ -1,0 +1,10 @@
+inet6num:           fda1:0d21:d67f:0000:0000:0000:0000:0000 - fda1:0d21:d67f:ffff:ffff:ffff:ffff:ffff
+netname:            JAN-IPV6-NET
+country:            DE
+admin-c:            JAN-DN42
+tech-c:             JAN-DN42
+mnt-by:             JAN-MNT
+nserver:            ns1.jan.dn42
+status:             ASSIGNED
+cidr:               fda1:d21:d67f::/48
+source:             DN42

@@ -1,0 +1,7 @@
+as-block:           AS1-AS4294967294
+descr:              Root AS-BLOCK
+remarks:            This block is reserved to delegate access for sub-allocations.
+remarks:            You can not freely register any ASN in this block.
+mnt-by:             DN42-MNT
+policy:             closed
+source:             DN42

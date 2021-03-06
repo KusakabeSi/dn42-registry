@@ -1,0 +1,10 @@
+inet6num:           fd17:149a:85f9:0000:0000:0000:0000:0000 - fd17:149a:85f9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd17:149a:85f9::/48
+netname:            TECHNOPOINT CORE NETWORK IPV6
+descr:              TECHNOPOINT IPV6 POOL
+country:            IN
+admin-c:            KM17-DN42
+tech-c:             KM17-DN42
+mnt-by:             TECHNOPOINT-MNT
+status:             ASSIGNED
+source:             DN42

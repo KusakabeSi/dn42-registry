@@ -1,0 +1,10 @@
+inet6num:           fde2:7085:c6f3:0000:0000:0000:0000:0000 - fde2:7085:c6f3:ffff:ffff:ffff:ffff:ffff
+cidr:               fde2:7085:c6f3::/48
+netname:            TSYMQ00-NETWORK
+descr:              Network of TSYMQ00
+country:            CN
+admin-c:            TSYMQ00-DN42
+tech-c:             TSYMQ00-DN42
+mnt-by:             TSYMQ00-MNT
+status:             ASSIGNED
+source:             DN42

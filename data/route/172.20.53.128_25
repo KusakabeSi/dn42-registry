@@ -1,0 +1,5 @@
+route:              172.20.53.128/25
+descr:              LUYS-IPV4
+origin:             AS4242421269
+mnt-by:             LUYS-MNT
+source:             DN42

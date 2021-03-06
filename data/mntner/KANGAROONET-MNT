@@ -1,0 +1,6 @@
+mntner:             KANGAROONET-MNT
+admin-c:            KANGAROONET-DN42
+tech-c:             KANGAROONET-DN42
+mnt-by:             KANGAROONET-MNT
+auth:               pgp-fingerprint B268FC5A9DEEA2B5D1584CEBE6B95DAA1196099F
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:470:f0ef::/48
+origin:             AS4242420180
+mnt-by:             GATUNO-MNT
+source:             DN42

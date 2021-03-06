@@ -1,0 +1,10 @@
+inetnum:            172.21.65.32 - 172.21.65.47
+netname:            ADRA-NET4
+descr:              Just a random v4 network on here
+country:            FR
+admin-c:            ADRA-DN42
+tech-c:             ADRA-DN42
+mnt-by:             ADRA-MNT
+status:             ASSIGNED
+cidr:               172.21.65.32/28
+source:             DN42

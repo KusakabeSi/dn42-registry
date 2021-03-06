@@ -1,0 +1,11 @@
+inetnum:            172.23.208.0 - 172.23.209.255
+netname:            NET-CHAOTIKUM-DN42
+descr:              Chaotikum e.V. IPv4 network
+country:            DE
+admin-c:            CHAOTIKUM-DN42
+tech-c:             CHAOTIKUM-DN42
+status:             ASSIGNED
+nserver:            ns0.nbsp.dn42
+cidr:               172.23.208.0/23
+mnt-by:             DUMMY-MNT
+source:             DN42

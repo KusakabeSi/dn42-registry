@@ -1,0 +1,9 @@
+inetnum:            172.21.101.88 - 172.21.101.95
+netname:            JULEZ-SRV
+country:            DE
+admin-c:            JULEZ-DN42
+tech-c:             JULEZ-DN42
+mnt-by:             JULEZ-MNT
+status:             ASSIGNED
+cidr:               172.21.101.88/29
+source:             DN42

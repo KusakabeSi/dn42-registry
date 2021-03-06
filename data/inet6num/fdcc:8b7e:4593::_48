@@ -1,0 +1,10 @@
+inet6num:           fdcc:8b7e:4593:0000:0000:0000:0000:0000 - fdcc:8b7e:4593:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcc:8b7e:4593::/48
+netname:            RECURSIVE-NETWORK
+descr:              Network of RG
+country:            US
+admin-c:            RG-DN42
+tech-c:             RG-DN42
+mnt-by:             RG-MNT
+status:             ASSIGNED
+source:             DN42

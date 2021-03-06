@@ -1,0 +1,6 @@
+mntner:             JULIA-MNT
+admin-c:            JULIA-DN42
+tech-c:             JULIA-DN42
+mnt-by:             JULIA-MNT
+auth:               pgp-fingerprint 249171DF47AA8086D26F14339F7B6CA7B2D2899E
+source:             DN42

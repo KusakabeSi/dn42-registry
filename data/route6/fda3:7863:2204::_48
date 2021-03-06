@@ -1,0 +1,5 @@
+route6:             fda3:7863:2204::/48
+descr:              KAWEX-NET
+origin:             AS4242421407
+mnt-by:             KAWEX-MNT
+source:             DN42

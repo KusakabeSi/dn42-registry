@@ -1,0 +1,11 @@
+inetnum:            172.22.156.128 - 172.22.156.191
+cidr:               172.22.156.128/26
+netname:            OZARK-NETBLOCK
+descr:              Allocation covering Both Oz-Ark networks.
+admin-c:            EXPERIMENT626-DN42
+tech-c:             EXPERIMENT626-DN42
+nserver:            ns1-syd.oz-ark.dn42
+nserver:            ns1-bri.oz-ark.dn42
+mnt-by:             OZARK-MNT
+status:             ALLOCATED
+source:             DN42

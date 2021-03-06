@@ -1,0 +1,11 @@
+inetnum:            172.22.251.192 - 172.22.251.255
+netname:            FEUERROT-TRANSFER-DN42
+descr:              feuerrot's transfer network
+remarks:            it's a transfer network and therefore not announced
+country:            DE
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+status:             ASSIGNED
+cidr:               172.22.251.192/26
+source:             DN42

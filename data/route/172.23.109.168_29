@@ -1,0 +1,4 @@
+route:              172.23.109.168/29
+origin:             AS4242423856
+mnt-by:             SCOOTERH928-MNT
+source:             DN42

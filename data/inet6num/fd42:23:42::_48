@@ -1,0 +1,11 @@
+inet6num:           fd42:0023:0042:0000:0000:0000:0000:0000 - fd42:0023:0042:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:23:42::/48
+netname:            NET-HEXA
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+status:             ASSIGNED
+source:             DN42

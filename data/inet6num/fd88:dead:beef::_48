@@ -1,0 +1,12 @@
+inet6num:           fd88:dead:beef:0000:0000:0000:0000:0000 - fd88:dead:beef:ffff:ffff:ffff:ffff:ffff
+netname:            MITSUHA-NET-POOL-6-1
+descr:              Mitsuha Networks
+country:            CH
+admin-c:            MITSUHA-DN42
+tech-c:             MITSUHA-DN42
+mnt-by:             MITSUHA-MNT
+nserver:            ns1.mitsuha.dn42
+nserver:            ns2.mitsuha.dn42
+status:             ASSIGNED
+cidr:               fd88:dead:beef::/48
+source:             DN42

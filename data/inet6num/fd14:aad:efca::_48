@@ -1,0 +1,8 @@
+inet6num:           fd14:0aad:efca:0000:0000:0000:0000:0000 - fd14:0aad:efca:ffff:ffff:ffff:ffff:ffff
+cidr:               fd14:aad:efca::/48
+netname:            LFRAM-NETWORK-1
+admin-c:            LFRAM-DN42
+tech-c:             LFRAM-DN42
+mnt-by:             LFRAM-MNT
+status:             ASSIGNED
+source:             DN42

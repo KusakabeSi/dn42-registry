@@ -1,0 +1,11 @@
+inetnum:            172.23.156.32 - 172.23.156.63
+netname:            NET-NULLL-ROARD-WARRIORS-DN42
+descr:              Wireguard Road Warriors
+country:            DE
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+nserver:            ns1.0l.dn42
+status:             ASSIGNED
+cidr:               172.23.156.32/27
+source:             DN42

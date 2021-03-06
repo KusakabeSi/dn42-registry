@@ -1,0 +1,5 @@
+route6:             fdc5:de8a:b004::/48
+origin:             AS4242422216
+max-length:         48
+mnt-by:             FP-MNT
+source:             DN42

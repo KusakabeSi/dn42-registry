@@ -1,0 +1,8 @@
+inetnum:            172.23.151.0 - 172.23.151.127
+cidr:               172.23.151.0/25
+netname:            JVWJGAMES-NETWORK
+admin-c:            JVWJGAMES-DN42
+tech-c:             JVWJGAMES-DN42
+mnt-by:             JVWJGAMES-MNT
+status:             ASSIGNED
+source:             DN42

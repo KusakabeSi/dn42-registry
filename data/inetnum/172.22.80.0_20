@@ -1,0 +1,16 @@
+inetnum:            172.22.80.0 - 172.22.95.255
+netname:            NETBLOCK-C3LE-SUBLAB
+descr:              c3le "CCC Leipzig" / sublab.org
+country:            DE
+admin-c:            NIHILUS-DN42
+tech-c:             NIHILUS-DN42
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:            | This address space contains  the sublab.org native space |
+remarks:            | as well as the address space of sublab and c3le fellows. |
+remarks:            |                                                          |
+remarks:            |  If you want space here, please ask equinox or nihilus.  |
+remarks:            ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+status:             ALLOCATED PI
+cidr:               172.22.80.0/20
+mnt-by:             DUMMY-MNT
+source:             DN42

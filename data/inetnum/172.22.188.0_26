@@ -1,0 +1,8 @@
+inetnum:            172.22.188.0 - 172.22.188.63
+cidr:               172.22.188.0/26
+netname:            WORTTIR-NET-1
+admin-c:            WORTTIR-DN42
+tech-c:             WORTTIR-DN42
+mnt-by:             WORTTIR-MNT
+status:             ASSIGNED
+source:             DN42

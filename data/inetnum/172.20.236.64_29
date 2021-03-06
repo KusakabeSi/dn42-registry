@@ -1,0 +1,8 @@
+inetnum:            172.20.236.64 - 172.20.236.71
+cidr:               172.20.236.64/29
+netname:            SHYPRE-NETWORK
+admin-c:            SHYPRE-DN42
+tech-c:             SHYPRE-DN42
+mnt-by:             SHYPRE-MNT
+status:             ASSIGNED
+source:             DN42

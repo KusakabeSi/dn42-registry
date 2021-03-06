@@ -1,0 +1,8 @@
+aut-num:            AS4242421374
+as-name:            ERI-AS
+descr:              eri!'s home AS
+org:                ORG-CHELNOK
+mnt-by:             ERI-MNT
+admin-c:            ERI-DN42
+tech-c:             ERI-DN42
+source:             DN42

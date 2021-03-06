@@ -1,0 +1,12 @@
+inetnum:            172.23.173.192 - 172.23.173.223
+netname:            DIRKS-NETWORK
+descr:              NetOfDirkS
+country:            DE
+admin-c:            DIRKS-DN42
+tech-c:             DIRKS-DN42
+mnt-by:             DIRKS-MNT
+nserver:            ns1.dirksnet.dn42
+nserver:            ns2.dirksnet.dn42
+status:             ASSIGNED
+cidr:               172.23.173.192/27
+source:             DN42

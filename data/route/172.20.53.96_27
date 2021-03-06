@@ -1,0 +1,4 @@
+route:              172.20.53.96/27
+origin:             AS0
+mnt-by:             KIOUBIT-MNT
+source:             DN42

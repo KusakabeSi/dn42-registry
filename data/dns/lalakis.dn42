@@ -1,0 +1,6 @@
+domain:             lalakis.dn42
+nserver:            lalakis-2.lalakis.dn42 172.20.143.33
+nserver:            lalakis-2.lalakis.dn42 fd32:c1ee:db11:1::1
+tech-c:             LALAKIS-DN42
+mnt-by:             LALAKIS-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.101.160 - 172.23.101.191
+cidr:               172.23.101.160/27
+netname:            CSN-C-TRANSIT
+admin-c:            JAKOB-DN42
+tech-c:             JAKOB-DN42
+mnt-by:             JAKOB-MNT
+status:             ASSIGNED
+source:             DN42

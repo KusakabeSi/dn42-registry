@@ -1,0 +1,11 @@
+inetnum:            172.23.157.0 - 172.23.157.255
+netname:            NET-NULLL-HOME
+descr:              My home network
+country:            DE
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+status:             ASSIGNED
+nserver:            ns1.0l.dn42
+cidr:               172.23.157.0/24
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             VICTORY-MNT
+admin-c:            VICTORY-DN42
+tech-c:             VICTORY-DN42
+mnt-by:             VICTORY-MNT
+source:             DN42
+auth:               pgp-fingerprint 5F3ADA21D93D3393A75D971EACD24C01F995BF4C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqeCMV7AamJeyl/YjUSUsJGQ4NvBrpASOYIog7s2VzjziYlTSlMpsBypgGGHS5evCu53wTLYEGgIzceWsvWK3KNx+bBQf/AYshRzC/shVbIt8W51ISW8Eybr/NKyJJdqE8ushIx15dd2zYQbZwNWpcljI/741AONJBsOonJZajE1Mg6dSieQuYVyQSeO0vQckiGOAOnQaWvxwtExuV/+iVkZI9GokY93rMFwaw11gacONBMFD5b4LrhpsCQ0o2+m2t0kT0+I/uoiGF6Bz1QOF1eG3kfSkTnIPaCMaakxmJqLoELWBzV9SppX9MJxvEc/DPylcppcXjHZX97UB9pLnb

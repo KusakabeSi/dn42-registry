@@ -1,0 +1,7 @@
+mntner:             SESHI-MNT
+admin-c:            SESHI-DN42
+tech-c:             SESHI-DN42
+mnt-by:             SESHI-MNT
+source:             DN42
+auth:               pgp-fingerprint 0037719EACE783256BC48EDC0DC9B58B2D730D35
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCePqbAK1wvub8OfFootQdWPnoqJ4NvAnkqBNCOU0g7KnZdujBuXvq4xH0S10VhLrm+SbuCNOuRdo72aSSKJVNMatc50Lh62cFu7VrQOWHc+J6pP9NA7H3QhEUhtQe3au73PMsUMuYtEWhBm0VdqryFI8BNHLrYs66LpW/4xQNpXTALumrw3zUfvyuXYO8OiArRfmoBbDV/VN0B0zt2lofCTM7TGmwVHC8H4TanFlTscywKXUTlznYksfXixq1bTTMZfBFzgs/T6+SWpTylcKM1VfluhPo8rvh+/bkfPw2ccI69oq7tYY3B+U8e7hbU1odFkV0w0ZEyq0XL3U0Yk8oY3FtzswOGTvtM2GiicmkJYB2F+IpAJV7TVVY3jGkovjV6PwCfzpvWx3Tnxc7m3U03GhHEFhvfJ5zbdqsTWb3N0Hfk3HPDU62diqDwu7PlRa8470L02tQ9u8zsqxZta7e5PjjSsXGwipCQ4VCvwMqelrUGMs2OJMOs+WcJuODRdWk=

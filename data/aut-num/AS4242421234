@@ -1,0 +1,8 @@
+aut-num:            AS4242421234
+as-name:            DOVY-AS
+remarks:            Peering: dovy@hackint or the@kingof.eu
+remarks:            GRE or OpenVPN
+admin-c:            DOVY-DN42
+tech-c:             DOVY-DN42
+mnt-by:             DOVY-MNT
+source:             DN42

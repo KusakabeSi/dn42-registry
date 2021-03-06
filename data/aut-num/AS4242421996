@@ -1,0 +1,10 @@
+aut-num:            AS4242421996
+as-name:            BERKAY-AS
+remarks:            Open peering policy
+remarks:            Contact BERKAY-DN42
+remarks:            for peering requests
+remarks:            Node location: NL
+admin-c:            BERKAY-DN42
+tech-c:             BERKAY-DN42
+mnt-by:             BERKAY-MNT
+source:             DN42

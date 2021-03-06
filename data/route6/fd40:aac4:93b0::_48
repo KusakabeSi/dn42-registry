@@ -1,0 +1,5 @@
+route6:             fd40:aac4:93b0::/48
+origin:             AS4242420216
+max-length:         48
+mnt-by:             HELCAR-MNT
+source:             DN42

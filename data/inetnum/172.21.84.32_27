@@ -1,0 +1,9 @@
+inetnum:            172.21.84.32 - 172.21.84.63
+netname:            NET-KUGATSU-000
+country:            DE
+admin-c:            KUGATSU-DN42
+tech-c:             KUGATSU-DN42
+mnt-by:             KUGATSU-MNT
+status:             ASSIGNED
+cidr:               172.21.84.32/27
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdf3:ff62:1c72:0000:0000:0000:0000:0000 - fdf3:ff62:1c72:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf3:ff62:1c72::/48
+netname:            ALWAYSLIVID-NETWORK
+descr:              AlwaysLivid's Home Network
+country:            GR
+admin-c:            ALWAYSLIVID-DN42
+tech-c:             ALWAYSLIVID-DN42
+mnt-by:             ALWAYSLIVID-MNT
+status:             ASSIGNED
+source:             DN42

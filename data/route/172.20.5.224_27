@@ -1,0 +1,4 @@
+route:              172.20.5.224/27
+origin:             AS4242420646
+mnt-by:             GRAHAMC-MNT
+source:             DN42

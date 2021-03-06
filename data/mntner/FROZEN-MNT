@@ -1,0 +1,6 @@
+mntner:             FROZEN-MNT
+descr:              frozen maintenance record
+admin-c:            FROZEN-DN42
+tech-c:             FROZEN-DN42
+mnt-by:             FROZEN-MNT
+source:             DN42

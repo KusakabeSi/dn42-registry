@@ -1,0 +1,7 @@
+aut-num:            AS4242423223
+as-name:            LOLA-AS
+descr:              lola AS #
+admin-c:            LOLA-DN42
+tech-c:             LOLA-DN42
+mnt-by:             LOLA-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.22.119.224 - 172.22.119.255
+cidr:               172.22.119.224/27
+netname:            SOMA-NET-1
+country:            HU
+admin-c:            NOC-DN42
+tech-c:             NOC-DN42
+mnt-by:             S-MNT
+status:             ASSIGNED PA
+source:             DN42

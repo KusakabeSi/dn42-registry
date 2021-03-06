@@ -1,0 +1,10 @@
+inetnum:            172.23.77.0 - 172.23.77.15
+netname:            SCARLET-KOUMAKAN-NETWORK
+descr:              Koumakan Network
+country:            CN
+admin-c:            REMI-DN42
+tech-c:             REMI-DN42
+mnt-by:             REMI-MNT
+status:             ASSIGNED
+cidr:               172.23.77.0/28
+source:             DN42

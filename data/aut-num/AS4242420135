@@ -1,0 +1,7 @@
+aut-num:            AS4242420135
+as-name:            MB-AS
+descr:              private Network
+admin-c:            MB-DN42
+tech-c:             MB-DN42
+mnt-by:             MB-MNT
+source:             DN42

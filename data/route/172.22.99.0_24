@@ -1,0 +1,5 @@
+route:              172.22.99.0/24
+descr:              C3D2-HQ
+origin:             AS64699
+mnt-by:             ASTRO-MNT
+source:             DN42

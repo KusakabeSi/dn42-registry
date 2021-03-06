@@ -1,0 +1,10 @@
+inetnum:            172.23.173.224 - 172.23.173.255
+netname:            SKYWARS-NETWORK
+descr:              NetOfSKYWARS
+country:            BE
+admin-c:            SOFTWARE-DN42
+tech-c:             SOFTWARE-DN42
+mnt-by:             SKYWARS-MNT
+status:             ASSIGNED
+cidr:               172.23.173.224/27
+source:             DN42

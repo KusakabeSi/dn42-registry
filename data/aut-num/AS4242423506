@@ -1,0 +1,9 @@
+aut-num:            AS4242423506
+as-name:            MRXERMON-AS
+descr:              MrXermon
+remarks:            peering requests: me@mrxermon.de
+remarks:            looking glass: https://lg.dn42.mrxermon.de
+admin-c:            MRXERMON-DN42
+tech-c:             MRXERMON-DN42
+mnt-by:             MRXERMON-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.157.32/27
+descr:              Contact 0@04d.co or O4dco on IRC for peering.
+origin:             AS4242420304
+mnt-by:             04DCO-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdee:90fc:cafe::/48
+origin:             AS4242423738
+mnt-by:             BENL-MNT
+source:             DN42

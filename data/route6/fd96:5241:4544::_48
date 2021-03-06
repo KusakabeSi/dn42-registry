@@ -1,0 +1,5 @@
+route6:             fd96:5241:4544::/48
+origin:             AS4242422683
+max-length:         48
+mnt-by:             RAED-MNT
+source:             DN42

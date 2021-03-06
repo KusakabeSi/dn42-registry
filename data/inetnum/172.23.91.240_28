@@ -1,0 +1,8 @@
+inetnum:            172.23.91.240 - 172.23.91.255
+cidr:               172.23.91.240/28
+netname:            MK-NETWORK
+admin-c:            MK-DN42
+tech-c:             MK-DN42
+mnt-by:             MK-MNT
+status:             ASSIGNED
+source:             DN42

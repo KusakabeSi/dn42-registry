@@ -1,0 +1,4 @@
+route:              172.20.10.96/27
+origin:             AS4242420153
+mnt-by:             NXTHOST-MNT
+source:             DN42

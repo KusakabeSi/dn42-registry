@@ -1,0 +1,9 @@
+inetnum:            172.23.122.0 - 172.23.122.255
+netname:            NET-RSPP
+status:             ASSIGNED
+country:            DE
+admin-c:            RSPP-DN42
+tech-c:             RSPP-DN42
+mnt-by:             RSPP-MNT
+cidr:               172.23.122.0/24
+source:             DN42

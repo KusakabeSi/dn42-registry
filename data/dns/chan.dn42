@@ -1,0 +1,6 @@
+domain:             chan.dn42
+nserver:            ns.allo.dn42
+admin-c:            ALLO-DN42
+tech-c:             ALLO-DN42
+mnt-by:             ALLO-MNT
+source:             DN42

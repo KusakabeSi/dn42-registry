@@ -1,0 +1,7 @@
+aut-num:            AS4242420024
+as-name:            SPRINGFIELD-AS
+descr:              Springfield DN42
+admin-c:            GOTTESHAND-DN42
+tech-c:             GOTTESHAND-DN42
+mnt-by:             SPRINGFIELD-MNT
+source:             DN42

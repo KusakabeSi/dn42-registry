@@ -1,0 +1,7 @@
+domain:             cccda.dn42
+descr:              CCC Darmstadt
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cccda.dn42 172.23.96.1
+source:             DN42

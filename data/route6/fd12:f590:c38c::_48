@@ -1,0 +1,5 @@
+route6:             fd12:f590:c38c::/48
+origin:             AS4242421091
+max-length:         48
+mnt-by:             MOZZNET-MNT
+source:             DN42

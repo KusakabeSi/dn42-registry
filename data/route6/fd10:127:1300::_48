@@ -1,0 +1,8 @@
+route6:             fd10:127:1300::/48
+max-length:         64
+origin:             AS207268
+admin-c:            YUKARI-NEONETWORK
+tech-c:             YUKARI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

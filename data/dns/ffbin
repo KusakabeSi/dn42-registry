@@ -1,0 +1,7 @@
+domain:             ffbin
+nserver:            1.1.25.10.ipv4.registry-sync.dn42
+nserver:            2.1.25.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bingen
+mnt-by:             DN42-MNT
+source:             ICVPN

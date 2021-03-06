@@ -1,0 +1,6 @@
+mntner:             STATHIS-MNT
+admin-c:            STATHIS-DN42
+tech-c:             STATHIS-DN42
+mnt-by:             STATHIS-MNT
+auth:               pgp-fingerprint 59C223CA709F238ECD5F3C7133E1315BEF56887F
+source:             DN42

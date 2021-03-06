@@ -1,0 +1,12 @@
+inet6num:           fd48:fcde:4242:0000:0000:0000:0000:0000 - fd48:fcde:4242:ffff:ffff:ffff:ffff:ffff
+cidr:               fd48:fcde:4242::/48
+netname:            8FCDE-NETWORK
+descr:              Network of 8FCDE
+country:            DE
+admin-c:            8FCDE-DN42
+tech-c:             8FCDE-DN42
+mnt-by:             8FCDE-MNT
+nserver:            ns1.8fcde.dn42
+nserver:            ns2.8fcde.dn42
+status:             ASSIGNED
+source:             DN42

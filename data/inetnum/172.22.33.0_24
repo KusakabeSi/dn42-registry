@@ -1,0 +1,10 @@
+inetnum:            172.22.33.0 - 172.22.33.255
+netname:            HSBXL-DN42-NET4
+descr:              Hackerspace Brussels
+country:            BE
+admin-c:            HSBXL-DN42
+tech-c:             HSBXL-DN42
+status:             ASSIGNED
+mnt-by:             DUMMY-MNT
+cidr:               172.22.33.0/24
+source:             DN42

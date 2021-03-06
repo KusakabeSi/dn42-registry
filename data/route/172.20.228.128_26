@@ -1,0 +1,4 @@
+route:              172.20.228.128/26
+origin:             AS4242423967
+mnt-by:             MEB-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.251.0 - 172.23.251.63
+cidr:               172.23.251.0/26
+netname:            CHENYAO2333-NET-2
+admin-c:            CHENYAO2333-DN42
+tech-c:             CHENYAO2333-DN42
+mnt-by:             CHENYAO2333-MNT
+status:             ASSIGNED
+source:             DN42

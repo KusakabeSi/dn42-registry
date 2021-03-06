@@ -1,0 +1,11 @@
+inet6num:           fde8:8e27:b925:0000:0000:0000:0000:0000 - fde8:8e27:b925:ffff:ffff:ffff:ffff:ffff
+netname:            STR-NET6
+nserver:            ns1.rhine.dn42
+descr:              Rhinestone IPv6
+country:            GB
+admin-c:            STR-DN42
+tech-c:             STR-DN42
+mnt-by:             STR-MNT
+status:             ASSIGNED
+cidr:               fde8:8e27:b925::/48
+source:             DN42

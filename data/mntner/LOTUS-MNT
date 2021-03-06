@@ -1,0 +1,7 @@
+mntner:             LOTUS-MNT
+admin-c:            LOTUS-DN42
+tech-c:             LOTUS-DN42
+mnt-by:             LOTUS-MNT
+source:             DN42
+auth:               pgp-fingerprint 4656320EE24D68988F044F6E862205790BEECF67
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICBDijuXohDJEgkv9izzEGJ1vLx/4sSs00aDq3RAI7bj

@@ -1,0 +1,9 @@
+inetnum:            172.20.224.192 - 172.20.224.255
+cidr:               172.20.224.192/26
+netname:            XNOE-NET
+admin-c:            XNOE-DN42
+tech-c:             XNOE-DN42
+mnt-by:             XNOE-MNT
+status:             ASSIGNED
+nserver:            rin.ns.xnoe.dn42
+source:             DN42

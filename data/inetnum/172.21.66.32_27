@@ -1,0 +1,9 @@
+inetnum:            172.21.66.32 - 172.21.66.63
+cidr:               172.21.66.32/27
+netname:            TBSO-V4-NET-1
+country:            DK
+admin-c:            TBSO-DN42
+tech-c:             TBSO-DN42
+mnt-by:             TBSO-MNT
+status:             ASSIGNED
+source:             DN42

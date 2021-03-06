@@ -1,0 +1,6 @@
+domain:             illallangi.dn42
+admin-c:            ILL-DN42
+tech-c:             ILL-DN42
+mnt-by:             ILL-MNT
+nserver:            ns.illallangi.dn42 172.22.158.190
+source:             DN42

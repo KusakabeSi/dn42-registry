@@ -1,0 +1,4 @@
+route:              172.22.111.192/27
+origin:             AS4242423339
+mnt-by:             CATER-MNT
+source:             DN42

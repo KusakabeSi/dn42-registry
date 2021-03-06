@@ -1,0 +1,6 @@
+mntner:             MOT-MNT
+admin-c:            MOT-DN42
+tech-c:             MOT-DN42
+mnt-by:             MOT-MNT
+auth:               pgp-fingerprint 78380749AD5E4F5341837821149D77CDD2267DF2
+source:             DN42

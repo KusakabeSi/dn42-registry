@@ -1,0 +1,9 @@
+inetnum:            172.23.197.0 - 172.23.197.127
+cidr:               172.23.197.0/25
+netname:            MAKNET
+country:            GR
+admin-c:            MAKNET-DN42
+tech-c:             MAKNET-DN42
+mnt-by:             MAKNET-MNT
+status:             ASSIGNED
+source:             DN42

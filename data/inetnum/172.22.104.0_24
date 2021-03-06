@@ -1,0 +1,10 @@
+inetnum:            172.22.104.0 - 172.22.104.255
+cidr:               172.22.104.0/24
+netname:            GYHU-NETWORK-01
+country:            PL
+admin-c:            F4ZER-DN42
+tech-c:             F4ZER-DN42
+mnt-by:             F4ZER-MNT
+nserver:            dns.gyhu.dn42
+status:             ASSIGNED
+source:             DN42

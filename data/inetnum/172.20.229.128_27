@@ -1,0 +1,8 @@
+inetnum:            172.20.229.128 - 172.20.229.159
+cidr:               172.20.229.128/27
+netname:            OUTSOURCER-NETWORK
+admin-c:            OUTSOURCER-DN42
+tech-c:             OUTSOURCER-DN42
+mnt-by:             OUTSOURCER-MNT
+status:             ASSIGNED
+source:             DN42

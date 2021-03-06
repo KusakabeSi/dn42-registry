@@ -1,0 +1,9 @@
+inetnum:            172.20.130.128 - 172.20.130.255
+netname:            DRATHIR-DN42-US-INET
+country:            US
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.130.128/25
+source:             DN42

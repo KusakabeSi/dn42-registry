@@ -1,0 +1,5 @@
+route:              172.20.15.208/28
+descr:              Test-RO
+origin:             AS4242420155
+mnt-by:             DDEV-MNT
+source:             DN42

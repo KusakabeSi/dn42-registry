@@ -1,0 +1,11 @@
+inet6num:           fd87:3e50:cf33:0000:0000:0000:0000:0000 - fd87:3e50:cf33:ffff:ffff:ffff:ffff:ffff
+netname:            MNIHYC-IPV6
+descr:              mnihyc's IPv6 Network
+remarks:            Contact me at rmnihyc@gmail.com !!
+admin-c:            MNIHYC-DN42
+tech-c:             MNIHYC-DN42
+mnt-by:             MNIHYC-MNT
+nserver:            ns1.mnihyc.dn42
+status:             ASSIGNED
+cidr:               fd87:3e50:cf33::/48
+source:             DN42

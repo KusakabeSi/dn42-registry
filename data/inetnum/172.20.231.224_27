@@ -1,0 +1,8 @@
+inetnum:            172.20.231.224 - 172.20.231.255
+cidr:               172.20.231.224/27
+netname:            R33INT-NETWORK
+admin-c:            R33INT-DN42
+tech-c:             R33INT-DN42
+mnt-by:             R33INT-MNT
+status:             ASSIGNED
+source:             DN42

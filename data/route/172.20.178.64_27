@@ -1,0 +1,4 @@
+route:              172.20.178.64/27
+origin:             AS4242421404
+mnt-by:             FILIP-MNT
+source:             DN42

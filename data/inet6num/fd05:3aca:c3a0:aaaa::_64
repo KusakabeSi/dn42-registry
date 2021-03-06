@@ -1,0 +1,11 @@
+inet6num:           fd05:3aca:c3a0:aaaa:0000:0000:0000:0000 - fd05:3aca:c3a0:aaaa:ffff:ffff:ffff:ffff
+cidr:               fd05:3aca:c3a0:aaaa::/64
+netname:            NETRAVNEN-NET-20190106
+descr:              NETRAVNEN-PEERING-NETWORK
+org:                ORG-NETRAVNEN
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+zone-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+status:             ASSIGNED
+source:             DN42

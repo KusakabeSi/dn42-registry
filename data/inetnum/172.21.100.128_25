@@ -1,0 +1,11 @@
+inetnum:            172.21.100.128 - 172.21.100.255
+cidr:               172.21.100.128/25
+netname:            SUNNET-NETWORK
+descr:              SUNNET-NETWORK-IPV4
+country:            CN
+admin-c:            SUNNET-DN42
+tech-c:             SUNNET-DN42
+mnt-by:             SUNNET-MNT
+nserver:            ns1.sun.dn42
+status:             ASSIGNED
+source:             DN42

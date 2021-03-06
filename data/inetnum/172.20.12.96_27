@@ -1,0 +1,10 @@
+inetnum:            172.20.12.96 - 172.20.12.127
+netname:            PABLO-HESSENET
+descr:              PABLO-HESSENET
+country:            FR
+admin-c:            JAMIE9898-DN42
+tech-c:             JAMIE9898-DN42
+mnt-by:             HESSENET-MNT
+status:             ASSIGNED
+cidr:               172.20.12.96/27
+source:             DN42

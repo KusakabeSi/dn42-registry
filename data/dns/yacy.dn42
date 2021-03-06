@@ -1,0 +1,7 @@
+domain:             yacy.dn42
+descr:              YaCy Search
+admin-c:            DRIXTER-DN42
+tech-c:             DRIXTER-DN42
+mnt-by:             DRIXTER-MNT
+nserver:            ns1.e-utp.dn42
+source:             DN42

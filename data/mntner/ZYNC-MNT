@@ -1,0 +1,7 @@
+mntner:             ZYNC-MNT
+descr:              Zync Maintainer
+org:                ORG-ZYNC
+admin-c:            ZYNC-DN42
+tech-c:             ZYNC-DN42
+mnt-by:             ZYNC-MNT
+source:             DN42

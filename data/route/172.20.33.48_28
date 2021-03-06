@@ -1,0 +1,4 @@
+route:              172.20.33.48/28
+origin:             AS4242423348
+mnt-by:             CLOUDFILES-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.161.32/27
+origin:             AS4242422069
+mnt-by:             JPC-MNT
+source:             DN42

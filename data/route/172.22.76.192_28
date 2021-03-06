@@ -1,0 +1,5 @@
+route:              172.22.76.192/28
+descr:              TBRB-NET-CORE
+origin:             AS4242423442
+mnt-by:             TBRB-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdb1:e72a:343d:0000:0000:0000:0000:0000 - fdb1:e72a:343d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb1:e72a:343d::/48
+netname:            ROUTEDBITS-V6-NET-1
+admin-c:            ORG-ROUTEDBITS-DN42
+tech-c:             ORG-ROUTEDBITS-DN42
+mnt-by:             ROUTEDBITS-MNT
+status:             ASSIGNED
+source:             DN42

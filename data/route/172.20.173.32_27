@@ -1,0 +1,4 @@
+route:              172.20.173.32/27
+origin:             AS4242421542
+mnt-by:             MARTINS-MNT
+source:             DN42

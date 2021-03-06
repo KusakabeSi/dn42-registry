@@ -1,0 +1,5 @@
+route6:             fde6:d41f:f139::/48
+origin:             AS4242421302
+max-length:         48
+mnt-by:             PIIRR-MNT
+source:             DN42

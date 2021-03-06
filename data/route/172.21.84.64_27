@@ -1,0 +1,4 @@
+route:              172.21.84.64/27
+origin:             AS4242423919
+mnt-by:             AMDEXA-MNT
+source:             DN42

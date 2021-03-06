@@ -1,0 +1,6 @@
+mntner:             TAGLIO-MNT
+admin-c:            TAGLIO-DN42
+tech-c:             TAGLIO-DN42
+mnt-by:             TAGLIO-MNT
+auth:               pgp-fingerprint 5D116A3CE8C656C968CF13892ABDCF97424D2736
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.101.12.0 - 10.101.12.255
+cidr:               10.101.12.0/24
+netname:            CHAOSVPN-ONE2
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

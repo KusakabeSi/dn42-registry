@@ -1,0 +1,9 @@
+inetnum:            172.20.228.192 - 172.20.228.207
+cidr:               172.20.228.192/28
+netname:            KLARA-NET
+country:            SE
+admin-c:            KLARA-DN42
+tech-c:             KLARA-DN42
+mnt-by:             KLARA-MNT
+status:             ASSIGNED
+source:             DN42

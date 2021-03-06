@@ -1,0 +1,4 @@
+route:              172.22.122.160/27
+origin:             AS4242420669
+mnt-by:             AVE-MNT
+source:             DN42

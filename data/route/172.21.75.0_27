@@ -1,0 +1,5 @@
+route:              172.21.75.0/27
+descr:              Conrey Networks
+origin:             AS4242420526
+mnt-by:             CONREY-MNT
+source:             DN42

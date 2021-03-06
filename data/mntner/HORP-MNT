@@ -1,0 +1,7 @@
+mntner:             HORP-MNT
+descr:              HORP MAINTAINER
+admin-c:            HORP-DN42
+tech-c:             HORP-DN42
+mnt-by:             HORP-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn8Se8FYInhLAPKkzvNU8VpPIfMCSs40SSpIu9czuHm7HIsp6gOXHnbqn6KiBXIRppcjzReC0z7jK80oga7oBsvlgCb2ygjOmGv3o63XC3IF8/GIRYduUJrGGnwCufSmsTRDWeOVhKcNIPfR8vfuHdFcKk+xUdxzx8kPCnhs4AjsYjISlrNkt9LO5JSTE29UXZ5zgVGlJ5aKqARgEteLlZLtjHQvWZjOCOQw7mmFIFe/uWVBhD1zq1D3ued12bNlkvbW7n9FxU4tlmLSu9uAFtMGySjanNzeljdaYST774zJ7LxEDPvAc7qIcORZMyear9caQj4+2WNoUA14QQkQi/
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.237.0 - 172.20.237.63
+netname:            AURORA-NETWORK
+descr:              AURORA-NETWORK
+country:            MT
+admin-c:            AURORA-DN42
+tech-c:             AURORA-DN42
+mnt-by:             AURORA-MNT
+nserver:            ns.aurora.dn42
+status:             ASSIGNED
+cidr:               172.20.237.0/26
+source:             DN42

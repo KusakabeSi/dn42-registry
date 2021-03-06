@@ -1,0 +1,10 @@
+inet6num:           fde5:9219:dbd4:0000:0000:0000:0000:0000 - fde5:9219:dbd4:ffff:ffff:ffff:ffff:ffff
+netname:            NET-FABLABBERLIN-V6
+descr:              IPv6 Network of Fab Lab Berlin
+country:            DE
+admin-c:            SYSOFABLAB-DN42
+tech-c:             SYSOFABLAB-DN42
+mnt-by:             FABLABBERLIN-MNT
+status:             ASSIGNED
+cidr:               fde5:9219:dbd4::/48
+source:             DN42

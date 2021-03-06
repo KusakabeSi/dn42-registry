@@ -1,0 +1,9 @@
+inetnum:            172.21.67.128 - 172.21.67.143
+netname:            KDINGO-NET
+country:            US
+admin-c:            KDINGO-DN42
+tech-c:             KDINGO-DN42
+mnt-by:             KDINGO-MNT
+status:             ASSIGNED
+cidr:               172.21.67.128/28
+source:             DN42

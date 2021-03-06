@@ -1,0 +1,7 @@
+inetnum:            10.103.252.200 - 10.103.252.200
+cidr:               10.103.252.200/32
+netname:            CHAOSVPN-PHAEDRA
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

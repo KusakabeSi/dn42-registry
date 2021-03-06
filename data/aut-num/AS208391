@@ -1,0 +1,60 @@
+aut-num:            AS208391
+as-name:            NETRAVNEN
+member-of:          AS-NETRAVNEN:AS-NETRAVNEN
+member-of:          AS208391:AS-NETRAVNEN
+org:                ORG-NETRAVNEN
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+source:             RIPE
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # AS208391
+remarks:            # E-mail, Peering, and Other request(s):
+remarks:            #                    dn42 () netravnen.de
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # The following guidelines apply when peering:
+remarks:            # - Invalid announcements are discarded.
+remarks:            # - max-length should(!) be implemented in data/route(6)/* objects.
+remarks:            #   - If not. Smaller objects that the prefix will not be accepted.
+remarks:            #   - Filters used: https://git.dn42.us/netravnen/dn42-roa-export
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # List of implemented well-kown comunities:
+remarks:            # - GRACEFUL_SHUTDOWN (a.k.a. GSHUT), RFC 8326
+remarks:            # - BLACKHOLE, RFC 7999
+remarks:            # - NOPEER, RFC 3765
+remarks:            # - NO_EXPORT, RFC 1997
+remarks:            # - NO_ADVERTISE, RFC 1997
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Peering - UPSTREAM
+remarks:            #
+mp-import:          afi any.unicast from AS-NETRAVNEN:AS-UPSTREAM   accept   ANY
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-UPSTREAM   announce AS-NETRAVNEN:AS-NETRAVNEN AS-NETRAVNEN:AS-DOWNSTREAM
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Peering - TRANSIT
+remarks:            #
+mp-import:          afi any.unicast from AS-NETRAVNEN:AS-TRANSIT    accept   ANY
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-TRANSIT    announce AS-NETRAVNEN:AS-NETRAVNEN AS-NETRAVNEN:AS-DOWNSTREAM
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Peering - PEER
+remarks:            #
+mp-import:          afi any.unicast from AS-NETRAVNEN:AS-PEER       accept   PeerAS
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-PEER       announce AS-NETRAVNEN:AS-NETRAVNEN AS-NETRAVNEN:AS-DOWNSTREAM
+remarks:            #
+remarks:            ###################################################
+remarks:            #
+remarks:            # Peering - DOWNSTREAM
+remarks:            #
+mp-import:          afi any.unicast from AS-NETRAVNEN:AS-DOWNSTREAM accept   PeerAS
+mp-export:          afi any.unicast to   AS-NETRAVNEN:AS-DOWNSTREAM announce ANY

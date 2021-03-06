@@ -1,0 +1,9 @@
+inetnum:            172.22.121.0 - 172.22.121.255
+netname:            VIRTIT-NETWORK
+country:            PT
+admin-c:            MIGUELMONTEIRO-DN42
+tech-c:             MIGUELMONTEIRO-DN42
+mnt-by:             VIRTIT-MNT
+status:             ASSIGNED
+cidr:               172.22.121.0/24
+source:             DN42

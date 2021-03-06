@@ -1,0 +1,5 @@
+route6:             fdc7:d4c1:7b13::/48
+origin:             AS4242423353
+max-length:         48
+mnt-by:             ZSTEVA-MNT
+source:             DN42

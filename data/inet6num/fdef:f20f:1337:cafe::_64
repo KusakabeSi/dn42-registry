@@ -1,0 +1,9 @@
+inet6num:           fdef:f20f:1337:cafe:0000:0000:0000:0000 - fdef:f20f:1337:cafe:ffff:ffff:ffff:ffff
+cidr:               fdef:f20f:1337:cafe::/64
+netname:            ICVPN-REGENSBURG
+nserver:            11.0.90.10.ipv4.registry-sync.dn42
+nserver:            1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.e.f.a.c.7.3.3.1.f.0.0.f.f.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: regensburg
+mnt-by:             DN42-MNT
+source:             ICVPN

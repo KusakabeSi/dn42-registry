@@ -1,0 +1,4 @@
+route:              172.23.48.0/27
+origin:             AS4242421048
+mnt-by:             ADAMG-MNT
+source:             DN42

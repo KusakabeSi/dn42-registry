@@ -1,0 +1,6 @@
+mntner:             LIBKAO-MNT
+admin-c:            LIBKAO-DN42
+tech-c:             LIBKAO-DN42
+mnt-by:             LIBKAO-MNT
+auth:               pgp-fingerprint C404A2850E9D59577251919BC5BE0B9C3DC75F10
+source:             DN42

@@ -1,0 +1,63 @@
+as-set:             AS4242423078:AS-TRANSIT
+remarks:            YI-NETWORK
+members:            AS209557
+remarks:            NeoNetwork Origin
+members:            AS4201270000
+remarks:            Staph
+members:            AS4201270007
+remarks:            BAUEN1-AS
+members:            AS4242420151
+remarks:            MGL Network
+members:            AS4242420181
+remarks:            N0EMIS-AS
+members:            AS4242420197
+remarks:            XESXEN-AS
+members:            AS4242420246
+remarks:            UFFSALOT-AS
+members:            AS4242420780
+remarks:            AS for NAB Network
+members:            AS4242420781
+remarks:            ALANYHQ-NETWORKS-AS
+members:            AS4242420916
+remarks:            AS for TMWAWPL network
+members:            AS4242421055
+remarks:            JLU5-AS
+members:            AS4242421080
+remarks:            TBSO-AS
+members:            AS4242421119
+remarks:            BitBakers Network
+members:            AS4242421224
+remarks:            CAESIA
+members:            AS4242421231
+remarks:            AS for BRADLEYCLAUS Network
+members:            AS4242421324
+remarks:            Niantic Network
+members:            AS4242421331
+remarks:            AS for RAITO network
+members:            AS4242421457
+remarks:            KOALA-AS
+members:            AS4242421488
+remarks:            w1kl4s network
+members:            AS4242421516
+remarks:            TECH9 CORE NETWORK
+members:            AS4242421588
+remarks:            MARAUN-AS
+members:            AS4242422225
+remarks:            AS for ZOTAN Network
+members:            AS4242422341
+remarks:            Yura
+members:            AS4242422464
+remarks:            Global Route Collector
+members:            AS4242422602
+remarks:            DOXZ-AS
+members:            AS4242422904
+remarks:            HEXANET AS
+members:            AS4242423078
+remarks:            TAILSNET AS
+members:            AS4242423621
+remarks:            Kioubit Network
+members:            AS4242423914
+remarks:            VGER-AS
+members:            AS64787
+mnt-by:             HEXANET-MNT
+source:             DN42

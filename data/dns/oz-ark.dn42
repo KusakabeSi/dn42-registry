@@ -1,0 +1,10 @@
+domain:             oz-ark.dn42
+descr:              oz-ark.dn42 https://dn42.oz-ark.info/
+admin-c:            EXPERIMENT626-DN42
+tech-c:             EXPERIMENT626-DN42
+mnt-by:             OZARK-MNT
+nserver:            ns1-syd.oz-ark.dn42 172.22.156.139
+nserver:            ns1-syd.oz-ark.dn42 fd37:13a8:98d6:cafe::10
+nserver:            ns1-bri.oz-ark.dn42 172.22.156.130
+nserver:            ns1-bri.oz-ark.dn42 fd37:13a8:98d6:beef::10
+source:             DN42

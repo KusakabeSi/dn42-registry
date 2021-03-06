@@ -1,0 +1,6 @@
+mntner:             Y525-MNT
+admin-c:            Y525-DN42
+tech-c:             Y525-DN42
+mnt-by:             Y525-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDf+S2QStfFLYRIaOC0UPR8cJ30KdI9SUN5zOltlzRrF4MjSWojhofOHaxD2i8rvPpn02gmmnXXF0Hs/2aiX5w74thTvqZmOX5ctY6PXwkO6rH9BZexS+EsP2E3l3CtdFRnLjkEfFUmXP+D96AC5uEgmCubHrF9EemUE66SLxEAxAi3x9ld+p6fiqKOTPFdMpHevFyI0YmLVFZ+8uRdVlmJyzAGJkPpGd6lva4mnooLeZH75MDi4O+0rMvBuIW8/d4xFwguasnRp4tTwz/oW6/SfYdGEu7thclAGxD/gGe5KW1RYy2tP1J9stusdk+mE9OxuVRrhzRoy4QSScwAcaFP yonghan@centaur
+source:             DN42

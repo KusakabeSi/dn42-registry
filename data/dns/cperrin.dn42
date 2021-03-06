@@ -1,0 +1,6 @@
+domain:             cperrin.dn42
+nserver:            ns01.cperrin.dn42  fdce:3a98:4c1c:3::3
+mnt-by:             CPERRIN-MNT
+admin-c:            CPERRIN-DN42
+tech-c:             CPERRIN-DN42
+source:             DN42

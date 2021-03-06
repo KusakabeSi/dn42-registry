@@ -1,0 +1,5 @@
+route6:             fdfd:dead:c0d3::/64
+descr:              LAMENET IPV6 PA
+origin:             AS4242421113
+mnt-by:             LAMENET-MNT
+source:             DN42

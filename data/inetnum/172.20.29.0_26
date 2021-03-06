@@ -1,0 +1,13 @@
+inetnum:            172.20.29.0 - 172.20.29.63
+cidr:               172.20.29.0/26
+netname:            MGL-IPV4-2
+descr:              MGL IPv4 Network
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+status:             ASSIGNED
+nserver:            ns1.mgl.dn42
+nserver:            ns2.mgl.dn42
+ds-rdata:           15950 13 2 15f8baaff5ea0e79c22489bc95a7604b214ec917d7aa61798acb0a1606482257
+ds-rdata:           15950 13 4 c5e4184d93eab4fffce901e7fbb66ee34913252d8db7b134f14927bfe8a0dedd95c3afdf262033494ecf1b159909c3f4
+source:             DN42

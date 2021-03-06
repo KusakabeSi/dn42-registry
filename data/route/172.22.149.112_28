@@ -1,0 +1,5 @@
+route:              172.22.149.112/28
+descr:              Pavel Dostál's PDNET 172.22.149.112/28 route
+origin:             AS4242420339
+mnt-by:             PDOSTAL-MNT
+source:             DN42

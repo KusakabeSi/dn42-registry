@@ -1,0 +1,10 @@
+domain:             mitoraj.dn42
+descr:              MITORAJ domain
+admin-c:            MITORAJ-DN42
+tech-c:             MITORAJ-DN42
+mnt-by:             MITORAJ-MNT
+nserver:            ns1.mitoraj.dn42 172.20.33.97
+nserver:            ns2.mitoraj.dn42 172.20.23.98
+nserver:            ns1.mitoraj.dn42 fdc8:200e:654a::97
+nserver:            ns2.mitoraj.dn42 fdc8:200e:654a::98
+source:             DN42

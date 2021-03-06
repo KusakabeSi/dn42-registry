@@ -1,0 +1,7 @@
+route6:             fd42:4242:2601::/48
+max-length:         48
+descr:              burble.dn42 https://dn42.burble.com/
+origin:             AS4242422601
+pingable:           fd42:4242:2601:ac05::1
+mnt-by:             BURBLE-MNT
+source:             DN42

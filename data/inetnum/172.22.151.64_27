@@ -1,0 +1,8 @@
+inetnum:            172.22.151.64 - 172.22.151.95
+cidr:               172.22.151.64/27
+netname:            ZEROCEAN-NETWORK
+admin-c:            SENAO-DN42
+tech-c:             SENAO-DN42
+mnt-by:             SENAO-MNT
+status:             ASSIGNED
+source:             DN42

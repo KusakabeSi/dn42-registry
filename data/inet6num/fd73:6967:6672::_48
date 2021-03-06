@@ -1,0 +1,9 @@
+inet6num:           fd73:6967:6672:0000:0000:0000:0000:0000 - fd73:6967:6672:ffff:ffff:ffff:ffff:ffff
+cidr:               fd73:6967:6672::/48
+netname:            SIGFRIED-NET-V6-1
+country:            BE
+admin-c:            SIGFRIED-DN42
+tech-c:             SIGFRIED-DN42
+mnt-by:             SIGFRIED-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.4.48 - 172.20.4.63
+cidr:               172.20.4.48/28
+netname:            JOSENG_HOME-NETWORK
+country:            DE
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

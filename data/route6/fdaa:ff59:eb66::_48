@@ -1,0 +1,4 @@
+route6:             fdaa:ff59:eb66::/48
+origin:             AS4242423175
+mnt-by:             FNS-MNT
+source:             DN42

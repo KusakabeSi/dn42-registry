@@ -1,0 +1,5 @@
+route:              172.20.236.0/26
+descr:              SHARP-NETWORK
+origin:             AS4242420312
+mnt-by:             SHARP-MNT
+source:             DN42

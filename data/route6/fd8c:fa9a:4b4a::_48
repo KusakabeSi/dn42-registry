@@ -1,0 +1,5 @@
+route6:             fd8c:fa9a:4b4a::/48
+origin:             AS4242421789
+max-length:         48
+mnt-by:             GERG-MNT
+source:             DN42

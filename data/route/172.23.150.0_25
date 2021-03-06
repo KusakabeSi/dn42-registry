@@ -1,0 +1,4 @@
+route:              172.23.150.0/25
+origin:             AS4242420158
+mnt-by:             ABCDE-MNT
+source:             DN42

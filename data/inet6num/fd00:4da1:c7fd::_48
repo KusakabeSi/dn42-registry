@@ -1,0 +1,10 @@
+inet6num:           fd00:4da1:c7fd:0000:0000:0000:0000:0000 - fd00:4da1:c7fd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:4da1:c7fd::/48
+netname:            EAB-NETWORK
+descr:              Network of EAB
+country:            NL
+admin-c:            EAB-DN42
+tech-c:             EAB-DN42
+mnt-by:             EAB-MNT
+status:             ASSIGNED
+source:             DN42

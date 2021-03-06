@@ -1,0 +1,4 @@
+route:              172.21.93.64/27
+origin:             AS4242422752
+mnt-by:             DELTADELTA-MNT
+source:             DN42

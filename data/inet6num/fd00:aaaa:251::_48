@@ -1,0 +1,10 @@
+inet6num:           fd00:aaaa:0251:0000:0000:0000:0000:0000 - fd00:aaaa:0251:ffff:ffff:ffff:ffff:ffff
+netname:            NETRAVNEN-NET-20180212
+org:                ORG-NETRAVNEN
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+zone-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+status:             ASSIGNED
+cidr:               fd00:aaaa:251::/48
+source:             DN42

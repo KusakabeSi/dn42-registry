@@ -1,0 +1,10 @@
+inetnum:            172.20.32.32 - 172.20.32.63
+cidr:               172.20.32.32/27
+netname:            HACKALOT-NETWORK
+remarks:            Hackalot is a hackerspace located in Eindhoven, NL
+admin-c:            XESXEN-DN42
+tech-c:             XESXEN-DN42
+mnt-by:             XESXEN-MNT
+status:             ASSIGNED
+org:                ORG-HACKALOT
+source:             DN42

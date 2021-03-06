@@ -1,0 +1,8 @@
+aut-num:            AS4242420981
+as-name:            FOOBARS-DBG
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+source:             DN42
+remarks:            Peering closed
+remarks:            Debug AS

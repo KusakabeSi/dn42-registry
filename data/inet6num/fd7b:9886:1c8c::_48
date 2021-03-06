@@ -1,0 +1,11 @@
+inet6num:           fd7b:9886:1c8c:0000:0000:0000:0000:0000 - fd7b:9886:1c8c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7b:9886:1c8c::/48
+netname:            CSG-NET
+descr:              CSGnet IP allocation
+country:            DE
+admin-c:            CSG-DN42
+tech-c:             CSG-DN42
+mnt-by:             CSG-MNT
+nserver:            ns1.csg.dn42
+status:             ASSIGNED
+source:             DN42

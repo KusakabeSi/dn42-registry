@@ -1,0 +1,10 @@
+inetnum:            172.20.172.144 - 172.20.172.159
+netname:            LBOT-NETWORK
+descr:              LBOT-Network
+country:            DE
+admin-c:            LBOT-DN42
+tech-c:             LBOT-DN42
+mnt-by:             LBOT-MNT
+status:             ALLOCATED
+cidr:               172.20.172.144/28
+source:             DN42

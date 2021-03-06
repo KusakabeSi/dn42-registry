@@ -1,0 +1,9 @@
+aut-num:            AS207613
+as-name:            NULLL
+remarks:            Public AS from RIPE
+remarks:            Open to peering. Check https://www.peeringdb.com/asn/207613
+org:                ORG-NULLL
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+source:             RIPE

@@ -1,0 +1,11 @@
+inet6num:           fd5f:7a63:c27f:0000:0000:0000:0000:0000 - fd5f:7a63:c27f:ffff:ffff:ffff:ffff:ffff
+netname:            NET-ROTTY-IP6-ULA
+nserver:            ns.r0tty.dn42
+descr:              Rotty's prive IPv6 network
+country:            AT
+admin-c:            ROTTY-DN42
+tech-c:             ROTTY-DN42
+mnt-by:             ROTTY-MNT
+status:             ASSIGNED
+cidr:               fd5f:7a63:c27f::/48
+source:             DN42

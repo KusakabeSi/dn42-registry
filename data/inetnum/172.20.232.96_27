@@ -1,0 +1,8 @@
+inetnum:            172.20.232.96 - 172.20.232.127
+cidr:               172.20.232.96/27
+netname:            BENJI-NETWORK
+admin-c:            BENJI-DN42
+tech-c:             BENJI-DN42
+mnt-by:             BENJI-MNT
+status:             ASSIGNED
+source:             DN42

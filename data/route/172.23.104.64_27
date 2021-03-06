@@ -1,0 +1,4 @@
+route:              172.23.104.64/27
+origin:             AS4242422761
+mnt-by:             ARG-MNT
+source:             DN42

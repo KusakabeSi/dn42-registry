@@ -1,0 +1,5 @@
+route6:             fdd6:aff6:5f6f::/48
+origin:             AS76198
+mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

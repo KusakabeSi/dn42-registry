@@ -1,0 +1,10 @@
+inetnum:            172.22.178.0 - 172.22.178.255
+netname:            RH-NETWORK
+descr:              RMLH Network
+country:            GB
+admin-c:            RH-DN42
+tech-c:             RH-DN42
+mnt-by:             RMLH-MNT
+status:             ALLOCATED
+cidr:               172.22.178.0/24
+source:             DN42

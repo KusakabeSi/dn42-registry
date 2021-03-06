@@ -1,0 +1,4 @@
+route:              172.20.59.96/28
+origin:             AS4242420182
+mnt-by:             Q1X-MNT
+source:             DN42

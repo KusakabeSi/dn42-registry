@@ -1,0 +1,5 @@
+route6:             fd0d:138:9006::/48
+descr:              argv
+origin:             AS64663
+mnt-by:             ARGV-DN42-MNT
+source:             DN42

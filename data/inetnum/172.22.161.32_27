@@ -1,0 +1,8 @@
+inetnum:            172.22.161.32 - 172.22.161.63
+cidr:               172.22.161.32/27
+netname:            JPC-NETWORK
+admin-c:            JPC-DN42
+tech-c:             JPC-DN42
+mnt-by:             JPC-MNT
+status:             ASSIGNED
+source:             DN42

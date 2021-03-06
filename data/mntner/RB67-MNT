@@ -1,0 +1,7 @@
+mntner:             RB67-MNT
+admin-c:            RB67-DN42
+tech-c:             RB67-DN42
+mnt-by:             RB67-MNT
+auth:               pgp-fingerprint E3B5C05F11F0B9372346B4E8F686CFFD53613D1A
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDjLuPd2DUjLX+0DwyFB2QCNT/2q92me426Fv59LYSs+
+source:             DN42

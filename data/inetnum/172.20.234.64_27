@@ -1,0 +1,10 @@
+inetnum:            172.20.234.64 - 172.20.234.95
+cidr:               172.20.234.64/27
+netname:            SBERNAUER-NETWORK
+descr:              Network of sbernauer with v4
+country:            DE
+admin-c:            SBERNAUER-DN42
+tech-c:             SBERNAUER-DN42
+mnt-by:             SBERNAUER-MNT
+status:             ASSIGNED
+source:             DN42

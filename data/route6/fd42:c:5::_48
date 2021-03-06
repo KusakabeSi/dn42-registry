@@ -1,0 +1,5 @@
+route6:             fd42:c:5::/48
+descr:              SBG-CHAOSTREFF-0
+origin:             AS4242422305
+mnt-by:             JOMAT-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+route:              172.20.57.0/24
+descr:              Hackspace Salzburg Access
+origin:             AS4242422305
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             BINARY-MNT
+descr:              Binary Maintainer
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             BINARY-MNT
+source:             DN42

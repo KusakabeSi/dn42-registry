@@ -1,0 +1,4 @@
+route:              172.21.106.64/27
+origin:             AS4242423952
+mnt-by:             GIMPYB-MNT
+source:             DN42

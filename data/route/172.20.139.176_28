@@ -1,0 +1,4 @@
+route:              172.20.139.176/28
+origin:             AS4242421273
+mnt-by:             SPENCERCW-MNT
+source:             DN42

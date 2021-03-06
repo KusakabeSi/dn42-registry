@@ -1,0 +1,4 @@
+route:              172.20.48.0/27
+origin:             AS4242422707
+mnt-by:             CYBERTINUS-MNT
+source:             DN42

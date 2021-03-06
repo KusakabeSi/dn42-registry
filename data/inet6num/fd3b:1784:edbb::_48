@@ -1,0 +1,10 @@
+inet6num:           fd3b:1784:edbb:0000:0000:0000:0000:0000 - fd3b:1784:edbb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3b:1784:edbb::/48
+netname:            PZTRN-NETWORK
+descr:              pztrn's Network.
+country:            RU
+admin-c:            PZTRN-DN42
+tech-c:             PZTRN-DN42
+mnt-by:             PZTRN-MNT
+status:             ASSIGNED
+source:             DN42

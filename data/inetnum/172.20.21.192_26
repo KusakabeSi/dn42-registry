@@ -1,0 +1,8 @@
+inetnum:            172.20.21.192 - 172.20.21.255
+cidr:               172.20.21.192/26
+netname:            STATHIS-NETWORK
+admin-c:            STATHIS-DN42
+tech-c:             STATHIS-DN42
+mnt-by:             STATHIS-MNT
+status:             ASSIGNED
+source:             DN42

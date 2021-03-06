@@ -1,0 +1,7 @@
+mntner:             JUMPNET-MNT
+admin-c:            KRYP-DN42
+tech-c:             KRYP-DN42
+auth:               pgp-fingerprint 0B583E8078C6BB61C99ED7D9ED1AFD8D0133C46C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDW2inEPocfuMJ32grUw3HVr83DvCxg/fty7+lpGE92bmr7K4aA0MrTl4QoJ/iMaPm6u3WexDnB2Ji9xJ03GYjzhzpY/b1wOZql9dg6tq46CCnJsoaGxS7m6Nr3wDPkMW/M0VjpO3VKYBEtFJQFYLcazmCUC3qDrfRP2EpcZsZqKXHPZ+SfFWJuXIW8rJmdjg0Wetfdnho+cS7AzdaV/IMwve9VUJTh7wCIwn5p4XqF4M/5dRr0TlFgEA/+meuAnRZ7EexaSnnowstLdHMkhqMGzPYA3ximPvEhQcIZtto6xjwMcLyR+NDmUdY92E1maYztXy91x4cr6zYjLyJGGMdIvcSChSzqHJnXN0AytxdXx7JL469BNbqfP3kOj34h+3B1yu47y7l7djFu8cixuLL7FSWTBDOuUpUoXj+tuxxcpQ4RtT6lG8G3YwMBeJb9ko3h3CZzd4/5xbWluR3+JOescQxQKhme3s6OuZO+OyPXIuQUIZ1q2n/IL5ak82FkSs723m/b0Z00rmob5VVH3C25HoBXLu6xJpbDR2CJaKOhgWe9P0iFU/XOKtgUvpFaNyy7k35wcpofRMvWF2BtBgSI98zseX0zQYx/hDqTRXDKyzy2QbHnLGqd3kTARLqD8j8FBuQLhCRihI344xU+WYAbMRj5iUeEipkASiAxfssLpQ==
+mnt-by:             JUMPNET-MNT
+source:             DN42

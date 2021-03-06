@@ -1,0 +1,26 @@
+tinc-key:           BLAZINGUS-TINC
+tinc-host:          us1_blazing
+compression:        10
+descr:              Blazing US
+mnt-by:             BLAZING-MNT
+admin-c:            TOBEE-DN42
+subnet:             172.23.67.8/32
+tinc-address:       us-1.gerger-net.de
+tinc-file:          
+                    Subnet = 172.23.67.8/32
+                    Address = us-1.gerger-net.de
+                    Compression = 10
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEAp4PQmwYDQzwsGC5KZC34w58oHCwc4LoBQXflJ38TZryfuleN1wJp
+                    SuzLHhjtL5o9pSsyK+BvDcCpAq0JkpRFpUZXSxLULSLBbEANEHBxRY30fk5t8d6q
+                    SoMgO3Jan+9BKkA35HDOqHpEJxrYtmIZJ33UdIc+BbGj88LGEzoEGLLo8Okcd5p9
+                    qhJ+fSBPam5W5Ys2xQvML10nyHtXB0BUGAB4PtG8679HEvyDzHgZ5JdTmJMZhRXz
+                    b7TJuBEOa9TsI5oePwy5UOS0sEUwfZAHqFvs4kbFLr5Sr5jTLCYcRGhsnxgo0mP0
+                    V8UXKCtJw0alop86tRZi3uY3kIfiaTygShiIV2R9zlCDhH+MlDAglvAC380Bw9ad
+                    Um43/uPd0pIM7NcgrOe4EnV27GyDOeGi/aJWU4XzwDSoWUHbMIY52EwdGf8s3QdJ
+                    k7Ql26u5bZ2DdVZoXxU3+Eio6j2eRRarHsPeHpjnsq80QFsMOz2sF5D3ov8guevw
+                    hlFMDFu1Xti5oqfgKb59dNAoIC5hV9VIchlV47ghdr8OmHegVa9Gj+nsl5z7mOQK
+                    vb5qHVKhJU+LeYqD8igXUkfZo3s7mM6gug3GpNYEDtTlfY1oCjPKA2IfH9CBP8qH
+                    LDBq3FMeI+sG70P9CMs6NkLwhdxNa5tgq8K7ZwtuVqUJsseUIoJVvMUCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

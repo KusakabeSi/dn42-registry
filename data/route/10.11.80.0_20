@@ -1,0 +1,6 @@
+route:              10.11.80.0/20
+origin:             AS64870
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: velbert
+mnt-by:             DN42-MNT
+source:             ICVPN

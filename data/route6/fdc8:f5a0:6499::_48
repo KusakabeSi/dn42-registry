@@ -1,0 +1,4 @@
+route6:             fdc8:f5a0:6499::/48
+origin:             AS4242423036
+mnt-by:             ACCELERATOR-MNT
+source:             DN42

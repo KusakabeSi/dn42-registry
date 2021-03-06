@@ -1,0 +1,11 @@
+inet6num:           fd42:0217:cafe:0000:0000:0000:0000:0000 - fd42:0217:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:217:cafe::/48
+netname:            NoyesNet
+descr:              Noyes Experimental Network
+country:            US
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+status:             ASSIGNED
+nserver:            ns1.nw.dn42
+source:             DN42

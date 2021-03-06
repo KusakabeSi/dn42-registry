@@ -1,0 +1,4 @@
+route:              172.20.173.64/27
+origin:             AS4242422011
+mnt-by:             MKOSMO-MNT
+source:             DN42

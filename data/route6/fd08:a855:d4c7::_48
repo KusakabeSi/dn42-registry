@@ -1,0 +1,4 @@
+route6:             fd08:a855:d4c7::/48
+origin:             AS4242423027
+mnt-by:             DW-MNT
+source:             DN42

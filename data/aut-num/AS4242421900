@@ -1,0 +1,7 @@
+aut-num:            AS4242421900
+as-name:            COREOS-AS
+descr:              CoreOS AS
+admin-c:            REDBEARD-DN42
+tech-c:             REDBEARD-DN42
+mnt-by:             REDBEARD-MNT
+source:             DN42

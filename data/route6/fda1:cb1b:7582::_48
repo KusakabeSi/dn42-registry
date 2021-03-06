@@ -1,0 +1,5 @@
+route6:             fda1:cb1b:7582::/48
+origin:             AS4242421602
+max-length:         48
+mnt-by:             TOON-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.13.0 - 172.23.13.7
+cidr:               172.23.13.0/29
+netname:            SOHA-NETWORK
+country:            CN
+descr:              Soha's IPv4 Network @ DN42
+status:             ASSIGNED
+admin-c:            SOHA-DN42
+tech-c:             SOHA-DN42
+mnt-by:             SOHA-MNT
+source:             DN42

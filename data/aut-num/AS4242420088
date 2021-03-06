@@ -1,0 +1,7 @@
+aut-num:            AS4242420088
+as-name:            RWFMON-AS
+descr:              RWFMON-AS
+admin-c:            MON-DN42
+tech-c:             MON-DN42
+mnt-by:             RWFMON-MNT
+source:             DN42

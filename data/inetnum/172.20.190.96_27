@@ -1,0 +1,9 @@
+inetnum:            172.20.190.96 - 172.20.190.127
+cidr:               172.20.190.96/27
+netname:            N0EMIS-NETWORK
+admin-c:            N0EMIS-DN42
+tech-c:             N0EMIS-DN42
+mnt-by:             N0EMIS-MNT
+status:             ASSIGNED
+nserver:            ns1.n0emis.dn42
+source:             DN42

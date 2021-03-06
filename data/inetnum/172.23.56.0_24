@@ -1,0 +1,12 @@
+inetnum:            172.23.56.0 - 172.23.56.255
+cidr:               172.23.56.0/24
+netname:            BR-NET-1
+country:            BR
+admin-c:            BR-DN42
+tech-c:             BR-DN42
+mnt-by:             BR-MNT
+status:             ALLOCATED
+nserver:            ns1.br.dn42
+nserver:            ns2.br.dn42
+nserver:            ns3.br.dn42
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd10:de6c:b224:0000:0000:0000:0000:0000 - fd10:de6c:b224:ffff:ffff:ffff:ffff:ffff
+country:            GB
+admin-c:            PAULCDB-DN42
+tech-c:             PAULCDB-DN42
+mnt-by:             PAULCDB-MNT
+status:             ASSIGNED PI
+cidr:               fd10:de6c:b224::/48
+netname:            Unnamed fd10:de6c:b224::/48 Network
+source:             DN42

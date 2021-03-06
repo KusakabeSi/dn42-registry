@@ -1,0 +1,6 @@
+route6:             fd71:cfc3:9259:6935::/64
+mnt-by:             SVINSON-MNT
+origin:             AS4242423859
+admin-c:            SVINSON-DN42
+tech-c:             SVINSON-DN42
+source:             DN42

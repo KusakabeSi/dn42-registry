@@ -1,0 +1,8 @@
+inetnum:            172.20.47.160 - 172.20.47.191
+cidr:               172.20.47.160/27
+netname:            CHUCKOGGY-NETWORK
+admin-c:            CHUCKOGGY-DN42
+tech-c:             CHUCKOGGY-DN42
+mnt-by:             CHUCKOGGY-MNT
+status:             ASSIGNED
+source:             DN42

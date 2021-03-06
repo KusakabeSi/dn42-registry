@@ -1,0 +1,6 @@
+mntner:             VOXILITY-MNT
+admin-c:            VOXILITY-DN42
+tech-c:             VOXILITY-DN42
+mnt-by:             VOXILITY-MNT
+source:             DN42
+auth:               pgp-fingerprint 0A3005F3752002FD58F2DB6772BE743EE036B721

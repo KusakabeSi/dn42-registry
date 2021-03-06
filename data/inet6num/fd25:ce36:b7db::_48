@@ -1,0 +1,11 @@
+inet6num:           fd25:ce36:b7db:0000:0000:0000:0000:0000 - fd25:ce36:b7db:ffff:ffff:ffff:ffff:ffff
+netname:            SNAPSERV-20160507
+descr:              SnapServ Ltd
+country:            CH
+org:                ORG-SNAPSERV
+admin-c:            PM-DN42
+tech-c:             PM-DN42
+mnt-by:             SNAPSERV-MNT
+status:             ASSIGNED
+cidr:               fd25:ce36:b7db::/48
+source:             DN42

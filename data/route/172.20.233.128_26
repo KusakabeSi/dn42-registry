@@ -1,0 +1,4 @@
+route:              172.20.233.128/26
+origin:             AS4242421288
+mnt-by:             NICHOLASCW-MNT
+source:             DN42

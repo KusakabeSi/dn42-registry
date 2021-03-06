@@ -1,0 +1,6 @@
+mntner:             TOMKEP-MNT
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+source:             DN42
+auth:               pgp-fingerprint 806CD69A5B4AFCA949E19B92554FA8C408C28BB8

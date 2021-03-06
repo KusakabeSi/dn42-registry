@@ -1,0 +1,7 @@
+domain:             root6.dn42
+admin-c:            ROOT6-DN42
+tech-c:             ROOT6-DN42
+mnt-by:             ROOT6-MNT
+nserver:            ns01.root6.dn42 172.23.88.34
+nserver:            ns02.root6.dn42 172.23.88.66
+source:             DN42

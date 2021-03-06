@@ -1,0 +1,13 @@
+inet6num:           fd04:de02:7af9:0000:0000:0000:0000:0000 - fd04:de02:7af9:0000:ffff:ffff:ffff:ffff
+netname:            DN42-TINC-ULA-IP6NET
+descr:              tinc IX ULA network
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+remarks:            tinc-hosts:        SET-1-DN42-TINC
+remarks:            tinc-hosts:        SET-2-DN42-TINC
+remarks:            tinc-hosts:        SET-3-DN42-TINC
+mnt-by:             DUMMY-MNT
+nserver:            c.ns.welterde.net
+status:             ASSIGNED
+cidr:               fd04:de02:7af9::/64
+source:             DN42

@@ -1,0 +1,32 @@
+aut-num:            AS4242422227
+as-name:            WXMN-AS
+descr:              waxman.dn42 - http://dn42.wxmn.net/
+remarks:            --------------------------------------------------------
+remarks:            New peers are welcome. Check the dn42 peerfinder for the
+remarks:            nearest node. 
+remarks:            Send a message to dn42@wxmn.net or ping me via IRC
+remarks:            waxman@#dn42
+remarks:            --------------------------------------------------------
+remarks:            external:
+remarks:            http://dn42.wxmn.net/          (peering details)
+remarks:            http://stats.dn42.wxmn.net/    (statistics)
+remarks:            
+remarks:            internal:
+remarks:            http://stats.waxman.dn42/      (statistics)
+remarks:            --------------------------------------------------------
+remarks:            
+remarks:            I am working on supporting the well-known Communities
+remarks:            according to RFC1997. 
+remarks:            --------------------------------------------------------
+remarks:            
+remarks:            Routing policies:
+mp-import:          afi any.unicast from AS4242422227:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422227:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242422227:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242422227:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS4242422227:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242422227:AS-PEER announce AS4242422227
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdea:a15a:77b9::/48
+descr:              XUU DN42 IPV6 Net
+origin:             AS64737
+mnt-by:             XUU-MNT
+source:             DN42

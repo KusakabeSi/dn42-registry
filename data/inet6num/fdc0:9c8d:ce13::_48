@@ -1,0 +1,8 @@
+inet6num:           fdc0:9c8d:ce13:0000:0000:0000:0000:0000 - fdc0:9c8d:ce13:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc0:9c8d:ce13::/48
+netname:            VLCTY-NET-1
+admin-c:            VLCTY-DN42
+tech-c:             VLCTY-DN42
+mnt-by:             VLCTY-MNT
+status:             ASSIGNED
+source:             DN42

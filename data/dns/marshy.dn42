@@ -1,0 +1,7 @@
+domain:             marshy.dn42
+descr:              Marshy' Domain
+admin-c:            MARSHY-DN42
+tech-c:             MARSHY-DN42
+mnt-by:             MARSHY-MNT
+nserver:            ns1.as4242420568.dn42
+source:             DN42

@@ -1,0 +1,9 @@
+mntner:             F4ZER-MNT
+admin-c:            F4ZER-DN42
+tech-c:             F4ZER-DN42
+mnt-by:             F4ZER-MNT
+remarks:            SSH-Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDg9lpkncXXR5px7Znrp8dkmic2GotAWzh4wqLJiUk7S7AFTDtUNK1geI7pzrJmpwUtqS33gUGwi99jzfWEi62+vLO5zqPKXFIunv28oT9xznoMC/o2YQdcUqz45Fmd5yxzmm8aH8WfanD1zPS8RF5LhH+/ty4p+CzVtiacCKDWB+ziZYFIVHhKis87JTYcZrkRt+TiWAR/Sy1nAyMHNMb3dIv24hutSTRygWIQsi+42iAb3pQU65URqRqNrOxGyblts+FRrnjghawt0ZczeJrqIApJSGx2xsSz45uYCkmiORW1XOqc2SPySAohKa2z+WsDwsHdbr1Ifk464sKQe21b
+remarks:            GnuPG-Key:
+auth:               pgp-fingerprint 42B85A5A941C615970E6CA76E887DDE0F7B88745
+source:             DN42

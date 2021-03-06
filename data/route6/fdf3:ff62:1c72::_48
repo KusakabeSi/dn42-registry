@@ -1,0 +1,5 @@
+route6:             fdf3:ff62:1c72::/48
+origin:             AS4242420799
+max-length:         48
+mnt-by:             ALWAYSLIVID-MNT
+source:             DN42

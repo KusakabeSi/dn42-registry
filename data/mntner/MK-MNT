@@ -1,0 +1,7 @@
+mntner:             MK-MNT
+admin-c:            MK-DN42
+tech-c:             MK-DN42
+mnt-by:             MK-MNT
+auth:               pgp-fingerprint 40D0D64A95C60569FEB13547E781E363ACB87F6D
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDoYiaZRyEIfH+OfpDSbyLGPGI/lcAAYpsWzXNyrfccjZh9Zbw4Osl8eb57aZBYGrPFieFp+B2BhCFIO+yHB35KgH/wwLZMa4JD9fFGOkBI/PD9nkLXMDsBLEwJDefEUG9bNooFFW0A5seSv6zWX2Lm9MhwMsLoAaUCdjlMry5FSeNT01TOHj5KqQQNnMvb0rHLcoF8PoEtpMNg/+KM6IP1CrmItqIEwWks2VbAYSZ3hnsG2mCh7E1616DNypmTVs7mHck4um+N7G6wpbt2WS06/m8HPTug8sRcmsT6u79pV9tLkQHq6c62i9632TxIsTJ3+UDzuaW6abveg4uVivk7
+source:             DN42

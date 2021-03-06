@@ -1,0 +1,5 @@
+route:              172.20.25.0/25
+descr:              ANDI--SERVICES
+origin:             AS4242423991
+mnt-by:             ANDI--MNT
+source:             DN42

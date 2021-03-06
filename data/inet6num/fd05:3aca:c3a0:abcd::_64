@@ -1,0 +1,8 @@
+inet6num:           fd05:3aca:c3a0:abcd:0000:0000:0000:0000 - fd05:3aca:c3a0:abcd:ffff:ffff:ffff:ffff
+cidr:               fd05:3aca:c3a0:abcd::/64
+netname:            TYLER-PEERING-NETWORK
+admin-c:            TYLER-DN42
+tech-c:             TYLER-DN42
+mnt-by:             TYLER-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:1919:0810:0000:0000:0000:0000:0000 - fd42:1919:0810:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1919:810::/48
+netname:            NICHOLASCW-NETWORK
+descr:              Core Network of NICHOLASCW
+country:            US
+admin-c:            NICHOLASCW-DN42
+tech-c:             NICHOLASCW-DN42
+mnt-by:             NICHOLASCW-MNT
+status:             ASSIGNED
+nserver:            ns1.nicholascw.dn42
+source:             DN42

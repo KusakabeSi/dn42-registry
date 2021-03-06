@@ -1,0 +1,15 @@
+inetnum:            172.21.0.0 - 172.21.255.255
+cidr:               172.21.0.0/16
+netname:            NET-BLK116-DN42
+descr:              DN42 native address space
+remarks:            Not free for direct assignments, please use sub-allocated blocks
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 4cc085716ba83f18df1a7fb9f9479d10327e3d30e222c7a197109c7560ae0368
+ds-rdata:           3096 10 2 506fd7f34aaad4df1b6cfa56fe8c00e157b1c32551c981def0c5fd8f65ab14ac
+status:             ALLOCATED
+policy:             reserved
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

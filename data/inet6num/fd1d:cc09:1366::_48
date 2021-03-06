@@ -1,0 +1,10 @@
+inet6num:           fd1d:cc09:1366:0000:0000:0000:0000:0000 - fd1d:cc09:1366:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1d:cc09:1366::/48
+netname:            UNICORN-NETWORK
+descr:              Network of UNICORN
+country:            FR
+admin-c:            UNICORN-DN42
+tech-c:             UNICORN-DN42
+mnt-by:             UNICORN-MNT
+status:             ASSIGNED
+source:             DN42

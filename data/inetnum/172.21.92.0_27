@@ -1,0 +1,9 @@
+inetnum:            172.21.92.0 - 172.21.92.31
+netname:            NET-BLACKHOLETW-000
+country:            TW
+admin-c:            FRANKCHANG-DN42
+tech-c:             FRANKCHANG-DN42
+mnt-by:             BLACKHOLETW-MNT
+status:             ASSIGNED
+cidr:               172.21.92.0/27
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.240.0.0/13
+origin:             AS65079
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ruhrgebiet
+mnt-by:             DN42-MNT
+source:             ICVPN

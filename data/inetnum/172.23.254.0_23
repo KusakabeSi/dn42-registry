@@ -1,0 +1,12 @@
+inetnum:            172.23.254.0 - 172.23.255.255
+cidr:               172.23.254.0/23
+netname:            ORG-SHACK-V4
+country:            DE
+descr:              SHACK-V4 172.23.254.0/23 block
+status:             ASSIGNED
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+org:                ORG-SHACK
+source:             DN42

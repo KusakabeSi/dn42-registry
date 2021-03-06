@@ -1,0 +1,8 @@
+inetnum:            172.20.46.160 - 172.20.46.167
+cidr:               172.20.46.160/29
+netname:            DIZZY-NET
+admin-c:            DIZZY-DN42
+tech-c:             DIZZY-DN42
+mnt-by:             DIZZY-MNT
+status:             ASSIGNED
+source:             DN42

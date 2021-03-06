@@ -1,0 +1,10 @@
+inetnum:            172.21.109.0 - 172.21.109.7
+netname:            SESHI-IPV4
+descr:              Peer with me at ywtzmc@qq.com | ywtzmc@gmail.com
+country:            CN
+admin-c:            SESHI-DN42
+tech-c:             SESHI-DN42
+mnt-by:             SESHI-MNT
+status:             ASSIGNED
+cidr:               172.21.109.0/29
+source:             DN42

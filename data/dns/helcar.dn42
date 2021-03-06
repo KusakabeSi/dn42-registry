@@ -1,0 +1,7 @@
+domain:             helcar.dn42
+admin-c:            AEGIAP-DN42
+tech-c:             AEGIAP-DN42
+mnt-by:             HELCAR-MNT
+nserver:            ns1.helcar.dn42 172.20.28.129
+nserver:            ns1.helcar.dn42 fd40:aac4:93b0:172::129
+source:             DN42

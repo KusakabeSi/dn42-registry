@@ -1,0 +1,8 @@
+inet6num:           fda5:f049:ddcc:0000:0000:0000:0000:0000 - fda5:f049:ddcc:ffff:ffff:ffff:ffff:ffff
+cidr:               fda5:f049:ddcc::/48
+netname:            LZ1OPS-NET-1
+admin-c:            LZ1OPS-DN42
+tech-c:             LZ1OPS-DN42
+mnt-by:             LZ1OPS-MNT
+status:             ASSIGNED
+source:             DN42

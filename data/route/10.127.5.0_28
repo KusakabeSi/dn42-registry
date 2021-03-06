@@ -1,0 +1,8 @@
+route:              10.127.5.0/28
+max-length:         29
+origin:             AS4201270012
+admin-c:            JUNDE-YHI-NEONETWORK
+tech-c:             JUNDE-YHI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

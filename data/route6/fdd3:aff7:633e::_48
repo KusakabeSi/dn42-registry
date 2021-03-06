@@ -1,0 +1,5 @@
+route6:             fdd3:aff7:633e::/48
+origin:             AS4242423533
+max-length:         48
+mnt-by:             NYANOTECH-MNT
+source:             DN42

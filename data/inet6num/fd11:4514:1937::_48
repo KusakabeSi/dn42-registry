@@ -1,0 +1,10 @@
+inet6num:           fd11:4514:1937:0000:0000:0000:0000:0000 - fd11:4514:1937:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:4514:1937::/48
+netname:            CAXAP-NETWORK
+descr:              CAXAP network
+country:            HK
+admin-c:            CAXAP-DN42
+tech-c:             CAXAP-DN42
+mnt-by:             CAXAP-MNT
+status:             ASSIGNED
+source:             DN42

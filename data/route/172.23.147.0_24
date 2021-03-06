@@ -1,0 +1,5 @@
+route:              172.23.147.0/24
+origin:             AS64742
+mnt-by:             KANKAN-MNT
+pingable:           172.23.147.1
+source:             DN42

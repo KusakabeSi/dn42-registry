@@ -1,0 +1,8 @@
+domain:             lg.dn42
+descr:              Looking glass
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+nserver:            ns2.tombii.dn42
+source:             DN42

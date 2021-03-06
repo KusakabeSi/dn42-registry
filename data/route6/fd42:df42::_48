@@ -1,0 +1,5 @@
+route6:             fd42:df42::/48
+descr:              DARKFASEL-NET
+origin:             AS64773
+mnt-by:             JOMAT-MNT
+source:             DN42

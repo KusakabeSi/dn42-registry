@@ -1,0 +1,9 @@
+inetnum:            172.23.222.64 - 172.23.222.95
+netname:            RDBCN-NET-1
+admin-c:            RDBCN-DN42
+tech-c:             RDBCN-DN42
+mnt-by:             RDBCN-MNT
+nserver:            ns1.as4242422027.dn42
+status:             ASSIGNED
+cidr:               172.23.222.64/27
+source:             DN42

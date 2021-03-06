@@ -1,0 +1,7 @@
+as-set:             AS-NIA
+descr:              Niantic Network AS set
+members:            AS4242421331
+members:            AS4242421332
+members:            AS207268
+mnt-by:             NIA-MNT
+source:             DN42

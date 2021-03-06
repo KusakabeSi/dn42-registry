@@ -1,0 +1,10 @@
+inetnum:            172.20.34.0 - 172.20.34.63
+cidr:               172.20.34.0/26
+netname:            TCHADELICARD-NETWORK
+admin-c:            TI-DN42
+tech-c:             TI-DN42
+mnt-by:             TI-MNT
+nserver:            alpha.ns.tchadelicard.dn42
+nserver:            beta.ns.tchadelicard.dn42
+status:             ASSIGNED
+source:             DN42

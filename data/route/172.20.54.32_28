@@ -1,0 +1,5 @@
+route:              172.20.54.32/28
+descr:              KawaiiHosting - PER01
+origin:             AS4242422274
+mnt-by:             KAWAIIHOSTING-MNT
+source:             DN42

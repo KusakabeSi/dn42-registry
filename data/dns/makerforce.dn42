@@ -1,0 +1,7 @@
+domain:             makerforce.dn42
+nserver:            ns1.makerforce.dn42 fd42:470:ed5d::2
+nserver:            ns1.makerforce.dn42 172.21.64.98
+admin-c:            AMBROSE-DN42
+tech-c:             AMBROSE-DN42
+mnt-by:             AMBROSE-MNT
+source:             DN42

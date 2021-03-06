@@ -1,0 +1,4 @@
+route6:             fdfb:4242:e10d::/48
+origin:             AS4242420115
+mnt-by:             PICOCLOUD-MNT
+source:             DN42

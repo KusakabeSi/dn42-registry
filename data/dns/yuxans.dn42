@@ -1,0 +1,9 @@
+domain:             yuxans.dn42
+admin-c:            YUXANS-DN42
+tech-c:             YUXANS-DN42
+mnt-by:             YUXANS-MNT
+nserver:            ns1.yuxans.dn42 172.20.129.35
+nserver:            ns1.yuxans.dn42 fd6a:22f6:b683::10:53
+nserver:            ns2.yuxans.dn42 172.20.129.36
+nserver:            ns2.yuxans.dn42 fd6a:22f6:b683::20:53
+source:             DN42

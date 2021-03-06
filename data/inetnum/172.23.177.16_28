@@ -1,0 +1,11 @@
+inetnum:            172.23.177.16 - 172.23.177.31
+netname:            GIN42-PEER3
+descr:              GIN42 Rootserver
+country:            DE
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+nserver:            ns1.jin42.de
+status:             ASSIGNED
+cidr:               172.23.177.16/28
+source:             DN42

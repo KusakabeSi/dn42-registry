@@ -1,0 +1,13 @@
+inetnum:            172.20.48.128 - 172.20.48.159
+cidr:               172.20.48.128/27
+netname:            MGL-IPV4-1
+descr:              MGL IPv4 Network
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+status:             ASSIGNED
+nserver:            ns1.mgl.dn42
+nserver:            ns2.mgl.dn42
+ds-rdata:           56801 13 2 91dd307ab95b985e8c219011d8a6023bb423b206c06ea964f116c45cfb2b2512
+ds-rdata:           56801 13 4 ad6d8c350ffc90041e35a2c82ea7a71ae366c04fd24c95e46234b2148e5d68f01abdbc567d97087c09e9bd2237d7e1c0
+source:             DN42

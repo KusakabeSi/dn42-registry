@@ -1,0 +1,10 @@
+inetnum:            172.20.190.192 - 172.20.190.255
+netname:            DRATHIR-DN42-FRA-INET
+descr:              DRATHIR-DN42-FRA-INET
+country:            FR
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.190.192/26
+source:             DN42

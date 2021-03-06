@@ -1,0 +1,10 @@
+aut-num:            AS4242428593
+as-name:            LOSTSERVER
+descr:              Lostserver.Net
+remarks:            * Open Peering Policy
+remarks:            * OpenVPN Preferred, IPSec+GRE Supported
+remarks:            * Location: Dallas, TX
+admin-c:            LOSTNOC-DN42
+tech-c:             LOSTNOC-DN42
+mnt-by:             LOSTSERVER-MNT
+source:             DN42

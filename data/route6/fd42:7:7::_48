@@ -1,0 +1,4 @@
+route6:             fd42:7:7::/48
+origin:             AS4242420095
+mnt-by:             SPREITZER-MNT
+source:             DN42

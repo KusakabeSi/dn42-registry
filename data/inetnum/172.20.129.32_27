@@ -1,0 +1,12 @@
+inetnum:            172.20.129.32 - 172.20.129.63
+cidr:               172.20.129.32/27
+netname:            YUXANS-NET-1
+descr:              Network of Yuxans
+country:            CN
+admin-c:            YUXANS-DN42
+tech-c:             YUXANS-DN42
+mnt-by:             YUXANS-MNT
+nserver:            ns1.yuxans.dn42
+nserver:            ns2.yuxans.dn42
+status:             ASSIGNED
+source:             DN42

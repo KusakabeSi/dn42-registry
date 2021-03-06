@@ -1,0 +1,5 @@
+route6:             fd1c:f73c:a945:1000::/52
+descr:              Gotroot Vancouver
+origin:             AS4242422700
+mnt-by:             GOTROOT-MNT
+source:             DN42

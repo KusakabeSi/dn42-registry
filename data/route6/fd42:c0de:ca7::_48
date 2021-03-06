@@ -1,0 +1,4 @@
+route6:             fd42:c0de:ca7::/48
+origin:             AS4242420208
+mnt-by:             HASHQ-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:3103:5bca::/48
+descr:              310 Networks
+origin:             AS4242423310
+mnt-by:             310-MNT
+source:             DN42

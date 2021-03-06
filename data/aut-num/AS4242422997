@@ -1,0 +1,7 @@
+aut-num:            AS4242422997
+as-name:            CONTROLPLANE-AS-QUAGGA
+descr:              CONTROLPLANE-AS-QUAGGA, part of ORG-CONTROLPLANE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+source:             DN42

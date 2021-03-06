@@ -1,0 +1,10 @@
+inetnum:            172.22.133.160 - 172.22.133.167
+netname:            JPT-V4-NET
+descr:              JPT-V4-NET
+country:            DE
+admin-c:            JPT-DN42
+tech-c:             JPT-DN42
+mnt-by:             JPT-MNT
+status:             ASSIGNED
+cidr:               172.22.133.160/29
+source:             DN42

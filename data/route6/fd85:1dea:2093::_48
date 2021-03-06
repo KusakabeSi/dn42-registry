@@ -1,0 +1,4 @@
+route6:             fd85:1dea:2093::/48
+origin:             AS4242421009
+mnt-by:             KLARA-MNT
+source:             DN42

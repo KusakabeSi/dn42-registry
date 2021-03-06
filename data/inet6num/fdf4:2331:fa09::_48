@@ -1,0 +1,11 @@
+inet6num:           fdf4:2331:fa09:0000:0000:0000:0000:0000 - fdf4:2331:fa09:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:2331:fa09::/48
+netname:            N0EMIS-NETWORK
+descr:              Network of N0EMIS
+country:            DE
+admin-c:            N0EMIS-DN42
+tech-c:             N0EMIS-DN42
+mnt-by:             N0EMIS-MNT
+status:             ASSIGNED
+nserver:            ns1.n0emis.dn42
+source:             DN42

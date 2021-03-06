@@ -1,0 +1,4 @@
+route6:             fd42:172:2042::/48
+origin:             AS4242422100
+mnt-by:             FLOKLI-MNT
+source:             DN42

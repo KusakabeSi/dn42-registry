@@ -1,0 +1,9 @@
+inetnum:            172.23.109.192 - 172.23.109.223
+netname:            SCHWZR-NET
+country:            DE
+admin-c:            SCHWZR-DN42
+tech-c:             SCHWZR-DN42
+mnt-by:             SCHWZR-MNT
+status:             ASSIGNED
+cidr:               172.23.109.192/27
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             WASA-MNT
+descr:              First test with DN42
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             WASA-MNT
+source:             DN42

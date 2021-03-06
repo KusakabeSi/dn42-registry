@@ -1,0 +1,9 @@
+domain:             as4242422506.dn42
+descr:              my AS domain for LG
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.as4242422506.dn42 172.22.148.161
+nserver:            ns1.fastnameserver.eu
+nserver:            ns2.fastnameserver.eu
+source:             DN42

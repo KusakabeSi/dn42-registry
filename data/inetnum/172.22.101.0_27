@@ -1,0 +1,10 @@
+inetnum:            172.22.101.0 - 172.22.101.31
+netname:            INTV6-LEGACY
+descr:              v4 network of intv6
+country:            DE
+admin-c:            KIBO-DN42
+tech-c:             KIBO-DN42
+mnt-by:             KIBO-MNT
+status:             ASSIGNED
+cidr:               172.22.101.0/27
+source:             DN42

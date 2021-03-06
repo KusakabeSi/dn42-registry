@@ -1,0 +1,8 @@
+mntner:             ARCH-MNT
+admin-c:            ARCH-DN42
+tech-c:             ARCH-DN42
+mnt-by:             ARCH-MNT
+auth:               pgp-fingerprint 7578D4BEE31BED091359FF9DB19B62CCE00153B1
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMOCOtko0hLYeIAW79Gv6w2xWkUkiMtnhWtJU9O9kpPS arch
+remarks:            you can always contact me via email, me /at/ keksbg /dot/ dev :)
+source:             DN42

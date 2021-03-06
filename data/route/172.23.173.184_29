@@ -1,0 +1,4 @@
+route:              172.23.173.184/29
+origin:             AS4242422061
+mnt-by:             VOIDPTR-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.21.106.64 - 172.21.106.95
+cidr:               172.21.106.64/27
+netname:            GIMPYB-NETWORK
+admin-c:            GIMPYB-DN42
+tech-c:             GIMPYB-DN42
+mnt-by:             GIMPYB-MNT
+status:             ASSIGNED
+source:             DN42

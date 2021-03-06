@@ -1,0 +1,7 @@
+route:              172.20.203.0/24
+descr:              FLAT-CLOUD-ROUTE
+origin:             AS4242421093
+mnt-by:             IRL-MNT
+mnt-by:             ANA-MNT
+remarks:            pin-sha256:KsqQfhGgjgwlGr2XOJ2fiDU739wBZnyI4TB5+wXbH2w=
+source:             DN42

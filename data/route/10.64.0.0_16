@@ -1,0 +1,6 @@
+route:              10.64.0.0/16
+origin:             AS65042
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: weimar
+mnt-by:             DN42-MNT
+source:             ICVPN

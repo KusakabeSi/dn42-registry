@@ -1,0 +1,11 @@
+inet6num:           fd42:fe56:7891:0000:0000:0000:0000:0000 - fd42:fe56:7891:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:fe56:7891::/48
+netname:            TCDUE-NET6-01
+descr:              Network of TCDUE
+country:            DE
+admin-c:            TCDUE-DN42
+tech-c:             TCDUE-DN42
+mnt-by:             TCDUE-MNT
+nserver:            dns.tcdue.dn42
+status:             ASSIGNED
+source:             DN42

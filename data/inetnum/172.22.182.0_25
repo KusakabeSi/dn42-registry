@@ -1,0 +1,10 @@
+inetnum:            172.22.182.0 - 172.22.182.127
+cidr:               172.22.182.0/25
+netname:            SEADOG007-NETWORK
+admin-c:            SEADOG007-DN42
+tech-c:             SEADOG007-DN42
+mnt-by:             SEADOG007-MNT
+nserver:            ns1.seadog007.dn42
+nserver:            ns2.seadog007.dn42
+status:             ASSIGNED
+source:             DN42

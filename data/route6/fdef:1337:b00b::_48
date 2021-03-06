@@ -1,0 +1,4 @@
+route6:             fdef:1337:b00b::/48
+origin:             AS4242422609
+mnt-by:             WORX-MNT
+source:             DN42

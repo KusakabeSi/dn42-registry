@@ -1,0 +1,5 @@
+route6:             fd01:2f40:3d1d::/48
+origin:             AS4242421201
+mnt-by:             JOMAN-MNT
+mnt-by:             LUELISTAN-MNT
+source:             DN42

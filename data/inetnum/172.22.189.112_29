@@ -1,0 +1,9 @@
+inetnum:            172.22.189.112 - 172.22.189.119
+cidr:               172.22.189.112/29
+netname:            YI-NET-003
+admin-c:            YI-DN42
+tech-c:             YI-DN42
+mnt-by:             YI-MNT
+mnt-by:             HONDA-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+route:              10.127.22.8/29
+max-length:         29
+origin:             AS4201270011
+admin-c:            LINE-NZ-NEONETWORK
+tech-c:             LINE-NZ-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

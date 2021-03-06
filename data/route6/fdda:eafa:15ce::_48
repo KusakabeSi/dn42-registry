@@ -1,0 +1,5 @@
+route6:             fdda:eafa:15ce::/48
+descr:              Dennis Network IPv6 Routing
+origin:             AS4242420567
+mnt-by:             DENNIS-MNT
+source:             DN42

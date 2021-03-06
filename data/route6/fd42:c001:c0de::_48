@@ -1,0 +1,4 @@
+route6:             fd42:c001:c0de::/48
+origin:             AS4242423355
+mnt-by:             WOJIA-MNT
+source:             DN42

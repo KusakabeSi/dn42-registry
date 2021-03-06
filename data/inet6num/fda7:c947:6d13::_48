@@ -1,0 +1,10 @@
+inet6num:           fda7:c947:6d13:0000:0000:0000:0000:0000 - fda7:c947:6d13:ffff:ffff:ffff:ffff:ffff
+cidr:               fda7:c947:6d13::/48
+netname:            TYLER-NETWORK
+admin-c:            TYLER-DN42
+tech-c:             TYLER-DN42
+mnt-by:             TYLER-MNT
+nserver:            ns1.as4242420415.dn42
+nserver:            ns2.as4242420415.dn42
+status:             ASSIGNED
+source:             DN42

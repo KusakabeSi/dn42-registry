@@ -1,0 +1,9 @@
+organisation:       ORG-DUMPRA
+org-name:           機構名稱
+descr:              機構簡介
+e-mail:             dn42@dumpra.com
+www:                http://dumpra.com
+admin-c:            DUMPRA-DN42
+tech-c:             DUMPRA-DN42
+mnt-by:             DUMPRA-MNT
+source:             DN42

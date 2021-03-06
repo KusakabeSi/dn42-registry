@@ -1,0 +1,12 @@
+inet6num:           fdfd:468b:bab6:0000:0000:0000:0000:0000 - fdfd:468b:bab6:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:468b:bab6::/48
+netname:            ERINN-NETWORK
+descr:              Erinn Network Main v6
+admin-c:            ERINN-DN42
+tech-c:             ERINN-DN42
+mnt-by:             ERINN-MNT
+org:                ORG-ERINN
+nserver:            uladh.ns.erinn.dn42
+nserver:            iria.ns.erinn.dn42
+status:             ASSIGNED
+source:             DN42

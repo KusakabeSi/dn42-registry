@@ -1,0 +1,4 @@
+route6:             fd42:beef:cafe::/48
+origin:             AS4242421776
+mnt-by:             CSMITH-MNT
+source:             DN42

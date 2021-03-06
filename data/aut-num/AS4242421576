@@ -1,0 +1,8 @@
+aut-num:            AS4242421576
+as-name:            0RIGO-AS
+descr:              0rigo AS
+remarks:            Experimetal overlay network
+admin-c:            0RIGO-DN42
+tech-c:             0RIGO-DN42
+mnt-by:             0RIGO-MNT
+source:             DN42

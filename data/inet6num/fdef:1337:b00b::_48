@@ -1,0 +1,11 @@
+inet6num:           fdef:1337:b00b:0000:0000:0000:0000:0000 - fdef:1337:b00b:ffff:ffff:ffff:ffff:ffff
+netname:            WORX-NET
+nserver:            ns1.worx.dn42
+country:            DE
+descr:              WORX Main IPv6 allocation
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+status:             ASSIGNED
+cidr:               fdef:1337:b00b::/48
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             ens.dn42
+admin-c:            RAITO-DN42
+tech-c:             RAITO-DN42
+mnt-by:             RAITO-MNT
+org:                ORG-NETENS
+nserver:            ns1.ens.dn42 172.22.186.81
+source:             DN42

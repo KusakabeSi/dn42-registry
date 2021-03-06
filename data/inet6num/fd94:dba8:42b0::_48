@@ -1,0 +1,12 @@
+inet6num:           fd94:dba8:42b0:0000:0000:0000:0000:0000 - fd94:dba8:42b0:ffff:ffff:ffff:ffff:ffff
+netname:            HUJK-IPV6
+descr:              Peer with me at dn42@hujk.eu.org
+country:            TW
+admin-c:            HUJK-DN42
+tech-c:             HUJK-DN42
+mnt-by:             HUJK-MNT
+nserver:            ns1.hujk.dn42
+nserver:            ns2.hujk.dn42
+status:             ASSIGNED
+cidr:               fd94:dba8:42b0::/48
+source:             DN42

@@ -1,0 +1,14 @@
+inet6num:           fd42:0020:0240:0000:0000:0000:0000:0000 - fd42:0020:0240:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:20:240::/48
+netname:            HEXA-20171224
+remarks:            fd42:20:240::/64 - cccda
+remarks:            fd42:20:240:2::/64 - nurtic-vibe (sbg)
+remarks:            fd42:20:240:4::/64 - andi (boolean)
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
+status:             ASSIGNED
+source:             DN42

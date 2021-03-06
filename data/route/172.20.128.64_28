@@ -1,0 +1,4 @@
+route:              172.20.128.64/28
+origin:             AS4242421983
+mnt-by:             X1A0-MNT
+source:             DN42

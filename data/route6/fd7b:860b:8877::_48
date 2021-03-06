@@ -1,0 +1,5 @@
+route6:             fd7b:860b:8877::/48
+descr:              S3ROOT NETWORK
+origin:             AS64781
+mnt-by:             BENLUE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:1ebc:34f0:0000:0000:0000:0000:0000 - fd42:1ebc:34f0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1ebc:34f0::/48
+netname:            CLEMENTPRIMOT-NETWORK
+descr:              Clement Primot Network
+country:            FR
+admin-c:            CLEMENTPRIMOT-DN42
+tech-c:             CLEMENTPRIMOT-DN42
+mnt-by:             CLEMENTPRIMOT-MNT
+status:             ASSIGNED
+source:             DN42

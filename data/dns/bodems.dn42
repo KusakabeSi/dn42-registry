@@ -1,0 +1,9 @@
+domain:             bodems.dn42
+nserver:            ns1.bodems.dn42 172.23.146.42
+nserver:            ns1.bodems.dn42 fdef:c0f:fe:1337::42
+nserver:            ns0.bodems.dn42 172.23.146.68
+nserver:            ns0.bodems.dn42 fdef:c0f:fe:100:20d:b9ff:fe35:3aec
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+source:             DN42

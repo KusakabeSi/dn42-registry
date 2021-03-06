@@ -1,0 +1,6 @@
+route:              10.35.0.0/16
+origin:             AS64868
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: cottbus
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,4 @@
+route6:             fd01:470:7d4c::/48
+origin:             AS64600
+mnt-by:             HEXA-MNT
+source:             DN42

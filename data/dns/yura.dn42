@@ -1,0 +1,7 @@
+domain:             yura.dn42
+admin-c:            YURA-DN42
+tech-c:             YURA-DN42
+mnt-by:             MOE-MNT
+nserver:            ns1.yura.dn42 172.20.191.200
+nserver:            ns2.yura.dn42 172.20.191.201
+source:             DN42

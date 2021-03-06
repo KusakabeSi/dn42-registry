@@ -1,0 +1,8 @@
+aut-num:            AS4242420230
+as-name:            SNOW-IX-ROUTESERVER
+descr:              Route Server for the Snow-IX
+org:                ORG-SNOW-IX
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+source:             DN42

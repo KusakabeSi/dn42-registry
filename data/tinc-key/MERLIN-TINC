@@ -1,0 +1,17 @@
+tinc-key:           MERLIN-TINC
+tinc-host:          noc
+tinc-file:          
+                    Address = 84.38.75.129
+                    Subnet = 172.22.255.194/32
+                    Subnet = fd04:de02:7af9:0:0:0:0:194/128
+                    Port=656
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAsn5Dr7hupkDpmEpQ9HU8ZNnV2wYvxUKVTT7ml1Az2QX8esnz+qlB
+                    E8Lrpew/xWt6h339Gze6RBjnRibaWTbqHioPwzRm+juAuFQ/45DgmUgtIk0E/9dp
+                    ubDPP6Eox1Cooz7W3MRiqReR0aMVNNNeVla3h1oMBXGprxlEZc5EszsPMPxRD38d
+                    UdYMaeJZ9UzZY9C2Dke9ZtnJYSDzoXFPmXxQNE40fqHmOOPgc1QN1TY7qjlH0IYc
+                    2Vvm0Eg8Si1M+CfzBityH6mauBE/epLhOAd+pEpYQL420TVUUrcxOlU8y6PPCJLv
+                    NcXVJk3DURkAkcHMzM/sbVyHs/VSUg0VowIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

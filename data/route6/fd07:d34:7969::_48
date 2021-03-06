@@ -1,0 +1,5 @@
+route6:             fd07:d34:7969::/48
+origin:             AS4242423618
+max-length:         64
+mnt-by:             JERRY-MNT
+source:             DN42

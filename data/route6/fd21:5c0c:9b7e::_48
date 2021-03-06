@@ -1,0 +1,5 @@
+route6:             fd21:5c0c:9b7e::/48
+descr:              imlonghao Network Route
+origin:             AS4242421888
+mnt-by:             IMLONGHAO-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:f61:e13::/48
+origin:             AS4242422550
+mnt-by:             CUBESKY-MNT
+source:             DN42

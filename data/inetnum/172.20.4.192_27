@@ -1,0 +1,11 @@
+inetnum:            172.20.4.192 - 172.20.4.223
+netname:            WUTANG-NETWORK
+country:            US
+admin-c:            RZA-DN42
+tech-c:             RZA-DN42
+mnt-by:             RZA-MNT
+nserver:            ns1.wutang.dn42
+nserver:            ns2.wutang.dn42
+status:             ASSIGNED
+cidr:               172.20.4.192/27
+source:             DN42

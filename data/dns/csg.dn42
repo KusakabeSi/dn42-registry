@@ -1,0 +1,7 @@
+domain:             csg.dn42
+admin-c:            CSG-DN42
+tech-c:             CSG-DN42
+mnt-by:             CSG-MNT
+nserver:            ns1.csg.dn42 172.20.20.81
+nserver:            ns1.csg.dn42 fd7b:9886:1c8c::1
+source:             DN42

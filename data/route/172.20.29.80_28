@@ -1,0 +1,4 @@
+route:              172.20.29.80/28
+origin:             AS4242421047
+mnt-by:             BARROW-MNT
+source:             DN42

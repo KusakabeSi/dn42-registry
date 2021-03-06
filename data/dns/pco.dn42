@@ -1,0 +1,8 @@
+domain:             pco.dn42
+org:                ORG-PCO
+admin-c:            FP-DN42
+tech-c:             FP-DN42
+mnt-by:             FP-MNT
+nserver:            ns1.pco.dn42 fdc5:de8a:b004:000f:8741:8e55:99f5:ccb7
+nserver:            ns1.pco.dn42 172.22.137.65
+source:             DN42

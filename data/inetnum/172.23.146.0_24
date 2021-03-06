@@ -1,0 +1,12 @@
+inetnum:            172.23.146.0 - 172.23.146.255
+netname:            NET-BODEMS-IP4-DN42
+descr:              Bodems IPv4-Net
+country:            DE
+nserver:            ns0.bodems.dn42
+nserver:            ns1.bodems.dn42
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+status:             ASSIGNED
+cidr:               172.23.146.0/24
+source:             DN42

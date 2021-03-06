@@ -1,0 +1,7 @@
+route-set:          RS-DN42-NATIVE
+descr:              dn42 native networks
+mp-members:         172.20.0.0/14+
+mp-members:         fd00::/8+
+members:            172.20.0.0/14+
+mnt-by:             DN42-MNT
+source:             DN42

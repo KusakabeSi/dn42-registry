@@ -1,0 +1,10 @@
+inetnum:            172.22.248.64 - 172.22.248.127
+netname:            YTT-INET4
+country:            DK
+admin-c:            MKS-DN42
+tech-c:             MKS-DN42
+mnt-by:             MKS-MNT
+nserver:            ns1.ytt.dn42
+status:             ASSIGNED
+cidr:               172.22.248.64/26
+source:             DN42

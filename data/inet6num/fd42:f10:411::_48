@@ -1,0 +1,10 @@
+inet6num:           fd42:0f10:0411:0000:0000:0000:0000:0000 - fd42:0f10:0411:ffff:ffff:ffff:ffff:ffff
+netname:            FLOKLI-IP6-NEW2
+cidr:               fd42:f10:411::/48
+country:            DE
+admin-c:            FLOKLI-DN42
+tech-c:             FLOKLI-DN42
+mnt-by:             FLOKLI-MNT
+nserver:            ns1.flokli.dn42
+status:             ASSIGNED
+source:             DN42

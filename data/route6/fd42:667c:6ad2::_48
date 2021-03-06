@@ -1,0 +1,5 @@
+route6:             fd42:667c:6ad2::/48
+descr:              SUM FOR UA-NETV6-1
+origin:             AS4242420113
+mnt-by:             SAMODID-MNT
+source:             DN42

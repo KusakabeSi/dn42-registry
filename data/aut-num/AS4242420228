@@ -1,0 +1,9 @@
+aut-num:            AS4242420228
+as-name:            MAXNETR-AS-DN42
+descr:              MAXNET Research Network
+remarks:            Open peering policy, drop me an e-mail
+remarks:            peering[at]dn42.maxnetworks.tk
+admin-c:            MAXC-DN42
+tech-c:             MAXC-DN42
+mnt-by:             MAXC-MNT
+source:             DN42

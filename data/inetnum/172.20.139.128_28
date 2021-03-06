@@ -1,0 +1,10 @@
+inetnum:            172.20.139.128 - 172.20.139.143
+netname:            PUSHR-000
+descr:              Default
+country:            BG
+admin-c:            VICTORPUSHR-DN42
+tech-c:             VICTORPUSHR-DN42
+mnt-by:             PUSHR-MNT
+status:             ASSIGNED
+cidr:               172.20.139.128/28
+source:             DN42

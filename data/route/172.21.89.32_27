@@ -1,0 +1,4 @@
+route:              172.21.89.32/27
+origin:             AS4242421994
+mnt-by:             RLKT-MNT
+source:             DN42

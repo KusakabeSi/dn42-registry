@@ -1,0 +1,5 @@
+route6:             fd69:1691:1691::/48
+origin:             AS4242421691
+max-length:         48
+mnt-by:             MCD1992-MNT
+source:             DN42

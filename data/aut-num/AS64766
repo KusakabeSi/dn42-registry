@@ -1,0 +1,7 @@
+aut-num:            AS64766
+as-name:            UCIS-AS
+descr:              UCIS Internet Exchange [http://ix.ucis.nl]
+admin-c:            UFO-DN42
+tech-c:             UFO-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

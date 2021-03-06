@@ -1,0 +1,4 @@
+route:              172.23.92.0/24
+origin:             AS4242423838
+mnt-by:             FLORZ-MNT
+source:             DN42

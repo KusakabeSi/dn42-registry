@@ -1,0 +1,8 @@
+inetnum:            172.22.76.128 - 172.22.76.159
+netname:            TOASTER-NET
+admin-c:            TOASTER-DN42
+tech-c:             TOASTER-DN42
+mnt-by:             TOASTER-MNT
+status:             ASSIGNED
+cidr:               172.22.76.128/27
+source:             DN42

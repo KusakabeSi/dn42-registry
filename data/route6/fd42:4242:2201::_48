@@ -1,0 +1,4 @@
+route6:             fd42:4242:2201::/48
+origin:             AS4242422201
+mnt-by:             LOTUS-MNT
+source:             DN42

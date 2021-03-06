@@ -1,0 +1,7 @@
+as-block:           AS4242427000-AS4242429999
+descr:              dn42 ASN space for sub-allocations
+remarks:            This block is reserved for sub-allocations.
+remarks:            Please don't allocate individual ASN directly in this block.
+mnt-by:             DN42-MNT
+policy:             ask
+source:             DN42

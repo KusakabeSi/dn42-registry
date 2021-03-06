@@ -1,0 +1,11 @@
+aut-num:            AS4242422238
+as-name:            BESTFENG-AS
+descr:              BESTFENG's DN42 Network，http://www.bestfeng.vip
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,
+remarks:            if necessary, please send email to 2560893687@qq.com
+remarks:            --------------------------------------------------------
+admin-c:            BESTFENG-DN42
+tech-c:             BESTFENG-DN42
+mnt-by:             BESTFENG-MNT
+source:             DN42

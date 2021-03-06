@@ -1,0 +1,13 @@
+aut-num:            AS4242421299
+as-name:            SOMA-AS
+descr:              Soma's main ASN
+remarks:            ---------------------------------------------------------------------------
+remarks:            --=>   DN42 IP Transit Uplinks                                         <=--
+remarks:            ---------------------------------------------------------------------------
+mp-import:          afi ipv4.unicast from AS4242423506 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-import:          afi ipv6.unicast from AS4242423506 accept { fc00::/7^+ }
+mp-export:          afi any.unicast to AS4242423506 announce AS-SOMA
+admin-c:            NOC-DN42
+tech-c:             NOC-DN42
+mnt-by:             S-MNT
+source:             DN42

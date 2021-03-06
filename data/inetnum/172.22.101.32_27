@@ -1,0 +1,10 @@
+inetnum:            172.22.101.32 - 172.22.101.63
+cidr:               172.22.101.32/27
+netname:            DGHUBBLE-LEGACY
+descr:              dghubble's IPv4 network
+country:            US
+admin-c:            DGHUBBLE-DN42
+tech-c:             DGHUBBLE-DN42
+mnt-by:             DGHUBBLE-MNT
+status:             ASSIGNED
+source:             DN42

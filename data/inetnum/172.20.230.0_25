@@ -1,0 +1,8 @@
+inetnum:            172.20.230.0 - 172.20.230.127
+netname:            NETRAVNEN-NET-20200124
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+status:             ASSIGNED
+cidr:               172.20.230.0/25
+source:             DN42

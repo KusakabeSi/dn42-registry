@@ -1,0 +1,11 @@
+inet6num:           fddf:375c:489e:0000:0000:0000:0000:0000 - fddf:375c:489e:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:375c:489e::/48
+netname:            MOMIJI-NETWORK
+descr:              Network of MOMIJI
+country:            JP
+admin-c:            MOMIJI-DN42
+tech-c:             MOMIJI-DN42
+mnt-by:             MOMIJI-MNT
+nserver:            ns1.momiji.dn42
+status:             ASSIGNED
+source:             DN42

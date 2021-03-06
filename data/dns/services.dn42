@@ -1,0 +1,7 @@
+domain:             services.dn42
+admin-c:            TRUNET-DN42
+tech-c:             TRUNET-DN42
+mnt-by:             TRUNET-MNT
+nserver:            ns1.services.dn42 172.23.183.26
+nserver:            ns1.services.dn42 fd81:2009:2009::1000
+source:             DN42

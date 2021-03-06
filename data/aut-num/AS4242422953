@@ -1,0 +1,10 @@
+aut-num:            AS4242422953
+as-name:            Ilmenau dn42 Internet Exchange
+admin-c:            CLERIE-DN42
+admin-c:            NEX-DN42
+tech-c:             CLERIE-DN42
+tech-c:             NEX-DN42
+org:                ORG-ILDIX
+mnt-by:             CLERIE-MNT
+mnt-by:             NEX-MNT
+source:             DN42

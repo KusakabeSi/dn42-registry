@@ -1,0 +1,9 @@
+inetnum:            172.23.109.168 - 172.23.109.175
+cidr:               172.23.109.168/29
+netname:            SCOOTERH928-NET-1
+country:            US
+admin-c:            SCOOTERH928-DN42
+tech-c:             SCOOTERH928-DN42
+mnt-by:             SCOOTERH928-MNT
+status:             ASSIGNED
+source:             DN42

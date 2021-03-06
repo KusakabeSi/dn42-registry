@@ -1,0 +1,10 @@
+key-cert:           MTN-FLHB-NETGROUP
+method:             MTN
+owner:              noc@flhb.de
+fingerpr:           107dfb38faa125a9d4fd727b1ea2c5ef6ceabd1e
+certif:             MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvvNo9G4KQa0ni8H6bmrIecnDhc7gNB+DYbL2DG0U8h8AAP3SA7+3FcB4gk8jyp9fDiICLghwCKCApS8q4VqctmEz6JypzHZ3rZnGdEHsFGDAWQHgrEQRda076sEhSss77gzaufrb//HczEt2No9K7AiZGYqooKj2teR3OiCRCoQIDAQAB
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+tech-c:             DEELKAR-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

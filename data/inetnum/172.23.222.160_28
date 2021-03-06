@@ -1,0 +1,8 @@
+inetnum:            172.23.222.160 - 172.23.222.175
+cidr:               172.23.222.160/28
+netname:            SPACE24-V4-NET-1
+admin-c:            SPACE24-DN42
+tech-c:             SPACE24-DN42
+mnt-by:             SPACE24-MNT
+status:             ASSIGNED
+source:             DN42

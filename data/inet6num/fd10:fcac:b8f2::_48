@@ -1,0 +1,10 @@
+inet6num:           fd10:fcac:b8f2:0000:0000:0000:0000:0000 - fd10:fcac:b8f2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:fcac:b8f2::/48
+netname:            FABRATERIA-NETWORK
+descr:              FABRATERIA NETWORK
+country:            IT
+admin-c:            M4OC-DN42
+tech-c:             DESMOND-DN42
+mnt-by:             FABRATERIA-MNT
+status:             ASSIGNED
+source:             DN42

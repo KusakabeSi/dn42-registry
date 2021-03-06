@@ -1,0 +1,5 @@
+route:              172.22.181.192/27
+descr:              PLASMATRIX-AS
+origin:             AS4242422322
+mnt-by:             PLASMATRIX-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fde9:7fb8:427f::/48
+origin:             AS4242420175
+max-length:         48
+mnt-by:             MONOXANE-MNT
+source:             DN42

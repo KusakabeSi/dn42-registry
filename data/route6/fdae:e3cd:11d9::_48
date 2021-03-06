@@ -1,0 +1,5 @@
+route6:             fdae:e3cd:11d9::/48
+origin:             AS4242420807
+max-length:         48
+mnt-by:             RHM-MNT
+source:             DN42

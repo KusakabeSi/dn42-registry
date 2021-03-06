@@ -1,0 +1,7 @@
+domain:             koala.dn42
+admin-c:            KOALA-DN42
+tech-c:             KOALA-DN42
+descr:              Rawr IMMA Drop Bear
+mnt-by:             KOALA-MNT
+nserver:            ns1.koala.dn42 fd42:e621::
+source:             DN42

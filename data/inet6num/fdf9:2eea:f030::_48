@@ -1,0 +1,11 @@
+inet6num:           fdf9:2eea:f030:0000:0000:0000:0000:0000 - fdf9:2eea:f030:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf9:2eea:f030::/48
+netname:            IWASINNAMUKNOW-NETWORK
+country:            GB
+admin-c:            IWASINNAMUKNOW-DN42
+tech-c:             IWASINNAMUKNOW-DN42
+mnt-by:             IWASINNAMUKNOW-MNT
+status:             ASSIGNED
+nserver:            ns1.iwasinnamuknow.dn42
+nserver:            ns2.iwasinnamuknow.dn42
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             dondon.dn42
+admin-c:            DONDON-DN42
+tech-c:             DONDON-DN42
+mnt-by:             DONDON-MNT
+nserver:            primary.dondon.dn42 172.20.201.2
+nserver:            primary.dondon.dn42 fd42:350a:700b:1111::2
+nserver:            secondary.dondon.dn42 172.20.201.222
+nserver:            secondary.dondon.dn42 fd42:350a:700b:ffff::2
+source:             DN42

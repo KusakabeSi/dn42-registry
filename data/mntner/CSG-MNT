@@ -1,0 +1,6 @@
+mntner:             CSG-MNT
+admin-c:            CSG-DN42
+tech-c:             CSG-DN42
+mnt-by:             CSG-MNT
+auth:               pgp-fingerprint C0038973319E281EDDA56DB109A747769F9ED1E0
+source:             DN42

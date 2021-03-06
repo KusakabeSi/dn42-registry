@@ -1,0 +1,8 @@
+domain:             darkdna.dn42
+descr:              DarkDNA
+admin-c:            PURRDETA-DN42
+tech-c:             PURRDETA-DN42
+mnt-by:             PURRDETA-MNT
+nserver:            ns1.darkdna.net
+nserver:            ns2.darkdna.net
+source:             DN42

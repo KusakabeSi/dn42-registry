@@ -1,0 +1,8 @@
+inetnum:            10.17.0.0 - 10.17.255.255
+cidr:               10.17.0.0/16
+netname:            ICVPN-JENA
+nserver:            1.250.17.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
+source:             ICVPN

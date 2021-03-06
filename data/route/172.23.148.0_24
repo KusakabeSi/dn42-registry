@@ -1,0 +1,4 @@
+route:              172.23.148.0/24
+origin:             AS76140
+mnt-by:             FEUERROT-MNT
+source:             DN42

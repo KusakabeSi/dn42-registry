@@ -1,0 +1,9 @@
+inetnum:            172.20.149.0 - 172.20.149.15
+cidr:               172.20.149.0/28
+netname:            CUBESKY-NETWORK
+admin-c:            CUBESKY-DN42
+tech-c:             CUBESKY-DN42
+mnt-by:             CUBESKY-MNT
+nserver:            ns.cubesky.dn42
+status:             ASSIGNED
+source:             DN42

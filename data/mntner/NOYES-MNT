@@ -1,0 +1,6 @@
+mntner:             NOYES-MNT
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+auth:               pgp-fingerprint 40BCEEC866E912B6DDC66B07287092D25E67EF99
+source:             DN42

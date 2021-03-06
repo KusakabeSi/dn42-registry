@@ -1,0 +1,16 @@
+aut-num:            AS4242422306
+as-name:            PMENKE-AS
+remarks:            +-------------------------------------------------+
+remarks:            | * AS-Status: Live                               |
+remarks:            | * Peering-Policy: Open, OpenVPN preferred       |
+remarks:            | * Peering-Contact: PMENKE-DN42                  |
+remarks:            | * IPv6-Support and peering: Yes                 |
+remarks:            +---------+---------------------------------------+
+remarks:            | Country | Location                              |
+remarks:            +---------+---------------------------------------+
+remarks:            | DE      | Falkenstein, Germany (Hetzner RZ19)   |
+remarks:            +---------+---------------------------------------+
+admin-c:            PMENKE-DN42
+tech-c:             PMENKE-DN42
+mnt-by:             PMENKE-MNT
+source:             DN42

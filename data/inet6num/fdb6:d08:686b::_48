@@ -1,0 +1,11 @@
+inet6num:           fdb6:0d08:686b:0000:0000:0000:0000:0000 - fdb6:0d08:686b:ffff:ffff:ffff:ffff:ffff
+netname:            NET-MKB
+descr:              MKB
+country:            US
+admin-c:            MKB-DN42
+tech-c:             MKB-DN42
+mnt-by:             MKB-MNT
+status:             ASSIGNED
+nserver:            ns.mkb.dn42
+cidr:               fdb6:d08:686b::/48
+source:             DN42

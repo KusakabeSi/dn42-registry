@@ -1,0 +1,7 @@
+route6:             fddf:4811:38a0::/48
+origin:             AS4242422257
+max-length:         48
+admin-c:            IPHIL64-DN42
+tech-c:             IPHIL64-DN42
+mnt-by:             ACONSULT-MNT
+source:             DN42

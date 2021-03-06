@@ -1,0 +1,25 @@
+tinc-key:           FLONET-SITE1-TINC
+tinc-host:          flonet
+compression:        9
+mnt-by:             DUMMY-MNT
+subnet:             172.23.67.8/32
+tinc-address:       flonet-rd.myownb3.com
+port:               655
+tinc-file:          
+                    Address = flonet-rd.myownb3.com
+                    Compression = 9
+                    Port = 655
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEAn09zAh77VAOR6ewq3YUdSl8cKr+8tuhzUVrJitq9TrWPvUaCKWbF
+                    4lOGFUFwUnwkwQmeiuVk13Afhk2FLxOuImGx9UaG3eRu+o2vjPwxVzTRVlBMpKxH
+                    pzIgt6dz9bl/19OHGRsdPBhCSEi7+wnj+fUQy5Vl88DS/5/8J7O7fSTcSYG8eslr
+                    6YuWQ9/QLKdVlPddduwwLhwZdT4Sdqg4P+z02czXu8kGt9xdgb18mPdCF9QQHYtv
+                    uhf1eubyoc21My6Ys5wBBYv7rhA7iSNSZyOvZHVmfRJWLZNkUJYTvyUv2JM/PADT
+                    c9U1ji2BrRMfXqVdCADnGmFaSgXeyynwHmFd4ZPhrxlRlCLZs6u6RQoamD9Q/Unn
+                    qF2bAJt0Sbm9L0u7afU8IB5HeWCgKgRYwZ9bS7TvDTsTgfa5zuUoaYBpouhknIUX
+                    PKtwgAXA+1F4E2Z/XokJIALbFMtumjnmRdyCR/XqIC3kBOGZ98VvLl/opnELWy8Z
+                    W8abPJZbcEXD1lyIjmCq44ycu/Pph6RMNhNXZYP/jFIgECdAjeNx8GZaN4avkOR3
+                    PjomHmaEiuQXGP9pQAuvm9v4BqtYL82DGPj+AWv0mIfLCKev13aHiUxseRF2ssOL
+                    R2WVRxGDFgC2HsITSVeAcue0F7+b854DD9T6EyUiVL7WjccpiGackgMCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

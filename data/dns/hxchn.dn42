@@ -1,0 +1,9 @@
+domain:             hxchn.dn42
+admin-c:            HEXCHEN-DN42
+tech-c:             HEXCHEN-DN42
+mnt-by:             HEXCHEN-MNT
+nserver:            ns1.hxchn.dn42 172.21.93.33
+nserver:            ns1.hxchn.dn42 fd65:f4d8:5327:53::1
+nserver:            ns2.hxchn.dn42 172.21.93.34
+nserver:            ns2.hxchn.dn42 fd65:f4d8:5327:53::2
+source:             DN42

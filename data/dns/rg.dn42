@@ -1,0 +1,7 @@
+domain:             rg.dn42
+admin-c:            RG-DN42
+tech-c:             RG-DN42
+mnt-by:             RG-MNT
+nserver:            ns1.foo.dn42 172.23.151.240
+nserver:            ns1.foo.dn42 fdcc:8b7e:4593:53::1
+source:             DN42

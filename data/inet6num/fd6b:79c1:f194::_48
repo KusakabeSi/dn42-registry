@@ -1,0 +1,10 @@
+inet6num:           fd6b:79c1:f194:0000:0000:0000:0000:0000 - fd6b:79c1:f194:ffff:ffff:ffff:ffff:ffff
+netname:            HoshinoTelecom-IPV6
+descr:              CharlesYang NO.1
+country:            CN
+admin-c:            TELECOMADMIN-DN42
+tech-c:             TELECOMADMIN-DN42
+mnt-by:             TELECOMADMIN-MNT
+status:             ASSIGNED
+cidr:               fd6b:79c1:f194::/48
+source:             DN42

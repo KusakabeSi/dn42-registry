@@ -1,0 +1,5 @@
+route:              172.20.4.64/27
+descr:              ALS7 route
+origin:             AS4242422684
+mnt-by:             ALS7-MNT
+source:             DN42

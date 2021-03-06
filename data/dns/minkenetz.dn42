@@ -1,0 +1,7 @@
+domain:             minkenetz.dn42
+descr:              MinkeNetz Domain
+admin-c:            MINKE-DN42
+tech-c:             MINKE-DN42
+mnt-by:             MINKE-MNT
+nserver:            loaderror.dn42
+source:             DN42

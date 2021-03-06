@@ -1,0 +1,5 @@
+route6:             fdfd:468b:bab6::/48
+origin:             AS4242423953
+max-length:         48
+mnt-by:             ERINN-MNT
+source:             DN42

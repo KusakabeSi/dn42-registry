@@ -1,0 +1,5 @@
+route:              172.23.215.96/27
+descr:              Arendtsen Net
+origin:             AS4242421978
+mnt-by:             ARENDTSEN-MNT
+source:             DN42

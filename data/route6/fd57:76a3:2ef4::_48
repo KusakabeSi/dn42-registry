@@ -1,0 +1,5 @@
+route6:             fd57:76a3:2ef4::/48
+origin:             AS4242420828
+max-length:         48
+mnt-by:             R8-MNT
+source:             DN42

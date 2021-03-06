@@ -1,0 +1,7 @@
+aut-num:            AS4242423926
+as-name:            PSM-AS
+descr:              AS for PSM network
+admin-c:            PSM-DN42
+tech-c:             PSM-DN42
+mnt-by:             PSM-MNT
+source:             DN42

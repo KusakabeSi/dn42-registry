@@ -1,0 +1,5 @@
+route6:             fdcc:3597:f3cf::/48
+origin:             AS4242422992
+max-length:         48
+mnt-by:             EASTON-MNT
+source:             DN42

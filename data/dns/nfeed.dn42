@@ -1,0 +1,6 @@
+domain:             nfeed.dn42
+admin-c:            NFEED-DN42
+tech-c:             NFEED-DN42
+mnt-by:             NFEED-MNT
+nserver:            ns1.nfeed.dn42 172.20.39.33
+source:             DN42

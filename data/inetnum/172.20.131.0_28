@@ -1,0 +1,9 @@
+inetnum:            172.20.131.0 - 172.20.131.15
+netname:            RRAMOSROB-DN42-US
+country:            US
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             RRAMOSROB-MNT
+status:             ASSIGNED
+cidr:               172.20.131.0/28
+source:             DN42

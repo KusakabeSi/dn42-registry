@@ -1,0 +1,9 @@
+inetnum:            172.20.167.144 - 172.20.167.159
+netname:            HIJACK4-NETWORK
+country:            CN
+admin-c:            HIJACK-DN42
+tech-c:             HIJACK-DN42
+mnt-by:             HIJACK-MNT
+status:             ASSIGNED
+cidr:               172.20.167.144/28
+source:             DN42

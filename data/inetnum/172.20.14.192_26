@@ -1,0 +1,11 @@
+inetnum:            172.20.14.192 - 172.20.14.255
+netname:            GOTROOT-INT
+descr:              Got root?
+country:            CA
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+nserver:            ns1.gotroot.dn42
+status:             ALLOCATED
+cidr:               172.20.14.192/26
+source:             DN42

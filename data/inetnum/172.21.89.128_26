@@ -1,0 +1,12 @@
+inetnum:            172.21.89.128 - 172.21.89.191
+cidr:               172.21.89.128/26
+netname:            ERINN-NETWORK
+descr:              Erinn Network Main v4
+admin-c:            ERINN-DN42
+tech-c:             ERINN-DN42
+org:                ORG-ERINN
+mnt-by:             ERINN-MNT
+nserver:            uladh.ns.erinn.dn42
+nserver:            iria.ns.erinn.dn42
+status:             ASSIGNED
+source:             DN42

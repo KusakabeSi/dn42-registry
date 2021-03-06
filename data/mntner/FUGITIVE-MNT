@@ -1,0 +1,8 @@
+mntner:             FUGITIVE-MNT
+descr:              FVPN Network Maintainer object
+admin-c:            FUGITIVE-DN42
+tech-c:             FUGITIVE-DN42
+mnt-by:             FUGITIVE-MNT
+source:             DN42
+auth:               pgp-fingerprint 0B4F8B84CA715231801846125FF9018C032866F2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTea6MZKz70OuLviUCh0jgeq3lx6M+wQl9NVRgUMLDLpQKKwuqjfUAu71pcsUoUufI3XkFNKBGinYNfdRDcvquYTNPmXH+rcdDrKiLtqSqkwUpvxNX1C5S/NK7kNpAb6x2KXFe1/r6SKUN6tNYwb81sEeoViJaHpcapofLIRF0e+F7D/jh7ZmzR27mRKHs8YfkpZhIg9QGLLrjbsltvyI7gPfgaTJFWSUy0g+WI5WuC3WCh3pMrNmkZSF1QEHcWm5be0gx+LF65Wv6f+fYKf7tgrPFUmYX2dqqeYnuuuV5OZyspw6hYCM+Up/k2qltUnuYzq3NUprFqqbVILGjqdub

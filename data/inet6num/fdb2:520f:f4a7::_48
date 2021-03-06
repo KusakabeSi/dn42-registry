@@ -1,0 +1,9 @@
+inet6num:           fdb2:520f:f4a7:0000:0000:0000:0000:0000 - fdb2:520f:f4a7:ffff:ffff:ffff:ffff:ffff
+netname:            QVQ-AS-00-IPV6
+cidr:               fdb2:520f:f4a7::/48
+descr:              LRINQVQ's IPv6 Network
+admin-c:            LRINQVQ-DN42
+tech-c:             LRINQVQ-DN42
+mnt-by:             LRINQVQ-MNT
+status:             ASSIGNED
+source:             DN42

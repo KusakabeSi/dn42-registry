@@ -1,0 +1,9 @@
+inetnum:            172.21.106.160 - 172.21.106.191
+cidr:               172.21.106.160/27
+netname:            CONSOMA-NET-1
+country:            FR
+admin-c:            CONSOMA-DN42
+tech-c:             CONSOMA-DN42
+mnt-by:             CONSOMA-MNT
+status:             ASSIGNED
+source:             DN42

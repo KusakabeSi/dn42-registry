@@ -1,0 +1,8 @@
+route6:             fd10:127:2f2f::/48
+max-length:         64
+origin:             AS4201270020
+admin-c:            EDWARD-P-NEONETWORK
+tech-c:             EDWARD-P-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

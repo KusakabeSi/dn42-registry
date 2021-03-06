@@ -1,0 +1,7 @@
+domain:             cypherpunk.dn42
+admin-c:            CYPHERPUNK-DN42
+tech-c:             CYPHERPUNK-DN42
+mnt-by:             CYPHERPUNK-MNT
+nserver:            ns1.cypherpunk.dn42 172.20.148.80
+nserver:            ns1.cypherpunk.dn42 fd63:b0d8:696e::1
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             anyservices.dn42
+descr:              ANYSERVICES
+admin-c:            ANYSERVICES-DN42
+tech-c:             ANYSERVICES-DN42
+mnt-by:             ANYSERVICES-MNT
+nserver:            ns1.anyservices.dn42 fddc:3293:81a4::2
+source:             DN42

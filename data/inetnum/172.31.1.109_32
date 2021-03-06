@@ -1,0 +1,7 @@
+inetnum:            172.31.1.109 - 172.31.1.109
+cidr:               172.31.1.109/32
+netname:            CHAOSVPN-JLXIP
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

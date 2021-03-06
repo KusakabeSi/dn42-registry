@@ -1,0 +1,4 @@
+route:              172.20.172.32/27
+origin:             AS4242422991
+mnt-by:             VITALE-MNT
+source:             DN42

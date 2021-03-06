@@ -1,0 +1,8 @@
+inetnum:            172.20.14.128 - 172.20.14.159
+admin-c:            FRCE-DN42
+tech-c:             FRCE-DN42
+mnt-by:             MFORCE-MNT
+status:             ASSIGNED
+cidr:               172.20.14.128/27
+netname:            evennet network
+source:             DN42

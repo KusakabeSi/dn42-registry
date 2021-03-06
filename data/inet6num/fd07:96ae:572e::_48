@@ -1,0 +1,7 @@
+inet6num:           fd07:96ae:572e:0000:0000:0000:0000:0000 - fd07:96ae:572e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd07:96ae:572e::/48
+netname:            ICVPN-SLFL
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: slfl
+mnt-by:             DN42-MNT
+source:             ICVPN

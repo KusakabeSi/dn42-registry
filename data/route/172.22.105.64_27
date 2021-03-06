@@ -1,0 +1,4 @@
+route:              172.22.105.64/27
+origin:             AS4242421975
+mnt-by:             FL-MNT
+source:             DN42

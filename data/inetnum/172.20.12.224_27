@@ -1,0 +1,8 @@
+inetnum:            172.20.12.224 - 172.20.12.255
+cidr:               172.20.12.224/27
+netname:            ALEMAL-NETWORK
+admin-c:            ALEMAL-DN42
+tech-c:             ALEMAL-DN42
+mnt-by:             ALEMAL-MNT
+status:             ASSIGNED
+source:             DN42

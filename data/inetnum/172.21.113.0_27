@@ -1,0 +1,10 @@
+inetnum:            172.21.113.0 - 172.21.113.31
+netname:            ETHERNAL-DN42-NET
+country:            NZ
+admin-c:            ETHERNAL-DN42
+tech-c:             ETHERNAL-DN42
+mnt-by:             ETHERNAL-MNT
+nserver:            ns1.ethernal.dn42
+status:             ASSIGNED
+cidr:               172.21.113.0/27
+source:             DN42

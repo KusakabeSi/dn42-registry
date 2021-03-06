@@ -1,0 +1,8 @@
+domain:             ddev.dn42
+descr:              dn42 ns by debiandev
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+nserver:            ns1.ddev.dn42 172.21.111.221
+nserver:            ns2.ddev.dn42 172.21.111.220
+source:             DN42

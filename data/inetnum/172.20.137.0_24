@@ -1,0 +1,8 @@
+inetnum:            172.20.137.0 - 172.20.137.255
+admin-c:            ND-DN42
+tech-c:             ND-DN42
+mnt-by:             ND-MNT
+status:             ASSIGNED
+cidr:               172.20.137.0/24
+netname:            Unnamed 172.20.137.0/24 Network
+source:             DN42

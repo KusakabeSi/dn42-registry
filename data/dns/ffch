@@ -1,0 +1,11 @@
+domain:             ffch
+nserver:            5.0.119.10.ipv4.registry-sync.dn42
+nserver:            8.0.119.10.ipv4.registry-sync.dn42
+nserver:            10.0.119.10.ipv4.registry-sync.dn42
+nserver:            5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ipv6.registry-sync.dn42
+nserver:            8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ipv6.registry-sync.dn42
+nserver:            a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.7.2.a.9.8.8.b.d.9.c.3.7.c.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: schweiz
+mnt-by:             DN42-MNT
+source:             ICVPN

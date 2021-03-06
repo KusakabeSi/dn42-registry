@@ -1,0 +1,11 @@
+aut-num:            AS4242421889
+as-name:            YAIX
+descr:              Yet Another Internet Exchange
+remarks:            -------------------------------------
+remarks:            For more information,
+remarks:            Please visit: https://hackmd.io/s/SkmhJffu7
+remarks:            -------------------------------------
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+source:             DN42

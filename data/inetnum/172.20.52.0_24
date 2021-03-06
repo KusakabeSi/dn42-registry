@@ -1,0 +1,9 @@
+inetnum:            172.20.52.0 - 172.20.52.255
+cidr:               172.20.52.0/24
+netname:            KRSTN-MAIN
+admin-c:            KRSTN-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             KRSTN-MNT
+status:             ASSIGNED
+nserver:            ns1.krstn.dn42
+source:             DN42

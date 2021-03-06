@@ -1,0 +1,11 @@
+inetnum:            172.22.108.0 - 172.22.108.63
+cidr:               172.22.108.0/26
+netname:            JLU5-NET-2
+descr:              jlu5.dn42 services and R&D network
+country:            CA
+admin-c:            JLU5-DN42
+tech-c:             JLU5-DN42
+mnt-by:             JLU5-MNT
+nserver:            ns1.jlu5.dn42
+status:             ASSIGNED
+source:             DN42

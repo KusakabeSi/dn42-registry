@@ -1,0 +1,8 @@
+inetnum:            172.23.84.0 - 172.23.84.31
+cidr:               172.23.84.0/27
+netname:            BGP1-NETWORK
+admin-c:            BGP1-DN42
+tech-c:             BGP1-DN42
+mnt-by:             BGP1-MNT
+status:             ASSIGNED
+source:             DN42

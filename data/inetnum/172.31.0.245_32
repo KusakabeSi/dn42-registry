@@ -1,0 +1,7 @@
+inetnum:            172.31.0.245 - 172.31.0.245
+cidr:               172.31.0.245/32
+netname:            CHAOSVPN-ITPUNKS
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

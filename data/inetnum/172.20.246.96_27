@@ -1,0 +1,10 @@
+inetnum:            172.20.246.96 - 172.20.246.127
+netname:            MUZIKCA-NET
+descr:              Sean Net
+country:            DE
+admin-c:            MUZIKCA-DN42
+tech-c:             MUZIKCA-DN42
+mnt-by:             MUZIKCA-MNT
+status:             ALLOCATED
+cidr:               172.20.246.96/27
+source:             DN42

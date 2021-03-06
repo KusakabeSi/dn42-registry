@@ -1,0 +1,4 @@
+route:              172.20.12.224/27
+origin:             AS4242421525
+mnt-by:             ALEMAL-MNT
+source:             DN42

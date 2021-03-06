@@ -1,0 +1,9 @@
+inet6num:           fd2a:1805:0030:0000:0000:0000:0000:0000 - fd2a:1805:0030:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2a:1805:30::/48
+netname:            HAXXYZ-V6
+country:            SE
+admin-c:            WHEX-DN42
+tech-c:             WHEX-DN42
+mnt-by:             WHEX-MNT
+status:             ASSIGNED
+source:             DN42

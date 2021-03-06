@@ -1,0 +1,7 @@
+inet6num:           fd0a:d928:b30d:0000:0000:0000:0000:0000 - fd0a:d928:b30d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0a:d928:b30d::/48
+netname:            ICVPN-ERFURT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: erfurt
+mnt-by:             DN42-MNT
+source:             ICVPN

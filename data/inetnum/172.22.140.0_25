@@ -1,0 +1,10 @@
+inetnum:            172.22.140.0 - 172.22.140.127
+netname:            HANKB-IPV4-DN42
+descr:              Experimental Network
+country:            US
+admin-c:            HANKB-DN42
+tech-c:             HANKB-DN42
+mnt-by:             HANKB-MNT
+status:             ASSIGNED
+cidr:               172.22.140.0/25
+source:             DN42

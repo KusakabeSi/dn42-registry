@@ -1,0 +1,4 @@
+route:              172.22.169.16/28
+origin:             AS4242422690
+mnt-by:             QINLONG-MNT
+source:             DN42

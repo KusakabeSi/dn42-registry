@@ -1,0 +1,5 @@
+route6:             fd42:d42:542::/48
+descr:              Route for Jo-Jo's Main IPv6 Network
+origin:             AS4242423942
+mnt-by:             JO-JO-MNT
+source:             DN42

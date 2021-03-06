@@ -1,0 +1,9 @@
+inetnum:            172.21.101.80 - 172.21.101.87
+netname:            THB-NETWORK-V4
+country:            DE
+admin-c:            THB-DN42
+tech-c:             THB-DN42
+mnt-by:             TOBIHB-MNT
+status:             ASSIGNED
+cidr:               172.21.101.80/29
+source:             DN42

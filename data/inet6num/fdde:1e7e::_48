@@ -1,0 +1,9 @@
+inet6num:           fdde:1e7e:0000:0000:0000:0000:0000:0000 - fdde:1e7e:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fdde:1e7e::/48
+netname:            7MARCUS9-NETWORK
+descr:              Network of 7marcus9
+country:            DE
+tech-c:             7MARCUS9-DN42
+mnt-by:             7MARCUS9-MNT
+status:             ASSIGNED
+source:             DN42

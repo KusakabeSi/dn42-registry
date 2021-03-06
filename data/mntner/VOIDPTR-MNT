@@ -1,0 +1,5 @@
+mntner:             VOIDPTR-MNT
+admin-c:            VOIDPTR-DN42
+tech-c:             VOIDPTR-DN42
+mnt-by:             VOIDPTR-MNT
+source:             DN42

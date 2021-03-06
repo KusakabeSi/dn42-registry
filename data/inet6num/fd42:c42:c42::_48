@@ -1,0 +1,11 @@
+inet6num:           fd42:0c42:0c42:0000:0000:0000:0000:0000 - fd42:0c42:0c42:ffff:ffff:ffff:ffff:ffff
+netname:            TTYGAP-V6
+nserver:            ns.ttygap.dn42
+descr:              Yarar
+country:            DE
+admin-c:            BANDIE-DN42
+tech-c:             BANDIE-DN42
+mnt-by:             BANDIE-MNT
+status:             ASSIGNED
+cidr:               fd42:c42:c42::/48
+source:             DN42

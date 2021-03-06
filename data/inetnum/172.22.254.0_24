@@ -1,0 +1,12 @@
+inetnum:            172.22.254.0 - 172.22.254.255
+netname:            CREST-SHARED-TRANSFER-DN42-IP4NET
+descr:              Crest's dn42 transfer networks
+country:            DE
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+status:             ALLOCATED
+nserver:            dns1.crest.dn42
+nserver:            dns2.crest.dn42
+cidr:               172.22.254.0/24
+mnt-by:             CREST-MNT
+source:             DN42

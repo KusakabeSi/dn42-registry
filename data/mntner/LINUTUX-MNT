@@ -1,0 +1,8 @@
+mntner:             LINUTUX-MNT
+descr:              Linutux Maintenance Object
+auth:               pgp-fingerprint FB72A59FBE2B98139AEB194B273792D5D0CAFB05
+admin-c:            LINUTUX-DN42
+tech-c:             LINUTUX-DN42
+mnt-by:             LINUTUX-MNT
+auth:               ssh-rsa  AAAAB3NzaC1yc2EAAAADAQABAAABAQDCpeiyF7LcZhkdRCBFzTnPxTx8kwA5Ig6FWq8FLeCjLMDadKP5fKrNW5S7MAG0obETV+IkveMx0vlt1t036JR1fVYkP+8f1xl5kMeiG2btuCl9ypM6VdGslDwLifw7wI+0oGOXwQdE4mBh9xEAqwOVau58gIonvAzKctRuMr/hgFLm3Chxf2VnN+wSw9Na4dEdulufB0xrPptMZsd5na70IJWBs2zxzVhW/o2H8Wr1hptU3tStFeoZzKnNUJZ2WFdoluLBsmcjqK/dH/tLN9B7dhtD6nr50uoheR4g0XfJMixA34FRsxWvgv88fEUwExzltMJpwwcU6Gm4uaZM/8RZ
+source:             DN42

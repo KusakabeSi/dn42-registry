@@ -1,0 +1,5 @@
+route6:             fd6b:869c:c4a1::/48
+descr:              CookieFactory's IPv6 network
+origin:             AS4242421860
+mnt-by:             COOKIEFACTORY-MNT
+source:             DN42

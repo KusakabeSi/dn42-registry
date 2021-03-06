@@ -1,0 +1,10 @@
+inetnum:            172.23.240.32 - 172.23.240.63
+cidr:               172.23.240.32/27
+netname:            NET-MARIOS-IPV4-DN42
+country:            IE
+descr:              Marios's IPv4 Lab
+admin-c:            MARIOS-DN42
+tech-c:             MARIOS-DN42
+mnt-by:             MARIOS-MNT
+status:             ASSIGNED
+source:             DN42

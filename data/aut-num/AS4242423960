@@ -1,0 +1,7 @@
+aut-num:            AS4242423960
+as-name:            HEADLESS-AS
+descr:              Ichabod AS
+admin-c:            ICHABOD-DN42
+tech-c:             ICHABOD-DN42
+mnt-by:             ICHABOD-MNT
+source:             DN42

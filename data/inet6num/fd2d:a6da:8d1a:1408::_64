@@ -1,0 +1,8 @@
+inet6num:           fd2d:a6da:8d1a:1408:0000:0000:0000:0000 - fd2d:a6da:8d1a:1408:ffff:ffff:ffff:ffff
+netname:            W0H-IP6NET-LEGACY
+admin-c:            W0H-DN42
+tech-c:             W0H-DN42
+mnt-by:             W0H-MNT
+status:             ASSIGNED
+cidr:               fd2d:a6da:8d1a:1408::/64
+source:             DN42

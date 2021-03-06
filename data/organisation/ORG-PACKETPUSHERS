@@ -1,0 +1,12 @@
+organisation:       ORG-PACKETPUSHERS
+org-name:           Packet Pushers
+descr:              Community of Packet Pushers networking podcast
+www:                http://packetpushers.net/
+admin-c:            COXLEY-DN42
+tech-c:             COXLEY-DN42
+admin-c:            TWISTBYRN-DN42
+tech-c:             TWISTBYRN-DN42
+e-mail:             peering-pp-dn42@googlegroups.com
+mnt-by:             COXLEY-MNT
+mnt-by:             TWISTBYRN-MNT
+source:             DN42

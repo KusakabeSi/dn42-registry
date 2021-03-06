@@ -1,0 +1,4 @@
+route:              172.20.51.64/27
+origin:             AS4242420269
+mnt-by:             CITADEL-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:2950:0000:ffff:0000:0000:0000:0000 - fd42:2950:0000:ffff:ffff:ffff:ffff:ffff
+netname:            SIS-DN42-INET6-TRANSFER
+descr:              transfer network
+remarks:            this network should be unrouted, no traffic should originate from here
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               fd42:2950:0:ffff::/64
+source:             DN42

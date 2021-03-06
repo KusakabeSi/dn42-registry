@@ -1,0 +1,8 @@
+domain:             mhm.dn42
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT
+nserver:            hulk.mhm.dn42 172.23.67.1
+nserver:            danny.mhm.dn42 172.23.67.8
+nserver:            hulk.mhm.dn42 fd70:96c9:ef25::1
+source:             DN42

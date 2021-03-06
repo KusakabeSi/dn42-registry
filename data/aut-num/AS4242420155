@@ -1,0 +1,18 @@
+aut-num:            AS4242420155
+as-name:            DDEV-AS
+descr:              Test AS for learning bgp
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+remarks:            -------------------------------------
+remarks:            - LOCATIONS -
+remarks:            Fankfurt/Main (Interwerk DataCenter)
+remarks:            - MORE -
+remarks:            mail: info@myhost.pro
+remarks:            web: http://as4242420155.dn42
+remarks:            - PEERINGS -
+remarks:            AS4242420022 - BLAZING
+remarks:            AS4242421230 - ASIX
+remarks:            AS4242420077 - GERGERNET
+remarks:            -------------------------------------
+source:             DN42

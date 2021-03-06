@@ -1,0 +1,12 @@
+inetnum:            172.22.251.0 - 172.22.251.127
+netname:            CHAOSDORF-TRANSFER-DN42
+descr:              Chaosdorf transfer network
+remarks:            it's a transfer network and therefore not announced
+admin-c:            CHAOSDORF-DN42
+tech-c:             NOMASTER-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             NOMASTER-MNT
+mnt-by:             FEUERROT-MNT
+status:             ASSIGNED
+cidr:               172.22.251.0/25
+source:             DN42

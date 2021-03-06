@@ -1,0 +1,12 @@
+inetnum:            172.23.67.0 - 172.23.67.127
+netname:            BLAZING-INTRA
+descr:              Blazing's Space
+country:            DE
+nserver:            hulk.mhm.dn42
+nserver:            danny.mhm.dn42
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT
+status:             ASSIGNED
+cidr:               172.23.67.0/25
+source:             DN42

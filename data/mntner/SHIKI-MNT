@@ -1,0 +1,6 @@
+mntner:             SHIKI-MNT
+admin-c:            SHIKI-DN42
+tech-c:             SHIKI-DN42
+mnt-by:             SHIKI-MNT
+auth:               pgp-fingerprint 07EE1789E1EA42F096DCDE31DC45832622D62812
+source:             DN42

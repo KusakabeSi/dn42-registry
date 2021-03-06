@@ -1,0 +1,11 @@
+inet6num:           fd42:0830:0420:0000:0000:0000:0000:0000 - fd42:0830:0420:ffff:ffff:ffff:ffff:ffff
+netname:            LUELISTAN-NETWORK
+descr:              Luelistans Testnetz
+country:            DE
+admin-c:            LUELISTAN-DN42
+tech-c:             LUELISTAN-DN42
+mnt-by:             LUELISTAN-MNT
+nserver:            ns1.teamwiki.net
+status:             ASSIGNED
+cidr:               fd42:830:420::/48
+source:             DN42

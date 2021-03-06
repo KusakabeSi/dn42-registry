@@ -1,0 +1,6 @@
+route:              10.37.0.0/16
+origin:             AS65037
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mwu
+mnt-by:             DN42-MNT
+source:             ICVPN

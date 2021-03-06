@@ -1,0 +1,8 @@
+inet6num:           fd00:4242:3348:0000:0000:0000:0000:0000 - fd00:4242:3348:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:4242:3348::/48
+netname:            CLOUDFILES
+admin-c:            CLOUDFILES-DN42
+tech-c:             CLOUDFILES-DN42
+mnt-by:             CLOUDFILES-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             fmie
+nserver:            f.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.5.3.0.8.7.6.0.1.0.0.2.ipv6.registry-sync.dn42
+nserver:            e.f.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.5.3.0.8.7.6.0.1.0.0.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ireland
+mnt-by:             DN42-MNT
+source:             ICVPN

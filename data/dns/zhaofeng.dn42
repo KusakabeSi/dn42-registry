@@ -1,0 +1,7 @@
+domain:             zhaofeng.dn42
+nserver:            ns1.zhaofeng.dn42 172.20.138.53
+nserver:            ns1.zhaofeng.dn42 fd42:1926:817::53
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+source:             DN42

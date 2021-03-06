@@ -1,0 +1,6 @@
+route:              172.20.59.160/29
+origin:             AS4242421226
+admin-c:            MURXMASTER-DN42
+tech-c:             MURXMASTER-DN42
+mnt-by:             MURXMASTER-MNT
+source:             DN42

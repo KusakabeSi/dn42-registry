@@ -1,0 +1,5 @@
+route6:             fd7b:7879:70d5::/48
+origin:             AS4242423114
+mnt-by:             WSLSHT-MNT
+source:             DN42
+max-length:         48

@@ -1,0 +1,10 @@
+inetnum:            172.20.59.64 - 172.20.59.95
+netname:            TAILS-NETWORK
+descr:              TailsNet IPv4 Allocation
+country:            US
+admin-c:            TAILSNET-DN42
+tech-c:             TAILSNET-DN42
+mnt-by:             TAILSNET-MNT
+status:             ASSIGNED
+cidr:               172.20.59.64/27
+source:             DN42

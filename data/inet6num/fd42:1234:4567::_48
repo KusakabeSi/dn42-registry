@@ -1,0 +1,9 @@
+inet6num:           fd42:1234:4567:0000:0000:0000:0000:0000 - fd42:1234:4567:ffff:ffff:ffff:ffff:ffff
+netname:            VIRTIT-NETWORK
+country:            PT
+admin-c:            MIGUELMONTEIRO-DN42
+tech-c:             MIGUELMONTEIRO-DN42
+mnt-by:             VIRTIT-MNT
+status:             ASSIGNED
+cidr:               fd42:1234:4567::/48
+source:             DN42

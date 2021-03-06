@@ -1,0 +1,7 @@
+domain:             voxility.dn42
+descr:              VOXILITY LABS
+admin-c:            VOXILITY-DN42
+tech-c:             VOXILITY-DN42
+mnt-by:             VOXILITY-MNT
+nserver:            ns1.gatuno.dn42
+source:             DN42

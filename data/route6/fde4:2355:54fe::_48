@@ -1,0 +1,5 @@
+route6:             fde4:2355:54fe::/48
+origin:             AS4242420185
+max-length:         48
+mnt-by:             PESCO-MNT
+source:             DN42

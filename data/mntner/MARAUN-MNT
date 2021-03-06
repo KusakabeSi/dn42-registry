@@ -1,0 +1,9 @@
+mntner:             MARAUN-MNT
+admin-c:            MARAUN-DN42
+descr:              Peering 
+tech-c:             MARAUN-DN42
+mnt-by:             MARAUN-MNT
+auth:               pgp-fingerprint 0389A415070CAC1FF23628982B130F068ECA29AE
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUmIOAYSggTo1IgDfOk4bXJE9I3F5l3au69vzCDVj/0Q7Lv8DPFrzRqHSV6B3L4RsFbartW6znezttSAHLrCcctikauYAuC7plaR4sR7PhRwyfq5WksG48ft2QMu/d2JJf/eRfuII+g2PPjsZ6MNbcykIAIqfprJtFV/bjKKgLQmK3gQk+xoHkZCbTNNBbGj3tKeHUTMojkYaTwGsJmCCIIKbnemYLLq4XW+fxcsYAmDncxqk8CFYsD21Qbk5TD7yM2TlwSkDYTsDZymPBJ6k486VJD/Wr9UN+C+5RE/YoY89PJ0D0CS/H403PFNpc0aRstUPvpE6LCzIfYqET4i05
+remarks:            pin-sha256:SWPgGga4O8AwhrprNpajnjHEBRGowhlv/Mp02spOfes=
+source:             DN42

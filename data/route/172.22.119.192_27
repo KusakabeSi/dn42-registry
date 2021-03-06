@@ -1,0 +1,4 @@
+route:              172.22.119.192/27
+origin:             AS4242420209
+mnt-by:             CLUTTERBOX-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.159.0 - 172.22.159.15
+netname:            NET-BLACKHOLETW-PEERING
+descr:              Peering with ME!!
+country:            TW
+admin-c:            FRANKCHANG-DN42
+tech-c:             FRANKCHANG-DN42
+mnt-by:             BLACKHOLETW-MNT
+status:             ASSIGNED
+cidr:               172.22.159.0/28
+source:             DN42

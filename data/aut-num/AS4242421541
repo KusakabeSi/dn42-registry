@@ -1,0 +1,7 @@
+aut-num:            AS4242421541
+as-name:            PELETHIEC-AS
+descr:              pelethiec's lab network
+admin-c:            PELETHIEC-DN42
+tech-c:             PELETHIEC-DN42
+mnt-by:             PELETHIEC-MNT
+source:             DN42

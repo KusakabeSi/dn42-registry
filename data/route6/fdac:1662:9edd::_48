@@ -1,0 +1,5 @@
+route6:             fdac:1662:9edd::/48
+origin:             AS4242420032
+max-length:         48
+mnt-by:             ERGRBT-MNT
+source:             DN42

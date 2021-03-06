@@ -1,0 +1,9 @@
+aut-num:            AS4242420074
+as-name:            ZANET
+admin-c:            SPLASH-DN42
+org:                ORG-ZANET
+descr:              Location: Johannesburg, South Africa
+remarks:            Mikrotik used for Peering
+tech-c:             SPLASH-DN42
+mnt-by:             SPLASH-MNT
+source:             DN42

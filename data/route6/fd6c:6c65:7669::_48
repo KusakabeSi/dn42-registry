@@ -1,0 +1,6 @@
+route6:             fd6c:6c65:7669::/48
+origin:             AS4242423811
+tech-c:             LLEVI-DN42
+admin-c:            LLEVI-DN42
+mnt-by:             LLEVI-MNT
+source:             DN42

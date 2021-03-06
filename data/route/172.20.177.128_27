@@ -1,0 +1,4 @@
+route:              172.20.177.128/27
+origin:             AS4242422992
+mnt-by:             EASTON-MNT
+source:             DN42

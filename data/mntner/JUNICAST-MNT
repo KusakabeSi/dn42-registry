@@ -1,0 +1,7 @@
+mntner:             JUNICAST-MNT
+descr:              junicast Maintainer
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQ3SHAhPf5SrhXOm4PVeqgq+9OKy+uELI/jJp8m7BkkmdnCNAMIZXMk4jv+W3NjZmYK6GC5yMrYF+5ZC/MA5Cs9S777++vc9w2FXSiWfpUS3ah2Omuk6+nIsKsI7hVLCBLaZ+GQJrsBndfch9kmJHn6HdezMTWZ7HgaM4ka7RjFutOu+pmEXwYoLMh+GEDahsGTcF8A7c+MzyasClhWmfvG5I2kyApyov4c5aBAvsFitWz6FyfIpxj9mTqjVFlAUPMRbfe1wB9BnsA5ICb4BSjOaZouigqRBU1CBigm529ox9R/imwh4W+wtYJVZvOLdWcHsBL5fKUC0FH8VoIJgg+66qQWtk+fJPH1YFqcvgLampr6CYhkZGqaS+96pN9XYfs+CmWlewIb9m5Lmgukk0kVSFfev6mv8smyld7OQYsd5P/h2DRtr6JH/CfZrK8HwmW50vTSzXjtZQtkNTzDRIYPFHlYF3GaHoczLk181epbQKWxrDhA353pebb1vw1h+0=
+source:             DN42

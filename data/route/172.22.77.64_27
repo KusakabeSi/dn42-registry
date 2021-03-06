@@ -1,0 +1,4 @@
+route:              172.22.77.64/27
+origin:             AS4242420630
+mnt-by:             SKYNET-MNT
+source:             DN42

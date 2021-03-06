@@ -1,0 +1,8 @@
+inet6num:           fda7:fb2b:4733:0000:0000:0000:0000:0000 - fda7:fb2b:4733:ffff:ffff:ffff:ffff:ffff
+cidr:               fda7:fb2b:4733::/48
+netname:            MISTERGEEK-NET-1
+admin-c:            MISTERGEEK-DN42
+tech-c:             MISTERGEEK-DN42
+mnt-by:             MISTERGEEK-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             YUUTAW-MNT
+admin-c:            YUUTAW-DN42
+tech-c:             YUUTAW-DN42
+mnt-by:             YUUTAW-MNT
+source:             DN42
+auth:               pgp-fingerprint 4E484CFCA6566A5D8CA32906CE99BB92E87D12A1
+auth:               ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPExvE8PILYvMm0pPX+w7D9P47jpX183hLo7plc/eRVhZiu21egvjZ69DDAgABY97Ki2hgiZ2nBaURCVjbo0mBCBboSIo4F6jdBbG7VK4c3QwA+i/rhgoAJsE6jFAEWvM/1FOoYc7FL0tfHjKRa5/Z0XOiCRCPOLGrq8PnxADsSrXqJrLL9dpC6xbV3pzdaeOlKgn23J74C3kbQ/2iZjSPJ6bt8C0IV7DAGKRwzovLy3dpzCR3U8Wo++FPvNBTYtK53ZLVjaOkFotn4JGs0yNwaUEm88t8qyUdBaZmkfJkdymY9Xs1aaZ81W+BX0XfEyTrWQoHY5fefJYCFcgeUcJnqc12JDMukmLkDcWrpjsp/kiwpkbyTz5z4Nwr0gOqnOMIbRxegKwGOjJgyHkpygdAmiXsMPLlNPzyOHN1yugWrrryLAsDwWxxOek1mPvmDItqtpA3EKzMYd4d/wJgXXjZ/sK20U8lMjepg2CNNWEdR8twAj6/F3Pj6MW7OOV/8MuCCRKKKar/1pJ3zbjWYBgohOmE6og7Mxn0Lxs+/8ZYW9ONTRxgeUwSLNSarwKpWvTdOTFTzs8d+1k2Dk3PsQofpbQbz3B8jxAt095CBKbKJyEAf9j2diuJnAry4s8VHCV4oMQtBjvc0cEd5JuUYOaTLPu4gZ5+OoeCkQ5hERoM2Q==

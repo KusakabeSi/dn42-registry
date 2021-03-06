@@ -1,0 +1,6 @@
+route6:             fd42:dead:b33f::/48
+origin:             AS4242423807
+mnt-by:             KR4SH-MNT
+source:             DN42
+admin-c:            KR4SH-DN42
+tech-c:             KR4SH-DN42

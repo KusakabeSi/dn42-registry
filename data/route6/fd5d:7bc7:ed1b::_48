@@ -1,0 +1,4 @@
+route6:             fd5d:7bc7:ed1b::/48
+origin:             AS4242423520
+mnt-by:             FML-MNT
+source:             DN42

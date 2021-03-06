@@ -1,0 +1,9 @@
+inetnum:            172.20.167.0 - 172.20.167.127
+netname:            SJG-NET
+admin-c:            SIMON-DN42
+tech-c:             SIMON-DN42
+mnt-by:             SIMON-MNT
+status:             ALLOCATED
+nserver:            dns.wiregrid.dn42
+cidr:               172.20.167.0/25
+source:             DN42

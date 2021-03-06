@@ -1,0 +1,11 @@
+inetnum:            172.20.233.32 - 172.20.233.63
+cidr:               172.20.233.32/27
+netname:            WRMSR-NETWORK
+descr:              WRMSR IPv4 DN42 NET
+country:            DE
+admin-c:            WRMSR-DN42
+tech-c:             WRMSR-DN42
+mnt-by:             WRMSR-MNT
+status:             ASSIGNED
+nserver:            ns1.wrmsr.dn42
+source:             DN42

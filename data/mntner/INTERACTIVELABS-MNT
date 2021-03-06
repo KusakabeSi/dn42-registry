@@ -1,0 +1,7 @@
+mntner:             INTERACTIVELABS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDltrkbZW0i4iCEEiSbLRXTDhuKoj+PPKODuZLDHI2AZDGIfazb2BBeexd+5qdpH5WfkUbYiC23cU6OCrtLBs7j022Rx3s/FhMrqL4/4ksYZJA3kGq2y4KNSFCGEuV9g99TPkQO3R8qMJSzm2mt9KXATYihYUJLWm04jpVncwh2kgtSnTA1zzgurQ+ojKNBM1XlkEZLvjV0pbAyCa8ip6PcAMd228LlslaRm2lcARUjcHRg1ji3a+mD+lwJ5yPse4eM6521nGMWcCV+D64LlUzGLQZV5DmBGU5gWvrepM4xLd+9OuFAdae2QPdNuWzhzKwEMZL7gZx+LoQo5+MEFlpT dn42@interactivelabs.org
+descr:              Interactive Labs
+admin-c:            GISH-DN42
+tech-c:             GISH-DN42
+mnt-by:             INTERACTIVELABS-MNT
+source:             DN42

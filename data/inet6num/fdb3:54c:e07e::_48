@@ -1,0 +1,10 @@
+inet6num:           fdb3:054c:e07e:0000:0000:0000:0000:0000 - fdb3:054c:e07e:ffff:ffff:ffff:ffff:ffff
+netname:            AFICS6-NET2
+descr:              Easterhegg 2016
+country:            AT
+admin-c:            AFICS-DN42
+tech-c:             AFICS-DN42
+mnt-by:             AFICS-MNT
+status:             ASSIGNED
+cidr:               fdb3:54c:e07e::/48
+source:             DN42

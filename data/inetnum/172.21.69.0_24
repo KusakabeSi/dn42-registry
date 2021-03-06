@@ -1,0 +1,10 @@
+inetnum:            172.21.69.0 - 172.21.69.255
+netname:            ND0-NET
+country:            PL
+admin-c:            MAJK3L-DN42
+mnt-by:             MAJK3L-MNT
+nserver:            ns1.nd0.dn42
+nserver:            ns1.nd0.dn42
+status:             ASSIGNED
+cidr:               172.21.69.0/24
+source:             DN42

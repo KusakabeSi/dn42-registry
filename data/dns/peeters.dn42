@@ -1,0 +1,6 @@
+domain:             peeters.dn42
+admin-c:            BPEETERS-DN42
+tech-c:             BPEETERS-DN42
+mnt-by:             BPEETERS-MNT
+nserver:            ns.peeters.dn42 172.22.114.2
+source:             DN42

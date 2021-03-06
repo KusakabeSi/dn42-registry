@@ -1,0 +1,12 @@
+inetnum:            172.22.102.0 - 172.22.103.255
+netname:            TOMBII-SERVER-NET
+descr:              TOMBII SERVER NETWORK
+country:            SE
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+nserver:            ns2.tombii.dn42
+status:             ALLOCATED
+cidr:               172.22.102.0/23
+source:             DN42

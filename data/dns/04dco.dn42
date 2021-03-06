@@ -1,0 +1,9 @@
+domain:             04dco.dn42
+descr:              04dco
+admin-c:            04DCO-DN42
+tech-c:             04DCO-DN42
+mnt-by:             04DCO-MNT
+nserver:            ns0.04dco.dn42 172.22.157.34
+nserver:            ns0.04dco.dn42 fdf4:71a1:fc81::53
+ds-rdata:           26392 13 2 6175518311df461808b0fc3ea979d025c92faf32c4af78349ad5fab3a0a3af70
+source:             DN42

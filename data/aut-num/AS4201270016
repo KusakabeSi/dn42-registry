@@ -1,0 +1,8 @@
+aut-num:            AS4201270016
+as-name:            Moecast Network
+remarks:            Moecast Network NeoNetwork Service
+admin-c:            LIANGJW-NEONETWORK
+tech-c:             LIANGJW-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

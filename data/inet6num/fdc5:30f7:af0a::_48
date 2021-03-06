@@ -1,0 +1,10 @@
+inet6num:           fdc5:30f7:af0a:0000:0000:0000:0000:0000 - fdc5:30f7:af0a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:30f7:af0a::/48
+netname:            GFA-NETWORK
+admin-c:            GFA-DN42
+tech-c:             GFA-DN42
+mnt-by:             GFA-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.4679.dn42
+nserver:            ns2.4679.dn42

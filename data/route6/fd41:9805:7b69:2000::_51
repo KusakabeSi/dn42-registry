@@ -1,0 +1,7 @@
+route6:             fd41:9805:7b69:2000::/51
+descr:              CORE local Network
+origin:             AS4242420845
+origin:             AS4242420846
+origin:             AS4242420847
+mnt-by:             SGRAEF-MNT
+source:             DN42

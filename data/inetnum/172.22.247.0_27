@@ -1,0 +1,17 @@
+inetnum:            172.22.247.0 - 172.22.247.31
+nserver:            ns.leloop.dn42
+netname:            LELOOP-INTERCO
+remarks:            IPv4 space reserved for interconnections
+remarks:            Should NOT be announced
+remarks:            See http://wiki.leloop.org/index.php/DN42#Intercos_en_place
+country:            FR
+org:                ORG-HACKSPACE-LOOP-DN42
+admin-c:            KANKAN-DN42
+admin-c:            NICOO-DN42
+tech-c:             KANKAN-DN42
+tech-c:             NICOO-DN42
+mnt-by:             KANKAN-MNT
+mnt-by:             NICOO-MNT
+status:             ASSIGNED
+cidr:               172.22.247.0/27
+source:             DN42

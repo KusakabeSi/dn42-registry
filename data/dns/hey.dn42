@@ -1,0 +1,9 @@
+domain:             hey.dn42
+admin-c:            ROY-DN42
+tech-c:             ROY-DN42
+mnt-by:             HEY-MNT
+nserver:            ns1.hey.dn42 172.23.241.1
+nserver:            ns1.hey.dn42 fdff:feed:4242::1
+nserver:            ns2.hey.dn42 172.23.241.2
+nserver:            ns2.hey.dn42 fdff:feed:4242::2
+source:             DN42

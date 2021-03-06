@@ -1,0 +1,7 @@
+domain:             imlonghao.dn42
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+nserver:            ns.imlonghao.dn42 172.22.68.8
+nserver:            ns.imlonghao.dn42 fd21:5c0c:9b7e::8
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242420258
+as-name:            FABLABBERLIN-AS
+descr:              The experimental network of the Fab Lab Berlin
+admin-c:            SYSOFABLAB-DN42
+tech-c:             SYSOFABLAB-DN42
+mnt-by:             FABLABBERLIN-MNT
+source:             DN42

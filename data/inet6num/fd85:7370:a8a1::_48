@@ -1,0 +1,14 @@
+inet6num:           fd85:7370:a8a1:0000:0000:0000:0000:0000 - fd85:7370:a8a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd85:7370:a8a1::/48
+netname:            WN-NETWORK
+descr:              WN Network A
+country:            UK
+admin-c:            NEV-DN42
+tech-c:             NEV-DN42
+admin-c:            WILL-DN42
+tech-c:             WILL-DN42
+mnt-by:             NEV-MNT
+mnt-by:             WILL-MNT
+org:                ORG-WN-NETWORKS
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.224.64 - 172.20.224.95
+cidr:               172.20.224.64/27
+netname:            TRVR-NETWORK
+descr:              Network of Trevor
+country:            DE
+admin-c:            TRVR-DN42
+tech-c:             TRVR-DN42
+mnt-by:             TRVR-MNT
+status:             ASSIGNED
+source:             DN42

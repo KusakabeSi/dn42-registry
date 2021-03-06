@@ -1,0 +1,5 @@
+route6:             fdcb:f420:d408::/48
+descr:              ZALEDIA
+origin:             AS4242423963
+mnt-by:             ZALEDIA-MNT
+source:             DN42

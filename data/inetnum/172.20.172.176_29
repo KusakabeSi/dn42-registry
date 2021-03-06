@@ -1,0 +1,8 @@
+inetnum:            172.20.172.176 - 172.20.172.183
+cidr:               172.20.172.176/29
+netname:            CPBARNES-V4-NET-1 
+admin-c:            CPBARNES-DN42
+tech-c:             CPBARNES-DN42
+mnt-by:             CPBARNES-MNT
+status:             ASSIGNED
+source:             DN42

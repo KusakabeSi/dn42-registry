@@ -1,0 +1,4 @@
+route6:             fd00:1953:615::/48
+origin:             AS4242422761
+mnt-by:             ARG-MNT
+source:             DN42

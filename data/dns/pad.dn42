@@ -1,0 +1,7 @@
+domain:             pad.dn42
+descr:              etherpad
+admin-c:            ANA-DN42
+tech-c:             ANA-DN42
+mnt-by:             ANA-MNT
+nserver:            ns1.acute.dn42
+source:             DN42

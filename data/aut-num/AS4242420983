@@ -1,0 +1,7 @@
+aut-num:            AS4242420983
+as-name:            JCLONG-AS
+descr:              jclong DN42 network
+admin-c:            JAMESL-DN42
+tech-c:             JAMESL-DN42
+mnt-by:             JCLONG-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.114.0 - 172.22.114.31
+cidr:               172.22.114.0/27
+netname:            BPEETERS-LAB-V4
+country:            BE
+admin-c:            BPEETERS-DN42
+tech-c:             BPEETERS-DN42
+mnt-by:             BPEETERS-MNT
+nserver:            ns.peeters.dn42
+status:             ASSIGNED
+source:             DN42

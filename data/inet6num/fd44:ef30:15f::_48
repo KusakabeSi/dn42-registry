@@ -1,0 +1,10 @@
+inet6num:           fd44:ef30:015f:0000:0000:0000:0000:0000 - fd44:ef30:015f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd44:ef30:15f::/48
+netname:            NICHI-NETWORK
+descr:              Network of Nichi Networks
+country:            CN
+admin-c:            NICKCAO-DN42
+tech-c:             NICKCAO-DN42
+mnt-by:             NICHI-MNT
+status:             ASSIGNED
+source:             DN42

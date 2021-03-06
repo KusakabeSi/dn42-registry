@@ -1,0 +1,11 @@
+aut-num:            AS4242423783
+as-name:            AS for Oz-Ark
+admin-c:            EXPERIMENT626-DN42
+tech-c:             EXPERIMENT626-DN42
+remarks:            --------------------------------------------------------
+remarks:            Oz-Ark DN42 Network. New peers are welcome!
+remarks:            Check for your nearest node then check
+remarks:            https://dn42.oz-ark.info/ for details!
+remarks:            --------------------------------------------------------
+mnt-by:             OZARK-MNT
+source:             DN42

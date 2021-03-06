@@ -1,0 +1,6 @@
+mntner:             HIJACK-MNT
+admin-c:            HIJACK-DN42
+tech-c:             HIJACK-DN42
+mnt-by:             HIJACK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICnD9D9GSyE7r0lHorVP6AO/k1bHOtUxApiwKHjF6kKt jack77213
+source:             DN42

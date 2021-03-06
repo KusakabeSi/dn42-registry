@@ -1,0 +1,7 @@
+mntner:             LANAO-MNT
+admin-c:            TOBIKRIS-DN42
+tech-c:             TOBIKRIS-DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0kcmtiSoexzlBhYA12sHIzrcjvXV+4pYKLWHlq9dA2skeAgedpFXG3dsPP4kbjYaCbUdEzxYb/M1kMdGrVGM1VDKEAqj2dc9QHFcysW0nbj/c2sQumaWPoujNLIs5UHyLhH1cchWx8N8JgYzT3LIMNMzeG85sJMeC8BZ+4Ps/WwAQgNm+lZ+XZyOBNljQJVT6ClNsYzs8J0joe6dY0G3h7hYfL9J0CrPv/PhXxduDwVeF6Fzy2xCQ3IOf+QaIOu2Ia/+Bgls62tDkilvrkVmabsvHL+P0zyyVBK9qdta6g7YC028DdUYTxtlTSm/3bMom9+ydLYWPxdo4B9hFcmCw7X/lvChSZdvyiG3rM+S3V68p1I/9eKkCyJYK73oYVr0KSPlLHWq/+/83S/GLNtGvkRnhpdkjYgTevcJd5QJJOVAQsHAZnQkBj/vf6WdDuzDmiMby2oJlsdqOucuCq5OxfPxh3AmmBozYhkyt7+dFgJfxpN3i/8IP+OX3NvWGVaQ1zbhIpRQHrA66S9l/AtCoPdFITbutqNAIhUOaM0oRV89/Bk/F6es7UPO+VQnx+0HLIfj0hvCXUM9sAvcUnP0BeVZy/3WFEpfsBHr5OJ0HOoqIU9H4o3pzdqKo//h07gg5o0KGCs7VZEvTLKEDqNp1V744GRuU1qpOzjy9SCt6nw==
+auth:               pgp-fingerprint BB819E30C44911E3DCB6D9A5CA5F2C62C24F4445
+mnt-by:             LANAO-MNT
+source:             DN42

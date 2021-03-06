@@ -1,0 +1,23 @@
+key-cert:           PGPKEY-0BBA103E
+method:             PGP
+fingerpr:           D415 7E94 7F97 0ED9 BC21  30A9 F1A0 6417 0BBA 103E
+owner:              io@argyre.eu
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+source:             DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEWibsVxYJKwYBBAHaRw8BAQdAX3Py4gvHar3yWDoBhzp6SpYPT0f9Q+TevzOY
+certif:             sAfjTJS0EWlvIDxpb0Bhcmd5cmUuZXU+iJoEExYKAEICGwEJCwkIBwoNDAsDBRUK
+certif:             CQgLBRYDAgEAAh4BAheAFiEE1BV+lH+XDtm8ITCp8aBkFwu6ED4FAl6cSu4FCQZW
+certif:             khcACgkQ8aBkFwu6ED4lfQD/f9RZHhth79MnifkFpP6aAWRNgsbyQStxFwXLA0yM
+certif:             JPkBAMHvMfrrwk7SfsFU/FSGOyT5qkqS3edw5JzepgnZDRYBuDMEWibtNxYJKwYB
+certif:             BAHaRw8BAQdAEhmZf/ZE9kZmbBmPCwOHPJ048Ey6nWJQsyRQi6i93AOI9QQYFgoA
+certif:             JgIbAhYhBNQVfpR/lw7ZvCEwqfGgZBcLuhA+BQJenEsQBQkGVpFZAIF2IAQZFgoA
+certif:             HRYhBP/5ZdzlAUf4Wc/MbpvVYwJ/DjL8BQJaJu03AAoJEJvVYwJ/DjL8BlMA/1FL
+certif:             c31tw2Z9eCzFjQsHT5XPCb9Re4ZdSsFj/UaUrR8XAP9u0Lf2jqhRhGSJBlYCcy3e
+certif:             mXqVvVokThr0CDTtKXKPCwkQ8aBkFwu6ED6rZgEAusAz+c7yqzvMpfCLIcgwxIfx
+certif:             W6YEB6NoYm/QDMw8+JABANBaqe1iHUK9uGMErKN0brMcI9g5i/K3IahfsqDjCiIP
+certif:             =KTtA
+certif:             -----END PGP PUBLIC KEY BLOCK-----

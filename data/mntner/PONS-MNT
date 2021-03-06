@@ -1,0 +1,7 @@
+mntner:             PONS-MNT
+admin-c:            PONS-DN42
+tech-c:             PONS-DN42
+mnt-by:             PONS-MNT
+auth:               pgp-fingerprint D488F44AE0C9411E198BFA817CE4EBAD45842E44
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCPeU/+ZekiRZOFzHVPoI4stBvgIk4Jt5GNMKb4RcFULvSvUs0xoVJmVsKgSKIxIxB8JkBPI+evGq8jwTwgQH+K262oKcrMH2pGcvg85TKQh8EUpwGoEP3FYVu4uj6LtXyklbKsNEcaj1I+/GM2UI5rbZi1PaelHPwQ9dSlysTQHuHb5xWCVr3wQOrhf2dWFR7z2dgJEG/9eDXdbHW+t6waUCb3/HtrNT5TXjzWIo9957bIq6Xtc6EHW/2kZeumZ97sm24ab+D0EG/LhbAsYPJjg99BhxyecqTmpnY0UunCf4zL8ovnsg0hAas8Lpl7vUkNIcpjwESIfGO8hW08dfuh
+source:             DN42

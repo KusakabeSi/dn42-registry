@@ -1,0 +1,10 @@
+inet6num:           fda4:c3cb:737c:0000:0000:0000:0000:0000 - fda4:c3cb:737c:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:c3cb:737c::/48
+netname:            SOUTERRAIN-NET6
+country:            US
+nserver:            ns.souterrain.dn42
+admin-c:            SOUTERRAIN-DN42
+tech-c:             SOUTERRAIN-DN42
+mnt-by:             SOUTERRAIN-MNT
+status:             ASSIGNED
+source:             DN42

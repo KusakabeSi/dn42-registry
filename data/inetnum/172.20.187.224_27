@@ -1,0 +1,8 @@
+inetnum:            172.20.187.224 - 172.20.187.255
+cidr:               172.20.187.224/27
+netname:            UNICORN-NETWORK
+admin-c:            UNICORN-DN42
+tech-c:             UNICORN-DN42
+mnt-by:             UNICORN-MNT
+status:             ASSIGNED
+source:             DN42

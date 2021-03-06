@@ -1,0 +1,9 @@
+inetnum:            172.20.154.64 - 172.20.154.79
+netname:            PN-NET
+descr:              PN-NET
+admin-c:            PN-DN42
+tech-c:             PN-DN42
+mnt-by:             PN-MNT
+status:             ASSIGNED
+cidr:               172.20.154.64/28
+source:             DN42

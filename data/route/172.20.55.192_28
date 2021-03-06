@@ -1,0 +1,4 @@
+route:              172.20.55.192/28
+origin:             AS4242422610
+mnt-by:             VOTRIBE-MNT
+source:             DN42

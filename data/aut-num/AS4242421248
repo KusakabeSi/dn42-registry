@@ -1,0 +1,7 @@
+aut-num:            AS4242421248
+as-name:            CATNET-AS
+descr:              CatNet
+admin-c:            NETCAT-DN42
+tech-c:             NETCAT-DN42
+mnt-by:             CATNET-MNT
+source:             DN42

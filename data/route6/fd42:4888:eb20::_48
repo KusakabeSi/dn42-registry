@@ -1,0 +1,4 @@
+route6:             fd42:4888:eb20::/48
+origin:             AS4242421047
+mnt-by:             BARROW-MNT
+source:             DN42

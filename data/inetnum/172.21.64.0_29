@@ -1,0 +1,14 @@
+inetnum:            172.21.64.0 - 172.21.64.7
+cidr:               172.21.64.0/29
+netname:            XUU-TEST-NET
+descr:              Xuu TestNet
+country:            US
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            kapha.mtr.xuu.dn42
+nserver:            rishi.bre.xuu.dn42
+status:             ALLOCATED
+remarks:            This is a transfernet.
+source:             DN42

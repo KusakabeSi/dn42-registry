@@ -1,0 +1,6 @@
+mntner:             FRITZ-MNT
+admin-c:            FRITZ-DN42
+auth:               MTN-FRITZ
+auth:               PGPKEY-758AF1B8
+mnt-by:             FRITZ-MNT
+source:             DN42

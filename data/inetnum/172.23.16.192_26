@@ -1,0 +1,13 @@
+inetnum:            172.23.16.192 - 172.23.16.255
+netname:            NL-ZUID-IX-FKS
+cidr:               172.23.16.192/26
+descr:              NL-Zuid IX Paris
+country:            FR
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+mnt-by:             GRMML-MNT
+nserver:            ns1.nl-zuid.dn42
+nserver:            ns2.nl-zuid.dn42
+status:             ASSIGNED PI
+source:             DN42

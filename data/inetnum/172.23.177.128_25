@@ -1,0 +1,10 @@
+inetnum:            172.23.177.128 - 172.23.177.255
+cidr:               172.23.177.128/25
+netname:            PANKY-NETWORK
+admin-c:            PANKY-DN42
+tech-c:             PANKY-DN42
+mnt-by:             PANKY-MNT
+nserver:            russia1.panky.dn42
+nserver:            egypt1.panky.dn42
+status:             ASSIGNED
+source:             DN42

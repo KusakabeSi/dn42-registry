@@ -1,0 +1,4 @@
+route:              172.20.135.192/29
+origin:             AS4242422435
+mnt-by:             JETBA-MNT
+source:             DN42

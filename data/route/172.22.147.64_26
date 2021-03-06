@@ -1,0 +1,4 @@
+route:              172.22.147.64/26
+origin:             AS4242421474
+mnt-by:             TONYZHAO-MNT
+source:             DN42

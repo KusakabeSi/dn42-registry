@@ -1,0 +1,5 @@
+route:              172.23.1.0/24
+descr:              Crest's dn42 test network
+origin:             AS64828
+mnt-by:             CREST-MNT
+source:             DN42

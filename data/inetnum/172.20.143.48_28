@@ -1,0 +1,9 @@
+inetnum:            172.20.143.48 - 172.20.143.63
+cidr:               172.20.143.48/28
+netname:            LSS233-NETWORK
+descr:              LSS233-NEKORK
+admin-c:            LSS233-DN42
+tech-c:             LSS233-DN42
+mnt-by:             LSS233-MNT
+status:             ASSIGNED
+source:             DN42

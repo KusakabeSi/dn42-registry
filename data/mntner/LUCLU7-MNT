@@ -1,0 +1,7 @@
+mntner:             LUCLU7-MNT
+auth:               pgp-fingerprint DD25DB4AFFDC53169285A123F157AA98AFB4C41B
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBXZGbozWFzmdQxo8Mwrl/3eNMoy7L5FCTpx0o0OGyuf
+admin-c:            LUCLU7-DN42
+tech-c:             LUCLU7-DN42
+mnt-by:             LUCLU7-MNT
+source:             DN42

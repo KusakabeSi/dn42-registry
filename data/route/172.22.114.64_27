@@ -1,0 +1,4 @@
+route:              172.22.114.64/27
+origin:             AS4242422840
+mnt-by:             JCAHILL-MNT
+source:             DN42

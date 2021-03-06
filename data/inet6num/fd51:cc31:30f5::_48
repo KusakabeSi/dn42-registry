@@ -1,0 +1,10 @@
+inet6num:           fd51:cc31:30f5:0000:0000:0000:0000:0000 - fd51:cc31:30f5:ffff:ffff:ffff:ffff:ffff
+netname:            NET-REWBYSOFT-000
+country:            NL
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+nserver:            ns1.aperture-laboratories.dn42
+status:             ASSIGNED
+cidr:               fd51:cc31:30f5::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd88:8888:8888:0000:0000:0000:0000:0000 - fd88:8888:8888:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:8888:8888::/48
+netname:            IVIP-IPV6
+admin-c:            IVIP-DN42
+tech-c:             IVIP-DN42
+mnt-by:             IVIP-MNT
+nserver:            ns1.ivip.dn42
+status:             ASSIGNED
+source:             DN42

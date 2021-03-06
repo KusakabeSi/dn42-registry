@@ -1,0 +1,4 @@
+route6:             fd42:456:e567::/48
+origin:             AS4242422364
+mnt-by:             RDEV-MNT
+source:             DN42

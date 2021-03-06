@@ -1,0 +1,7 @@
+route6:             fd25:af2d:1f51::/48
+origin:             AS4242421516
+max-length:         48
+admin-c:            W1KL4S-DN42
+tech-c:             W1KL4S-DN42
+mnt-by:             W1KL4S-MNT
+source:             DN42

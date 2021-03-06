@@ -1,0 +1,4 @@
+route:              172.23.163.0/27
+origin:             AS4242421200
+mnt-by:             UPPERPASTE-MNT
+source:             DN42

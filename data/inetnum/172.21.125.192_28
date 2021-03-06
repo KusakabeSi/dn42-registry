@@ -1,0 +1,12 @@
+inetnum:            172.21.125.192 - 172.21.125.207
+netname:            OHNX-NET4-NA
+descr:              ohnx's v4 netblock in North America
+country:            US
+admin-c:            OHNX-DN42
+tech-c:             OHNX-DN42
+mnt-by:             OHNX-MNT
+nserver:            ns1.ohnxnet.dn42
+nserver:            ns2.ohnxnet.dn42
+status:             ASSIGNED
+cidr:               172.21.125.192/28
+source:             DN42

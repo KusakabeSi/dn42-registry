@@ -1,0 +1,7 @@
+domain:             txc.dn42
+admin-c:            TXC-DN42
+tech-c:             TXC-DN42
+mnt-by:             TXC-MNT
+nserver:            ns1.txc.dn42 172.23.128.130
+nserver:            ns1.txc.dn42 fd4f:c7fd:f1ea::2
+source:             DN42

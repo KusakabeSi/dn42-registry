@@ -1,0 +1,7 @@
+domain:             mpls.dn42
+descr:              mpls
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+nserver:            ns.nop.dn42
+source:             DN42

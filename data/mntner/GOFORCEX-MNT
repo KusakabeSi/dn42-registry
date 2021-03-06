@@ -1,0 +1,6 @@
+mntner:             GOFORCEX-MNT
+admin-c:            GOFORCEX-DN42
+tech-c:             GOFORCEX-DN42
+mnt-by:             GOFORCEX-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFg4pqu8zzgSnylIt3URu/0dnIAlTXlBXWjS2wiGIk5+
+source:             DN42

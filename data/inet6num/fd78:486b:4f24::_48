@@ -1,0 +1,9 @@
+inet6num:           fd78:486b:4f24:0000:0000:0000:0000:0000 - fd78:486b:4f24:ffff:ffff:ffff:ffff:ffff
+netname:            CHICI6-NET
+country:            DE
+admin-c:            CHICI-DN42
+tech-c:             CHICI-DN42
+mnt-by:             CHICI-MNT
+status:             ALLOCATED
+cidr:               fd78:486b:4f24::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd69:5611:6790::/48
+origin:             AS4242420182
+max-length:         48
+mnt-by:             Q1X-MNT
+source:             DN42

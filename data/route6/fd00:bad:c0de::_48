@@ -1,0 +1,4 @@
+route6:             fd00:bad:c0de::/48
+origin:             AS4242420206
+mnt-by:             SNEK-MNT
+source:             DN42

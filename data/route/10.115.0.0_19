@@ -1,0 +1,6 @@
+route:              10.115.0.0/19
+origin:             AS65115
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: cuxhaven
+mnt-by:             DN42-MNT
+source:             ICVPN

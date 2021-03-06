@@ -1,0 +1,10 @@
+inet6num:           fdcc:bb58:43b3:0000:0000:0000:0000:0000 - fdcc:bb58:43b3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcc:bb58:43b3::/48
+netname:            SPACE24-V6-NET-1
+descr:              Network of SPACE24
+country:            DE
+admin-c:            SPACE24-DN42
+tech-c:             SPACE24-DN42
+mnt-by:             SPACE24-MNT
+status:             ASSIGNED
+source:             DN42

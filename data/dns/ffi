@@ -1,0 +1,15 @@
+domain:             ffi
+nserver:            1.10.2.10.ipv4.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.20.2.10.ipv4.registry-sync.dn42
+nserver:            1.0.4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.30.2.10.ipv4.registry-sync.dn42
+nserver:            1.0.e.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.40.2.10.ipv4.registry-sync.dn42
+nserver:            1.0.8.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.50.2.10.ipv4.registry-sync.dn42
+nserver:            1.0.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.e.e.f.f.a.c.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hannover
+mnt-by:             DN42-MNT
+source:             ICVPN

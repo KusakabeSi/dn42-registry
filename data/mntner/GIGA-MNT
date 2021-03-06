@@ -1,0 +1,8 @@
+mntner:             GIGA-MNT
+abuse-mailbox:      abuse@revreso.de
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCrfIeMFFayay0SXIgrG5couTJqC321Z2O6cxot+QC2AWb1ypleJ3NBHxjQ70XPxLkfC7X2VE2cLI4hy0TYidA8DM/+BGYhle1xofPhyvTp351p5QgEAOiCPlMLh8IU5VvlUq+CxD+UktT1YLtMbif2ugzbcRDUJrB6cyF1Pv1M6hlNEBAG1MBpHG2/XlrtlO54J0fCm00cU34Y50Ni+wG/h464xP92e5UYEY4ukNHqVGq0jmz7b0uge+uhp+omG/npLRDRFdkPMXyHMtqVUQgTHIAl4+qE73T/ZwToPfJg90+O3l2zH9Pixa2wii7LiktYMX2cfQNuxKR0ar0iqP/V gigadoc2
+auth:               pgp-fingerprint B467666A0885B5BB5AF4ADE2294E289D422DE3FA
+admin-c:            GIGA-DN42
+tech-c:             GIGA-DN42
+mnt-by:             GIGA-MNT
+source:             DN42

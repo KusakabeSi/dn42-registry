@@ -1,0 +1,5 @@
+route6:             fdf8:52a8:1314::/48
+origin:             AS4242421180
+max-length:         48
+mnt-by:             FROGJIANG-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.129.32 - 172.22.129.47
+netname:            INET4-2F30
+descr:              2F30 network
+admin-c:            SIN-DN42
+tech-c:             SIN-DN42
+mnt-by:             2F30-MNT
+nserver:            ns1.2f30.dn42
+status:             ASSIGNED
+cidr:               172.22.129.32/28
+source:             DN42

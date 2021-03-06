@@ -1,0 +1,7 @@
+aut-num:            AS64680
+as-name:            SUBLAB-AS64680
+descr:              sublab.org
+admin-c:            NIHILUS-DN42
+tech-c:             NIHILUS-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

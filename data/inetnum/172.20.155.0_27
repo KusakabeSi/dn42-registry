@@ -1,0 +1,9 @@
+inetnum:            172.20.155.0 - 172.20.155.31
+netname:            DCVOIP-NET
+country:            GB
+admin-c:            DCVOIP-DN42
+tech-c:             DCVOIP-DN42
+mnt-by:             DCVOIP-MNT
+status:             ASSIGNED
+cidr:               172.20.155.0/27
+source:             DN42

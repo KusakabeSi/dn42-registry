@@ -1,0 +1,8 @@
+mntner:             TECH9-MNT
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+remarks:            pin-sha256:GMjnbTytFTusmcgVPz5nnJr3TEeipPcnSOdegw5xnyQ=
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9pT/UosvI3Jl2GvJN/yTct4tjFBbGovQ38TxoCIqfWXAsNoulWj+gXUnOtrrvExSyu/xjdnsr/QxSyjdpz2f6Y92VksudCX+o7NmzGQQE6Llnz1LAZZZnTBwp6XIUlZsbs4KYh4SIE7iZHjbmgi3RhmOuarz82sqQN3Rv6oMzVnp7dZeqrXz0P+gw41CfFFnX97MkTe8zMhiD/OelJPXrj+8kVnuwVhhwS1vNnRMXdoDkXL7p9O7XTLl0AG9hvpZqmL78PSkWNOJRj3j+4ZhlJ5HQ+2VYuqf9G8HRMN/lJHFnGWzB17NjWkkez5R2pzPN75c8m3iStamFRwjc5AMH chrismoos
+auth:               pgp-fingerprint 9125817b7fb341a57341adf857615e34bf5e897b
+source:             DN42

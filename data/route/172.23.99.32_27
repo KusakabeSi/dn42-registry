@@ -1,0 +1,4 @@
+route:              172.23.99.32/27
+origin:             AS4242423197
+mnt-by:             SCIX-MNT
+source:             DN42

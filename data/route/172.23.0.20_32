@@ -1,0 +1,5 @@
+route:              172.23.0.20/32
+descr:              LUTOMA-ANYCAST
+origin:             AS64719
+mnt-by:             LUTOMA-MNT
+source:             DN42

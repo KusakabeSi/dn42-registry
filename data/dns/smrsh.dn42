@@ -1,0 +1,6 @@
+domain:             smrsh.dn42
+nserver:            net.smrsh.dn42 172.23.174.1
+admin-c:            DRACOLING-DN42
+tech-c:             DRACOLING-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

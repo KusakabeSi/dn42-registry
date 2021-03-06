@@ -1,0 +1,12 @@
+inet6num:           fda3:b3ab:126d:0000:0000:0000:0000:0000 - fda3:b3ab:126d:ffff:ffff:ffff:ffff:ffff
+cidr:               fda3:b3ab:126d::/48
+netname:            KANGAROONET-NETWORK
+descr:              Network of KangarooNet
+country:            XD
+admin-c:            KANGAROONET-DN42
+tech-c:             KANGAROONET-DN42
+mnt-by:             KANGAROONET-MNT
+status:             ASSIGNED
+nserver:            ns1.kangaroonet.dn42
+nserver:            ns2.kangaroonet.dn42
+source:             DN42

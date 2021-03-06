@@ -1,0 +1,7 @@
+aut-num:            AS4242421111
+as-name:            TATONKA-AS
+descr:              tatonka's AS
+admin-c:            TATONKA-DN42
+tech-c:             TATONKA-DN42
+mnt-by:             TATONKA-MNT
+source:             DN42

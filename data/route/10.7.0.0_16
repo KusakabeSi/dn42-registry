@@ -1,0 +1,6 @@
+route:              10.7.0.0/16
+origin:             AS65134
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: harz
+mnt-by:             DN42-MNT
+source:             ICVPN

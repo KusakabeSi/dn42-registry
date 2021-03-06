@@ -1,0 +1,14 @@
+inetnum:            172.22.187.0 - 172.22.187.255
+netname:            VUTRAL-DN42-IP4NET
+descr:              Subnet Allocation 1
+country:            DE
+admin-c:            VUTRAL-DN42
+tech-c:             VUTRAL-DN42
+status:             ASSIGNED
+nserver:            ns1.vger.dn42
+nserver:            ns2.vger.dn42
+nserver:            ns3.vger.dn42
+nserver:            ns4.vger.dn42
+cidr:               172.22.187.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

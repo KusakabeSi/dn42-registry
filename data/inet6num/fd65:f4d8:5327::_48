@@ -1,0 +1,11 @@
+inet6num:           fd65:f4d8:5327:0000:0000:0000:0000:0000 - fd65:f4d8:5327:ffff:ffff:ffff:ffff:ffff
+cidr:               fd65:f4d8:5327::/48
+netname:            HEXCHEN-NET-1
+country:            DE
+admin-c:            HEXCHEN-DN42
+tech-c:             HEXCHEN-DN42
+mnt-by:             HEXCHEN-MNT
+status:             ASSIGNED
+nserver:            ns1.hxchn.dn42
+nserver:            ns2.hxchn.dn42
+source:             DN42

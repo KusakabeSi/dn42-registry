@@ -1,0 +1,5 @@
+route6:             fdee:5477::/48
+descr:              CHALLENE-IPV6-NET
+origin:             AS4242420527
+mnt-by:             CHALLENE-MNT
+source:             DN42

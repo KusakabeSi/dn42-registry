@@ -1,0 +1,9 @@
+inetnum:            172.20.192.96 - 172.20.192.127
+netname:            INLNETWORK-NET4-1
+country:            TH
+admin-c:            INL-DN42
+tech-c:             INL-DN42
+mnt-by:             INL-MNT
+status:             ASSIGNED
+cidr:               172.20.192.96/27
+source:             DN42

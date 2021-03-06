@@ -1,0 +1,4 @@
+route:              172.22.157.0/27
+origin:             AS4242422022
+mnt-by:             8FCDE-MNT
+source:             DN42

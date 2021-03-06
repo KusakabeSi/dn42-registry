@@ -1,0 +1,11 @@
+inet6num:           fd3d:4e14:f962:0000:0000:0000:0000:0000 - fd3d:4e14:f962:ffff:ffff:ffff:ffff:ffff
+netname:            TWINK0RNET-IPV6
+descr:              NEW Meta IPv6
+country:            DE
+admin-c:            TWINK0R-DN42
+tech-c:             TWINK0R-DN42
+mnt-by:             TWINK0R-MNT
+nserver:            ns2.auth.twink0r.dn42
+status:             ASSIGNED
+cidr:               fd3d:4e14:f962::/48
+source:             DN42

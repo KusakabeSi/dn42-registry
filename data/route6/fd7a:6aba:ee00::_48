@@ -1,0 +1,5 @@
+route6:             fd7a:6aba:ee00::/48
+origin:             AS4242421974
+max-length:         48
+mnt-by:             BUDDY-MNT
+source:             DN42

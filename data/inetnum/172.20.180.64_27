@@ -1,0 +1,10 @@
+inetnum:            172.20.180.64 - 172.20.180.95
+netname:            HERZOG-TEST-NET
+country:            DE
+admin-c:            HERZOG-DN42
+tech-c:             HERZOG-DN42
+mnt-by:             KAESEKUCHENPW-MNT
+nserver:            ns1.herzog.dn42
+status:             ASSIGNED
+cidr:               172.20.180.64/27
+source:             DN42

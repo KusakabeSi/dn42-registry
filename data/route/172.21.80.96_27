@@ -1,0 +1,4 @@
+route:              172.21.80.96/27
+origin:             AS4242423765
+mnt-by:             LAGERTONNE-MNT
+source:             DN42

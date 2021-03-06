@@ -1,0 +1,5 @@
+route6:             fdf7:17d5:de49:1000::/52
+descr:              v6 HOME Network
+origin:             AS4242423906
+mnt-by:             WEITI-MNT
+source:             DN42

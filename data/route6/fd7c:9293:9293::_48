@@ -1,0 +1,5 @@
+route6:             fd7c:9293:9293::/48
+origin:             AS4242421256
+max-length:         48
+mnt-by:             DALUN-MNT
+source:             DN42

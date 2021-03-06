@@ -1,0 +1,8 @@
+mntner:             JAN-MNT
+admin-c:            JAN-DN42
+tech-c:             JAN-DN42
+mnt-by:             JAN-MNT
+remarks:            pin-sha256:q/hsL+jCbA2cOhb+DYZYnLag4kiJ4zvpbNvyCuCqwSg=
+auth:               pgp-fingerprint BCD82B6C729A931C8CB382E5864F5B9B0642DF6F
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBqatxtFLbp5U2Cktb+nF1sC2bRj8B7sqE3KRuwu5c1fqcEajmX8JSkRc8DXbl9VtQiQuD60L9qXdMrZigcimQc94lw6bDSVbG2BDjoFflVm67WPcGaSdPrU1FCpAYOIjDaoACE/4oPHjdU9NqiErjAWG3iFGnk/ras4/YYmzuY5El9nVXLHG2VII4Yk0gL3XBdC/O2qpD87xN+Rz/ehiMevq1BsAKwYRNmQFgAoITEyuA7lLNN6aCeI8L/nDTSnJbqoQCdFKmR3WgQXeExTRVBf8OGFPTjilYXI46kPVx4Qxg+tJhf/S+IbK63DsxZshIPMrHMfVe6Y4L76GIqpw2Cg+ejSsIlSXUuB3JXewIFikEqCcCeIo94OBX612+CBZAj8pfOeTBw99V5Nn7El44L9Kh6DgwaN+2HF1fei9+/nv45Wjw2DG6+BYYwdV53zqMViUexMQq9bDEwyWx/y54EKJIVq/V/8+uaRM/CtCKjSe40EMP8SOqQE5Ozs+TwY2HzpZCgTZn+Q3QGADaCoeMWYtg9Sxe2oBHRqH6KHRBhyWXE082QkEQHrmuBG+ChNKoXKE8BY/sBueJTsinGygbEUD6UCTsMjaSBUeQYI/SHL1uXuXFc+oYNqdC4e3jqRMn2sTK613bYzGOwAFUEji6G3u4iGWhLlU4vmw/Gn/Ppw== janeric@ortgies.it
+source:             DN42

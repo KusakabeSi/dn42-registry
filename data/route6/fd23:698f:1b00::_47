@@ -1,0 +1,5 @@
+route6:             fd23:698f:1b00::/47
+descr:              Global
+origin:             AS4242422180
+mnt-by:             SKORPY-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             mkb.dn42
+admin-c:            MKB-DN42
+tech-c:             MKB-DN42
+mnt-by:             MKB-MNT
+nserver:            ns.mkb.dn42 172.23.238.148
+source:             DN42

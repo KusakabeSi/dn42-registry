@@ -1,0 +1,5 @@
+route:              172.20.128.48/28
+descr:              KUIPER-NETWORK route
+origin:             AS4242422747
+mnt-by:             ROT13-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.100.64 - 172.23.100.79
+cidr:               172.23.100.64/28
+netname:            FOOBARS-EU-BU
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ASSIGNED
+source:             DN42

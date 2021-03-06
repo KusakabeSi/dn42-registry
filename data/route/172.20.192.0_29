@@ -1,0 +1,4 @@
+route:              172.20.192.0/29
+origin:             AS4242422309
+mnt-by:             LEOLEOASD-MNT
+source:             DN42

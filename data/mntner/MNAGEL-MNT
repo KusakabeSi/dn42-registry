@@ -1,0 +1,7 @@
+mntner:             MNAGEL-MNT
+descr:              Personal account for mnagel
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDK5smAW49cXFQ1l69//jKqNehLvvX1P0S7G0T2VcgiG9RvsF+xNEOsCw+6vAXGQa05NL9gsPf8Do25sS5HETeOMBvMyxRWOS4rylLzjT6XEAO7j3fM5X+8izqPKI03GQrBKWFWRkHSaG6cM0EAPYzKLZQEcwDkIuCqTcT6OpkPLjjOUcqJr1gF1vvuLGRJ+ya0ObS9yGwz/E+BNFvE3hNJerd+jNcJkoI6hpQhWuGK8KzMlQrRVezZAOsCGWneOcBRAKsw9y01ynbtIVqBhRqCFOKQo6QJ+t6f4NaABoW6TRr96OrfcxSBpxskt4vAMcwMsWX6CLJ0On4I2wVgmRrB
+admin-c:            MNAGEL-DN42
+tech-c:             MNAGEL-DN42
+mnt-by:             MNAGEL-MNT
+source:             DN42

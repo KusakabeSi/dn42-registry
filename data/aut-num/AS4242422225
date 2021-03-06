@@ -1,0 +1,9 @@
+aut-num:            AS4242422225
+as-name:            MARAUN-AS
+admin-c:            MARAUN-DN42
+tech-c:             MARAUN-DN42
+remarks:            Peers are welcome, contact maraun@web.de
+remarks:            OpenVPN on all nodes, wireguard @ dn42-de.maraun.de
+remarks:            RFC7999 are supported now
+mnt-by:             MARAUN-MNT
+source:             DN42

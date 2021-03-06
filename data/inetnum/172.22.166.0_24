@@ -1,0 +1,9 @@
+inetnum:            172.22.166.0 - 172.22.166.255
+netname:            UCIS Internet Exchange
+country:            NL
+admin-c:            UFO-DN42
+tech-c:             UFO-DN42
+status:             ASSIGNED
+cidr:               172.22.166.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

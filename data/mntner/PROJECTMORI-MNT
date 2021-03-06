@@ -1,0 +1,7 @@
+mntner:             PROJECTMORI-MNT
+descr:              Maintainer object for PROJECTMORI
+admin-c:            MORI-DN42
+tech-c:             MORI-DN42
+mnt-by:             PROJECTMORI-MNT
+source:             DN42
+auth:               pgp-fingerprint B1E068BA87341CF191D68F8FFCFF2131B9141BC8

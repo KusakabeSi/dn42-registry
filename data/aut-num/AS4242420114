@@ -1,0 +1,7 @@
+aut-num:            AS4242420114
+descr:              Marlinc server network
+admin-c:            MARLINC-DN42
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+as-name:            Unnamed aut-num AS4242420114
+source:             DN42

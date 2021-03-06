@@ -1,0 +1,8 @@
+inetnum:            172.20.143.16 - 172.20.143.31
+cidr:               172.20.143.16/28
+netname:            DHE-NETWORK
+admin-c:            DHE-DN42
+tech-c:             DHE-DN42
+mnt-by:             DHE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.119.32/27
+origin:             AS4242423399
+mnt-by:             BYTEREALM-MNT
+source:             DN42

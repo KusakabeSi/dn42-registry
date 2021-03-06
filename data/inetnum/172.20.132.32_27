@@ -1,0 +1,10 @@
+inetnum:            172.20.132.32 - 172.20.132.63
+cidr:               172.20.132.32/27
+netname:            CAXAP-NETWORK
+admin-c:            CAXAP-DN42
+tech-c:             CAXAP-DN42
+mnt-by:             CAXAP-MNT
+status:             ASSIGNED
+nserver:            ns1.caxap.dn42
+nserver:            ns2.caxap.dn42
+source:             DN42

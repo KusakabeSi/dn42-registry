@@ -1,0 +1,6 @@
+route:              10.36.0.0/16
+origin:             AS44194
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: berlin
+mnt-by:             DN42-MNT
+source:             ICVPN

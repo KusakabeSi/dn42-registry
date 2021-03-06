@@ -1,0 +1,4 @@
+route6:             fd01:470:f129::/48
+origin:             AS4242422299
+mnt-by:             MENTHA-MNT
+source:             DN42

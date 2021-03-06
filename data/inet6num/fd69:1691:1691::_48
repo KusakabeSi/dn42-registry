@@ -1,0 +1,11 @@
+inet6num:           fd69:1691:1691:0000:0000:0000:0000:0000 - fd69:1691:1691:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:1691:1691::/48
+netname:            MCD1992-NETWORK
+descr:              Network of mcd1992
+country:            US
+admin-c:            MCD1992-DN42
+tech-c:             MCD1992-DN42
+mnt-by:             MCD1992-MNT
+status:             ASSIGNED
+nserver:            ns1.mcd1992.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd68:a3ea:7c9a::/48
+origin:             AS4242423767
+max-length:         48
+mnt-by:             LAGERTONNE-MNT
+source:             DN42

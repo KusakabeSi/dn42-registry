@@ -1,0 +1,7 @@
+mntner:             FLOKLI-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPTVTXOutUZZjXLB0lUSgeKcSY/8mxKkC0ingGK1whD2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq08AoapJOU8AKHxWKZz1HqngMVkLe4UxUUQN88Isr7yTtDE/Fdk4TXOuV/exxRB/yVfHj28i0ZHUfzyDKt8BJeUW+8IzRK4Gn6Ah7+A4WYHWgtLbI5Jnsvrgv2f1rNceMCLaGTEfunoWbm2laas3Au6I6s3JvlRBps9Q9RJgDqB1J15gB3LMx4EtdPB/Om0iGXi3odSbII/tGe9DRlQHg/VFIw9a9QMoBB26ntEDa0KZjxcqXYVmO+4i67XtWCDPzsZKPYiHfohJfL0HpR5fWdSv5yZJ4mNSMxv6Us7Ah5RNX//eTVWCWRH1s8IoVNqURuyS5tURvQd/HlizmhBUkw==
+admin-c:            FLOKLI-DN42
+tech-c:             FLOKLI-DN42
+mnt-by:             FLOKLI-MNT
+source:             DN42

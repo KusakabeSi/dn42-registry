@@ -1,0 +1,7 @@
+domain:             nicholascw.dn42
+admin-c:            NICHOLASCW-DN42
+tech-c:             NICHOLASCW-DN42
+mnt-by:             NICHOLASCW-MNT
+nserver:            ns1.nicholascw.dn42 172.20.233.153
+nserver:            ns1.nicholascw.dn42 fd42:1919:0810:53::1
+source:             DN42

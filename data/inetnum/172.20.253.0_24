@@ -1,0 +1,29 @@
+inetnum:            172.20.253.0 - 172.20.253.255
+netname:            CCCDA-TRANSFER-20161101
+cidr:               172.20.253.0/24
+remarks:            172.20.253.0/31 - Zaunei
+remarks:            172.20.253.4/31 - Lemelisk
+remarks:            172.20.253.6/31 - xuu
+remarks:            172.20.253.8/31 - kevit
+remarks:            172.20.253.10/31 - krstn
+remarks:            172.20.253.12/30 - locodog
+remarks:            172.20.253.16/31 - Nurtic-Vibe
+remarks:            172.20.253.18/31 - Duplex
+remarks:            172.20.253.20/31 - drixter
+remarks:            172.20.253.22/31 - major
+remarks:            172.20.253.24/31 - fooker #1
+remarks:            172.20.253.26/31 - luelistan
+remarks:            172.20.253.28/31 - fooker #2
+remarks:            172.20.253.30/31 - io
+remarks:            172.20.253.32/31 - feuerrot
+remarks:            172.20.253.34/31 - lutoma
+remarks:            172.20.253.36/31 - ffffm
+remarks:            172.20.253.38/31 - chaosdorf
+remarks:            172.20.253.40/31 - genofire
+remarks:            172.20.253.42/31 - imlonghao
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+status:             ALLOCATED
+source:             DN42

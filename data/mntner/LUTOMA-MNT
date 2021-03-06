@@ -1,0 +1,10 @@
+mntner:             LUTOMA-MNT
+descr:              Lukas Martini
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+abuse-mailbox:      hello+dn42-abuse@lutoma.org
+remarks:            pin-sha256:hCupMeeUt7KFm1/5R4y3n2M7JrOERt9YudctpPYcwkA=
+auth:               pgp-fingerprint B30962836CFD554A1EC8BDBCF828A0C8C9E1BD2C
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMKsBwPM2YQzwupvYDXiX77c2sSEsRV5BWYqSwHaxWYe
+source:             DN42

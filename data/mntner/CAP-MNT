@@ -1,0 +1,7 @@
+mntner:             CAP-MNT
+descr:              cap
+auth:               pgp-fingerprint 5F9F45814DEF574912B955877C2B1C00846B0E88
+admin-c:            CAP-DN42
+tech-c:             CAP-DN42
+mnt-by:             CAP-MNT
+source:             DN42

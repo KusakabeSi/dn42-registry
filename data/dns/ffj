@@ -1,0 +1,6 @@
+domain:             ffj
+nserver:            1.250.17.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
+source:             ICVPN

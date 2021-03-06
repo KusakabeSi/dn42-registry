@@ -1,0 +1,4 @@
+route6:             fd42:affe:face::/48
+origin:             AS4242423889
+mnt-by:             RAPPET-MNT
+source:             DN42

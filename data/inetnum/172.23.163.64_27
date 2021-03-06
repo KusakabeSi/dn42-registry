@@ -1,0 +1,11 @@
+inetnum:            172.23.163.64 - 172.23.163.95
+cidr:               172.23.163.64/27
+netname:            HIVEMIND-IP4-NETWORK
+descr:              HIVEMIND experimental DN42 IPv4 network
+admin-c:            HIVEMIND-DN42
+tech-c:             HIVEMIND-DN42
+mnt-by:             HIVEMIND-MNT
+status:             ASSIGNED
+nserver:            ns1.hivemind.dn42
+nserver:            ns2.hivemind.dn42
+source:             DN42

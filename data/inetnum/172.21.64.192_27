@@ -1,0 +1,9 @@
+inetnum:            172.21.64.192 - 172.21.64.223
+netname:            MCBONE-NET-002
+country:            DE
+admin-c:            BERNHARD-DN42
+tech-c:             BERNHARD-DN42
+mnt-by:             MCBONE-MNT
+status:             ASSIGNED
+cidr:               172.21.64.192/27
+source:             DN42

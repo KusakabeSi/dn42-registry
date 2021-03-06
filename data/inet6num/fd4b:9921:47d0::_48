@@ -1,0 +1,8 @@
+inet6num:           fd4b:9921:47d0:0000:0000:0000:0000:0000 - fd4b:9921:47d0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4b:9921:47d0::/48
+netname:            SLNX-NET-1
+admin-c:            SLNX-DN42
+tech-c:             SLNX-DN42
+mnt-by:             SLNX-MNT
+status:             ASSIGNED
+source:             DN42

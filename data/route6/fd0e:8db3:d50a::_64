@@ -1,0 +1,6 @@
+route6:             fd0e:8db3:d50a::/64
+origin:             AS65134
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: harz
+mnt-by:             DN42-MNT
+source:             ICVPN

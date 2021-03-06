@@ -1,0 +1,7 @@
+aut-num:            AS4242422240
+as-name:            TORFISH-NS
+descr:              TF-NETWORK [TEST]
+admin-c:            TORFISH-DN42
+tech-c:             TORFISH-DN42
+mnt-by:             TORFISH-MNT
+source:             DN42

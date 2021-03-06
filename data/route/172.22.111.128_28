@@ -1,0 +1,4 @@
+route:              172.22.111.128/28
+origin:             AS4242421341
+mnt-by:             PAPAYAWHIP-MNT
+source:             DN42

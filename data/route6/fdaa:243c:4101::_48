@@ -1,0 +1,5 @@
+route6:             fdaa:243c:4101::/48
+origin:             AS4242422058
+max-length:         48
+mnt-by:             RMLHUK-MNT
+source:             DN42

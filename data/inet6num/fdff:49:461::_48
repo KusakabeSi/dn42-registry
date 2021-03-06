@@ -1,0 +1,7 @@
+inet6num:           fdff:0049:0461:0000:0000:0000:0000:0000 - fdff:0049:0461:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:49:461::/48
+netname:            ICVPN-FOERDEFUNK-FLENSBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: foerdefunk-flensburg
+mnt-by:             DN42-MNT
+source:             ICVPN

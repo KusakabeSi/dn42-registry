@@ -1,0 +1,5 @@
+route:              172.21.75.64/26
+descr:              Peer with me at zhihuiyuze@gmail.com or noc@huize.asia
+origin:             AS141011
+mnt-by:             ZHYZ-MNT
+source:             DN42

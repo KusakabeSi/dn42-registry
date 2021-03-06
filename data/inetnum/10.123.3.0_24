@@ -1,0 +1,7 @@
+inetnum:            10.123.3.0 - 10.123.3.255
+cidr:               10.123.3.0/24
+netname:            ICVPN-EMSKIRCHEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: emskirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

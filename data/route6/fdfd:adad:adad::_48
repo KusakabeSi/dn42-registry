@@ -1,0 +1,4 @@
+route6:             fdfd:adad:adad::/48
+origin:             AS4242421501
+mnt-by:             ADAMYI-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.0.32/28
+descr:              TOMBII-DN42-ANYCAST
+origin:             AS4242420321
+mnt-by:             TOMBII-DN42-MNT
+source:             DN42

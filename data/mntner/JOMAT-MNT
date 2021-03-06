@@ -1,0 +1,9 @@
+mntner:             JOMAT-MNT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+remarks:            pin-sha256:jQ0FVZ12jfW0J/KeZFnheHLVbAEFGUeH3qy85MhXDew=
+remarks:            pin-sha256:d9/LbNua5AOYZKVf1rm02cawFkj7dQlFZ7TPA9jjBH4=
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFgSjpy33/p5+iJypNhpnUkTBEWG3xr716wlFYuJkE9V
+remarks:            ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBB3jceLS0Ng/mPgmwV3BkSMOVm9WdLDGVnFP25ulfweUMw0gAkvhk/FRUNj6xeZSaLSkf9GlT3OGjzj02FSlZlw=
+source:             DN42

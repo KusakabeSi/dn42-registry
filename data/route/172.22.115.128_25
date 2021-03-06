@@ -1,0 +1,5 @@
+route:              172.22.115.128/25
+descr:              Askarel IPv4 network
+origin:             AS64915
+mnt-by:             DUMMY-MNT
+source:             DN42

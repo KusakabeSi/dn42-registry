@@ -1,0 +1,10 @@
+inet6num:           fd11:ee7a:93aa:0000:0000:0000:0000:0000 - fd11:ee7a:93aa:ffff:ffff:ffff:ffff:ffff
+netname:            TRRUNDE-SANDBOX-V6
+descr:              IPV6 subnet for sandbox
+country:            NO
+admin-c:            TRRUNDE-DN42
+tech-c:             TRRUNDE-DN42
+mnt-by:             TRRUNDE-MNT
+status:             ASSIGNED
+cidr:               fd11:ee7a:93aa::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd6c:3444:4e30:2118::/64
+origin:             AS4242423849
+max-length:         64
+mnt-by:             CLEMATIS-MNT
+source:             DN42

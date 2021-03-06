@@ -1,0 +1,11 @@
+inetnum:            172.20.168.64 - 172.20.168.95
+cidr:               172.20.168.64/27
+netname:            BIRB-NETWORK-1
+country:            HU
+admin-c:            BIRB-DN42
+tech-c:             BIRB-DN42
+mnt-by:             BIRB-MNT
+nserver:            ns1.birb.dn42
+nserver:            ns2.birb.dn42
+status:             ASSIGNED
+source:             DN42

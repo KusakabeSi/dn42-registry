@@ -1,0 +1,10 @@
+inet6num:           fd38:cfa3:7091:0000:0000:0000:0000:0000 - fd38:cfa3:7091:ffff:ffff:ffff:ffff:ffff
+cidr:               fd38:cfa3:7091::/48
+netname:            scooterNet
+descr:              Scooter Play Net
+country:            US
+admin-c:            SCOOTERH928-DN42
+tech-c:             SCOOTERH928-DN42
+mnt-by:             SCOOTERH928-MNT
+status:             ASSIGNED
+source:             DN42

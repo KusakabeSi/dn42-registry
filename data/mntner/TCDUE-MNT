@@ -1,0 +1,9 @@
+mntner:             TCDUE-MNT
+admin-c:            TCDUE-DN42
+tech-c:             TCDUE-DN42
+mnt-by:             TCDUE-MNT
+remarks:            SSH-Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDaJWKIhj/2aPlX3l3UwvMcitjqPKX3eRdgBUTs/hpjDeGwUmOYmknx+lHIN62fa7OmjY7vMWQFe2eGlNImp3x1farLOixgRsBKU9UA57ql66UvbxyRoBzcancHN9G6fA7SBYpQIVRZnGKVfZmYppNiA2u8thZgu6imBkiaALZ+77i+pQ5iq1uJ7qeOCg2iKWlxp2lGp6gIsHs5DwFodLX85rS/m5ymLvnBrMRB/Ie26ApavEo2LEYRgsTAScAQkJ25xKA3BYpelhIHLL7IwpDnqu6TCS7typ/puGdSXrdydKkvJtsTYUKZ4EGalCMLIQlwnm1Z9eeJ+lJL7h76ksWV
+remarks:            GnuPG-Key:
+auth:               pgp-fingerprint 35E557D8720981EA3C163EFB52E335E02DFCCD33
+source:             DN42

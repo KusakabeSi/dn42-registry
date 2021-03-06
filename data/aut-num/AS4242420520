@@ -1,0 +1,11 @@
+aut-num:            AS4242420520
+as-name:            AS for IVIP Network
+descr:              IVIP's DN42 Network, https://www.hcies.com
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,
+remarks:            if necessary, please send email to q@hcies.com
+remarks:            --------------------------------------------------------
+admin-c:            IVIP-DN42
+tech-c:             IVIP-DN42
+mnt-by:             IVIP-MNT
+source:             DN42

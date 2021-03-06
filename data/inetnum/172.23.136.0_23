@@ -1,0 +1,12 @@
+inetnum:            172.23.136.0 - 172.23.137.255
+netname:            HAX404-DN42-V4
+descr:              hax404's network
+country:            DE
+admin-c:            HAX404-DN42
+tech-c:             HAX404-DN42
+mnt-by:             HAX404-MNT
+status:             ASSIGNED
+nserver:            chero.hax404.dn42
+nserver:            froschschenkel.hax404.dn42
+cidr:               172.23.136.0/23
+source:             DN42

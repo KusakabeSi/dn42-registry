@@ -1,0 +1,10 @@
+inetnum:            172.23.99.32 - 172.23.99.63
+cidr:               172.23.99.32/27
+netname:            SCIX-NET
+admin-c:            FSC-DN42
+tech-c:             FSC-DN42
+mnt-by:             SCIX-MNT
+nserver:            ns1.scix.dn42
+nserver:            ns2.scix.dn42
+status:             ASSIGNED
+source:             DN42

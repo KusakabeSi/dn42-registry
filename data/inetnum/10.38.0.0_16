@@ -1,0 +1,7 @@
+inetnum:            10.38.0.0 - 10.38.255.255
+cidr:               10.38.0.0/16
+netname:            ICVPN-BRAUNSCHWEIG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: braunschweig
+mnt-by:             DN42-MNT
+source:             ICVPN

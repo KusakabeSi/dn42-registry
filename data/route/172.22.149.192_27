@@ -1,0 +1,4 @@
+route:              172.22.149.192/27
+origin:             AS4242423938
+mnt-by:             CLEMENTD-MNT
+source:             DN42

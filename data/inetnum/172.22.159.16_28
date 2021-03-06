@@ -1,0 +1,8 @@
+inetnum:            172.22.159.16 - 172.22.159.31
+cidr:               172.22.159.16/28
+netname:            JACOBTHEELDEST-NETWORK
+admin-c:            JACOBTHEELDEST-DN42
+tech-c:             JACOBTHEELDEST-DN42
+mnt-by:             JACOBTHEELDEST-MNT
+status:             ASSIGNED
+source:             DN42

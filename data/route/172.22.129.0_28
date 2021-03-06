@@ -1,0 +1,4 @@
+route:              172.22.129.0/28
+origin:             AS4242421702
+mnt-by:             RICK-MNT
+source:             DN42

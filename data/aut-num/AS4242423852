@@ -1,0 +1,18 @@
+aut-num:            AS4242423852
+as-name:            TYPHON-DN42
+descr:              TYPHON-DN42
+remarks:            +---------------------------------------------------+
+remarks:            | * Open peering policy, OpenVPN only.              |
+remarks:            |   IPV4 only at the moment.                        |
+remarks:            +---------------------------------------------------+
+remarks:            | * For peering contact me at                       |
+remarks:            |   Typhonnetwork@gmail.com                         |
+remarks:            |   or via IRC Typhon @ hackint                     |
+remarks:            +---------------------------------------------------+
+remarks:            | * Server Location                                 |
+remarks:            |   South-West-Germany (Privat VDSL)                |
+remarks:            +---------------------------------------------------+
+admin-c:            TYPHON-DN42
+tech-c:             TYPHON-DN42
+mnt-by:             TYPHON-MNT
+source:             DN42

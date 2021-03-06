@@ -1,0 +1,4 @@
+route:              172.22.101.96/28
+origin:             AS4242423605
+mnt-by:             BUKN-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             RELIGHT-MNT
+descr:              Relight Hosting Services 
+admin-c:            RELIGHT-DN42
+tech-c:             RELIGHT-DN42
+mnt-by:             RELIGHT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICO5JsWWIwZaKFaMB+3D2peM8FDHvjFWVG93zLZItQa5

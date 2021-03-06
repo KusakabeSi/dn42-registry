@@ -1,0 +1,13 @@
+inet6num:           fdf2:8800:6e97:0000:0000:0000:0000:0000 - fdf2:8800:6e97:ffff:ffff:ffff:ffff:ffff
+netname:            KYRIASIS-ULA1-NETWORK
+descr:              Kyriasis ULA 1 network
+country:            SE
+org:                ORG-KYRIASIS
+admin-c:            KYRIAS-DN42
+tech-c:             KYRIAS-DN42
+mnt-by:             KYRIASIS-MNT
+nserver:            ns1.kyriasis.com
+nserver:            ns2.kyriasis.com
+status:             ASSIGNED PI
+cidr:               fdf2:8800:6e97::/48
+source:             DN42

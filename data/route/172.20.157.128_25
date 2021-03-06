@@ -1,0 +1,5 @@
+route:              172.20.157.128/25
+descr:              WEITI DN42 HOME Network
+origin:             AS4242423906
+mnt-by:             WEITI-MNT
+source:             DN42

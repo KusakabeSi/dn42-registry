@@ -1,0 +1,5 @@
+route:              172.21.66.224/27
+descr:              TRACE.NETWORK
+origin:             AS4242421165
+mnt-by:             TRACE-MNT
+source:             DN42

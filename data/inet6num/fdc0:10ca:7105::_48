@@ -1,0 +1,13 @@
+inet6num:           fdc0:10ca:7105:0000:0000:0000:0000:0000 - fdc0:10ca:7105:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-COLOCATIOUS
+country:            US
+org:                ORG-COLOCATIOUS
+admin-c:            JWALTER-DN42
+tech-c:             JWALTER-DN42
+mnt-by:             COLOCATIOUS-MNT
+nserver:            ns1.colocatio.us
+nserver:            ns2.colocatio.us
+status:             ALLOCATED
+policy:             open
+cidr:               fdc0:10ca:7105::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fdcc:2a2d:0646:0000:0000:0000:0000:0000 - fdcc:2a2d:0646:ffff:ffff:ffff:ffff:ffff
+netname:            ZORKZOID-DN42
+descr:              ZORKZOID
+admin-c:            ZORKZOID-DN42
+tech-c:             ZORKZOID-DN42
+mnt-by:             ZORKZOID-MNT
+status:             ASSIGNED
+cidr:               fdcc:2a2d:646::/48
+source:             DN42

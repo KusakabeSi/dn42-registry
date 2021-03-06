@@ -1,0 +1,8 @@
+mntner:             BAUEN1-MNT
+descr:              bauen1
+auth:               pgp-fingerprint 5ED6D826ACD43F8ED9D4FBB2FF0AAF5E0812BA9C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFdPPmuR5L02udCuqpWLez4FGr6B9lk87qCRiuZzpHRMVniaNBVTV8aoysW4iTn639x/Gavp49i7oIca8tpn+HBM4wirZ1RQWNqwcnrYYaAuAhBC93vidL+XxXcflUw/BfKEmvNGa3CgxXv+HEL0Wq/FWvPLKZ8fHnmKv0VYfqkOE6VsTbXRsNxo+Z0Q1+GX5FsqPYuZPu4qLbtVKpLLCtJhXBHEVe+bSm0+VSZmaYYxvUC33sfpLUupmwC1Kkkl2g9k0+OiaEji2tm3ZgxFoeLUOhX1zKT6thBhalvN/7+pCMeqxyr68uuz25ZGmaXtsW528k729vAgJ/aSJ1m1pH jh@jh-mba-debian
+admin-c:            BAUEN1-DN42
+tech-c:             BAUEN1-DN42
+mnt-by:             BAUEN1-MNT
+source:             DN42

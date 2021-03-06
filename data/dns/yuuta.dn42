@@ -1,0 +1,9 @@
+domain:             yuuta.dn42
+admin-c:            YUUTAW-DN42
+tech-c:             YUUTAW-DN42
+mnt-by:             YUUTAW-MNT
+nserver:            ns1.yuuta.dn42 172.23.105.7
+nserver:            ns1.yuuta.dn42 fd3f:a1f1:54ed:1::7
+nserver:            ns2.yuuta.dn42 172.23.105.8
+nserver:            ns2.yuuta.dn42 fd3f:a1f1:54ed:1::8
+source:             DN42

@@ -1,0 +1,22 @@
+aut-num:            AS4242422321
+as-name:            CCCHB-NETMON-AS
+org:                ORG-CCCHB-DN42
+remarks:            ------------------------
+remarks:            CCCHB Network monitoring
+remarks:            ------------------------
+remarks:            This AS is not physically present, but is used to inject
+remarks:            routes into the DN42 RIBs to deduce the propagation of the
+remarks:            network layer reachability information.
+remarks:            Further, it is used to connect probes to our monitoring
+remarks:            engine.
+remarks:            ------------------------
+remarks:            MP-RPSL
+remarks:            ------------------------
+mp-import:          afi any from AS-ANY accept ANY
+mp-export:          afi ipv4 to AS-ANY announce { 172.22.1.0/24^+ }
+mp-export:          afi ipv6 to AS-ANY announce { fdd6:aff6:5f6f:a000::/56^+ }
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

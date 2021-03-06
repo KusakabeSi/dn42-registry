@@ -1,0 +1,9 @@
+inetnum:            172.21.116.0 - 172.21.116.255
+netname:            NET-BLACKHOLETW-RTLAB-VPN
+country:            TW
+admin-c:            FRANKCHANG-DN42
+tech-c:             FRANKCHANG-DN42
+mnt-by:             BLACKHOLETW-MNT
+status:             ASSIGNED
+cidr:               172.21.116.0/24
+source:             DN42

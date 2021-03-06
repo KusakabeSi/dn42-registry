@@ -1,0 +1,9 @@
+mntner:             NETRAVNEN-MNT
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+auth:               PGPKEY-62E3F629
+source:             DN42
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBABagVdusHYzzIU1pwPLzd5utY1YEaRUReAraTc8duHi73eSIuTFoRInK7K7gz/YPeSP3Ih/dN8A9Z3eghaGv398nAFXvHGQE/VKzfUs5V1quBkCs5rq9mjpN60Udh/A7kgOw719+QOm6w9Uqe0Vf/kwkTaeEp4gaaQ1vtfODve9yb2gQg== ws-win-00021
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAH8OAaKbEkZLTAfuWTR/VSq3TKAfC0YVXOKLfnYWamiXB927ISuG19v/5Vxlu29ZWjxCg0lCEeR1c08q3oIA4jKFgBAeHEFm2bgF42JPlrqPp8EDyg9/VzqJmky808aoIlXnfO6K/kENRRMzT3A7vmE5xQFmAmTJ3bP8HgKS15SlrY6NQ== NIA3O9L
+auth:               ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBACyU89yi5wXI4NaJ13zyEhn6dB9KinliO4QbENIMPXlcA6qd409SZmYRshnI5FSsastzs4Nf05Ap997bNtBwRvyHQEN22Pmk797BQvI3k8zEejQB0QO2pWqpcipJRsOeDHRmIm8NRBJBBZB6ox0USuKbK6JrUgczSfkgOX4byer03m56w== AHM616

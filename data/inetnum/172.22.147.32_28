@@ -1,0 +1,10 @@
+inetnum:            172.22.147.32 - 172.22.147.47
+netname:            PABLO-HESSENET
+descr:              PABLO-HESSENET
+country:            FR
+admin-c:            JAMIE9898-DN42
+tech-c:             JAMIE9898-DN42
+mnt-by:             HESSENET-MNT
+status:             ASSIGNED
+cidr:               172.22.147.32/28
+source:             DN42

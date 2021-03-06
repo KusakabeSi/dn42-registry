@@ -1,0 +1,10 @@
+inetnum:            172.23.119.96 - 172.23.119.111
+netname:            LEMELISK-TEST-NETWORK
+descr:              Lemelisk's Test-Network
+country:            DE
+admin-c:            LEMELISK-DN42
+tech-c:             LEMELISK-DN42
+mnt-by:             LEMELISK-MNT
+status:             ASSIGNED
+cidr:               172.23.119.96/28
+source:             DN42

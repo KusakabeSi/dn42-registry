@@ -1,0 +1,9 @@
+inet6num:           fdca:ffee:ffa1:0000:0000:0000:0000:0000 - fdca:ffee:ffa1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdca:ffee:ffa1::/48
+netname:            ICVPN-ALTMUEHLTAL
+nserver:            2.2.202.10.ipv4.registry-sync.dn42
+nserver:            4.2.202.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: altmuehltal
+mnt-by:             DN42-MNT
+source:             ICVPN

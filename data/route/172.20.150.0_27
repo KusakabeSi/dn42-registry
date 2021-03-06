@@ -1,0 +1,7 @@
+route:              172.20.150.0/27
+descr:              JD52RU-NET [TESTING]
+origin:             AS4242423585
+tech-c:             JD52RU-DN42
+admin-c:            JD52RU-DN42
+mnt-by:             JD52RU-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             rasp.dn42
+admin-c:            RASP-DN42
+tech-c:             RASP-DN42
+mnt-by:             RASP-MNT
+nserver:            ns1.rasp.dn42 172.20.15.64
+nserver:            ns1.rasp.dn42 fd42:7331:a07c:e2::53
+source:             DN42

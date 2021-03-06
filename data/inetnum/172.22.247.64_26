@@ -1,0 +1,9 @@
+inetnum:            172.22.247.64 - 172.22.247.127
+netname:            Interconnect for DLGG
+country:            FR
+admin-c:            DLGG-DN42
+tech-c:             DLGG-DN42
+mnt-by:             DLGG-MNT
+status:             ALLOCATED
+cidr:               172.22.247.64/26
+source:             DN42

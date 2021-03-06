@@ -1,0 +1,9 @@
+domain:             kangaroonet.dn42
+admin-c:            KANGAROONET-DN42
+tech-c:             KANGAROONET-DN42
+mnt-by:             KANGAROONET-MNT
+nserver:            ns1.kangaroonet.dn42 172.22.118.98
+nserver:            ns1.kangaroonet.dn42 fda3:b3ab:126d:53::1
+nserver:            ns2.kangaroonet.dn42 172.22.118.99
+nserver:            ns2.kangaroonet.dn42 fda3:b3ab:126d:53::2
+source:             DN42

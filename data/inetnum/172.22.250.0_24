@@ -1,0 +1,14 @@
+inetnum:            172.22.250.0 - 172.22.250.255
+netname:            FFDN-DN42-IX
+descr:              FFDN IX range
+remarks:            Only the first /25 is used, but a /24 is assigned to get reverse DNS
+country:            FR
+admin-c:            FFDN-DN42
+tech-c:             POLYNOME-DN42
+mnt-by:             POLYNOME-MNT
+nserver:            chateau.polynome.dn42
+nserver:            topeka.polynome.dn42
+nserver:            beta.synhacx.dn42
+status:             ASSIGNED
+cidr:               172.22.250.0/24
+source:             DN42

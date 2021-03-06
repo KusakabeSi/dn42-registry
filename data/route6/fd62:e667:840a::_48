@@ -1,0 +1,5 @@
+route6:             fd62:e667:840a::/48
+origin:             AS4242423315
+max-length:         48
+mnt-by:             ZANE-MNT
+source:             DN42

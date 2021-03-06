@@ -1,0 +1,10 @@
+inetnum:            172.21.67.32 - 172.21.67.63
+netname:            PDOSTAL-IP4PDOSTAL
+descr:              Pavel Dostal's PDOSTAL 172.21.67.32/27 block
+country:            CZ
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+status:             ASSIGNED
+cidr:               172.21.67.32/27
+source:             DN42

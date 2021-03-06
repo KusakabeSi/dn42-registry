@@ -1,0 +1,18 @@
+aut-num:            AS4242420977
+as-name:            Moerail Network
+remarks:            +--------------------------------------+
+                    |                                      |
+                    |  New peers welcome!                  |
+                    |                                      |
+                    |  Peering contact: arnie97@gmail.com  |
+                    |                                      |
+                    |  Looking glass and peering info:     |
+                    |    https://lg.moerail.ml (clearnet)  |
+                    |    https://lg.moerail.dn42 (dn42)    |
+                    |                                      |
+                    +--------------------------------------+
++
+admin-c:            ARNIE97-DN42
+tech-c:             ARNIE97-DN42
+mnt-by:             ARNIE97-MNT
+source:             DN42

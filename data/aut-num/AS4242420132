@@ -1,0 +1,7 @@
+aut-num:            AS4242420132
+as-name:            BSDSERVICES-AS
+descr:              bsd.services
+admin-c:            TBOSTON-DN42
+tech-c:             TBOSTON-DN42
+mnt-by:             BSDSERVICES-MNT
+source:             DN42

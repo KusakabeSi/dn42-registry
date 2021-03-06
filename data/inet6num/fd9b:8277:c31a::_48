@@ -1,0 +1,9 @@
+inet6num:           fd9b:8277:c31a:0000:0000:0000:0000:0000 - fd9b:8277:c31a:ffff:ffff:ffff:ffff:ffff
+netname:            POTATSO-NET6
+country:            CN
+admin-c:            POTATSO-DN42
+tech-c:             POTATSO-DN42
+mnt-by:             POTATSO-MNT
+status:             ASSIGNED
+cidr:               fd9b:8277:c31a::/48
+source:             DN42

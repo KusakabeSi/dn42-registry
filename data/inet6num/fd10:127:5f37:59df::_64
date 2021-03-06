@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:5f37:59df:0000:0000:0000:0000 - fd10:0127:5f37:59df:ffff:ffff:ffff:ffff
+cidr:               fd10:127:5f37:59df::/64
+netname:            NeoNetwork Origin
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

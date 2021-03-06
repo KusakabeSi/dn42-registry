@@ -1,0 +1,4 @@
+route:              172.23.222.64/27
+origin:             AS4242422027
+mnt-by:             RDBCN-MNT
+source:             DN42

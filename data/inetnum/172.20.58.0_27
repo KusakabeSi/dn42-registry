@@ -1,0 +1,8 @@
+inetnum:            172.20.58.0 - 172.20.58.31
+cidr:               172.20.58.0/27
+netname:            COLNET-NETWORK
+admin-c:            CARLOSJS-DN42
+tech-c:             CARLOSJS-DN42
+mnt-by:             CARLOSJS-MNT
+status:             ASSIGNED
+source:             DN42

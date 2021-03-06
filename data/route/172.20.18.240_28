@@ -1,0 +1,4 @@
+route:              172.20.18.240/28
+origin:             AS4242423301
+mnt-by:             CZ5-MNT
+source:             DN42

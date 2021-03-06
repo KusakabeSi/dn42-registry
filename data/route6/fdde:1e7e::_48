@@ -1,0 +1,5 @@
+route6:             fdde:1e7e::/48
+origin:             AS4242420707
+max-length:         48
+mnt-by:             7MARCUS9-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             BLACKHOLE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDbNbmeuXHkNhH7qeZri5ROCKocZWUGDmXQT6vCxRbEW3SwMVXq1P7/ZY+ERqiFtxQZEymc0rYpgoia4wrza+TAtBqqRw7JvdvnvJo3qukTXrmEsZXitYPMrt1Bsn5TzP8bD79nrchNPo7T3tj80SHF40HQL/LxIWc2TO8ijIbAObWrYJUDlIsN8Ore3JCQjTWyDKq31N8qUTIE15uDFvK12Rxfo4MfurNRH9oM4T9xB0C8uZ6k+2cB78KNlW8Avg3zWgkvq4paygeo9SbGFpku8hP9DvRJsDiMB5B0IkfPiloyCc/gotGHFjRl0+x/I/i6S+DGOcF+IlCvgPQ2BHFl dn42@kernel.ac
+descr:              Blackhole Inc. Network Maintainer
+admin-c:            X-DN42
+tech-c:             X-DN42
+mnt-by:             BLACKHOLE-MNT
+source:             DN42

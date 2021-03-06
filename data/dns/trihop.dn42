@@ -1,0 +1,10 @@
+domain:             trihop.dn42
+descr:              trihop
+admin-c:            TRIHOP-DN42
+tech-c:             TRIHOP-DN42
+mnt-by:             TRIHOP-MNT
+nserver:            ns1.trihop.dn42 172.22.122.221
+nserver:            ns1.trihop.dn42 fd2a:edfd:6bae:50::1
+nserver:            ns2.trihop.dn42 172.22.122.222
+nserver:            ns2.trihop.dn42 fd2a:edfd:6bae:50::2
+source:             DN42

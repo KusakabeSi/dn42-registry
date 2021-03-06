@@ -1,0 +1,8 @@
+inetnum:            10.127.255.53 - 10.127.255.53
+cidr:               10.127.255.53/32
+netname:            anycast-auth-4
+admin-c:            JERRYXIAO-NEONETWORK
+tech-c:             JERRYXIAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,12 @@
+inetnum:            172.22.101.128 - 172.22.101.191
+cidr:               172.22.101.128/26
+netname:            IVIP-NETWORK
+descr:              Peer with me at q@hcies.com
+remarks:            Peer with me at q@hcies.com
+country:            CN
+nserver:            ns1.ivip.dn42
+admin-c:            IVIP-DN42
+tech-c:             IVIP-DN42
+mnt-by:             IVIP-MNT
+status:             ASSIGNED
+source:             DN42

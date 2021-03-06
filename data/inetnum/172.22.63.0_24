@@ -1,0 +1,7 @@
+inetnum:            172.22.63.0 - 172.22.63.255
+netname:            NET-CORESVCS4-DN42
+descr:              DN42 Core Services IPv4 Block
+mnt-by:             DN42-MNT
+status:             ALLOCATED PI
+cidr:               172.22.63.0/24
+source:             DN42

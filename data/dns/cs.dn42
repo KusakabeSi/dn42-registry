@@ -1,0 +1,7 @@
+domain:             cs.dn42
+descr:              Chaos Salzburg
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.at.dn42
+source:             DN42

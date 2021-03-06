@@ -1,0 +1,10 @@
+mntner:             ATR-MNT
+descr:              ATR Maintenance Object
+auth:               pgp-fingerprint 328C0C0A5F78B322C7D07DA1FEBB1B95F7964FB5
+auth:               pgp-fingerprint 5C7CFA3B74A5782B5A20441A7D78D22D23333B33
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDiqDUmhfOfP8h8+jcRw6ZRjQRPY/qAlpjujH2b02nl/SxuiQGa1AmMtdUWKu2emZ6SRhBrDW7m7odQjmujlzWpwvxVJ66jAtb7Uh+ijC/VlHLnB5RNMQAslHBuLHhYDX+9D4MDJbNO6qtOnGMDyT6mMKILtz7XjJRBYQK4zBxuPRjaaV5U8d8yS22Gc62kfxr+cpgmTqMrgovDvVRniiuHS7ga9dQS87LNokgZTDoMgv9igH89lDO6EyRK4rTpuy2v2QttYfQPiLL/2lXJTzH5FiTfrcFsBf6CLenDk63vvmlDyWAYf+vtZa1syNzDaPme3RB/IOva57Stc+bEzAV
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1mSWfO7rkb0zPMa6mdEXaYaiYYasA0SktdUzJdMYtLDLbMLRhuCnf4rBJ/lmkp01zK4X2tos54SlrghOd6B0CbzszR+lQu/BYDobnbk27NvpfId4WxZ6gwiTELyIzrhu1MgBQxHLy1pn5O7Nhg+RZvJda3MwlxFC2dARkOaohJQmsdyvDpYt6s3jmuq3gdDofZ8X7WJReLhQEAYhb+mN1KyTyksnLLCPj5h+EjxWvmnBsb104ASNHp5iSgE4oh6DK0zhsEZGM4AgHX8H2LYzVjmAK3OwzNazyiTs8w07tcC3vo9T/vpZWlBjZUIZiEI2FOdCIT2jIMXRMZUhADqvZ
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+source:             DN42

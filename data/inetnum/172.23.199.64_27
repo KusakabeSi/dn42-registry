@@ -1,0 +1,11 @@
+inetnum:            172.23.199.64 - 172.23.199.95
+netname:            SIDEREAL-NETWORK
+nserver:            ns1.sidereal.dn42
+nserver:            ns2.sidereal.dn42
+country:            CA
+admin-c:            SIDEREAL-DN42
+tech-c:             SIDEREAL-DN42
+mnt-by:             SIDEREAL-MNT
+status:             ASSIGNED
+cidr:               172.23.199.64/27
+source:             DN42

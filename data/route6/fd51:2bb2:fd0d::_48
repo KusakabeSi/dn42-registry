@@ -1,0 +1,9 @@
+route6:             fd51:2bb2:fd0d::/48
+max-length:         64
+origin:             AS64654
+origin:             AS4242422718
+origin:             AS4242422480
+descr:              CHAOSVPN-FFHH-SRV01
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

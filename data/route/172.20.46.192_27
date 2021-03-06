@@ -1,0 +1,5 @@
+route:              172.20.46.192/27
+descr:              hyhIX HOME
+origin:             AS4242420990
+mnt-by:             HYHIX-MNT
+source:             DN42

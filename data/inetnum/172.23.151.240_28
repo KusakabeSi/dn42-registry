@@ -1,0 +1,8 @@
+inetnum:            172.23.151.240 - 172.23.151.255
+cidr:               172.23.151.240/28
+netname:            RECURSIVE-LEGACY-NETWORK
+admin-c:            RG-DN42
+tech-c:             RG-DN42
+mnt-by:             RG-MNT
+status:             ASSIGNED
+source:             DN42

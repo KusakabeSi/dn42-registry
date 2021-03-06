@@ -1,0 +1,5 @@
+person:             nospoonuser
+remarks:            * Imported from legacy topology page ( https://dn42.net/trac/wiki/IPv4-topology )
+nic-hdl:            NOSPOONUSER-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

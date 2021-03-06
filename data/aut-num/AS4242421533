@@ -1,0 +1,9 @@
+aut-num:            AS4242421533
+as-name:            M33-AS
+descr:              m33
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             ALICE-DN42-MNT
+mnt-by:             OIDA-MNT
+source:             DN42

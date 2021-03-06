@@ -1,0 +1,9 @@
+inetnum:            172.20.18.32 - 172.20.18.63
+netname:            CALEANO-FOO
+country:            DE
+admin-c:            MYIGEL-DN42
+tech-c:             MYIGEL-DN42
+mnt-by:             CALEANO-MNT
+status:             ALLOCATED PI
+cidr:               172.20.18.32/27
+source:             DN42

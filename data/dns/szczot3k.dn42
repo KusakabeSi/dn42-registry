@@ -1,0 +1,7 @@
+domain:             szczot3k.dn42
+nserver:            ns1.szczot3k.dn42 172.20.149.65
+nserver:            ns1.szczot3k.dn42 fd39:b03e:6140:7ec1::1
+admin-c:            SZCZOT3K-DN42
+tech-c:             SZCZOT3K-DN42
+mnt-by:             SZCZOT3K-MNT
+source:             DN42

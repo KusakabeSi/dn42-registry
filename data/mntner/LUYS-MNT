@@ -1,0 +1,7 @@
+mntner:             LUYS-MNT
+descr:              LUYS
+admin-c:            LUYS-DN42
+tech-c:             LUYS-DN42
+mnt-by:             LUYS-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHaoYh/ysw+0AbHPgARSlidtIuw3qo4uw4eSU3F4yCJU
+source:             DN42

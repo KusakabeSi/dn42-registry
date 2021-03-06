@@ -1,0 +1,5 @@
+route:              172.20.46.96/28
+descr:              YOUSONG INET Network
+origin:             AS4242421043
+mnt-by:             YOUSONG-MNT
+source:             DN42

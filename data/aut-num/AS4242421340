@@ -1,0 +1,9 @@
+aut-num:            AS4242421340
+as-name:            twink0rNET-FFM-NLZUIDIX
+descr:              ASN for IX in Frankfurt / Germany
+admin-c:            TWINK0R-DN42
+admin-c:            NL-ZUID-DN42
+tech-c:             TWINK0R-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             TWINK0R-MNT
+source:             DN42

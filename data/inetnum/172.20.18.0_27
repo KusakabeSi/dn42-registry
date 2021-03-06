@@ -1,0 +1,10 @@
+inetnum:            172.20.18.0 - 172.20.18.31
+cidr:               172.20.18.0/27
+netname:            MOT-NET
+admin-c:            MOT-DN42
+tech-c:             MOT-DN42
+mnt-by:             MOT-MNT
+nserver:            ns1.mot.dn42
+nserver:            ns2.mot.dn42
+status:             ASSIGNED
+source:             DN42

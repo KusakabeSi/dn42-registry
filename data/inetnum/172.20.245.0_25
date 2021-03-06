@@ -1,0 +1,9 @@
+inetnum:            172.20.245.0 - 172.20.245.127
+descr:              LEAVERSMITH-V4
+cidr:               172.20.245.0/25
+admin-c:            LEAVERSMITH-DN42
+tech-c:             LEAVERSMITH-DN42
+mnt-by:             LEAVERSMITH-MNT
+status:             ALLOCATED
+netname:            Unnamed 172.20.245.0/25 Network
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd84:3db5:7c06:e28a:0000:0000:0000:0000 - fd84:3db5:7c06:e28a:ffff:ffff:ffff:ffff
+netname:            FUSL-DN42-IPV6-INTERNAL-PEERING
+descr:              FUSL-DN42-IPV6-INTERNAL-PEERING
+country:            AQ
+admin-c:            FUSL-DN42
+tech-c:             FUSL-DN42
+mnt-by:             FUSL-MNT
+status:             ASSIGNED
+cidr:               fd84:3db5:7c06:e28a::/64
+source:             DN42

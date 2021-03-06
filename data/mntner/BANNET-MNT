@@ -1,0 +1,6 @@
+mntner:             BANNET-MNT
+admin-c:            CAMERON-DN42
+tech-c:             CAMERON-DN42
+mnt-by:             BANNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICqM0KqabBZH0LZ4SOC52QG8ne00GnwhivlvXWzok7W8
+source:             DN42

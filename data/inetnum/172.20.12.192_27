@@ -1,0 +1,11 @@
+inetnum:            172.20.12.192 - 172.20.12.223
+netname:            MARAUN-NET
+descr:              Infos at https://grafana.maraun.dn42
+country:            DE
+admin-c:            MARAUN-DN42
+tech-c:             MARAUN-DN42
+mnt-by:             MARAUN-MNT
+status:             ASSIGNED
+cidr:               172.20.12.192/27
+nserver:            ns1.maraun.dn42
+source:             DN42

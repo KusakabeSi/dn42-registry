@@ -1,0 +1,10 @@
+inet6num:           fdf4:9abf:8175:0000:0000:0000:0000:0000 - fdf4:9abf:8175:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:9abf:8175::/48
+netname:            R2D2-NET
+descr:              R2D2 Network
+country:            DE
+admin-c:            R2D2MSC-DN42
+tech-c:             R2D2MSC-DN42
+mnt-by:             R2D2-MNT
+status:             ASSIGNED
+source:             DN42

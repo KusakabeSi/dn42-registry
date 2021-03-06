@@ -1,0 +1,9 @@
+inetnum:            172.20.184.32 - 172.20.184.63
+nserver:            ns.afx.dn42
+netname:            AFX-NETWORK
+admin-c:            AFX-DN42
+tech-c:             AFX-DN42
+mnt-by:             AFX-MNT
+status:             ASSIGNED
+cidr:               172.20.184.32/27
+source:             DN42

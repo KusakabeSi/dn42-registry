@@ -1,0 +1,6 @@
+route6:             fd42:100c:7121::/48
+origin:             AS64877
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: marburg
+mnt-by:             DN42-MNT
+source:             ICVPN

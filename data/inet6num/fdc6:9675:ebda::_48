@@ -1,0 +1,9 @@
+inet6num:           fdc6:9675:ebda:0000:0000:0000:0000:0000 - fdc6:9675:ebda:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc6:9675:ebda::/48
+netname:            XIRION-NET
+country:            NL
+admin-c:            VICTOR-DN42
+tech-c:             VICTOR-DN42
+mnt-by:             VICTOR-MNT
+status:             ASSIGNED
+source:             DN42

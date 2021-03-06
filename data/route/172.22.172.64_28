@@ -1,0 +1,4 @@
+route:              172.22.172.64/28
+origin:             AS4242423611
+mnt-by:             CULLEY-MNT
+source:             DN42

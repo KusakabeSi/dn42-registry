@@ -1,0 +1,10 @@
+inet6num:           fd8b:7857:280d:0000:0000:0000:0000:0000 - fd8b:7857:280d:ffff:ffff:ffff:ffff:ffff
+netname:            DREADMAN-02
+descr:              network with dreads
+country:            DE
+admin-c:            DREADMAN-DN42
+tech-c:             DREADMAN-DN42
+mnt-by:             DREADMAN-MNT
+status:             ASSIGNED
+cidr:               fd8b:7857:280d::/48
+source:             DN42

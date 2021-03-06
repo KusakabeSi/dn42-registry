@@ -1,0 +1,17 @@
+tinc-key:           ARIEL-TINC
+tinc-host:          shack
+tinc-file:          
+                    Compression=9
+                    Subnet=172.22.255.184/32
+                    Address=173.208.168.10
+                    Port=655
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAsw1Lu+J0vT7iYnb3mjVH/tpt3CRT/K+ut5NSFmzUgQcDy6cw+GJQ
+                    p0qfwQgE2Y1uh7LjDCZNHKVH7reVJm4rbJaBxXdY72g+j/5qPo/3AS8v6hiayc1b
+                    KU4Lcv6FI2wkEuOiTsTqA6aAZ+S7KnyBTdsGCEv9NnqPZHt0dt9r1OXrdp1fy8Z0
+                    W/LLegtSzadCj55mANdrAWjOuiDOvN+UQ33xWnDPVmZ6HlCPu8KGayQ+Mxtxr3au
+                    Nqs9vmY3si/V8/XNFNBb8ODbGIEIreXiSVqXVzrRLHOnUUEs0Kfwjx8qQilB4Ou+
+                    r5RHMctskJOEHvrSFTVX1tzayzAB/qeU+wIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

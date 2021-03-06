@@ -1,0 +1,5 @@
+route6:             fd21:a07e:735e::/48
+descr:              ANDI--V6
+origin:             AS4242423991
+mnt-by:             ANDI--MNT
+source:             DN42

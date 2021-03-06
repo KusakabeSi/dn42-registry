@@ -1,0 +1,11 @@
+inetnum:            172.22.157.0 - 172.22.157.31
+cidr:               172.22.157.0/27
+netname:            8FCDE-NETWORK
+descr:              Network of 8FCDE
+admin-c:            8FCDE-DN42
+tech-c:             8FCDE-DN42
+mnt-by:             8FCDE-MNT
+nserver:            ns1.8fcde.dn42
+nserver:            ns2.8fcde.dn42
+status:             ASSIGNED
+source:             DN42

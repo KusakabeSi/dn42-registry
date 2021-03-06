@@ -1,0 +1,7 @@
+mntner:             FEUERROT-MNT
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+auth:               pgp-fingerprint CA9470EA89B2F6D6E09BEE261E7523CA911AC822
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMONNzx0+MKzDfjy9YDBWQyZ94ZjOCPw+T/VHnNqa7hk
+source:             DN42

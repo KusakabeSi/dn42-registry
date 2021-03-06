@@ -1,0 +1,4 @@
+route:              172.20.172.128/28
+origin:             AS4242420618
+mnt-by:             ZHSJ-MNT
+source:             DN42

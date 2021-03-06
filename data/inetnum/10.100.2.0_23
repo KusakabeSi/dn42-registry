@@ -1,0 +1,7 @@
+inetnum:            10.100.2.0 - 10.100.3.255
+cidr:               10.100.2.0/23
+netname:            CHAOSVPN-CCCKC
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,9 @@
+mntner:             LFRAM-MNT
+descr:              Luiz Maintenance Object
+auth:               pgp-fingerprint BC28B5DAFAC4799C160BA22EE9AED4E6D4D0B2AC
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIp737cx1FbLhrGu4Uhqc7JMEtSVYtG3O2EKcbEE7iBJ
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAg2ODYoadRQD94bypqfcIyehYi+lBABowGwhW+sg2qBqJztJw/hjKRyQ9+SZ0rEZhh0bKk2zzV48xGkKwRJFiJ1mwDfwEbDz7Fnsuddartl/LX34giozxe1xvlOF8rxEb0tpg5aOdOZCu4/BgGmUZwjCoDfBRf1ECf28I2Jm6nQvNzMQqssKGDomNSRQt9aYZfhY8meYPXNkXEroORk97shfyzOBl96oCWa6/oTScd6SZhhh7YvpRemUg8SJSoVVprRKGqBrM+RrB1ss3xDCyvkYKy4FeGfqW/aqDpsQvFMU1IBAGaCFOP6LbhcF39ppYu2JVy+XdPlF7VZ01HK1TOw==
+admin-c:            LFRAM-DN42
+tech-c:             LFRAM-DN42
+mnt-by:             LFRAM-MNT
+source:             DN42

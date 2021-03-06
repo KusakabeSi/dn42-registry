@@ -1,0 +1,7 @@
+domain:             unbedenklich.dn42
+descr:              UNBEDENKLICH domain
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+nserver:            ns.unbedenklich.dn42 172.22.230.129
+source:             DN42

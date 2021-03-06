@@ -1,0 +1,7 @@
+aut-num:            AS4242420117
+as-name:            TDL-AS
+descr:              AS for TotalDataloss network
+admin-c:            TDL-DN42
+tech-c:             TDL-DN42
+mnt-by:             TDL-MNT
+source:             DN42

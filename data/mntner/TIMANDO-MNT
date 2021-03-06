@@ -1,0 +1,6 @@
+mntner:             TIMANDO-MNT
+admin-c:            TIMANDO-DN42
+tech-c:             TIMANDO-DN42
+mnt-by:             TIMANDO-MNT
+auth:               pgp-fingerprint 8BCA0D7D67482D452968E316CF7F0CC6C9BA3F8D
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.192.64/27
+origin:             AS4242420115
+mnt-by:             PICOCLOUD-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd66:5dc9:d084:0000:0000:0000:0000:0000 - fd66:5dc9:d084:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:5dc9:d084::/48
+netname:            YUYUKO-DN42-IPV6
+remarks:            Peer with me at dn42@yuyuko.com
+descr:              yuyuko network
+admin-c:            YUYUKO-DN42
+tech-c:             YUYUKO-DN42
+mnt-by:             YUYUKO-MNT
+status:             ASSIGNED
+source:             DN42

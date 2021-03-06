@@ -1,0 +1,10 @@
+inet6num:           fdc0:f16e:7051:0000:0000:0000:0000:0000 - fdc0:f16e:7051:ffff:ffff:ffff:ffff:ffff
+netname:            JPT-V6-NET
+descr:              JPT-V6-NET
+country:            DE
+admin-c:            JPT-DN42
+tech-c:             JPT-DN42
+mnt-by:             JPT-MNT
+status:             ASSIGNED
+cidr:               fdc0:f16e:7051::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd1b:7fcf:884f:0000:0000:0000:0000:0000 - fd1b:7fcf:884f:ffff:ffff:ffff:ffff:ffff
+nserver:            ns.afx.dn42
+netname:            AFX-NETWORK
+admin-c:            AFX-DN42
+tech-c:             AFX-DN42
+mnt-by:             AFX-MNT
+status:             ASSIGNED
+cidr:               fd1b:7fcf:884f::/48
+source:             DN42

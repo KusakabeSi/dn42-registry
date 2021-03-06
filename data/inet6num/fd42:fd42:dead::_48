@@ -1,0 +1,10 @@
+inet6num:           fd42:fd42:dead:0000:0000:0000:0000:0000 - fd42:fd42:dead:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:fd42:dead::/48
+netname:            never-afk network
+descr:              never-afk network
+country:            EU
+admin-c:            BITSTACKER-DN42
+tech-c:             BITSTACKER-DN42
+mnt-by:             BIT-MNT
+status:             ASSIGNED
+source:             DN42

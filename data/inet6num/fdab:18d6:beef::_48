@@ -1,0 +1,9 @@
+inet6num:           fdab:18d6:beef:0000:0000:0000:0000:0000 - fdab:18d6:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fdab:18d6:beef::/48
+netname:            CIP-NETWORK
+country:            RO
+admin-c:            CIP-DN42
+tech-c:             CIP-DN42
+mnt-by:             CIP-MNT
+status:             ASSIGNED
+source:             DN42

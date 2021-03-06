@@ -1,0 +1,4 @@
+route:              172.20.32.0/28
+origin:             AS4242423733
+mnt-by:             PZWA-MNT
+source:             DN42

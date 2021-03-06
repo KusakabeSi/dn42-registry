@@ -1,0 +1,10 @@
+inetnum:            172.23.212.0 - 172.23.212.255
+netname:            LABORTEC-DN42-IP4NET
+descr:              Labortec's dn42 network
+country:            DE
+admin-c:            LABORTEC-DN42
+tech-c:             LABORTEC-DN42
+status:             ASSIGNED
+mnt-by:             TEUFELCHEN-MNT
+cidr:               172.23.212.0/24
+source:             DN42

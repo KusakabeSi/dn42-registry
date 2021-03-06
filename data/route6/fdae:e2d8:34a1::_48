@@ -1,0 +1,4 @@
+route6:             fdae:e2d8:34a1::/48
+origin:             AS4242420756
+mnt-by:             LEMELISK-MNT
+source:             DN42

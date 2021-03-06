@@ -1,0 +1,10 @@
+inetnum:            172.20.46.96 - 172.20.46.111
+netname:            YOUSONG-INET
+descr:              NET-172-20-46-96
+country:            CN
+admin-c:            YOUSONG-DN42
+tech-c:             YOUSONG-DN42
+mnt-by:             YOUSONG-MNT
+status:             ASSIGNED
+cidr:               172.20.46.96/28
+source:             DN42

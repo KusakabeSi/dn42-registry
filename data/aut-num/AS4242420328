@@ -1,0 +1,9 @@
+aut-num:            AS4242420328
+as-name:            MARLINC-EDGE
+remarks:            Peering mainly via NL-ZUID in Amsterdam
+remarks:            https://nl-zuid.dn42/
+descr:              Marlinc's edge network
+admin-c:            MARLINC-DN42
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+source:             DN42

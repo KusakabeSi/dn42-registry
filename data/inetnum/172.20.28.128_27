@@ -1,0 +1,11 @@
+inetnum:            172.20.28.128 - 172.20.28.159
+cidr:               172.20.28.128/27
+netname:            HELCAR-NET
+descr:              IPv4 network of Helcar
+status:             ASSIGNED
+country:            FR
+admin-c:            AEGIAP-DN42
+tech-c:             AEGIAP-DN42
+mnt-by:             HELCAR-MNT
+nserver:            ns1.helcar.dn42
+source:             DN42

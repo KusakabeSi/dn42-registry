@@ -1,0 +1,5 @@
+route6:             fd42:3259:c01d::/48
+descr:              AS4242420166 announcement for DN42-INET6-WHEATLEY
+origin:             AS4242420166
+mnt-by:             BART-MNT
+source:             DN42

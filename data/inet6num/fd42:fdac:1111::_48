@@ -1,0 +1,10 @@
+inet6num:           fd42:fdac:1111:0000:0000:0000:0000:0000 - fd42:fdac:1111:ffff:ffff:ffff:ffff:ffff
+netname:            FILIP-NET6
+descr:              Filip's v6 class
+country:            PL
+admin-c:            FILIP-DN42
+tech-c:             FILIP-DN42
+mnt-by:             FILIP-MNT
+status:             ASSIGNED
+cidr:               fd42:fdac:1111::/48
+source:             DN42

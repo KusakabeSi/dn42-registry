@@ -1,0 +1,7 @@
+mntner:             BENLUE-MNT
+descr:              S3ROOT NETWORK
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAwosPrLkJb65GhNpbcZKTDrDkNfbIlOLdmdUG0EY7494TBQ8Yv4M+JQK1t09D2JhiFRMK63+nu9nDNftNCBhQrlOsnv39LRcYaFUlFDfYdaLs5f0WMXiPPm+LtY85a4OXjnaMR9ZmqYKpDZJSyerWA1n6zuKnr7FhA5y8aKWxFqV7NiO27lNb+6A5iDtSXls6LTDe8umU8jOTAnQM2Xq8Px0dlVbshHBWJBCvFQvaNWEvhR6t69+5DjA3rZQCsO3Me/sclcCGqX3leUxvfnXLVQFH0JNZ8+iSxM6/cDhc4x/7RP6ZWiBDDlILAs/wrQaekwDuOmH/wJYX9CdFbPt5QQ== rsa-key-20160803
+admin-c:            BENLUE-DN42
+tech-c:             BENLUE-DN42
+mnt-by:             BENLUE-MNT
+source:             DN42

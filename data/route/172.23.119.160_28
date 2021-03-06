@@ -1,0 +1,5 @@
+route:              172.23.119.160/28
+descr:              HSYSTEMS
+origin:             AS4242422901
+mnt-by:             HSYSTEMS-MNT
+source:             DN42

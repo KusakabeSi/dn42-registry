@@ -1,0 +1,5 @@
+route6:             fd42:ccc:fd::/48
+origin:             AS4242422800
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+source:             DN42

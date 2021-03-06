@@ -1,0 +1,10 @@
+inet6num:           fd8e:1889:b440:0000:0000:0000:0000:0000 - fd8e:1889:b440:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8e:1889:b440::/48
+netname:            DANN-NETWORK
+descr:              Network of DANN
+country:            SG
+admin-c:            DANN-DN42
+tech-c:             DANN-DN42
+mnt-by:             DANN-MNT
+status:             ASSIGNED
+source:             DN42

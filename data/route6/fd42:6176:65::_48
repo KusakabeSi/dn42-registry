@@ -1,0 +1,5 @@
+route6:             fd42:6176:65::/48
+origin:             AS4242420669
+max-length:         48
+mnt-by:             AVE-MNT
+source:             DN42

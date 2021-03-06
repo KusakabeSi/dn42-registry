@@ -1,0 +1,7 @@
+mntner:             NJD-MNT
+admin-c:            NJD-DN42
+tech-c:             NJD-DN42
+mnt-by:             NJD-MNT
+source:             DN42
+descr:              njd.dn42
+auth:               pgp-fingerprint 7E92E9EAB84A7A7A485EACCD5B0778E6AC80F880

@@ -1,0 +1,9 @@
+inetnum:            172.23.101.0 - 172.23.101.127
+netname:            LXNET-MAIN
+country:            DE
+admin-c:            LYREX-DN42
+tech-c:             LYREX-DN42
+mnt-by:             LYREX-MNT
+status:             ASSIGNED
+cidr:               172.23.101.0/25
+source:             DN42

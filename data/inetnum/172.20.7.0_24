@@ -1,0 +1,10 @@
+inetnum:            172.20.7.0 - 172.20.7.255
+netname:            BASNET-MAIN
+descr:              Basnet DN42 network
+country:            GB
+admin-c:            BASIL-DN42
+tech-c:             BASIL-DN42
+mnt-by:             BASIL-MNT
+status:             ALLOCATED
+cidr:               172.20.7.0/24
+source:             DN42

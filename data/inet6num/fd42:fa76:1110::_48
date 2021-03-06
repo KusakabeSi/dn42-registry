@@ -1,0 +1,11 @@
+inet6num:           fd42:fa76:1110:0000:0000:0000:0000:0000 - fd42:fa76:1110:ffff:ffff:ffff:ffff:ffff
+netname:            TIMANDO-V6
+descr:              V6 block
+country:            AU
+admin-c:            TIMANDO-DN42
+tech-c:             TIMANDO-DN42
+mnt-by:             TIMANDO-MNT
+nserver:            ns1.timando.dn42
+status:             ASSIGNED
+cidr:               fd42:fa76:1110::/48
+source:             DN42

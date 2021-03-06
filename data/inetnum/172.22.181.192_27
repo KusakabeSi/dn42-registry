@@ -1,0 +1,11 @@
+inetnum:            172.22.181.192 - 172.22.181.223
+netname:            PLASMATRIX-AS
+descr:              Plasmatrix Autonomous System
+country:            DE
+admin-c:            PLASMA-DN42
+tech-c:             PLASMA-DN42
+mnt-by:             PLASMATRIX-MNT
+nserver:            ns1.plasmatrix.dn42
+status:             ASSIGNED
+cidr:               172.22.181.192/27
+source:             DN42

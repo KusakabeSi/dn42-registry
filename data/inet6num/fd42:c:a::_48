@@ -1,0 +1,11 @@
+inet6num:           fd42:000c:000a:0000:0000:0000:0000:0000 - fd42:000c:000a:ffff:ffff:ffff:ffff:ffff
+netname:            CHAOSTREFF-AT-0
+descr:              Chaostreff.at
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.at.dn42
+status:             ALLOCATED
+cidr:               fd42:c:a::/48
+source:             DN42

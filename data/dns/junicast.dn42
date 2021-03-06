@@ -1,0 +1,7 @@
+domain:             junicast.dn42
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+nserver:            ns0.junicast.dn42 fd1a:91bf:fc44::2
+nserver:            ns1.junicast.dn42 fd1a:91bf:fc44::1
+source:             DN42

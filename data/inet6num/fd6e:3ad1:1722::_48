@@ -1,0 +1,10 @@
+inet6num:           fd6e:3ad1:1722:0000:0000:0000:0000:0000 - fd6e:3ad1:1722:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6e:3ad1:1722::/48
+netname:            SHOGNET-AS
+descr:              sto-01 network
+country:            SE
+admin-c:            SHOGHI-DN42
+tech-c:             SHOGHI-DN42
+mnt-by:             SHOGHI-MNT
+status:             ASSIGNED
+source:             DN42

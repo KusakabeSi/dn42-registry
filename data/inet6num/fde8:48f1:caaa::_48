@@ -1,0 +1,8 @@
+inet6num:           fde8:48f1:caaa:0000:0000:0000:0000:0000 - fde8:48f1:caaa:ffff:ffff:ffff:ffff:ffff
+netname:            ENTROPIA-DN42-IP6NET
+admin-c:            FXKR-DN42
+tech-c:             FXKR-DN42
+mnt-by:             ENTROPIA-MNT
+status:             ASSIGNED
+cidr:               fde8:48f1:caaa::/48
+source:             DN42

@@ -1,0 +1,9 @@
+aut-num:            AS4242422800
+as-name:            MAGLAB-AS
+descr:              https://maglab.space
+org:                ORG-MAGLAB
+admin-c:            MAGLAB-DN42
+tech-c:             MAGLAB-DN42
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+source:             DN42

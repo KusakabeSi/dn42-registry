@@ -1,0 +1,7 @@
+inetnum:            172.31.251.0 - 172.31.251.255
+cidr:               172.31.251.0/24
+netname:            CHAOSVPN-THE-DISTELLERY
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

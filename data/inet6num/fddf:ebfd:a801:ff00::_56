@@ -1,0 +1,7 @@
+inet6num:           fddf:ebfd:a801:ff00:0000:0000:0000:0000 - fddf:ebfd:a801:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:ebfd:a801:ff00::/56
+netname:            ICVPN-OBERHAUSEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: oberhausen
+mnt-by:             DN42-MNT
+source:             ICVPN

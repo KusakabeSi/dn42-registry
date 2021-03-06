@@ -1,0 +1,8 @@
+aut-num:            AS4242420053
+as-name:            UK-BUNNY
+descr:              BUNNY
+remarks:            cwningen.cymru
+admin-c:            CWNINGEN-DN42
+tech-c:             CWNINGEN-DN42
+mnt-by:             BUNNY-MNT
+source:             DN42

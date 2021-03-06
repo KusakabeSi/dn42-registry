@@ -1,0 +1,4 @@
+route6:             fd9b:8277:c31a::/48
+origin:             AS4242423320
+mnt-by:             POTATSO-MNT
+source:             DN42

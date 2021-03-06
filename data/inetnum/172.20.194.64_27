@@ -1,0 +1,12 @@
+inetnum:            172.20.194.64 - 172.20.194.95
+netname:            GXA-NET
+descr:              GXA-NET
+country:            US
+admin-c:            GXA-DN42
+tech-c:             GXA-DN42
+mnt-by:             GXA-MNT
+nserver:            a.ns.sigterm.dn42
+nserver:            b.ns.sigterm.dn42
+status:             ASSIGNED
+cidr:               172.20.194.64/27
+source:             DN42

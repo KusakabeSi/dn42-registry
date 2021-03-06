@@ -1,0 +1,12 @@
+inetnum:            172.22.255.0 - 172.22.255.31
+netname:            WELTERDE-TRANSFER-2-IP4NET
+descr:              welterde's transfer network
+admin-c:            WELTERDE-DN42
+tech-c:             WELTERDE-DN42
+status:             ASSIGNED
+nserver:            ns1.welterde.dn42
+nserver:            ns2.welterde.dn42
+nserver:            ns3.welterde.dn42
+cidr:               172.22.255.0/27
+mnt-by:             WELTERDE-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route6:             fd23:dead:beef::/48
+origin:             AS65432
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westkueste
+mnt-by:             DN42-MNT
+source:             ICVPN

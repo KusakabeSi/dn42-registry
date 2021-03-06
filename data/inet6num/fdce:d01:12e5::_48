@@ -1,0 +1,10 @@
+inet6num:           fdce:0d01:12e5:0000:0000:0000:0000:0000 - fdce:0d01:12e5:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:d01:12e5::/48
+netname:            W4XZR-1-NETWORK
+descr:              Network of W4XZR-1
+country:            US
+admin-c:            W4XZR-DN42
+tech-c:             W4XZR-DN42
+mnt-by:             W4XZR-MNT
+status:             ASSIGNED
+source:             DN42

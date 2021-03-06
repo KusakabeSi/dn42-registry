@@ -1,0 +1,7 @@
+domain:             aperture-laboratories.dn42
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+nserver:            ns1.aperture-laboratories.dn42 172.20.226.6
+nserver:            ns1.aperture-laboratories.dn42 fd06:e881:1300:0:f816:3eff:fe6e:fd89
+source:             DN42

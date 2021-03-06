@@ -1,0 +1,6 @@
+mntner:             IMP-MNT
+admin-c:            ALBS-DN42
+tech-c:             ALBS-DN42
+auth:               pgp-fingerprint 22D7815DFF4EE94435E1B0E45CC0F8C6B4F70E0B
+mnt-by:             IMP-MNT
+source:             DN42

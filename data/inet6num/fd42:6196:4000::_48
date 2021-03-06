@@ -1,0 +1,9 @@
+inet6num:           fd42:6196:4000:0000:0000:0000:0000:0000 - fd42:6196:4000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6196:4000::/48
+netname:            LINUXGEMINI-NETWORK
+country:            TR
+admin-c:            LINUXGEMINI-DN42
+tech-c:             LINUXGEMINI-DN42
+mnt-by:             LINUXGEMINI-MNT
+status:             ASSIGNED
+source:             DN42

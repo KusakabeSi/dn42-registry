@@ -1,0 +1,8 @@
+domain:             mephisto.dn42
+descr:              mephisto DNS
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+nserver:            ns1.mephisto.dn42 172.23.207.1
+nserver:            ns1.mephisto.dn42 fd42:b60d:6174::1
+source:             DN42

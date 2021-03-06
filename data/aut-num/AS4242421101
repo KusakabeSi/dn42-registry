@@ -1,0 +1,7 @@
+aut-num:            AS4242421101
+as-name:            SCARLET-AS
+descr:              Peer with me at i@linux.dog
+admin-c:            REMI-DN42
+tech-c:             REMI-DN42
+mnt-by:             REMI-MNT
+source:             DN42

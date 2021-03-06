@@ -1,0 +1,10 @@
+inet6num:           fd1b:7f7d:dd55:0000:0000:0000:0000:0000 - fd1b:7f7d:dd55:ffff:ffff:ffff:ffff:ffff
+netname:            USED-FOR-PEERING
+descr:              This subnet is used for peering
+country:            NL
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+status:             ALLOCATED
+cidr:               fd1b:7f7d:dd55::/48
+source:             DN42

@@ -1,0 +1,9 @@
+aut-num:            AS4242422547
+as-name:            LANTIAN-AS
+descr:              Lan Tian's Main network, open to peering.
+remarks:            My network is open to peering; see https://lantian.pub/page/dn42
+remarks:            or directly contact me at b980120@hotmail.com
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+source:             DN42

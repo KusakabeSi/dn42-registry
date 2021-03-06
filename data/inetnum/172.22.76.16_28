@@ -1,0 +1,10 @@
+inetnum:            172.22.76.16 - 172.22.76.31
+netname:            NET-ROTTY-1
+country:            AT
+admin-c:            ROTTY-DN42
+tech-c:             ROTTY-DN42
+mnt-by:             ROTTY-MNT
+nserver:            ns.r0tty.dn42
+status:             ASSIGNED
+cidr:               172.22.76.16/28
+source:             DN42

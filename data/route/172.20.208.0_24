@@ -1,0 +1,4 @@
+route:              172.20.208.0/24
+origin:             AS64613
+mnt-by:             LIFEDIO-MNT
+source:             DN42

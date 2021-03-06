@@ -1,0 +1,11 @@
+inet6num:           fd62:77fb:94bf:0000:0000:0000:0000:0000 - fd62:77fb:94bf:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:77fb:94bf::/48
+netname:            NET6-HESSNET-00
+descr:              HESSNET v6 range
+country:            DK
+admin-c:            GRAFFEN-DN42
+tech-c:             GRAFFEN-DN42
+mnt-by:             HESSNET-MNT
+nserver:            ns1.hessnet.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.158.160/27
+origin:             AS4242423298
+mnt-by:             ELOKO-MNT
+source:             DN42

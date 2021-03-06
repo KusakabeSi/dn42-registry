@@ -1,0 +1,10 @@
+inet6num:           fd42:0064:0686:0000:0000:0000:0000:0000 - fd42:0064:0686:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:64:686::/48
+netname:            IMOTO-NET6
+descr:              IMOTO NETWORK V6
+country:            CN
+admin-c:            KINO-DN42
+tech-c:             KINO-DN42
+mnt-by:             IMOTO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.169.0/28
+origin:             AS4242420131
+mnt-by:             AGS-MNT
+source:             DN42

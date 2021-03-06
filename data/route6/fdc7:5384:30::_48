@@ -1,0 +1,6 @@
+route6:             fdc7:5384:30::/48
+origin:             AS64930
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: tuttlingen
+mnt-by:             DN42-MNT
+source:             ICVPN

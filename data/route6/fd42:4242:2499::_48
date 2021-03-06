@@ -1,0 +1,4 @@
+route6:             fd42:4242:2499::/48
+origin:             AS4242422499
+mnt-by:             NICOLAS-MNT
+source:             DN42

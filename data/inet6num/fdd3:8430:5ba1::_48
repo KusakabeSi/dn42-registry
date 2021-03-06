@@ -1,0 +1,11 @@
+inet6num:           fdd3:8430:5ba1:0000:0000:0000:0000:0000 - fdd3:8430:5ba1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:8430:5ba1::/48
+netname:            FRALINSKY-NETWORK
+descr:              Fralinsky Network
+country:            DE
+admin-c:            FRALINSKY-DN42
+tech-c:             FRALINSKY-DN42
+mnt-by:             FRALINSKY-MNT
+status:             ASSIGNED
+nserver:            ns.fralinsky.dn42
+source:             DN42

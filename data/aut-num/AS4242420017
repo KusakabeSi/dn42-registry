@@ -1,0 +1,8 @@
+aut-num:            AS4242420017
+as-name:            Quick-Quagga
+descr:              http://bind.tk/Jonathan-Ferguson/Quick-Quagga
+remarks:            wget http://bind.tk/Jonathan-Ferguson/Quick-Quagga && chmod u+x ./Quick-Quagga && ./Quick-Quagga
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:5ee3:c44b::/48
+descr:              Cosmic's IPv6 prefix
+origin:             AS4242420125
+mnt-by:             COSMIC-MNT
+source:             DN42

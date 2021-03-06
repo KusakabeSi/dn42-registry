@@ -1,0 +1,11 @@
+aut-num:            AS4242421210
+as-name:            JASON-AS
+descr:              Jason R&D DN42 Network
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,
+remarks:            if necessary, please send email to jason@xbus.top
+remarks:            --------------------------------------------------------
+admin-c:            JASON-DN42
+tech-c:             JASON-DN42
+mnt-by:             JASON-MNT
+source:             DN42

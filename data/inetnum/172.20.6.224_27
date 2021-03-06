@@ -1,0 +1,10 @@
+inetnum:            172.20.6.224 - 172.20.6.255
+cidr:               172.20.6.224/27
+netname:            PICKLEBRIC-NETWORK
+descr:              PICKLEBRIC-NETWORK
+country:            US
+admin-c:            GRGR-DN42
+tech-c:             GRGR-DN42
+mnt-by:             GRGR-MNT
+status:             ASSIGNED
+source:             DN42

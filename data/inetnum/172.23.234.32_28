@@ -1,0 +1,10 @@
+inetnum:            172.23.234.32 - 172.23.234.47
+netname:            NIYAWE-NETWORK
+descr:              NIYAWE-NETWORK
+country:            DE
+admin-c:            NIYAWE-DN42
+tech-c:             NIYAWE-DN42
+mnt-by:             NIYAWE-MNT
+status:             ASSIGNED
+cidr:               172.23.234.32/28
+source:             DN42

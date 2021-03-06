@@ -1,0 +1,4 @@
+route:              172.22.172.96/27
+origin:             AS4242420511
+mnt-by:             MORTZEL-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.158.64 - 172.20.158.95
+netname:            OXYGEN233-IPV4
+descr:              Oxygen233 Network
+country:            CN
+admin-c:            OXYGEN233-DN42
+tech-c:             OXYGEN233-DN42
+mnt-by:             OXYGEN233-MNT
+nserver:            ns1.iedon.dn42
+status:             ASSIGNED
+cidr:               172.20.158.64/27
+source:             DN42

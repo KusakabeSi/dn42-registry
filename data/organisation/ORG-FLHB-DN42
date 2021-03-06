@@ -1,0 +1,11 @@
+organisation:       ORG-FLHB-DN42
+org-name:           FabLab Bremen
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+abuse-c:            FLHB-ABUSE-DN42
+mnt-by:             FRITZ-MNT
+mnt-by:             PYROPETER-MNT
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

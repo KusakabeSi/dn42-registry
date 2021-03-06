@@ -1,0 +1,4 @@
+route:              172.20.50.0/26
+origin:             AS4242423723
+mnt-by:             KRSTN-MNT
+source:             DN42

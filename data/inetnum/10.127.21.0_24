@@ -1,0 +1,8 @@
+inetnum:            10.127.21.0 - 10.127.21.255
+cidr:               10.127.21.0/24
+netname:            IEDON-NET
+admin-c:            IEDON-NEONETWORK
+tech-c:             IEDON-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

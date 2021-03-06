@@ -1,0 +1,6 @@
+mntner:             FNS-MNT
+admin-c:            FNS-DN42
+tech-c:             FNS-DN42
+mnt-by:             FNS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEuee7rCKpoExk/99Ta/lp0nq/foNfvMdw8K9AUvKv7YiJuPfSOHQZwDoeARlblNPE8j1rjaHzoQDoB2QIvOe7evkmChTkBNgw8S0If9NHtiyzxXqo9W4Ma6Lmmlh7s8FbJeiJK7uswe+A2UiyubpW5l915MyGM/6OzUdBnGNJZPRHXl+DDCCh+YGO3F/b+ylHjb0CRzB/3ERPmpomqXe89nQFtBb+OrjXHLgihRegx2iks/ccDgZjhRvb5klgueeGVLmGJqZGzJMpEQ/ApPP0zoE91+DMAbjfClQMNNIJ7aPC46GkzrhZ3bTPsCv7oA5d+tY2ZuPXnebMbDvzlzqb
+source:             DN42

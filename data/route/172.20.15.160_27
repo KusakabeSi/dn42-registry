@@ -1,0 +1,4 @@
+route:              172.20.15.160/27
+origin:             AS4242423310
+mnt-by:             310-MNT
+source:             DN42

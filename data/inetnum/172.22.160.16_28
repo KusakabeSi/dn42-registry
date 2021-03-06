@@ -1,0 +1,10 @@
+inetnum:            172.22.160.16 - 172.22.160.31
+netname:            DTNET-NET
+descr:              DTNET Network
+country:            AT
+admin-c:            CMIKOSCH-DN42
+tech-c:             CMIKOSCH-DN42
+mnt-by:             DTNET-MNT
+status:             ASSIGNED
+cidr:               172.22.160.16/28
+source:             DN42

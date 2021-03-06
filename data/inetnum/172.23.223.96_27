@@ -1,0 +1,9 @@
+inetnum:            172.23.223.96 - 172.23.223.127
+netname:            MATTCODE-NETWORK
+country:            GB
+admin-c:            MATTCODE-DN42
+tech-c:             MATTCODE-DN42
+mnt-by:             MATTCODE-MNT
+status:             ASSIGNED
+cidr:               172.23.223.96/27
+source:             DN42

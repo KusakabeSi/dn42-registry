@@ -1,0 +1,6 @@
+mntner:             AFX-MNT
+admin-c:            AFX-DN42
+tech-c:             AFX-DN42
+mnt-by:             AFX-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIAfPGd3dLQVY8pALceOFD6uREL9+QVoZcmgrsHeYrY4
+source:             DN42

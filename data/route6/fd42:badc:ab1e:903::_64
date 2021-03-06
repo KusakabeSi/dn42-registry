@@ -1,0 +1,5 @@
+route6:             fd42:badc:ab1e:903::/64
+descr:              jmt virt10
+origin:             AS4242422305
+mnt-by:             JOMAT-MNT
+source:             DN42

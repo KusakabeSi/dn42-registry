@@ -1,0 +1,6 @@
+route6:             fddf::/48
+origin:             AS65064
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: langweid
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,10 @@
+inet6num:           fdc8:6f52:c4fe:0000:0000:0000:0000:0000 - fdc8:6f52:c4fe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:6f52:c4fe::/48
+netname:            XELZA-NETWORK
+descr:              Network of XELZA
+country:            RU
+admin-c:            XELZA-DN42
+tech-c:             XELZA-DN42
+mnt-by:             XELZA-MNT
+status:             ASSIGNED
+source:             DN42

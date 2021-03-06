@@ -1,0 +1,7 @@
+aut-num:            AS64783
+as-name:            WOLF
+descr:              Block shared between Wolfplex network, Nasqueron servers and Dereckson home network.
+admin-c:            DUMMY-DN42
+tech-c:             DCK-DN42
+mnt-by:             DCK-MNT
+source:             DN42

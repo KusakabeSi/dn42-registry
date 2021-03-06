@@ -1,0 +1,9 @@
+inetnum:            172.22.151.0 - 172.22.151.31
+netname:            RAPPET-NETWORK
+country:            DE
+admin-c:            RAPPET-DN42
+tech-c:             RAPPET-DN42
+mnt-by:             RAPPET-MNT
+status:             ASSIGNED
+cidr:               172.22.151.0/27
+source:             DN42

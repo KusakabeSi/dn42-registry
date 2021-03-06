@@ -1,0 +1,9 @@
+inet6num:           fd42:0023:00d3:0000:0000:0000:0000:0000 - fd42:0023:00d3:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-D3NON
+country:            DE
+admin-c:            D3NON-DN42
+tech-c:             D3NON-DN42
+mnt-by:             D3NON-MNT
+status:             ASSIGNED
+cidr:               fd42:23:d3::/48
+source:             DN42

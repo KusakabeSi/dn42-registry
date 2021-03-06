@@ -1,0 +1,5 @@
+route:              172.23.189.0/25
+descr:              Subnet used for peering - devided in small subnets
+origin:             AS4242420045
+mnt-by:             DELTAMAN-MNT
+source:             DN42

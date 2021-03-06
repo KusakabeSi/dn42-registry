@@ -1,0 +1,6 @@
+mntner:             PESCO-MNT
+admin-c:            PESCO-DN42
+tech-c:             PESCO-DN42
+mnt-by:             PESCO-MNT
+auth:               pgp-fingerprint EBEE8445C42B9DAF11D808F741FFE8BA4AFA6630
+source:             DN42

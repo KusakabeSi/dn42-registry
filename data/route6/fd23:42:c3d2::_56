@@ -1,0 +1,9 @@
+route6:             fd23:42:c3d2::/56
+origin:             AS64698
+admin-c:            ASTRO-DN42
+admin-c:            ERI-DN42
+tech-c:             ASTRO-DN42
+tech-c:             ERI-DN42
+mnt-by:             ASTRO-MNT
+mnt-by:             ERI-MNT
+source:             DN42

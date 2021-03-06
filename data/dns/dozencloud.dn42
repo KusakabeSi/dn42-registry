@@ -1,0 +1,7 @@
+domain:             dozencloud.dn42
+nserver:            ns1.dozencloud.dn42 172.23.173.1
+nserver:            ns1.dozencloud.dn42 fd42:68c2:8747::1
+admin-c:            DOZENCLOUD-DN42
+tech-c:             DOZENCLOUD-DN42
+mnt-by:             DOZENCLOUD-MNT
+source:             DN42

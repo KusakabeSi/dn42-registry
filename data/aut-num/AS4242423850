@@ -1,0 +1,12 @@
+aut-num:            AS4242423850
+as-name:            YZUCRC-AS
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers, server in Taiwan.
+remarks:            Please send email to s1030361@mail.yzu.edu.tw
+remarks:            --------------------------------------------------------
+descr:              Yuan Ze University Communications Research Center Network
+admin-c:            XINYUAN-DN42
+tech-c:             XINYUAN-DN42
+org:                ORG-YZUCRC
+mnt-by:             XINYUAN-MNT
+source:             DN42

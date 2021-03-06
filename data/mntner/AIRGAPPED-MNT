@@ -1,0 +1,9 @@
+mntner:             AIRGAPPED-MNT
+descr:              Airgapped Maintainer
+org:                ORG-AIRGAPPED
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+abuse-mailbox:      abuse@airgapped.io
+auth:               gpg-fingerprint 67B88A33890A3491043312B55FF7CFF8C14306CD
+source:             DN42

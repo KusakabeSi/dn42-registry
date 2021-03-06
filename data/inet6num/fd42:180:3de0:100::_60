@@ -1,0 +1,11 @@
+inet6num:           fd42:0180:3de0:0100:0000:0000:0000:0000 - fd42:0180:3de0:010f:ffff:ffff:ffff:ffff
+netname:            NET-REGISTRY6-DN42
+descr:              DN42 Registry Services
+mnt-by:             JRB0001-MNT
+mnt-by:             XUU-MNT
+mnt-by:             BURBLE-MNT
+nserver:            ns1.burble.dn42
+ds-rdata:           12105 13 2 62835302ba66838d4cca7a0079d2ba06f91c01a20d691552cff2db9a54550489
+status:             ASSIGNED PI
+cidr:               fd42:180:3de0:100::/60
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fddd:fe2f:de5a::/48
+descr:              jomat network
+origin:             AS64773
+mnt-by:             JOMAT-MNT
+source:             DN42

@@ -1,0 +1,13 @@
+schema:             AS-SET-SCHEMA
+ref:                dn42.as-set
+key:                as-set      required  single    primary schema
+key:                descr       optional  single
+key:                mnt-by      required  multiple  lookup=dn42.mntner
+key:                members     optional  multiple  lookup=dn42.aut-num,dn42.as-set
+key:                mbrs-by-ref optional  multiple  lookup=dn42.mntner
+key:                admin-c     optional  multiple  lookup=dn42.person,dn42.role
+key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
+key:                remarks     optional  multiple
+key:                source      required  single    lookup=dn42.registry
+mnt-by:             DN42-MNT
+source:             DN42

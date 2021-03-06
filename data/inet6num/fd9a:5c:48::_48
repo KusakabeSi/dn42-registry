@@ -1,0 +1,13 @@
+inet6num:           fd9a:005c:0048:0000:0000:0000:0000:0000 - fd9a:005c:0048:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9a:5c:48::/48
+netname:            MGL-IPV6-1
+descr:              MGL IPv6 Network
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+status:             ASSIGNED
+nserver:            ns1.mgl.dn42
+nserver:            ns2.mgl.dn42
+ds-rdata:           46628 13 2 157647a94bb7221555a7b8a20b9c224db5df0463c1be8c96bf2180c37807cd2a
+ds-rdata:           46628 13 4 3ebd7ca44b0b41c1ad66a011c9f5fb3df3f8453cec190309277d411f6cb0dc0c7a2520d5f78a39b81526532b97129ecf
+source:             DN42

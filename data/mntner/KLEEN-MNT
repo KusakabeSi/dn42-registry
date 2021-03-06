@@ -1,0 +1,9 @@
+mntner:             KLEEN-MNT
+admin-c:            KLEEN-DN42
+tech-c:             KLEEN-DN42
+mnt-by:             KLEEN-MNT
+remarks:            SSH-Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCf+g/c8fbTjnKNAcB3f7kloSh+VPk1LUup5se0kvQSvrGFr7UK3MXCU488R28fBkvpQw6/vvKdXvxWLxq4j657EgfM1eeH3sqhnULea669xyV6sg/zmvxEhO0KsGyo7p6+AqhUyc/C5JgTrWjV1mJoYzDNq1juZpK+vJZkhklXH7nWs8H1wsHTyZ3a/HN6r2HPF8HIAfe6FURsigPwO4mEZEORnuUcmZMGuR8QmwFqg0RsbDwJP+N4BrM1pGRSy1JnNriuPySYr5OFr5UodbdM5Kprm9qpDcSKjelPwrXBgdgksDo8UlgpcvYxh+yioENqamUwsuzZYQcHAXpuB6VVDdojTseqWm8PRq+/i+ifZD7af9Da0qKW03MWFTVzHMN6AYM0WeKWeXYA9JacdjjXEJJSTuMVcLafPfscfLdAwS1r922AkWlGzET+cqedxZRKYk2c956/BkDb7FVLWF0p+cmhZGr2IcGziresPXKtMkmHlHVfP1fClRhmhpS5wITZKqphfsnL1NsHkEPH0dfpsESUvF7y01Kbu/eK4FFyLxBpRSuqQA+upkZbXRwTDKstpjuYK4qGBNk/SpqxDYCclbZgLVttWLg7y44uKBRzZIIBMo2c6c27ANzvioRJeWRPHg2B1Zd1YlOCT0sXJgUgx38oZwF7qB2jhwwLPFC5YQ==
+remarks:            GnuPG-Key:
+auth:               pgp-fingerprint 63B36774B185A63F279628BA900AE8FEFEBBBE30
+source:             DN42

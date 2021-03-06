@@ -1,0 +1,8 @@
+domain:             chiantos.dn42
+descr:              Chiantos Main Domain
+nserver:            ns0.chiantos.dn42 172.23.147.53
+nserver:            ns0.chiantos.dn42 fd8e:6470:7a23:1337::53
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+mnt-by:             KANKAN-MNT
+source:             DN42

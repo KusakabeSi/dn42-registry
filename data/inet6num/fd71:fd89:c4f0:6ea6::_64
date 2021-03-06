@@ -1,0 +1,11 @@
+inet6num:           fd71:fd89:c4f0:6ea6:0000:0000:0000:0000 - fd71:fd89:c4f0:6ea6:ffff:ffff:ffff:ffff
+netname:            NET-JONATHAN-FERGUSON-DN42
+cidr:               fd71:fd89:c4f0:6ea6::/64
+descr:              Matryoshka wlan2
+status:             ASSIGNED PA
+country:            AU
+remarks:            AS4242420017
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

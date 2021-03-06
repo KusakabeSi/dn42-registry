@@ -1,0 +1,11 @@
+inet6num:           fdfd:dead:c0d3:0000:0000:0000:0000:0000 - fdfd:dead:c0d3:ffff:ffff:ffff:ffff:ffff
+netname:            NET-LAMENET
+descr:              LAMENET IPV6 PA
+country:            BG
+admin-c:            LAMENET-DN42
+tech-c:             LAMENET-DN42
+mnt-by:             LAMENET-MNT
+nserver:            ns0.lamenet.dn42
+status:             ASSIGNED
+cidr:               fdfd:dead:c0d3::/48
+source:             DN42

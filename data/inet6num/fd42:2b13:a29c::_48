@@ -1,0 +1,10 @@
+inet6num:           fd42:2b13:a29c:0000:0000:0000:0000:0000 - fd42:2b13:a29c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2b13:a29c::/48
+netname:            HANEMILE-NETWORK
+descr:              hanemile's ipv6 network
+country:            DE
+admin-c:            HANEMILE-DN42
+tech-c:             HANEMILE-DN42
+mnt-by:             HANEMILE-MNT
+status:             ASSIGNED
+source:             DN42

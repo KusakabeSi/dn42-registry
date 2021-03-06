@@ -1,0 +1,7 @@
+aut-num:            AS4242423916
+as-name:            BYRON-AS
+descr:              Byron's network.
+admin-c:            BYRON-DN42
+tech-c:             BYRON-DN42
+mnt-by:             BYRON-MNT
+source:             DN42

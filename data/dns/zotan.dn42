@@ -1,0 +1,7 @@
+domain:             zotan.dn42
+admin-c:            ZOTAN-DN42
+tech-c:             ZOTAN-DN42
+mnt-by:             ZOTAN-MNT
+nserver:            ns1.zotan.dn42 172.20.177.33
+nserver:            ns1.zotan.dn42 fdff:b02d:2ef7::2
+source:             DN42

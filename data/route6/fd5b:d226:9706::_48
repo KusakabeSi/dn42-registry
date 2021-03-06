@@ -1,0 +1,4 @@
+route6:             fd5b:d226:9706::/48
+origin:             AS4242420153
+mnt-by:             NXTHOST-MNT
+source:             DN42

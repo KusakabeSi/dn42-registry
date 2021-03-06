@@ -1,0 +1,9 @@
+inetnum:            172.20.245.192 - 172.20.245.199
+netname:            LOCONOX-NET
+country:            FR
+admin-c:            LOCONOX-DN42
+tech-c:             LOCONOX-DN42
+mnt-by:             LOCONOX-MNT
+status:             ASSIGNED
+cidr:               172.20.245.192/29
+source:             DN42

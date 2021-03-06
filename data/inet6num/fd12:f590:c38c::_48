@@ -1,0 +1,11 @@
+inet6num:           fd12:f590:c38c:0000:0000:0000:0000:0000 - fd12:f590:c38c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:f590:c38c::/48
+netname:            MOZZNET-NETWORK
+descr:              Network on MOZZNET
+country:            US
+admin-c:            MOZZNET-DN42
+tech-c:             MOZZNET-DN42
+mnt-by:             MOZZNET-MNT
+status:             ASSIGNED
+nserver:            helium.ns.mozzarella.dn42
+source:             DN42

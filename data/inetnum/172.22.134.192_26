@@ -1,0 +1,11 @@
+inetnum:            172.22.134.192 - 172.22.134.255
+cidr:               172.22.134.192/26
+netname:            N2S-NET
+descr:              Neo2SHYAlien's PA
+country:            BG
+admin-c:            N2S-DN42
+tech-c:             N2S-DN42
+org:                ORG-N2S
+mnt-by:             N2S-MNT
+status:             ALLOCATED PA
+source:             DN42

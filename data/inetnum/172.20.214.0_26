@@ -1,0 +1,8 @@
+inetnum:            172.20.214.0 - 172.20.214.63
+cidr:               172.20.214.0/26
+netname:            MOXI-NETWORK
+admin-c:            MORXI-DN42
+tech-c:             MORXI-DN42
+mnt-by:             MOXI-MNT
+status:             ASSIGNED
+source:             DN42

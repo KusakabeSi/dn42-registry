@@ -1,0 +1,4 @@
+route:              172.23.240.32/27
+origin:             AS4242420525
+mnt-by:             MARIOS-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.174.0 - 172.20.174.31
+cidr:               172.20.174.0/27
+netname:            REACT-NETWORK
+admin-c:            REACT-DN42
+tech-c:             REACT-DN42
+mnt-by:             REACT-MNT
+status:             ASSIGNED
+source:             DN42

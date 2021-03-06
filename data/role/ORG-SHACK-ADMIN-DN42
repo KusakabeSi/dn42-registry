@@ -1,0 +1,8 @@
+role:               ORG-SHACK-ADMIN-DN42
+nic-hdl:            ORG-SHACK-ADMIN-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+org:                ORG-SHACK
+admin-c:            4A6F-DN42
+remarks:            e-mail: vorstand@shackspace.de
+source:             DN42

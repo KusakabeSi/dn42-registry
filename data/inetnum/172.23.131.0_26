@@ -1,0 +1,12 @@
+inetnum:            172.23.131.0 - 172.23.131.63
+netname:            NET-IIIDEFIX-DN42
+descr:              Main range
+country:            DE
+admin-c:            IIIDEFIX-DN42
+tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
+mnt-by:             IIIDEFIX-MNT
+nserver:            ns1.iiidefix.dn42
+status:             ASSIGNED
+cidr:               172.23.131.0/26
+source:             DN42

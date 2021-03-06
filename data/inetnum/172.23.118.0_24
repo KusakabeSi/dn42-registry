@@ -1,0 +1,10 @@
+inetnum:            172.23.118.0 - 172.23.118.255
+netname:            PMENKE-IP4NET
+country:            DE
+admin-c:            PMENKE-DN42
+tech-c:             PMENKE-DN42
+mnt-by:             PMENKE-MNT
+status:             ALLOCATED
+nserver:            ns1.pmenke.dn42
+cidr:               172.23.118.0/24
+source:             DN42

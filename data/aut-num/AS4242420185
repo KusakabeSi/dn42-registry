@@ -1,0 +1,7 @@
+aut-num:            AS4242420185
+as-name:            PESCO-AS
+descr:              pesco's fancy AS
+admin-c:            PESCO-DN42
+tech-c:             PESCO-DN42
+mnt-by:             PESCO-MNT
+source:             DN42

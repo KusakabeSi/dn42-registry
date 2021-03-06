@@ -1,0 +1,9 @@
+inetnum:            172.21.67.0 - 172.21.67.31
+cidr:               172.21.67.0/27
+netname:            LOR4-DN42-NET-1
+descr:              Red IPv4 LaOtraRed 1
+admin-c:            LMITA-DN42
+tech-c:             LMITA-DN42
+mnt-by:             LAOTRARED-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd3f:a1f1:54ed::/48
+descr:              Peer with me at peering.yuuta.moe
+origin:             AS4242422980
+mnt-by:             YUUTAW-MNT
+source:             DN42

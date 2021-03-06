@@ -1,0 +1,9 @@
+inet6num:           fdbd:8259:fe95:0000:0000:0000:0000:0000 - fdbd:8259:fe95:ffff:ffff:ffff:ffff:ffff
+netname:            VIRCOSNET-NET
+country:            ZA
+admin-c:            VIRCOSNET-DN42
+tech-c:             VIRCOSNET-DN42
+mnt-by:             VIRCOSNET-MNT
+status:             ALLOCATED
+cidr:               fdbd:8259:fe95::/48
+source:             DN42

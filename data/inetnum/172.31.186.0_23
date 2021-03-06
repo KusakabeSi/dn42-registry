@@ -1,0 +1,7 @@
+inetnum:            172.31.186.0 - 172.31.187.255
+cidr:               172.31.186.0/23
+netname:            CHAOSVPN-RML
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

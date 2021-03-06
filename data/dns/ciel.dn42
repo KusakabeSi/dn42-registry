@@ -1,0 +1,9 @@
+domain:             ciel.dn42
+admin-c:            CIEL-DN42
+tech-c:             CIEL-DN42
+nserver:            ns1.ciel.dn42 172.23.3.53
+nserver:            ns1.ciel.dn42 fdef:1926:817::53
+nserver:            ns2.ciel.dn42 172.23.3.54
+nserver:            ns2.ciel.dn42 fdef:1926:817::54
+mnt-by:             CIEL-MNT
+source:             DN42

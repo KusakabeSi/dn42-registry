@@ -1,0 +1,5 @@
+route:              172.20.204.48/28
+descr:              LAB Germany RT
+origin:             AS4242421049
+mnt-by:             LEVING-MNT
+source:             DN42

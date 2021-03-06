@@ -1,0 +1,10 @@
+inet6num:           fd42:99cc:c938:0000:0000:0000:0000:0000 - fd42:99cc:c938:ffff:ffff:ffff:ffff:ffff
+netname:            GYC-NET6
+descr:              ipv6 network of gaoyichuan
+country:            CN
+admin-c:            GYC-DN42
+tech-c:             GYC-DN42
+mnt-by:             GYC-MNT
+status:             ASSIGNED
+cidr:               fd42:99cc:c938::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd27:8888:8888:0000:0000:0000:0000:0000 - fd27:8888:8888:ffff:ffff:ffff:ffff:ffff
+netname:            MINKE-DN42-PA
+descr:              Minke-DN42-PA
+country:            DE
+admin-c:            MINKENSTEIN-DN42
+tech-c:             MINKENSTEIN-DN42
+mnt-by:             MINKENSTEIN-MNT
+status:             ALLOCATED
+cidr:               fd27:8888:8888::/48
+source:             DN42

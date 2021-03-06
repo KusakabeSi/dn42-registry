@@ -1,0 +1,7 @@
+domain:             e-utp.dn42
+descr:              Drixter
+admin-c:            DRIXTER-DN42
+nserver:            ns1.e-utp.dn42 172.22.165.50
+tech-c:             DRIXTER-DN42
+mnt-by:             DRIXTER-MNT
+source:             DN42

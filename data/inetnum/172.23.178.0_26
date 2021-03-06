@@ -1,0 +1,10 @@
+inetnum:            172.23.178.0 - 172.23.178.63
+netname:            INFTYLOOP-NETWORK
+descr:              Network of inftyloop.tech
+country:            CN
+admin-c:            INFTYLOOP-DN42
+tech-c:             INFTYLOOP-DN42
+mnt-by:             INFTYLOOP-MNT
+status:             ASSIGNED
+cidr:               172.23.178.0/26
+source:             DN42

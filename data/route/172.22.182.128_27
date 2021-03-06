@@ -1,0 +1,4 @@
+route:              172.22.182.128/27
+origin:             AS4242423820
+mnt-by:             SZB86-MNT
+source:             DN42

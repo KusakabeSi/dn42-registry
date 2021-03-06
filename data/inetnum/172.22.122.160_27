@@ -1,0 +1,9 @@
+inetnum:            172.22.122.160 - 172.22.122.191
+cidr:               172.22.122.160/27
+netname:            AVE-V4-NET
+descr:              IPv4 Network of Ave
+admin-c:            AVE-DN42
+tech-c:             AVE-DN42
+mnt-by:             AVE-MNT
+status:             ASSIGNED
+source:             DN42

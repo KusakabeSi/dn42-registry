@@ -1,0 +1,4 @@
+route:              172.23.119.224/28
+origin:             AS4242420086
+mnt-by:             JAMESITS-MNT
+source:             DN42

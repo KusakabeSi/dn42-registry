@@ -1,0 +1,11 @@
+inet6num:           fd42:0d42:0d42:0000:0000:0000:0000:0000 - fd42:0d42:0d42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:d42:d42::/48
+netname:            ROOT-DN42-INF
+descr:              DN42 Infrastructure
+mnt-by:             DN42-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            kapha.mtr.xuu.dn42
+nserver:            rishi.bre.xuu.dn42
+policy:             ask
+status:             ALLOCATED
+source:             DN42

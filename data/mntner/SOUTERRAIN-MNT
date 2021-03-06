@@ -1,0 +1,6 @@
+mntner:             SOUTERRAIN-MNT
+admin-c:            SOUTERRAIN-DN42
+tech-c:             SOUTERRAIN-DN42
+auth:               pgp-fingerprint C722C13B5ECE8C77D6B898F71970FA50A39B3F7D
+mnt-by:             SOUTERRAIN-MNT
+source:             DN42

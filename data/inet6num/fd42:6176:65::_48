@@ -1,0 +1,9 @@
+inet6num:           fd42:6176:0065:0000:0000:0000:0000:0000 - fd42:6176:0065:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6176:65::/48
+netname:            AVE-V6-NET
+descr:              IPv6 Network of Ave
+admin-c:            AVE-DN42
+tech-c:             AVE-DN42
+mnt-by:             AVE-MNT
+status:             ASSIGNED
+source:             DN42

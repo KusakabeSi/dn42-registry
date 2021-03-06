@@ -1,0 +1,5 @@
+route6:             fd62:cd4d:28a1::/48
+origin:             AS4242420173
+max-length:         48
+mnt-by:             DONUTS-MNT
+source:             DN42

@@ -1,0 +1,17 @@
+aut-num:            AS4242420018
+as-name:            BR-AS
+remarks:            +--------------------------------------+
+remarks:            | Open for Peering - OpenVPN preferred |
+remarks:            +--------------------------------------+
+remarks:            | Peering in:                          |
+remarks:            +----+---------------------------------+
+remarks:            | US | Dallas-TX                       |
+remarks:            | US | Jacksonville-FL                 |
+remarks:            | US | Miami-FL                        |
+remarks:            +----+---------------------------------+
+remarks:            | Looking Glass: http://lg.br.dn42     |
+remarks:            +--------------------------------------+
+admin-c:            BR-DN42
+tech-c:             BR-DN42
+mnt-by:             BR-MNT
+source:             DN42

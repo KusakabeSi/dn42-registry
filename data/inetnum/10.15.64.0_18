@@ -1,0 +1,7 @@
+inetnum:            10.15.64.0 - 10.15.127.255
+cidr:               10.15.64.0/18
+netname:            ICVPN-KOENIGSWINTER
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: koenigswinter
+mnt-by:             DN42-MNT
+source:             ICVPN

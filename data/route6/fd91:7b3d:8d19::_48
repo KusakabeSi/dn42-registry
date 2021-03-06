@@ -1,0 +1,5 @@
+route6:             fd91:7b3d:8d19::/48
+origin:             AS4242420524
+max-length:         48
+mnt-by:             FNK-MNT
+source:             DN42

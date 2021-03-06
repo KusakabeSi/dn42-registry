@@ -1,0 +1,6 @@
+mntner:             SHEPPY-MNT
+admin-c:            SHEPPY-DN42
+tech-c:             SHEPPY-DN42
+mnt-by:             SHEPPY-MNT
+source:             DN42
+auth:               pgp-fingerprint 243FC56BC32F301654706C75D2810AEE8A204B8B

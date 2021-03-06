@@ -1,0 +1,7 @@
+inet6num:           fdef:ffc0:4ffa:0000:0000:0000:0000:0000 - fdef:ffc0:4ffa:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:ffc0:4ffa::/48
+netname:            ICVPN-ALTDORF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: altdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

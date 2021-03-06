@@ -1,0 +1,4 @@
+route6:             fdbb:baba:2468::/48
+origin:             AS4242420151
+mnt-by:             BAUEN1-MNT
+source:             DN42

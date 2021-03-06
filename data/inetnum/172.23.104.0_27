@@ -1,0 +1,10 @@
+inetnum:            172.23.104.0 - 172.23.104.31
+netname:            GNILEBEIN-KA1
+descr:              GNILEBEIN
+country:            DE
+admin-c:            GNILEBEIN-DN42
+tech-c:             GNILEBEIN-DN42
+mnt-by:             GNILEBEIN-MNT
+status:             ASSIGNED
+cidr:               172.23.104.0/27
+source:             DN42

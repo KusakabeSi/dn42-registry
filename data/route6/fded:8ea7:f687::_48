@@ -1,0 +1,4 @@
+route6:             fded:8ea7:f687::/48
+origin:             AS4242420225
+mnt-by:             HEXXNET-MNT
+source:             DN42

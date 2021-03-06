@@ -1,0 +1,4 @@
+route6:             fd62:77fb:94bf::/48
+origin:             AS4242423934
+mnt-by:             HESSNET-MNT
+source:             DN42

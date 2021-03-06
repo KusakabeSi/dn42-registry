@@ -1,0 +1,8 @@
+inet6num:           fdfa:6eef:c3e2:0000:0000:0000:0000:0000 - fdfa:6eef:c3e2:ffff:ffff:ffff:ffff:ffff
+netname:            JAMESITS-NETWORK-V6-0
+admin-c:            JAMESITS-DN42
+tech-c:             JAMESITS-DN42
+mnt-by:             JAMESITS-MNT
+status:             ASSIGNED
+cidr:               fdfa:6eef:c3e2::/48
+source:             DN42

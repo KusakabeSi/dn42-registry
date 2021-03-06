@@ -1,0 +1,12 @@
+inet6num:           fdc5:de8a:b004:0000:0000:0000:0000:0000 - fdc5:de8a:b004:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:de8a:b004::/48
+netname:            PCO-NETWORK
+descr:              Network of PCo
+org:                ORG-PCO
+country:            FR
+admin-c:            FP-DN42
+tech-c:             FP-DN42
+mnt-by:             FP-MNT
+status:             ASSIGNED
+nserver:            ns1.pco.dn42
+source:             DN42

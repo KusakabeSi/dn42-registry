@@ -1,0 +1,7 @@
+aut-num:            AS4242422717
+as-name:            HUJK-AS
+descr:              Peer with me at dn42@hujk.eu.org
+admin-c:            HUJK-DN42
+tech-c:             HUJK-DN42
+mnt-by:             HUJK-MNT
+source:             DN42

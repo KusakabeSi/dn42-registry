@@ -1,0 +1,10 @@
+inet6num:           fd7b:7879:70d5:0000:0000:0000:0000:0000 - fd7b:7879:70d5:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7b:7879:70d5::/48
+netname:            WSLSHT-NETWORK
+descr:              Freddie Weaselshit's network
+country:            VN
+admin-c:            WSLSHT-DN42
+tech-c:             WSLSHT-DN42
+mnt-by:             WSLSHT-MNT
+status:             ASSIGNED
+source:             DN42

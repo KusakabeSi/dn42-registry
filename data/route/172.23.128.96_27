@@ -1,0 +1,4 @@
+route:              172.23.128.96/27
+origin:             AS4242420286
+mnt-by:             BAKABYTE-MNT
+source:             DN42

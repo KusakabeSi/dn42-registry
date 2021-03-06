@@ -1,0 +1,11 @@
+inetnum:            172.22.173.0 - 172.22.173.255
+netname:            NET-JMT-0
+nserver:            ns0.jmt.dn42
+nserver:            ns1.jmt.dn42
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+status:             ASSIGNED
+mnt-by:             JOMAT-MNT
+cidr:               172.22.173.0/24
+source:             DN42

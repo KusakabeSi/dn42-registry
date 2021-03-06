@@ -1,0 +1,9 @@
+inetnum:            172.23.162.32 - 172.23.162.63
+cidr:               172.23.162.32/27
+netname:            TOON-NETWORK
+country:            DE
+admin-c:            TOON-DN42
+tech-c:             TOON-DN42
+mnt-by:             TOON-MNT
+status:             ASSIGNED
+source:             DN42

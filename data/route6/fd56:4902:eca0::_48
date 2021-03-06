@@ -1,0 +1,5 @@
+route6:             fd56:4902:eca0::/48
+origin:             AS4242422574
+max-length:         48
+mnt-by:             CLERIE-MNT
+source:             DN42

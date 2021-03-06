@@ -1,0 +1,10 @@
+inet6num:           fdb3:d376:9939:0000:0000:0000:0000:0000 - fdb3:d376:9939:ffff:ffff:ffff:ffff:ffff
+netname:            FRITZ-CORE-IP6NET
+descr:              Fritz' ULA net
+country:            DE
+cidr:               fdb3:d376:9939::/48
+mnt-by:             FRITZ-MNT
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+status:             ASSIGNED
+source:             DN42

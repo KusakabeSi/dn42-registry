@@ -1,0 +1,4 @@
+route:              172.23.109.96/27
+origin:             AS4242421423
+mnt-by:             BANNET-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd81:763a:ce01::/48
+origin:             AS4242422248
+max-length:         48
+mnt-by:             SUDOPARADISE-MNT
+source:             DN42

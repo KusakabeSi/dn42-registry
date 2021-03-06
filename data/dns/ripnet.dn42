@@ -1,0 +1,10 @@
+domain:             ripnet.dn42
+descr:              RIPnet domn
+admin-c:            RIPNET-DN42
+tech-c:             RIPNET-DN42
+mnt-by:             RIPNET-MNT
+nserver:            nsa.ripnet.dn42 172.20.143.14
+nserver:            nsa.ripnet.dn42 fd42:6c6d:616f:2e72:6970::14
+nserver:            nsb.ripnet.dn42 172.20.143.13
+nserver:            nsb.ripnet.dn42 fd42:6c6d:616f:2e72:6970::13
+source:             DN42

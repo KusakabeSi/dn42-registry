@@ -1,0 +1,6 @@
+route6:             fdbe:12d0:3d2::/64
+origin:             AS64892
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: belgien
+mnt-by:             DN42-MNT
+source:             ICVPN

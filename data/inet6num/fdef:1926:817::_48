@@ -1,0 +1,13 @@
+inet6num:           fdef:1926:0817:0000:0000:0000:0000:0000 - fdef:1926:0817:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:1926:817::/48
+netname:            CIEL-NETWORK
+descr:              Ciel's Naive Network
+country:            CN
+admin-c:            CIEL-DN42
+tech-c:             CIEL-DN42
+remarks:            You may refer to https://dn42.ciel.dev for details.
+nserver:            ns1.ciel.dn42
+nserver:            ns2.ciel.dn42
+mnt-by:             CIEL-MNT
+status:             ASSIGNED
+source:             DN42

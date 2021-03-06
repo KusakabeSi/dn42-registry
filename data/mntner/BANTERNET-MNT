@@ -1,0 +1,7 @@
+mntner:             BANTERNET-MNT
+descr:              BANTERNET
+admin-c:            NICKUK-DN42
+tech-c:             NICKUK-DN42
+mnt-by:             BANTERNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDdxal6uSAkBbKP1g76Z5tdDfLUosSRuEnJnlf4ddd0d
+source:             DN42

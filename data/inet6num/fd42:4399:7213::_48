@@ -1,0 +1,10 @@
+inet6num:           fd42:4399:7213:0000:0000:0000:0000:0000 - fd42:4399:7213:ffff:ffff:ffff:ffff:ffff
+netname:            HIJACK6-NETWORK
+country:            CN
+admin-c:            HIJACK-DN42
+tech-c:             HIJACK-DN42
+mnt-by:             HIJACK-MNT
+nserver:            ns1.hijack.dn42
+status:             ASSIGNED
+cidr:               fd42:4399:7213::/48
+source:             DN42

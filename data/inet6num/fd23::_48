@@ -1,0 +1,10 @@
+inet6num:           fd23:0000:0000:0000:0000:0000:0000:0000 - fd23:0000:0000:ffff:ffff:ffff:ffff:ffff
+netname:            NARNIA-TWENTYTHREE-NET
+descr:              Narnia Twenty-Three Network
+country:            AU
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+status:             ASSIGNED PI
+cidr:               fd23::/48
+source:             DN42

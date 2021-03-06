@@ -1,0 +1,4 @@
+route:              172.22.147.32/28
+origin:             AS4242423640
+mnt-by:             HESSENET-MNT
+source:             DN42

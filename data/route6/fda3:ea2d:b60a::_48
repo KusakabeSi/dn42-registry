@@ -1,0 +1,5 @@
+route6:             fda3:ea2d:b60a::/48
+origin:             AS4242420228
+max-length:         48
+mnt-by:             MAXC-MNT
+source:             DN42

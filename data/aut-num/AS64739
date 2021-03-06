@@ -1,0 +1,7 @@
+aut-num:            AS64739
+as-name:            SIGI-AS
+descr:              sigi's AS
+admin-c:            WELTERDE-DN42
+tech-c:             WELTERDE-DN42
+mnt-by:             WELTERDE-MNT
+source:             DN42

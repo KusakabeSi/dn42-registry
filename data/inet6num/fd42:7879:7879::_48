@@ -1,0 +1,9 @@
+inet6num:           fd42:7879:7879:0000:0000:0000:0000:0000 - fd42:7879:7879:ffff:ffff:ffff:ffff:ffff
+netname:            JAMMY-NET
+country:            GB
+admin-c:            JAMMY-DN42
+tech-c:             JAMMY-DN42
+mnt-by:             JAMMY-MNT
+status:             ASSIGNED
+cidr:               fd42:7879:7879::/48
+source:             DN42

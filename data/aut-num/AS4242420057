@@ -1,0 +1,12 @@
+aut-num:            AS4242420057
+as-name:            WOUTER0100-DN42
+descr:              WOUTER0100 NETWORK
+remarks:            Open Peering policy, OpenVPN only.
+remarks:            Peering through NL Zuid IXP preferred.
+remarks:            NL Zuid IXP: https://nl-zuid.dn42/
+remarks:            IRC: Wouter0100@HackInt
+remarks:            E-mail: wouter0100@gmail.com
+admin-c:            WOUTER0100-DN42
+tech-c:             WOUTER0100-DN42
+mnt-by:             WOUTER0100-MNT
+source:             DN42

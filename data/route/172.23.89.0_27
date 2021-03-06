@@ -1,0 +1,4 @@
+route:              172.23.89.0/27
+origin:             AS4242420604
+mnt-by:             MOECAST-MNT
+source:             DN42

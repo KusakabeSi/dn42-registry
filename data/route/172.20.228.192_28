@@ -1,0 +1,4 @@
+route:              172.20.228.192/28
+origin:             AS4242421009
+mnt-by:             KLARA-MNT
+source:             DN42

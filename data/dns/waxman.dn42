@@ -1,0 +1,8 @@
+domain:             waxman.dn42
+descr:              waxman.dn42 http://dn42.wxmn.net/
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+nserver:            ns1.waxman.dn42 172.22.127.65
+nserver:            ns1.waxman.dn42 fd16:fb99:7f9b::1
+source:             DN42

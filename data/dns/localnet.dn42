@@ -1,0 +1,7 @@
+domain:             localnet.dn42
+descr:              Localnet domain
+admin-c:            OPOTONIL-DN42
+tech-c:             OPOTONIL-DN42
+mnt-by:             LOCALNET-MNT
+nserver:            ns1.localnet.dn42 172.23.12.21
+source:             DN42

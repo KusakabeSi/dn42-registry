@@ -1,0 +1,6 @@
+mntner:             MKOSMO-MNT
+admin-c:            MKOSMOSKI-DN42
+tech-c:             MKOSMOSKI-DN42
+mnt-by:             MKOSMO-MNT
+source:             DN42
+auth:               pgp-fingerprint 5B980A4D1DB58ABCC099CBA28F602DD3EE6ADA7A

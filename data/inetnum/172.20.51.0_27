@@ -1,0 +1,11 @@
+inetnum:            172.20.51.0 - 172.20.51.31
+cidr:               172.20.51.0/27
+netname:            NET-FNS
+admin-c:            FNS-DN42
+tech-c:             FNS-DN42
+mnt-by:             FNS-MNT
+country:            DE
+nserver:            ns1.fns.dn42
+nserver:            ns2.fns.dn42
+status:             ASSIGNED
+source:             DN42

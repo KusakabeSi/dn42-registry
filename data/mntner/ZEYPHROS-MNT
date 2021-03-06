@@ -1,0 +1,6 @@
+mntner:             ZEYPHROS-MNT
+admin-c:            ZEYPHROS-DN42
+tech-c:             ZEYPHROS-DN42
+mnt-by:             ZEYPHROS-MNT
+source:             DN42
+auth:               gpg-fingerprint 158590E291C6E993F3325455EA9C173F071F1D39

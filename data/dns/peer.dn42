@@ -1,0 +1,7 @@
+domain:             peer.dn42
+admin-c:            PEER-DN42
+tech-c:             PEER-DN42
+mnt-by:             PEER-MNT
+nserver:            ns1.darenet.dn42
+nserver:            ns2.darenet.dn42
+source:             DN42

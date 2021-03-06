@@ -1,0 +1,4 @@
+route:              172.20.20.96/27
+origin:             AS4242421475
+mnt-by:             SIRMYSTERION-MNT
+source:             DN42

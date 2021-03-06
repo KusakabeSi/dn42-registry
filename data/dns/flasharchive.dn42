@@ -1,0 +1,6 @@
+domain:             flasharchive.dn42
+admin-c:            WP140Z-DN42
+tech-c:             WP140Z-DN42
+mnt-by:             WP140Z-MNT
+nserver:            ns.flasharchive.dn42 172.20.29.119
+source:             DN42

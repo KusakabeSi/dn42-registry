@@ -1,0 +1,6 @@
+route:              10.214.0.0/16
+origin:             AS65081
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: karlsruhe
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,12 @@
+inetnum:            172.20.15.208 - 172.20.15.223
+netname:            DDEV-NETWORK
+descr:              Testnetwork for DebianDEV
+country:            DE
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+nserver:            ns1.ddevnet.dn42
+nserver:            ns2.ddevnet.dn42
+status:             ASSIGNED
+cidr:               172.20.15.208/28
+source:             DN42

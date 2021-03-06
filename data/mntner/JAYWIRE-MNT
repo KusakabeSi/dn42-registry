@@ -1,0 +1,6 @@
+mntner:             JAYWIRE-MNT
+admin-c:            JAYWIRE-DN42
+tech-c:             JAYWIRE-DN42
+mnt-by:             JAYWIRE-MNT
+auth:               pgp-fingerprint 63131635D05C8C6A6922CB21F38C95B1A22EF875
+source:             DN42

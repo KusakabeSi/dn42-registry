@@ -1,0 +1,5 @@
+route6:             fd45:1b93:dddf::/48
+origin:             AS4242422575
+max-length:         48
+mnt-by:             ANDROW-MNT
+source:             DN42

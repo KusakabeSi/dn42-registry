@@ -1,0 +1,5 @@
+route6:             fde3:8334:267e::/48
+origin:             AS4242420780
+max-length:         48
+mnt-by:             UFFSALOT-MNT
+source:             DN42

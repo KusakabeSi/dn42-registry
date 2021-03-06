@@ -1,0 +1,7 @@
+mntner:             SZB86-MNT
+descr:              SZB86 Network
+admin-c:            SZB86-DN42
+tech-c:             SZB86-DN42
+mnt-by:             SZB86-MNT
+source:             DN42
+auth:               pgp-fingerprint 390B848C9EC30AD50D23439BF92E503C81911D85

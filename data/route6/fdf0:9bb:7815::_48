@@ -1,0 +1,5 @@
+route6:             fdf0:9bb:7815::/48
+origin:             AS4242420359
+max-length:         48
+mnt-by:             RELIGHT-MNT
+source:             DN42

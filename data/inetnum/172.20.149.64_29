@@ -1,0 +1,10 @@
+inetnum:            172.20.149.64 - 172.20.149.71
+cidr:               172.20.149.64/29
+netname:            SZCZOT3K-DN42
+country:            PL
+admin-c:            SZCZOT3K-DN42
+tech-c:             SZCZOT3K-DN42
+mnt-by:             SZCZOT3K-MNT
+nserver:            ns1.szczot3k.dn42
+status:             ASSIGNED
+source:             DN42

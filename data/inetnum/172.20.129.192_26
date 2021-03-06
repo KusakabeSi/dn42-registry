@@ -1,0 +1,8 @@
+inetnum:            172.20.129.192 - 172.20.129.255
+cidr:               172.20.129.192/26
+netname:            TW-NETWORK
+admin-c:            GK-DN42
+tech-c:             GK-DN42
+mnt-by:             TW-MNT
+status:             ASSIGNED
+source:             DN42

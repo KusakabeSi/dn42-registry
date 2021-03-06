@@ -1,0 +1,10 @@
+inetnum:            172.21.64.64 - 172.21.64.95
+cidr:               172.21.64.64/27
+netname:            CHUANCHAN-NETWORK
+admin-c:            CHUANCHAN-DN42
+tech-c:             CHUANCHAN-DN42
+mnt-by:             CHUANCHAN-MNT
+nserver:            ns1.chuanchan.dn42
+nserver:            ns2.chuanchan.dn42
+status:             ASSIGNED
+source:             DN42

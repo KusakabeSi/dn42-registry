@@ -1,0 +1,4 @@
+route:              172.21.64.96/27
+origin:             AS4242422065
+mnt-by:             AMBROSE-MNT
+source:             DN42

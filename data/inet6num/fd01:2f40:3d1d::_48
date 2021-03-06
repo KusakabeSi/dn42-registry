@@ -1,0 +1,13 @@
+inet6num:           fd01:2f40:3d1d:0000:0000:0000:0000:0000 - fd01:2f40:3d1d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd01:2f40:3d1d::/48
+netname:            D120-NETWORK
+descr:              Network of D120
+country:            DE
+admin-c:            JOMAN-DN42
+tech-c:             JOMAN-DN42
+mnt-by:             JOMAN-MNT
+admin-c:            LUELISTAN-DN42
+tech-c:             LUELISTAN-DN42
+mnt-by:             LUELISTAN-MNT
+status:             ASSIGNED
+source:             DN42

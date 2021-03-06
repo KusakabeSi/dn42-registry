@@ -1,0 +1,7 @@
+inetnum:            172.31.51.0 - 172.31.51.255
+cidr:               172.31.51.0/24
+netname:            CHAOSVPN-LEITSTELLE511
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

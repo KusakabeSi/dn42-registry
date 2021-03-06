@@ -1,0 +1,10 @@
+domain:             sfn.dn42
+descr:              SaltedFish Network at DN42
+admin-c:            KAYWML-DN42
+tech-c:             KAYWML-DN42
+mnt-by:             SFN-MNT
+nserver:            ns1.sfn.dn42 172.20.59.128
+nserver:            ns1.sfn.dn42 fd22:cf08:697b:1::1
+nserver:            ns2.sfn.dn42 172.20.59.129
+nserver:            ns2.sfn.dn42 fd22:cf08:697b:2::1
+source:             DN42

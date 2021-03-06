@@ -1,0 +1,9 @@
+inet6num:           fd7a:c01e:db7c:0000:0000:0000:0000:0000 - fd7a:c01e:db7c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7a:c01e:db7c::/48
+netname:            TSHDW-NET6-1
+descr:              Tshdw IP6 network
+admin-c:            TSHDW-DN42
+tech-c:             TSHDW-DN42
+mnt-by:             TSHDW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             RIPNET-MNT
+descr:              RIPnet, home of LMAO.RIP
+admin-c:            RIPNET-DN42
+tech-c:             RIPNET-DN42
+mnt-by:             RIPNET-MNT
+auth:               pgp-fingerprint CAD0B4FF196EDB8456C1A8CCF27139E941BB7ECF
+source:             DN42

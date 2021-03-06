@@ -1,0 +1,6 @@
+mntner:             VO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFSLde7q/0c5ZDPYH+asbUI+begu2Fm8sHVSRluITPcU
+admin-c:            VO-DN42
+tech-c:             VO-DN42
+mnt-by:             VO-MNT
+source:             DN42

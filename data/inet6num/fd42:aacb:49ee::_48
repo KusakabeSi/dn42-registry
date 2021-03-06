@@ -1,0 +1,9 @@
+inet6num:           fd42:aacb:49ee:0000:0000:0000:0000:0000 - fd42:aacb:49ee:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:aacb:49ee::/48
+netname:            CLUTTERBOX-NETWORK
+descr:              clutterbox IPv6 Net
+admin-c:            CLUTTERBOX-DN42
+tech-c:             CLUTTERBOX-DN42
+mnt-by:             CLUTTERBOX-MNT
+status:             ASSIGNED
+source:             DN42

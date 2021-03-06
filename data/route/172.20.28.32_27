@@ -1,0 +1,4 @@
+route:              172.20.28.32/27
+origin:             AS4242423331
+mnt-by:             CRABNECK-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdf7:f511:d0ce::/48
+descr:              DACR IPv6
+origin:             AS4242420560
+mnt-by:             DACR-MNT
+source:             DN42

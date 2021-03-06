@@ -1,0 +1,7 @@
+domain:             as4747472742.dn42
+admin-c:            B101010-DN42
+tech-c:             B101010-DN42
+mnt-by:             B101010-MNT
+nserver:            ns0.as4747472742.dn42 172.20.160.32
+nserver:            ns0.as4747472742.dn42 df42:b10:1010::1
+source:             DN42

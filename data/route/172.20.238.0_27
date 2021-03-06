@@ -1,0 +1,4 @@
+route:              172.20.238.0/27
+origin:             AS4242422357
+mnt-by:             SAMMKO-MNT
+source:             DN42

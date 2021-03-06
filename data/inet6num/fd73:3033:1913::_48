@@ -1,0 +1,9 @@
+inet6num:           fd73:3033:1913:0000:0000:0000:0000:0000 - fd73:3033:1913:ffff:ffff:ffff:ffff:ffff
+cidr:               fd73:3033:1913::/48
+netname:            5670-V6-NET
+country:            DE
+status:             ASSIGNED
+admin-c:            FAIRY-DN42
+tech-c:             FAIRY-DN42
+mnt-by:             5670-MNT
+source:             DN42

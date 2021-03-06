@@ -1,0 +1,11 @@
+inetnum:            172.20.18.224 - 172.20.18.239
+cidr:               172.20.18.224/28
+netname:            BAUEN1-NETWORK-IPV4
+descr:              bauen1 network ipv4
+country:            DE
+admin-c:            BAUEN1-DN42
+tech-c:             BAUEN1-DN42
+mnt-by:             BAUEN1-MNT
+nserver:            ns1.bnet.dn42
+status:             ASSIGNED
+source:             DN42

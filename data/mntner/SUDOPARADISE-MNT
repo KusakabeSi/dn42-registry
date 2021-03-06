@@ -1,0 +1,6 @@
+mntner:             SUDOPARADISE-MNT
+admin-c:            SUDOPARADISE-DN42
+tech-c:             SUDOPARADISE-DN42
+mnt-by:             SUDOPARADISE-MNT
+auth:               pgp-fingerprint B7DF23C954AF7846B3FE52BEA3DA3F3E849FF248
+source:             DN42

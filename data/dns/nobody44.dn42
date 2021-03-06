@@ -1,0 +1,7 @@
+domain:             nobody44.dn42
+descr:              Nobody44 Domain
+admin-c:            PAUL-DN42
+tech-c:             PAUL-DN42
+mnt-by:             NOB-MNT
+nserver:            ns1.nobody44.dn42    172.20.190.74
+source:             DN42

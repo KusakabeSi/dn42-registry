@@ -1,0 +1,4 @@
+route:              172.20.140.0/23
+origin:             AS4242420842
+mnt-by:             REWBYSOFT-MNT
+source:             DN42

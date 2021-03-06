@@ -1,0 +1,9 @@
+domain:             maraun.dn42
+admin-c:            MARAUN-DN42
+tech-c:             MARAUN-DN42
+mnt-by:             MARAUN-MNT
+nserver:            ns1.maraun.dn42 172.20.12.194
+nserver:            ns2.maraun.dn42 172.20.12.197
+nserver:            ns1.maraun.dn42 fdb3:4cc3:3bfb::194
+nserver:            ns2.maraun.dn42 fdb3:4cc3:3bfb::197
+source:             DN42

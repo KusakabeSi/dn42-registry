@@ -1,0 +1,5 @@
+route:              172.20.25.128/25
+descr:              andi home
+origin:             AS4242423991
+mnt-by:             ANDI--MNT
+source:             DN42

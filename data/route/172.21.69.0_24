@@ -1,0 +1,4 @@
+route:              172.21.69.0/24
+origin:             AS4242423931
+mnt-by:             MAJK3L-MNT
+source:             DN42

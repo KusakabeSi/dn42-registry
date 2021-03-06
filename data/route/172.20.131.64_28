@@ -1,0 +1,4 @@
+route:              172.20.131.64/28
+origin:             AS4242421853
+mnt-by:             DCS-MNT
+source:             DN42

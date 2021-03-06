@@ -1,0 +1,10 @@
+inetnum:            172.20.231.192 - 172.20.231.223
+netname:            ATR-M101
+descr:              ATR Network Portable Access
+country:            CN
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               172.20.231.192/27
+source:             DN42

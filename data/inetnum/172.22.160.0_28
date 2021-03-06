@@ -1,0 +1,9 @@
+inetnum:            172.22.160.0 - 172.22.160.15
+netname:            QUITE-NET
+country:            SE
+admin-c:            QUITE-DN42
+tech-c:             QUITE-DN42
+mnt-by:             QUITE-MNT
+status:             ASSIGNED
+cidr:               172.22.160.0/28
+source:             DN42

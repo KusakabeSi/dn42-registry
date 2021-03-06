@@ -1,0 +1,9 @@
+domain:             scix.dn42
+admin-c:            FSC-DN42
+tech-c:             FSC-DN42
+mnt-by:             SCIX-MNT
+nserver:            ns1.scix.dn42	172.23.99.53
+nserver:            ns1.scix.dn42	fd06:e881:5380:53::1
+nserver:            ns2.scix.dn42	172.23.99.153
+nserver:            ns2.scix.dn42	fd06:e881:5380:53::2
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.11.160.0/20
+origin:             AS64875
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bodensee
+mnt-by:             DN42-MNT
+source:             ICVPN

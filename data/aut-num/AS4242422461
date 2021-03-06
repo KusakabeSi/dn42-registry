@@ -1,0 +1,7 @@
+aut-num:            AS4242422461
+as-name:            RFC2460-1
+descr:              RFC2460 AS4242422461
+admin-c:            RFC2460-DN42
+tech-c:             RFC2460-DN42
+mnt-by:             RFC2460-MNT
+source:             DN42

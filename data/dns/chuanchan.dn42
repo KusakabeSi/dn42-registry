@@ -1,0 +1,8 @@
+domain:             chuanchan.dn42
+descr:              domain for chuanchan
+admin-c:            CHUANCHAN-DN42
+tech-c:             CHUANCHAN-DN42
+mnt-by:             CHUANCHAN-MNT
+nserver:            ns1.chuanchan.dn42
+nserver:            ns2.chuanchan.dn42
+source:             DN42

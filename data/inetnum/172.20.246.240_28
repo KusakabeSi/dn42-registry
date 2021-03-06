@@ -1,0 +1,9 @@
+inetnum:            172.20.246.240 - 172.20.246.255
+netname:            BUNSEN-NETWORK
+country:            DE
+admin-c:            BUNSEN-DN42
+tech-c:             BUNSEN-DN42
+mnt-by:             BUNSEN-MNT
+status:             ASSIGNED
+cidr:               172.20.246.240/28
+source:             DN42

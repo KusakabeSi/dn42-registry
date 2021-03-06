@@ -1,0 +1,23 @@
+domain:             root-servers.dn42
+nserver:            x.root-servers.dn42      172.22.141.1
+nserver:            x.root-servers.dn42      fdea:a15a:77b9:4444::1
+nserver:            m.root-servers.dn42      172.23.67.67
+nserver:            g.root-servers.dn42      172.23.149.35
+nserver:            g.root-servers.dn42      fd42:23:149:2::35
+nserver:            k.root-servers.dn42      172.20.50.3
+nserver:            k.root-servers.dn42      fd42:20:50::3
+remarks:            !! DISABLED !! nserver:           a.root-servers.dn42      172.22.177.6
+remarks:            !! DISABLED !! nserver:           a.root-servers.dn42      fd42:1107:1:ec::cc
+remarks:            !! DISABLED !! nserver:           t.root-servers.dn42      172.22.102.141
+admin-c:            DUMMY-DN42
+tech-c:             SOURIS-DN42
+tech-c:             TOBEE-DN42
+tech-c:             TOMBII-DN42
+tech-c:             GRMML-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             TOMBII-DN42-MNT
+mnt-by:             BLAZING-MNT
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             KRSTN-MNT
+source:             DN42

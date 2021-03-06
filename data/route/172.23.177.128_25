@@ -1,0 +1,4 @@
+route:              172.23.177.128/25
+origin:             AS4242420414
+mnt-by:             PANKY-MNT
+source:             DN42

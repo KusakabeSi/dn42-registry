@@ -1,0 +1,4 @@
+route:              172.23.128.64/27
+origin:             AS4242423113
+mnt-by:             PACKETFRAME-MNT
+source:             DN42

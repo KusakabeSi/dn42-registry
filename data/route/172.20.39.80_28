@@ -1,0 +1,4 @@
+route:              172.20.39.80/28
+origin:             AS4242423376
+mnt-by:             VICTOR-MNT
+source:             DN42

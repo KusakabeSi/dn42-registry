@@ -1,0 +1,4 @@
+route6:             fdb0:4339::/32
+origin:             AS4242422345
+mnt-by:             IIIDEFIX-MNT
+source:             DN42

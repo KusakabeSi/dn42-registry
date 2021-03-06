@@ -1,0 +1,9 @@
+inetnum:            172.22.53.130 - 172.22.53.130
+netname:            Interfect's Temporary Address
+country:            US
+admin-c:            INTERFECT-DN42
+tech-c:             INTERFECT-DN42
+status:             ASSIGNED
+cidr:               172.22.53.130/32
+mnt-by:             DUMMY-MNT
+source:             DN42

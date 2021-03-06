@@ -1,0 +1,6 @@
+route:              10.254.0.0/16
+origin:             AS65023
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ljubljana
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,10 @@
+inet6num:           fdd0:c468:8eb1:0000:0000:0000:0000:0000 - fdd0:c468:8eb1:ffff:ffff:ffff:ffff:ffff
+netname:            NET-MCBONE-001
+descr:              MCBONE IPv6
+country:            DE
+admin-c:            BERNHARD-DN42
+tech-c:             BERNHARD-DN42
+mnt-by:             MCBONE-MNT
+status:             ASSIGNED
+cidr:               fdd0:c468:8eb1::/48
+source:             DN42

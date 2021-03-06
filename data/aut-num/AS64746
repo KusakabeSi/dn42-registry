@@ -1,0 +1,8 @@
+aut-num:            AS64746
+as-name:            GTA-AS
+descr:              GTA Transit AS -- Shut down 4 Jun 2015
+remarks:            Please discontinue peerings as soon as it's convenient
+admin-c:            RYAN-DN42
+tech-c:             RYAN-DN42
+mnt-by:             RYAN-MNT
+source:             DN42

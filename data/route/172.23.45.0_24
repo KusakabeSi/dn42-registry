@@ -1,0 +1,5 @@
+route:              172.23.45.0/24
+descr:              Hackerspace Bielefeld IPv4
+origin:             AS4242423342
+mnt-by:             BODEMS-MNT
+source:             DN42

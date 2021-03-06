@@ -1,0 +1,5 @@
+route6:             fd22:ad17:8e8d::/48
+origin:             AS4242423073
+max-length:         52
+mnt-by:             PATERNOT-MNT
+source:             DN42

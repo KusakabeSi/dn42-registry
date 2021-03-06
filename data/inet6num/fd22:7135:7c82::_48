@@ -1,0 +1,10 @@
+inet6num:           fd22:7135:7c82:0000:0000:0000:0000:0000 - fd22:7135:7c82:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:7135:7c82::/48
+netname:            DRMESSANO-NETWORK
+descr:              Network of DRMESSANO
+country:            US
+admin-c:            DRMESSANO-DN42
+tech-c:             DRMESSANO-DN42
+mnt-by:             DRMESSANO-MNT
+status:             ASSIGNED
+source:             DN42

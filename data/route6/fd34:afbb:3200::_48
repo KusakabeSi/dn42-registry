@@ -1,0 +1,5 @@
+route6:             fd34:afbb:3200::/48
+origin:             AS4242421207
+max-length:         64
+mnt-by:             SECRETMINE-MNT
+source:             DN42

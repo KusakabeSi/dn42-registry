@@ -1,0 +1,10 @@
+inetnum:            172.20.59.128 - 172.20.59.143
+cidr:               172.20.59.128/28
+netname:            SFN-NETWORK
+admin-c:            KAYWML-DN42
+tech-c:             KAYWML-DN42
+mnt-by:             SFN-MNT
+nserver:            ns1.sfn.dn42
+nserver:            ns2.sfn.dn42
+status:             ASSIGNED
+source:             DN42

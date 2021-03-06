@@ -1,0 +1,9 @@
+inet6num:           fdd8:da7b:92f5:0000:0000:0000:0000:0000 - fdd8:da7b:92f5:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd8:da7b:92f5::/48
+netname:            TAILS-NETWORK
+descr:              TailsNet IPv6 Allocation
+admin-c:            TAILSNET-DN42
+tech-c:             TAILSNET-DN42
+mnt-by:             TAILSNET-MNT
+status:             ASSIGNED
+source:             DN42

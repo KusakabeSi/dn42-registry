@@ -1,0 +1,4 @@
+route:              172.20.4.192/27
+origin:             AS4242420027
+mnt-by:             RZA-MNT
+source:             DN42

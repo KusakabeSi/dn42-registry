@@ -1,0 +1,10 @@
+inet6num:           fda3:db3f:c50d:0000:0000:0000:0000:0000 - fda3:db3f:c50d:ffff:ffff:ffff:ffff:ffff
+netname:            MORCK-NETWORK6
+descr:              MORCK IPv6
+country:            US
+admin-c:            MORCK-DN42
+tech-c:             MORCK-DN42
+mnt-by:             MORCK-MNT
+status:             ASSIGNED
+cidr:               fda3:db3f:c50d::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd88:ee35:b221:0000:0000:0000:0000:0000 - fd88:ee35:b221:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:ee35:b221::/48
+netname:            SHEEPBREW-NETWORK
+descr:              Network of SHEEPBREW
+country:            JP
+admin-c:            SHEEPBREW-DN42
+tech-c:             SHEEPBREW-DN42
+mnt-by:             SHEEPBREW-MNT
+status:             ASSIGNED
+source:             DN42

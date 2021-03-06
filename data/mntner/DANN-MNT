@@ -1,0 +1,7 @@
+mntner:             DANN-MNT
+descr:              DANN
+tech-c:             DANN-DN42
+admin-c:            DANN-DN42
+mnt-by:             DANN-MNT
+auth:               pgp-fingerprint 40172DE4A93EAAB1F5490750983F00BC64C8382D
+source:             DN42

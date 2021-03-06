@@ -1,0 +1,8 @@
+domain:             dnssec-failed.dn42
+nserver:            ns1.as4242420119.dn42
+nserver:            ns2.as4242420119.dn42
+ds-rdata:           36067 10 2 E9FACE1FBE06CF914850C9E1E522638DB973207F77676C88FB881F7BE35615B2
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+source:             DN42

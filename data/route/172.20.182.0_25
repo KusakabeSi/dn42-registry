@@ -1,0 +1,6 @@
+route:              172.20.182.0/25
+descr:              NL Zuid IXP range
+origin:             AS4242420330
+mnt-by:             MARLINC-MNT
+mnt-by:             VHAL-MNT
+source:             DN42

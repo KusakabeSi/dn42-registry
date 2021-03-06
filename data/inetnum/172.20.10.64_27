@@ -1,0 +1,8 @@
+inetnum:            172.20.10.64 - 172.20.10.95
+cidr:               172.20.10.64/27
+netname:            JASONSREALM-DN42
+admin-c:            JRS83-DN42
+tech-c:             JRS83-DN42
+mnt-by:             JASONSREALM-MNT
+status:             ASSIGNED
+source:             DN42

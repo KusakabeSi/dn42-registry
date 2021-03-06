@@ -1,0 +1,11 @@
+inetnum:            172.20.229.112 - 172.20.229.127
+cidr:               172.20.229.112/28
+netname:            JLU5-NET
+descr:              jlu5.dn42 backbone network
+country:            CA
+admin-c:            JLU5-DN42
+tech-c:             JLU5-DN42
+mnt-by:             JLU5-MNT
+nserver:            ns1.jlu5.dn42
+status:             ASSIGNED
+source:             DN42

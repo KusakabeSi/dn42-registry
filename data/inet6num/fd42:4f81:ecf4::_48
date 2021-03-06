@@ -1,0 +1,8 @@
+inet6num:           fd42:4f81:ecf4:0000:0000:0000:0000:0000 - fd42:4f81:ecf4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4f81:ecf4::/48
+netname:            NETSPEEDY-NET
+admin-c:            MAJESTIC-DN42
+tech-c:             MAJESTIC-DN42
+mnt-by:             NETSPEEDY-MNT
+status:             ASSIGNED
+source:             DN42

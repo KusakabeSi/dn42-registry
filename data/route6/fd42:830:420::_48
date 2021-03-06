@@ -1,0 +1,5 @@
+route6:             fd42:830:420::/48
+descr:              Route ins Luelistan-Testnetz
+origin:             AS4242420203
+mnt-by:             LUELISTAN-MNT
+source:             DN42

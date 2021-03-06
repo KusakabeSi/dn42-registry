@@ -1,0 +1,7 @@
+inetnum:            172.21.0.53 - 172.21.0.53
+cidr:               172.21.0.53/32
+netname:            RECURSORS
+descr:              Recursive DNS Anycast - reserved for future use
+mnt-by:             DN42-MNT
+status:             ASSIGNED PI
+source:             DN42

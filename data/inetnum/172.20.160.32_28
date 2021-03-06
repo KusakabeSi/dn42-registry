@@ -1,0 +1,9 @@
+inetnum:            172.20.160.32 - 172.20.160.47
+netname:            B101010-NETWORK
+country:            GB
+admin-c:            B101010-DN42
+tech-c:             B101010-DN42
+mnt-by:             B101010-MNT
+status:             ASSIGNED
+cidr:               172.20.160.32/28
+source:             DN42

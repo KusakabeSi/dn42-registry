@@ -1,0 +1,11 @@
+inet6num:           fdb0:4339:ffff:0000:0000:0000:0000:0000 - fdb0:4339:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-IIIDEFIX-INFRA-DN42
+descr:              iiidefix infrastructure prefix
+country:            DE
+admin-c:            IIIDEFIX-DN42
+tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
+mnt-by:             IIIDEFIX-MNT
+status:             ASSIGNED
+cidr:               fdb0:4339:ffff::/48
+source:             DN42

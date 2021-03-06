@@ -1,0 +1,8 @@
+mntner:             CHENG-MNT
+admin-c:            CHENG-DN42
+tech-c:             CHENG-DN42
+mnt-by:             CHENG-MNT
+source:             DN42
+auth:               pgp-fingerprint 91F52A3B8193724FB0F3521CB014D66526AD704F
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDL3QM+2XQBfE2Az+b+XjYNEsFsOmcWtg1h0iKhBXXi9FZuaWPTfSqRyvTkVNRxLfggu5WEFs1osK81uNAztGGmKHHf+mtkbCrdmsOM7Ax4SbZsA41VEJaR5iTzeaeBVKYGIUkY2gQcl2z6Wwjbq1PlqlpydMIToEfZdB7eczOXOXRiReMLuUkZxPpHvk1q3CYj8CBERHBeqvM3Gx+jXAtEr4bSStLkpoOa4Tb9KR6QVw+gpxAOQ2FokCOIpVeO86zA0txLgfhM74PtrnA3P6cca3NP+QRrAD9fhOu3RhP3tekKynmhzDrpJetjW3UKG4EeWGv49fHPINoNKgKIJzRZ
+remarks:            Cheng

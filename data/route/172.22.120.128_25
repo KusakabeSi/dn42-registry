@@ -1,0 +1,4 @@
+route:              172.22.120.128/25
+origin:             AS4242420806
+mnt-by:             RUIXIN-MNT
+source:             DN42

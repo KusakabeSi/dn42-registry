@@ -1,0 +1,12 @@
+inetnum:            172.23.23.224 - 172.23.23.239
+netname:            NL-ZUID-INFRA-ALB
+cidr:               172.23.23.224/28
+descr:              NL-Zuid infrastructure Alblasserdam
+country:            NL
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+nserver:            ns1.nl-zuid.dn42
+nserver:            ns2.nl-zuid.dn42
+status:             ASSIGNED PI
+source:             DN42

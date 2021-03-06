@@ -1,0 +1,5 @@
+route6:             fd42:4242:339::/48
+descr:              The fd42:4242:0339::/48 prefix route
+origin:             AS4242420339
+mnt-by:             PDOSTAL-MNT
+source:             DN42

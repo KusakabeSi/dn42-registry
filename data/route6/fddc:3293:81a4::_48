@@ -1,0 +1,4 @@
+route6:             fddc:3293:81a4::/48
+origin:             AS4242422515
+mnt-by:             ANYSERVICES-MNT
+source:             DN42

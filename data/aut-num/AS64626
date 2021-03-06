@@ -1,0 +1,8 @@
+aut-num:            AS64626
+as-name:            CHAOSDORF-AS
+descr:              chaosdorf AS
+admin-c:            CHAOSDORF-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+mnt-by:             NOMASTER-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+route:              172.23.171.0/24
+descr:              Chaostreff Salzburg
+origin:             AS4242421420
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+source:             DN42

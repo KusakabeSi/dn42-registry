@@ -1,0 +1,11 @@
+inet6num:           fdba:0610:d1dd:0000:0000:0000:0000:0000 - fdba:0610:d1dd:ffff:ffff:ffff:ffff:ffff
+descr:              IMPNet address space
+cidr:               fdba:610:d1dd::/48
+country:            LV
+netname:            IMP-NET-1
+admin-c:            ALBS-DN42
+tech-c:             ALBS-DN42
+mnt-by:             IMP-MNT
+nserver:            ns0.imp.dn42
+status:             ASSIGNED
+source:             DN42

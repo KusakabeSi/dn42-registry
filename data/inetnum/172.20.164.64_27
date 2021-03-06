@@ -1,0 +1,10 @@
+inetnum:            172.20.164.64 - 172.20.164.95
+netname:            ML256-NETWORK
+country:            US
+org:                ORG-ML256
+admin-c:            HFULLER-DN42
+tech-c:             HFULLER-DN42
+mnt-by:             HFULLER-MNT
+status:             ASSIGNED
+cidr:               172.20.164.64/27
+source:             DN42

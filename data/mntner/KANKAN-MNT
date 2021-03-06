@@ -1,0 +1,6 @@
+mntner:             KANKAN-MNT
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+mnt-by:             KANKAN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDouodRiuPO73u2Z7eYIOgoBsTrRNcZmFgXNvR68wLHHfPIVvD4eU1nYVatBs2+GE2NKDGA0ihmJIl/rXPgYQeuQHvBNZfuYnV7zaGZFRmiblucOpFDy0CLmKZbT5dJCVfOcxoSktxw+tYRvPd6ittHmK+nTHIIT+rcP8YeMgQZb1fHrnEs8RtPZH7Q2LrT2HPdyDQlm6Q1yjFgPjrJtbLbAURlY72DocL53zgdToBffGl1qj1nUl0rhHfUB184rfpiQuF6scyy3IS+H8zCwEqDRd13h/B54G0DPQNM+LcYnNFxQjAVVLc+8ku0jyM065oIaQTXSoOrvkxn4ic1eV7ft2JcPaEAdLKlBOEmNXeOt/yNQhNsVp2IdTVFxSsyQHkluKdl1Fj+oPht/Jfrf5NwtIMV+A4ltLN9a5LbuMMZISBXoMwe2oS37wHBFBQTkGx4konuUeumTdfNcNE5cG7+o49YaQY5LW8U0jcKjgYhsMqCPSMXuymmRHHTxru1xjs=
+source:             DN42

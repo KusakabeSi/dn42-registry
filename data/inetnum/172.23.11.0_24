@@ -1,0 +1,11 @@
+inetnum:            172.23.11.0 - 172.23.11.255
+cidr:               172.23.11.0/24
+netname:            NET-EP01-DN42
+descr:              Epoch's IPv4 network - DN42
+country:            US
+nserver:            ns1.allowed.dn42
+admin-c:            EPOCH-DN42
+tech-c:             EPOCH-DN42
+mnt-by:             EPOCH-MNT
+status:             ASSIGNED
+source:             DN42

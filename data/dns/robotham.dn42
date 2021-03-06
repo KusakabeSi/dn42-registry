@@ -1,0 +1,7 @@
+domain:             robotham.dn42
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+nserver:            ns1.robotham.dn42 172.20.31.10
+nserver:            ns2.robotham.dn42 172.20.31.10
+source:             DN42

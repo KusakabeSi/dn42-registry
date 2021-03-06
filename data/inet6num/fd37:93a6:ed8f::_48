@@ -1,0 +1,10 @@
+inet6num:           fd37:93a6:ed8f:0000:0000:0000:0000:0000 - fd37:93a6:ed8f:ffff:ffff:ffff:ffff:ffff
+netname:            DEELKAR-ULA-IP6NET
+descr:              deelkar's sixxs ULA net
+country:            DE
+admin-c:            DEELKAR-DN42
+tech-c:             DEELKAR-DN42
+status:             ASSIGNED
+cidr:               fd37:93a6:ed8f::/48
+mnt-by:             DUMMY-MNT
+source:             DN42

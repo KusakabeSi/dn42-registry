@@ -1,0 +1,10 @@
+inetnum:            172.20.246.192 - 172.20.246.223
+netname:            KEBE-NET
+descr:              KEBE Network
+country:            NL
+admin-c:            KEBE-DN42
+tech-c:             KEBE-DN42
+mnt-by:             KEBE-MNT
+status:             ALLOCATED
+cidr:               172.20.246.192/27
+source:             DN42

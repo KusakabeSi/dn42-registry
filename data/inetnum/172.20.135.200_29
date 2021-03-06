@@ -1,0 +1,8 @@
+inetnum:            172.20.135.200 - 172.20.135.207
+cidr:               172.20.135.200/29
+netname:            FRYGUY-NETWORK
+admin-c:            FRYGUY-DN42
+tech-c:             FRYGUY-DN42
+mnt-by:             FRYGUY-MNT
+status:             ASSIGNED
+source:             DN42

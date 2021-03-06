@@ -1,0 +1,12 @@
+inet6num:           fd01:1926:0817:0000:0000:0000:0000:0000 - fd01:1926:0817:ffff:ffff:ffff:ffff:ffff
+cidr:               fd01:1926:817::/48
+netname:            NIA-NET-CN6
+descr:              Niantic Network CN IPv6
+country:            CN
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+nserver:            ns.nia.dn42
+org:                ORG-NIA
+mnt-by:             NIA-MNT
+status:             ASSIGNED
+source:             DN42

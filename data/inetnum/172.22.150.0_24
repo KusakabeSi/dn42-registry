@@ -1,0 +1,12 @@
+inetnum:            172.22.150.0 - 172.22.150.255
+netname:            CONT-172-22-150
+descr:              Container for 172.22.150.0/24
+country:            US
+nserver:            ns1.sl.dn42
+nserver:            ns2.sl.dn42
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+status:             ALLOCATED PI
+cidr:               172.22.150.0/24
+source:             DN42

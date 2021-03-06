@@ -1,0 +1,10 @@
+domain:             ziis.dn42
+descr:              Domain for ZIIS
+admin-c:            ZIIS-DN42
+tech-c:             ZIIS-DN42
+mnt-by:             ZIIS-MNT
+nserver:            ns1.ziis.dn42 172.21.89.5
+nserver:            ns1.ziis.dn42 fd5e:86a9:f675::53
+ds-rdata:           49460 13 1 fc6df13872bb8ebb06d1b89ea83cbd877bf8655d
+ds-rdata:           49460 13 2 169b36a0957df23ed2f1ca3cb89d2f7951f8bbec934832e52512fa99a24c422a
+source:             DN42

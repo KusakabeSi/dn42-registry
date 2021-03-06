@@ -1,0 +1,9 @@
+inetnum:            172.20.39.80 - 172.20.39.95
+cidr:               172.20.39.80/28
+netname:            XIRION-NET
+country:            NL
+admin-c:            VICTOR-DN42
+tech-c:             VICTOR-DN42
+mnt-by:             VICTOR-MNT
+status:             ASSIGNED
+source:             DN42

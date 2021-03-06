@@ -1,0 +1,4 @@
+route:              172.21.67.144/28
+origin:             AS4242420769
+mnt-by:             HAMMYNET-MNT
+source:             DN42

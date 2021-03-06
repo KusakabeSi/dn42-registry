@@ -1,0 +1,6 @@
+mntner:             ELMER-MNT
+admin-c:            ELMER-DN42
+tech-c:             ELMER-DN42
+mnt-by:             ELMER-MNT
+auth:               pgp-fingerprint BEF86563FB4547341CA0B377678D7C2D26E58931
+source:             DN42

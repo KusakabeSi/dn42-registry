@@ -1,0 +1,8 @@
+inet6num:           fd42:0000:0000:0000:0000:0000:0000:0000 - fd42:0000:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42::/48
+netname:            KRSTN-MAIN
+admin-c:            KRSTN-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             KRSTN-MNT
+status:             ASSIGNED
+source:             DN42

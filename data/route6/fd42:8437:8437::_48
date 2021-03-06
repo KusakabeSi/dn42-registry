@@ -1,0 +1,4 @@
+route6:             fd42:8437:8437::/48
+origin:             AS4242423847
+mnt-by:             THEQ-MNT
+source:             DN42

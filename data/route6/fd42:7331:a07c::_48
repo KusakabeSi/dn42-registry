@@ -1,0 +1,4 @@
+route6:             fd42:7331:a07c::/48
+origin:             AS4242423230
+mnt-by:             RASP-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.166.0 - 172.20.166.255
+netname:            WIREGRID-NET
+admin-c:            SIMON-DN42
+tech-c:             SIMON-DN42
+mnt-by:             SIMON-MNT
+status:             ALLOCATED
+nserver:            dns.wiregrid.dn42
+cidr:               172.20.166.0/24
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             SCHRODINGER-MNT
+descr:              Schrodinger maintainer object
+admin-c:            SCHRODINGER-DN42
+tech-c:             SCHRODINGER-DN42
+mnt-by:             SCHRODINGER-MNT
+auth:               pgp-fingerprint b928b7e63c5d8c7c9b41d7ee1062edc8cd2a74e3
+source:             DN42

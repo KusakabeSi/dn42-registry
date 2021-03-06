@@ -1,0 +1,8 @@
+inetnum:            172.20.13.192 - 172.20.13.223
+cidr:               172.20.13.192/27
+netname:            Frederik Bjerggaard Network
+admin-c:            FBN-DN42
+tech-c:             FBN-DN42
+mnt-by:             FBN-MNT
+status:             ASSIGNED
+source:             DN42

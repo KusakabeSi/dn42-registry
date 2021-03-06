@@ -1,0 +1,6 @@
+route:              172.23.151.240/28
+origin:             AS4242421237
+admin-c:            RG-DN42
+tech-c:             RG-DN42
+mnt-by:             RG-MNT
+source:             DN42

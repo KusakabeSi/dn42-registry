@@ -1,0 +1,10 @@
+inet6num:           fd72:be29:007c:3b1c:0000:0000:0000:0000 - fd72:be29:007c:3b1c:ffff:ffff:ffff:ffff
+cidr:               fd72:be29:7c:3b1c::/64
+netname:            SANQUILMAS-NETWORK
+descr:              Network of SANQUILMAS
+country:            MX
+admin-c:            SANQUILMAS-DN42
+tech-c:             SANQUILMAS-DN42
+mnt-by:             SANQUILMAS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.217.0/24
+origin:             AS4242420217
+mnt-by:             NOYES-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdce:ebc5:bbd8:0000:0000:0000:0000:0000 - fdce:ebc5:bbd8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:ebc5:bbd8::/48
+netname:            CPBARNES-V6-NET-1 
+admin-c:            CPBARNES-DN42
+tech-c:             CPBARNES-DN42
+mnt-by:             CPBARNES-MNT
+status:             ASSIGNED
+source:             DN42

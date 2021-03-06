@@ -1,0 +1,4 @@
+route:              172.20.18.160/27
+origin:             AS4242428988
+mnt-by:             OVEAR-MNT
+source:             DN42

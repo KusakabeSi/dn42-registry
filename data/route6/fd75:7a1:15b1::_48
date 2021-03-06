@@ -1,0 +1,4 @@
+route6:             fd75:7a1:15b1::/48
+origin:             AS4242423002
+mnt-by:             GIN42-MNT
+source:             DN42

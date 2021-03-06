@@ -1,0 +1,4 @@
+route:              172.21.64.224/27
+origin:             AS4242423002
+mnt-by:             GIN42-MNT
+source:             DN42

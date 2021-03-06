@@ -1,0 +1,4 @@
+route:              172.20.10.0/26
+origin:             AS4242421406
+mnt-by:             LEWY-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+aut-num:            AS64828
+org:                ORG-CCCHB
+as-name:            CREST-AS
+descr:              Crest's home AS
+remarks:            Back on the air
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+mnt-by:             CREST-MNT
+source:             DN42

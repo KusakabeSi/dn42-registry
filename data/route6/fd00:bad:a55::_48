@@ -1,0 +1,4 @@
+route6:             fd00:bad:a55::/48
+origin:             AS31867
+mnt-by:             SNT-MNT
+source:             DN42

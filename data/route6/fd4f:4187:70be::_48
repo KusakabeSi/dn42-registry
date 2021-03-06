@@ -1,0 +1,4 @@
+route6:             fd4f:4187:70be::/48
+origin:             AS4242423968
+mnt-by:             ZEBMCCORKLE-MNT
+source:             DN42

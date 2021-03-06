@@ -1,0 +1,6 @@
+mntner:             PROTOCON-MNT
+admin-c:            PROTOCALL7-DN42
+tech-c:             PROTOCALL7-DN42
+auth:               pgp-fingerprint 277D68035B4911CEACEB3D5E98E5333227614EE9
+mnt-by:             PROTOCON-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd42:8482:8432:0000:0000:0000:0000:0000 - fd42:8482:8432:ffff:ffff:ffff:ffff:ffff
+netname:            LUPHYNET-NETWORK
+country:            US
+admin-c:            AEMILLER-DN42
+tech-c:             AEMILLER-DN42
+mnt-by:             LUPHYNET-MNT
+status:             ASSIGNED
+cidr:               fd42:8482:8432::/48
+source:             DN42

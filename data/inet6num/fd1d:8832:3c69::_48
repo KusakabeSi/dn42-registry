@@ -1,0 +1,8 @@
+inet6num:           fd1d:8832:3c69:0000:0000:0000:0000:0000 - fd1d:8832:3c69:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1d:8832:3c69::/48
+netname:            CK-NET-1
+admin-c:            CK-DN42
+tech-c:             CK-DN42
+mnt-by:             CK-MNT
+status:             ASSIGNED
+source:             DN42

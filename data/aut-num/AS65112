@@ -1,0 +1,9 @@
+aut-num:            AS65112
+as-name:            FFHAMBURG-AS
+descr:              Freifunk Hamburg
+remarks:            http://wiki.freifunk.net/Freifunk_Hamburg
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+source:             DN42

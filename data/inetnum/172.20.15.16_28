@@ -1,0 +1,7 @@
+inetnum:            172.20.15.16 - 172.20.15.31
+cidr:               172.20.15.16/28
+netname:            TDL-NETWORK
+admin-c:            TDL-DN42
+tech-c:             TDL-DN42
+mnt-by:             TDL-MNT
+source:             DN42

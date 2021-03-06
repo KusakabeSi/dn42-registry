@@ -1,0 +1,10 @@
+aut-num:            AS4242420900
+as-name:            FIBERPLZ-AS
+remarks:            +-------------------------------------------------+
+remarks:            | AS 4242420900                                   |
+remarks:            | For Peerings contact: fiberplz@gmail.com        |
+remarks:            +-------------------------------------------------+
+admin-c:            FIBERPLZ-DN42
+tech-c:             FIBERPLZ-DN42
+mnt-by:             FIBERPLZ-MNT
+source:             DN42

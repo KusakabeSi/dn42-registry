@@ -1,0 +1,10 @@
+inet6num:           fdff:0023:0042:0000:0000:0000:0000:0000 - fdff:0023:0042:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:23:42::/48
+netname:            SK9-NETWORK
+descr:              Network of sk9
+country:            DE
+admin-c:            SK9-DN42
+tech-c:             SK9-DN42
+mnt-by:             SK9-MNT
+status:             ASSIGNED
+source:             DN42

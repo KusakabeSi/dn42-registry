@@ -1,0 +1,7 @@
+domain:             tris.dn42
+admin-c:            TRIS-DN42
+tech-c:             TRIS-DN42
+mnt-by:             TRIS-MNT
+nserver:            ns1.tris.dn42 172.22.186.66
+nserver:            ns1.tris.dn42 fdee:d21b:6b8b:ffff::3
+source:             DN42

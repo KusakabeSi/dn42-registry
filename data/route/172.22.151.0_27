@@ -1,0 +1,4 @@
+route:              172.22.151.0/27
+origin:             AS4242423889
+mnt-by:             RAPPET-MNT
+source:             DN42

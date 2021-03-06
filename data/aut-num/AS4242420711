@@ -1,0 +1,8 @@
+aut-num:            AS4242420711
+as-name:            NVM-AS
+descr:              NullVM Network
+org:                ORG-NVM
+admin-c:            NVM-DN42
+tech-c:             NVM-DN42
+mnt-by:             NVM-MNT
+source:             DN42

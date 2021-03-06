@@ -1,0 +1,6 @@
+route6:             fdef:17a0:fff1::/48
+origin:             AS64860
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ulm
+mnt-by:             DN42-MNT
+source:             ICVPN

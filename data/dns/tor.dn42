@@ -1,0 +1,7 @@
+domain:             tor.dn42
+descr:              TOR ANYCAST DOMAIN
+admin-c:            NAPSTERBATER-DN42
+tech-c:             NAPSTERBATER-DN42
+mnt-by:             NAPSTERBATER-MNT
+nserver:            ns1.gatuno.dn42
+source:             DN42

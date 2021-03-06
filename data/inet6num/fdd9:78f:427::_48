@@ -1,0 +1,12 @@
+inet6num:           fdd9:078f:0427:0000:0000:0000:0000:0000 - fdd9:078f:0427:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd9:78f:427::/48
+netname:            HENOKV-NETWORK
+descr:              Network of HenokV
+country:            BE
+admin-c:            HENOKV-DN42
+tech-c:             HENOKV-DN42
+mnt-by:             HENOKV-MNT
+nserver:            ns1.henokv.dn42
+nserver:            ns2.henokv.dn42
+status:             ASSIGNED
+source:             DN42

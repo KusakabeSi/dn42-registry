@@ -1,0 +1,9 @@
+inetnum:            172.22.248.128 - 172.22.248.255
+netname:            DEADZONE-DN42-CORESERVICES
+country:            US
+admin-c:            DEADZONE-DN42
+tech-c:             DEADZONE-DN42
+mnt-by:             DEADZONE-MNT
+status:             ALLOCATED
+cidr:               172.22.248.128/25
+source:             DN42

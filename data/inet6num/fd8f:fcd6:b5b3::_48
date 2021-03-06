@@ -1,0 +1,8 @@
+inet6num:           fd8f:fcd6:b5b3:0000:0000:0000:0000:0000 - fd8f:fcd6:b5b3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8f:fcd6:b5b3::/48
+netname:            PHIIVO-NET-1
+admin-c:            CRSHMAN-DN42
+tech-c:             CRSHMAN-DN42
+mnt-by:             PHIIVO-MNT
+status:             ASSIGNED
+source:             DN42

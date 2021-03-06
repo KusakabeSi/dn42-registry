@@ -1,0 +1,4 @@
+route:              172.20.19.32/27
+origin:             AS4242423375
+mnt-by:             CREATIX-MNT
+source:             DN42

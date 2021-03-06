@@ -1,0 +1,11 @@
+inetnum:            172.20.162.64 - 172.20.162.127
+netname:            NET-TECH9-PEERING
+country:            US
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+nserver:            ns1.tech9computers.dn42
+nserver:            ns2.tech9computers.dn42
+status:             ASSIGNED
+cidr:               172.20.162.64/26
+source:             DN42

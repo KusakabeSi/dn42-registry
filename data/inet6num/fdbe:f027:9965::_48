@@ -1,0 +1,10 @@
+inet6num:           fdbe:f027:9965:0000:0000:0000:0000:0000 - fdbe:f027:9965:ffff:ffff:ffff:ffff:ffff
+netname:            MALINDEX-IPV6
+descr:              Peer with me at i@imoe.ac.cn
+country:            CN
+admin-c:            MALINDEX-DN42
+tech-c:             MALINDEX-DN42
+mnt-by:             MALINDEX-MNT
+status:             ASSIGNED
+cidr:               fdbe:f027:9965::/48
+source:             DN42

@@ -1,0 +1,11 @@
+organisation:       ORG-CCCHB-DN42
+org-name:           CCC Bremen e.V. Infrastructure
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+abuse-c:            CCCHB-ABUSE-DN42
+mnt-by:             FRITZ-MNT
+mnt-by:             PYROPETER-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

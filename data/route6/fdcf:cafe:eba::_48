@@ -1,0 +1,5 @@
+route6:             fdcf:cafe:eba::/48
+origin:             AS4242420405
+max-length:         48
+mnt-by:             EBAN-MNT
+source:             DN42

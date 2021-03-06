@@ -1,0 +1,7 @@
+domain:             nxthost.dn42
+admin-c:            NXTHOST-DN42
+tech-c:             NXTHOST-DN42
+mnt-by:             NXTHOST-MNT
+nserver:            ns1.nxthost.dn42 172.20.10.113
+nserver:            ns2.nxthost.dn42 172.20.10.114
+source:             DN42

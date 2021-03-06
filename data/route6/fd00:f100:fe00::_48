@@ -1,0 +1,5 @@
+route6:             fd00:f100:fe00::/48
+descr:              JMLIBER-IPV6
+origin:             AS4242422282
+mnt-by:             JMLIBER-MNT
+source:             DN42

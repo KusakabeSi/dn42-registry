@@ -1,0 +1,12 @@
+inet6num:           fd18:18d9:adde:0040:0000:0000:0000:0000 - fd18:18d9:adde:007f:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6-CORE
+descr:              ATR Core Routing Network
+country:            CN
+country:            HK
+country:            JP
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               fd18:18d9:adde:40::/58
+source:             DN42

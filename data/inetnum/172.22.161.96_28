@@ -1,0 +1,8 @@
+inetnum:            172.22.161.96 - 172.22.161.111
+cidr:               172.22.161.96/28
+netname:            MARGAU-NETWORK
+admin-c:            MARGAU-DN42
+tech-c:             MARGAU-DN42
+mnt-by:             MARGAU-MNT
+status:             ASSIGNED
+source:             DN42

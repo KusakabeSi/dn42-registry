@@ -1,0 +1,5 @@
+route:              172.22.122.192/26
+descr:              NET-TRIHOP-000
+origin:             AS4242420750
+mnt-by:             TRIHOP-MNT
+source:             DN42

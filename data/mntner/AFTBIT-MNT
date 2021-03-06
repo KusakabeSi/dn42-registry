@@ -1,0 +1,6 @@
+mntner:             AFTBIT-MNT
+admin-c:            AFTBIT-DN42
+tech-c:             AFTBIT-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIaHgkwuhZMKHsBqt6omp+W0naIBVnBc+PmltlHbyrLZ
+mnt-by:             AFTBIT-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdfd:3ba:342d::/48
+origin:             AS4242421239
+max-length:         48
+mnt-by:             KN-MNT
+source:             DN42

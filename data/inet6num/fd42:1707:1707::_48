@@ -1,0 +1,10 @@
+inet6num:           fd42:1707:1707:0000:0000:0000:0000:0000 - fd42:1707:1707:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1707:1707::/48
+netname:            DTNET-NETWORK
+descr:              DTNET Network
+country:            AT
+admin-c:            CMIKOSCH-DN42
+tech-c:             CMIKOSCH-DN42
+mnt-by:             DTNET-MNT
+status:             ASSIGNED
+source:             DN42

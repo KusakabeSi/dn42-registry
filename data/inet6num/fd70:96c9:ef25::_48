@@ -1,0 +1,12 @@
+inet6num:           fd70:96c9:ef25:0000:0000:0000:0000:0000 - fd70:96c9:ef25:ffff:ffff:ffff:ffff:ffff
+netname:            BNET-IPV6-ULA
+descr:              Internal v6
+country:            DE
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT
+nserver:            hulk.mhm.dn42
+nserver:            danny.mhm.dn42
+status:             ASSIGNED
+cidr:               fd70:96c9:ef25::/48
+source:             DN42

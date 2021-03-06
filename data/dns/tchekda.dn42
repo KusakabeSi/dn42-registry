@@ -1,0 +1,8 @@
+domain:             tchekda.dn42
+descr:              tchekda.dn42 https://dn42.tchekda.fr/
+admin-c:            TCHEKDA-DN42
+tech-c:             TCHEKDA-DN42
+mnt-by:             TCHEKDA-MNT
+nserver:            ns1.tchekda.dn42 172.20.4.97
+nserver:            ns1.tchekda.dn42 fd54:fe4b:9ed1:1::1
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd19:11ec:bed7:0000:0000:0000:0000:0000 - fd19:11ec:bed7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd19:11ec:bed7::/48
+netname:            BISCUITTIN-NETWORK
+descr:              Network of Biscuit Tin
+country:            CN
+admin-c:            KEXYBISCUIT-DN42
+tech-c:             KEXYBISCUIT-DN42
+org:                ORG-BISCUITTIN
+mnt-by:             BISCUITTIN-MNT
+status:             ASSIGNED
+source:             DN42

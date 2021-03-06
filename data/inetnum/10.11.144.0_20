@@ -1,0 +1,7 @@
+inetnum:            10.11.144.0 - 10.11.159.255
+cidr:               10.11.144.0/20
+netname:            ICVPN-DONAU-RIES
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: donau-ries
+mnt-by:             DN42-MNT
+source:             ICVPN

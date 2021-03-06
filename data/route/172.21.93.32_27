@@ -1,0 +1,4 @@
+route:              172.21.93.32/27
+origin:             AS4242420969
+mnt-by:             HEXCHEN-MNT
+source:             DN42

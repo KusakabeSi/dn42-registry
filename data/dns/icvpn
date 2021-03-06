@@ -1,0 +1,8 @@
+domain:             icvpn
+nserver:            1.1.169.10.ipv4.registry-sync.dn42
+nserver:            53.128.255.10.ipv4.registry-sync.dn42
+nserver:            a.8.0.0.0.0.0.0.f.c.0.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.c.e.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: meta
+mnt-by:             DN42-MNT
+source:             ICVPN

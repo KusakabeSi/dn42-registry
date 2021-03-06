@@ -1,0 +1,5 @@
+route6:             fd42:403::/64
+descr:              Solitude suberblock
+origin:             AS4242420403
+mnt-by:             SOLITUDE-MNT
+source:             DN42

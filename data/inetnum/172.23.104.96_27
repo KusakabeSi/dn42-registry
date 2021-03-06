@@ -1,0 +1,8 @@
+inetnum:            172.23.104.96 - 172.23.104.127
+cidr:               172.23.104.96/27
+netname:            LUCABER-V4-NET-1
+admin-c:            LUCABER-DN42
+tech-c:             LUCABER-DN42
+mnt-by:             LUCABER-MNT
+status:             ASSIGNED
+source:             DN42

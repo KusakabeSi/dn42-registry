@@ -1,0 +1,6 @@
+mntner:             UFFSALOT-MNT
+admin-c:            UFFSALOT-DN42
+tech-c:             UFFSALOT-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPDXlHfBAzl60X8PGacLSllUA/hqWb+OToN/KznxMDn9
+mnt-by:             UFFSALOT-MNT
+source:             DN42

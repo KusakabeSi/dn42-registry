@@ -1,0 +1,9 @@
+inet6num:           fd42:0042:2166:0000:0000:0000:0000:0000 - fd42:0042:2166:ffff:ffff:ffff:ffff:ffff
+country:            DE
+admin-c:            DJ2BEE-DN42
+tech-c:             DJ2BEE-DN42
+mnt-by:             DJ2BEE-MNT
+status:             ASSIGNED
+cidr:               fd42:42:2166::/48
+netname:            Unnamed fd42:42:2166::/48 Network
+source:             DN42

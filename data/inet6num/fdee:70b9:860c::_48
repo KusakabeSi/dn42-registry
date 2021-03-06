@@ -1,0 +1,10 @@
+inet6num:           fdee:70b9:860c:0000:0000:0000:0000:0000 - fdee:70b9:860c:ffff:ffff:ffff:ffff:ffff
+netname:            PROBSD-NET
+descr:              PROBSD
+country:            PL
+admin-c:            LEWY-DN42
+tech-c:             LEWY-DN42
+mnt-by:             LEWY-MNT
+status:             ASSIGNED PI
+cidr:               fdee:70b9:860c::/48
+source:             DN42

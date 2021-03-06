@@ -1,0 +1,8 @@
+inet6num:           fdc9:aa4d:b87c:0000:0000:0000:0000:0000 - fdc9:aa4d:b87c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc9:aa4d:b87c::/48
+netname:            GRAHAMC-NET-1
+admin-c:            GRAHAMC-DN42
+tech-c:             GRAHAMC-DN42
+mnt-by:             GRAHAMC-MNT
+status:             ASSIGNED
+source:             DN42

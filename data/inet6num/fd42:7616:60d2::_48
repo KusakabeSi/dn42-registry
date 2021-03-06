@@ -1,0 +1,10 @@
+inet6num:           fd42:7616:60d2:0000:0000:0000:0000:0000 - fd42:7616:60d2:ffff:ffff:ffff:ffff:ffff
+netname:            HAELWENN-IPV6
+country:            FR
+admin-c:            HAELWENN-DN42
+tech-c:             HAELWENN-DN42
+mnt-by:             HAELWENN-MNT
+nserver:            minion.hacktivis.me
+status:             ASSIGNED
+cidr:               fd42:7616:60d2::/48
+source:             DN42

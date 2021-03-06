@@ -1,0 +1,5 @@
+route6:             fd5c:adc5:16b1::/48
+origin:             AS4242423323
+max-length:         48
+mnt-by:             MARCUSW-MNT
+source:             DN42

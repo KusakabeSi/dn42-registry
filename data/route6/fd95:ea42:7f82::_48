@@ -1,0 +1,5 @@
+route6:             fd95:ea42:7f82::/48
+origin:             AS4242421224
+max-length:         48
+mnt-by:             BITBAKERS-MNT
+source:             DN42

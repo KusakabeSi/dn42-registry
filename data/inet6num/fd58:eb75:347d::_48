@@ -1,0 +1,12 @@
+inet6num:           fd58:eb75:347d:0000:0000:0000:0000:0000 - fd58:eb75:347d:ffff:ffff:ffff:ffff:ffff
+netname:            HAX404-ULA-IP6NET
+descr:              hax404 IPv6 Network
+country:            DE
+admin-c:            HAX404-DN42
+tech-c:             HAX404-DN42
+mnt-by:             HAX404-MNT
+nserver:            chero.hax404.dn42
+nserver:            froschschenkel.hax404.dn42
+status:             ASSIGNED
+cidr:               fd58:eb75:347d::/48
+source:             DN42

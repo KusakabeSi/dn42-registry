@@ -1,0 +1,9 @@
+inetnum:            172.22.115.128 - 172.22.115.255
+netname:            ASKAREL-IPV4-NET
+descr:              Askarel IPv4 network
+admin-c:            ASKAREL-DN42
+tech-c:             ASKAREL-DN42
+status:             ASSIGNED
+cidr:               172.22.115.128/25
+mnt-by:             DUMMY-MNT
+source:             DN42

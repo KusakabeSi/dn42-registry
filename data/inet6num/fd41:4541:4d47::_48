@@ -1,0 +1,10 @@
+inet6num:           fd41:4541:4d47:0000:0000:0000:0000:0000 - fd41:4541:4d47:ffff:ffff:ffff:ffff:ffff
+cidr:               fd41:4541:4d47::/48
+netname:            ADAMG-NETWORK-IPV6
+descr:              Network of ADAMG
+country:            US
+admin-c:            ADAMG-DN42
+tech-c:             ADAMG-DN42
+mnt-by:             ADAMG-MNT
+status:             ASSIGNED
+source:             DN42

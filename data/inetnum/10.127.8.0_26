@@ -1,0 +1,8 @@
+inetnum:            10.127.8.0 - 10.127.8.63
+cidr:               10.127.8.0/26
+netname:            LibreHouse
+admin-c:            LIBREHOUSE-NEONETWORK
+tech-c:             LIBREHOUSE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

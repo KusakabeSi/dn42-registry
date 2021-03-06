@@ -1,0 +1,5 @@
+route6:             fd42:4242:2468::/48
+descr:              ICARUSTECH-IPV6-NET1
+origin:             AS4242422468
+mnt-by:             ICARUSTECH-MNT
+source:             DN42

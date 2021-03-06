@@ -1,0 +1,4 @@
+route:              172.20.6.24/29
+origin:             AS4242421515
+mnt-by:             ELNAPPO-MNT
+source:             DN42

@@ -1,0 +1,13 @@
+aut-num:            AS4242420669
+as-name:            AVE-AS
+descr:              Ave on DN42
+remarks:            --------------------------------------------------
+remarks:            Welcome to my DN42 ASN uwu
+remarks:            --------------------------------------------------
+remarks:            As long as things aren't broken I do open peering.
+remarks:            For real internet :tm:, check out AS208590.
+remarks:            --------------------------------------------------
+admin-c:            AVE-DN42
+tech-c:             AVE-DN42
+mnt-by:             AVE-MNT
+source:             DN42

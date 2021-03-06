@@ -1,0 +1,10 @@
+inet6num:           fd14:fe40:d734:0000:0000:0000:0000:0000 - fd14:fe40:d734:ffff:ffff:ffff:ffff:ffff
+netname:            YAO-INET6
+descr:              YAO-INET6
+country:            CN
+admin-c:            YAO-DN42
+tech-c:             YAO-DN42
+mnt-by:             YAO-MNT
+status:             ASSIGNED PI
+cidr:               fd14:fe40:d734::/48
+source:             DN42

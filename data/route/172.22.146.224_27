@@ -1,0 +1,4 @@
+route:              172.22.146.224/27
+origin:             AS4242420824
+mnt-by:             HFULLER-MNT
+source:             DN42

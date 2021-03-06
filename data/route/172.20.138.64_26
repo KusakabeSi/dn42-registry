@@ -1,0 +1,5 @@
+route:              172.20.138.64/26
+descr:              Route
+origin:             AS4242421990
+mnt-by:             SHADOWHUNTER-MNT
+source:             DN42

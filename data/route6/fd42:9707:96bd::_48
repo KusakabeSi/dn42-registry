@@ -1,0 +1,4 @@
+route6:             fd42:9707:96bd::/48
+origin:             AS4242423975
+mnt-by:             FELIX-MNT
+source:             DN42

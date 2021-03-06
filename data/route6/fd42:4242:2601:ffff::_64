@@ -1,0 +1,27 @@
+route6:             fd42:4242:2601:ffff::/64
+descr:              This is an ROA test object
+max-length:         112
+remarks:            
+                    This object is designed to test ROA scripts
+                    in a number of ways.
++
+                    The expected output for this route should be:
+                    roa fd42:4242:2601:ffff::/64 max 64 as 0;
++
+                    This is not a blank line
+                    + ----- +
++
+                    The first test is to include a number of syntax
+                    corner cases, designed to trip up parsers
++
+                    The first max-length line should be clamped
+                    to the maximums defined in filter6.txt
++
+                    The second max-length is part of the remark
+                    and should be ignored.
++
+                    max-length: 48
++
+origin:             AS0
+mnt-by:             BURBLE-MNT
+source:             DN42

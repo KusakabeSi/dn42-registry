@@ -1,0 +1,10 @@
+inetnum:            172.23.151.224 - 172.23.151.239
+netname:            VCLTY-1
+descr:              vlcty networks
+country:            DE
+admin-c:            VLCTY-DN42
+tech-c:             VLCTY-DN42
+mnt-by:             VLCTY-MNT
+status:             ASSIGNED
+cidr:               172.23.151.224/28
+source:             DN42

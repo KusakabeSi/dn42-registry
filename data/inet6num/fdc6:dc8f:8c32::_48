@@ -1,0 +1,10 @@
+inet6num:           fdc6:dc8f:8c32:0000:0000:0000:0000:0000 - fdc6:dc8f:8c32:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc6:dc8f:8c32::/48
+netname:            ALCATRASH-NETWORK
+descr:              Network of Alcatrash
+country:            NL
+admin-c:            MTR-DN42
+tech-c:             MTR-DN42
+mnt-by:             MTR-MNT
+status:             ASSIGNED
+source:             DN42

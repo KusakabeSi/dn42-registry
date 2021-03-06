@@ -1,0 +1,5 @@
+route6:             fd8f:a905:397::/48
+origin:             AS4242421423
+max-length:         48
+mnt-by:             BANNET-MNT
+source:             DN42

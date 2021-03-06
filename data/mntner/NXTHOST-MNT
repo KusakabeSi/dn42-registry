@@ -1,0 +1,6 @@
+mntner:             NXTHOST-MNT
+auth:               pgp-fingerprint 0C8FB081E7005C0850AB8D31638BB3789C4AE6EE
+admin-c:            NXTHOST-DN42
+tech-c:             NXTHOST-DN42
+mnt-by:             NXTHOST-MNT
+source:             DN42

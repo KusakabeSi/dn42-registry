@@ -1,0 +1,4 @@
+route6:             fd42:1707:1707::/48
+origin:             AS4242421707
+mnt-by:             DTNET-MNT
+source:             DN42

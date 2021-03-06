@@ -1,0 +1,11 @@
+domain:             mgl.dn42
+admin-c:            MGL-DN42
+tech-c:             MGL-DN42
+mnt-by:             MGL-MNT
+nserver:            ns1.mgl.dn42 172.20.29.1
+nserver:            ns1.mgl.dn42 fd9a:5c:48::53:1
+nserver:            ns2.mgl.dn42 172.20.29.2
+nserver:            ns2.mgl.dn42 fd9a:5c:48::53:2
+ds-rdata:           64076 13 2 60e5dfb91fb955500f8aa0af871a03fa0c67cff205534a04914b450198fea497
+ds-rdata:           64076 13 4 e77a5039aa2ce6c734e83f1c7ae9b05147795e6465ca969e4a52f2cc8fb17d388416b91861ecf17a6da27f62d4ee165f
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             REACT-MNT
+admin-c:            REACT-DN42
+tech-c:             REACT-DN42
+mnt-by:             REACT-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPNPg+CwVyNJZuJEt3BKk2YD5uyLIkNxctI3+WXqpKPVISLyUZf+ciHF5dA8CeDPI4ZbsqPHS+T2Ipg0UVgISeyJ27JioUFes+Xba5TBHy7r7DFfc+yanX1ufUTXsOsZxFzsxOiEItGCJ3d7hZan/e5gjlmhvXbgU/fCTumUyECBfrayKuL0w6/wPBjc0VaPMnNxAlt3111vEdsOqEhGejhpK6FjA/tn8vp/YrX3ElvdvYxYScI6fXJ+RHvluXcLWRpEOT2jGROawLr+a8C2VOSeAXlZqo7Ef0uyHgWxQtGWPiXDzgaDCDuezKKuUEQJghQGRBc47PlUDc49IuqmgGPJ3t7nrbRXXsKzS6Bz96HvzltBqBkBWNedIAAczJY/x3RV2oR4gr51/6OYbwSMnMPM7fXS4axynQRp9ZkH7oHjIYCWnVx0klZ8LAwMWAx8BqP3gfdPplwHXM7b4BosGkVTwlrc0Bub6O4O3RVj+VWdnRm+l0NkevffmHdCV2JJrs/k05IoZqVmhoODqX7SV+poN6cLKHMn5K+rUhHN5P2W45HwymwlxBV3g3Azu7lhlmlZEZm21zf4Rv07CI2d1KpsJuOsJlSUKMaBXf5PWWwaiGsTUumySQIcd5A6Rj6PPlRfpp2QFe/9uien3h2nzESmbSObh7HiNg8lF/S9puYQ== i@morc.me
+auth:               pgp-fingerprint 22A7437973D5C1DF3E946970F2650301F9DD204E

@@ -1,0 +1,7 @@
+aut-num:            AS64640
+as-name:            AMADEUS-AS
+descr:              amadeus' AS
+admin-c:            AMADEUS-DN42
+tech-c:             AMADEUS-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

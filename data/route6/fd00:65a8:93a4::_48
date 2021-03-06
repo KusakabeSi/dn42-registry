@@ -1,0 +1,6 @@
+route6:             fd00:65a8:93a4::/48
+origin:             AS65142
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: fulda
+mnt-by:             DN42-MNT
+source:             ICVPN

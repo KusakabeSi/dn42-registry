@@ -1,0 +1,6 @@
+route:              172.20.230.0/25
+origin:             AS4242420144
+origin:             AS208391
+max-length:         25
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.35.64/26
+origin:             AS4242420309
+mnt-by:             HIGHER-MNT
+source:             DN42

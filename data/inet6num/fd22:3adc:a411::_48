@@ -1,0 +1,9 @@
+inet6num:           fd22:3adc:a411:0000:0000:0000:0000:0000 - fd22:3adc:a411:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:3adc:a411::/48
+netname:            VOTRIBE-NETWORK
+descr:              votribe
+admin-c:            VOTRIBE-DN42
+tech-c:             VOTRIBE-DN42
+mnt-by:             VOTRIBE-MNT
+status:             ASSIGNED
+source:             DN42

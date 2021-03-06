@@ -1,0 +1,12 @@
+inetnum:            172.20.172.192 - 172.20.172.223
+netname:            BSDSERVICES-NETWORK
+descr:              bsd.services network
+country:            DE
+admin-c:            TBOSTON-DN42
+tech-c:             TBOSTON-DN42
+mnt-by:             BSDSERVICES-MNT
+nserver:            ns1.bsd.services.dn42
+nserver:            ns2.bsd.services.dn42
+status:             ASSIGNED
+cidr:               172.20.172.192/27
+source:             DN42

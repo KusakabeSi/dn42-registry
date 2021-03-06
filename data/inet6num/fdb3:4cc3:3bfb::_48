@@ -1,0 +1,9 @@
+inet6num:           fdb3:4cc3:3bfb:0000:0000:0000:0000:0000 - fdb3:4cc3:3bfb:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb3:4cc3:3bfb::/48
+descr:              Maraun's six net
+mnt-by:             MARAUN-MNT
+admin-c:            MARAUN-DN42
+tech-c:             MARAUN-DN42
+status:             ASSIGNED
+netname:            MARAUN-V6-NETWORK
+source:             DN42

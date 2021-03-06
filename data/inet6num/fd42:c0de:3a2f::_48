@@ -1,0 +1,10 @@
+inet6num:           fd42:c0de:3a2f:0000:0000:0000:0000:0000 - fd42:c0de:3a2f:ffff:ffff:ffff:ffff:ffff
+netname:            ICZERO-NET6
+descr:              iczero v6 network
+country:            US
+admin-c:            ICZERO-DN42
+tech-c:             ICZERO-DN42
+mnt-by:             VALORAN-MNT
+status:             ALLOCATED
+cidr:               fd42:c0de:3a2f::/48
+source:             DN42

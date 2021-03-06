@@ -1,0 +1,10 @@
+inetnum:            172.22.120.64 - 172.22.120.127
+netname:            NET-RELROD
+descr:              relrod
+country:            US
+admin-c:            RELROD-DN42
+tech-c:             RELROD-DN42
+mnt-by:             RELROD-MNT
+status:             ASSIGNED
+cidr:               172.22.120.64/26
+source:             DN42

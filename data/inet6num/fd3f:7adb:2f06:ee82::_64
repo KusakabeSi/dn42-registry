@@ -1,0 +1,10 @@
+inet6num:           fd3f:7adb:2f06:ee82:0000:0000:0000:0000 - fd3f:7adb:2f06:ee82:ffff:ffff:ffff:ffff
+cidr:               fd3f:7adb:2f06:ee82::/64
+netname:            AVASQUEZT-NETWORK
+descr:              AVT Netowrk
+country:            DO
+admin-c:            AVASQUEZT-DN42
+tech-c:             AVASQUEZT-DN42
+mnt-by:             AVASQUEZT-MNT
+status:             ASSIGNED
+source:             DN42

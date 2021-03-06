@@ -1,0 +1,13 @@
+inetnum:            172.21.89.0 - 172.21.89.31
+cidr:               172.21.89.0/27
+netname:            ZIIS-NET-001
+descr:              Network of ZIIS
+country:            GB
+admin-c:            ZIIS-DN42
+tech-c:             ZIIS-DN42
+mnt-by:             ZIIS-MNT
+nserver:            ns1.ziis.dn42
+ds-rdata:           57568 13 1 44ca335e26e3033a7488cd09e92e888b7ef09050
+ds-rdata:           57568 13 2 a1aca283ced35083a9bda039baace24466d341e253f3df1760383a4d5245fffc
+status:             ASSIGNED
+source:             DN42

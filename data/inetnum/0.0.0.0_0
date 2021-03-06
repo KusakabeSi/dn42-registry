@@ -1,0 +1,8 @@
+inetnum:            0.0.0.0 - 255.255.255.255
+cidr:               0.0.0.0/0
+netname:            NET-BLK0-DN42
+policy:             reserved
+descr:              * The entire IPv4 address space
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.23.248.192 - 172.23.248.255
+admin-c:            CHULJIN-DN42
+tech-c:             CHULJIN-DN42
+mnt-by:             CHULJIN-MNT
+nserver:            ns1.chuljin.dn42
+status:             ALLOCATED
+cidr:               172.23.248.192/26
+netname:            Unnamed 172.23.248.192/26 Network
+source:             DN42

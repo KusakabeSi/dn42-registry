@@ -1,0 +1,7 @@
+role:               Yet Another Network Engineers vIXP
+nic-hdl:            ORG-YANE-DN42
+descr:              Virtual IXP for education purposes
+admin-c:            XENTRIX-DN42
+tech-c:             XENTRIX-DN42
+mnt-by:             YANE-MNT
+source:             DN42

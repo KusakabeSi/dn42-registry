@@ -1,0 +1,5 @@
+route:              172.23.10.0/27
+descr:              KANOJOWATOTEMOKAWAI OKANEOAGETE
+origin:             AS4242421032
+mnt-by:             RADIONOISE-MNT
+source:             DN42

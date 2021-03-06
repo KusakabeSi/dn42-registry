@@ -1,0 +1,4 @@
+route:              172.20.143.64/26
+origin:             AS4242423360
+mnt-by:             DYNOS01-MNT
+source:             DN42

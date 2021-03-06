@@ -1,0 +1,9 @@
+inetnum:            172.23.168.192 - 172.23.168.255
+cidr:               172.23.168.192/26
+netname:            IHEEL-NETWORK
+admin-c:            IHEEL-DN42
+tech-c:             IHEEL-DN42
+mnt-by:             IHEEL-MNT
+nserver:            ns1.iedon.dn42
+status:             ASSIGNED
+source:             DN42

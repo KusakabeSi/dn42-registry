@@ -1,0 +1,9 @@
+inetnum:            172.20.12.144 - 172.20.12.151
+cidr:               172.20.12.144/29
+netname:            BISCUITTIN-NETWORK
+admin-c:            KEXYBISCUIT-DN42
+tech-c:             KEXYBISCUIT-DN42
+org:                ORG-BISCUITTIN
+mnt-by:             BISCUITTIN-MNT
+status:             ASSIGNED
+source:             DN42

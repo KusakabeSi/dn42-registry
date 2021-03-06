@@ -1,0 +1,16 @@
+tinc-key:           RFC2460-TINC
+tinc-host:          2001:6f8:9f2:42::1
+mnt-by:             RFC2460-MNT
+admin-c:            RFC2460-DN42
+subnet:             172.20.194.96/27
+tinc-file:          
+                    Subnet = 172.20.194.96/27
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAsAPZ1olsGjWtAA1fjxu+jNe43V7t15qKsgz4bIkfdpn+2CFAy4Wn
+                    KIs5uN+BT5/i6l/Ud7ls5lv9SEX8SKo7ByK+rBLrIjeka1eDO9a3l8CtoFUEm1rZ
+                    zUYScd5mz30YDIhffZ7B5YmaVgkOqpctp88UAVA3D4egRRDNUuuj4rU4dqOC6rE6
+                    Ob+9LmErEAC5nAN1ansYmsKl+CWRxo3qEU3dcpsTItfyOdusP8XEodLgVPHMNyoe
+                    7ZVsUcIDRr9Q3WF3yl14Rh9uAP7IaDJS6peg25/ycpLjOI5ojIyTXfOxPKyu2aVX
+                    hWdoBUBgrSi/sBIQGW+XFlMY4r8iI6grBwIDAQAB
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

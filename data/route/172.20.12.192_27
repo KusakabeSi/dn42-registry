@@ -1,0 +1,4 @@
+route:              172.20.12.192/27
+origin:             AS4242422225
+mnt-by:             MARAUN-MNT
+source:             DN42

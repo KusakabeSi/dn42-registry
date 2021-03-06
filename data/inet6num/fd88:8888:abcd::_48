@@ -1,0 +1,10 @@
+inet6num:           fd88:8888:abcd:0000:0000:0000:0000:0000 - fd88:8888:abcd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd88:8888:abcd::/48
+netname:            FRYGUY-NETWORK
+descr:              Network of Fryguy
+country:            US
+admin-c:            FRYGUY-DN42
+tech-c:             FRYGUY-DN42
+mnt-by:             FRYGUY-MNT
+status:             ASSIGNED
+source:             DN42

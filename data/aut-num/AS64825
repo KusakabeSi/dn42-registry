@@ -1,0 +1,7 @@
+aut-num:            AS64825
+as-name:            TIM-AS
+descr:              My dn42 AS ;)
+admin-c:            TIM-DN42
+tech-c:             TIM-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

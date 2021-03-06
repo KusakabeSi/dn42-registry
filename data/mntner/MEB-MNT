@@ -1,0 +1,6 @@
+mntner:             MEB-MNT
+admin-c:            MEB-DN42
+tech-c:             MEB-DN42
+auth:               pgp-fingerprint 32494A6A1C73C9CA8337E6866ECB8A354D3EC767
+mnt-by:             MEB-MNT
+source:             DN42

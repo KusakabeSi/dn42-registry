@@ -1,0 +1,8 @@
+inetnum:            172.20.28.32 - 172.20.28.63
+cidr:               172.20.28.32/27
+netname:            CRABNECK-NETWORK
+admin-c:            CRILLE-DN42
+tech-c:             CRILLE-DN42
+mnt-by:             CRABNECK-MNT
+status:             ASSIGNED
+source:             DN42

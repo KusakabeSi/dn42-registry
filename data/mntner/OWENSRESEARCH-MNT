@@ -1,0 +1,7 @@
+mntner:             OWENSRESEARCH-MNT
+admin-c:            OWENSRESEARCH-DN42
+tech-c:             OWENSRESEARCH-DN42
+mnt-by:             OWENSRESEARCH-MNT
+auth:               pgp-fingerprint 5B1ACF5F8781FB487A9022072C48292B65AFBDB6
+source:             DN42
+remarks:            pin-sha256:/U43IaLsArbp5y8zBHXppdL24xZqZAtsA9reUZcTGaA=

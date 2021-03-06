@@ -1,0 +1,7 @@
+domain:             020
+nserver:            1.253.205.10.ipv4.registry-sync.dn42
+nserver:            2.253.205.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: amsterdam
+mnt-by:             DN42-MNT
+source:             ICVPN

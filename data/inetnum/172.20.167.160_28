@@ -1,0 +1,9 @@
+inetnum:            172.20.167.160 - 172.20.167.175
+cidr:               172.20.167.160/28
+netname:            ARITE-NETWORK-V4
+country:            NL
+admin-c:            ARITE-DN42
+tech-c:             ARITE-DN42
+mnt-by:             ARITE-MNT
+status:             ASSIGNED
+source:             DN42

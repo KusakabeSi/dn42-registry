@@ -1,0 +1,6 @@
+route:              10.155.0.0/20
+origin:             AS65125
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: flingern
+mnt-by:             DN42-MNT
+source:             ICVPN

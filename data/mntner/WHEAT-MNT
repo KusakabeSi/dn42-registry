@@ -1,0 +1,6 @@
+mntner:             WHEAT-MNT
+admin-c:            WHEAT-DN42
+tech-c:             WHEAT-DN42
+mnt-by:             WHEAT-MNT
+auth:               pgp-fingerprint 2A67E6EA5CD12063E9E4A69A55744C08E35C81A3
+source:             DN42

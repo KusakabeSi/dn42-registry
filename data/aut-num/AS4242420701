@@ -1,0 +1,10 @@
+aut-num:            AS4242420701
+as-name:            Bronwisp-T4
+descr:              Bronbergwisp Tier 4
+admin-c:            IANWILDCODER-DN42
+tech-c:             IANWILDCODER-DN42
+mnt-by:             BRONWISP-MNT
+mnt-by:             WILDCODER-MNT
+mnt-by:             TWAKKIE-MNT
+mnt-by:             DOMBOK-MNT
+source:             DN42

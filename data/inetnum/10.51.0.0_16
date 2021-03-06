@@ -1,0 +1,7 @@
+inetnum:            10.51.0.0 - 10.51.255.255
+cidr:               10.51.0.0/16
+netname:            ICVPN-WESTSTEIERMARK
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: weststeiermark
+mnt-by:             DN42-MNT
+source:             ICVPN

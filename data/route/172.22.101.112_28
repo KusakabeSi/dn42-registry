@@ -1,0 +1,4 @@
+route:              172.22.101.112/28
+origin:             AS4242420621
+mnt-by:             ELISE-MNT
+source:             DN42

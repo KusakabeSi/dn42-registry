@@ -1,0 +1,7 @@
+aut-num:            AS4242421207
+as-name:            SECRETMINE-AS
+descr:              SECRETMINE ASN
+admin-c:            SECRETMINE-DN42
+tech-c:             SECRETMINE-DN42
+mnt-by:             SECRETMINE-MNT
+source:             DN42

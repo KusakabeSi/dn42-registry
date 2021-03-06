@@ -1,0 +1,4 @@
+route:              172.20.152.0/23
+origin:             AS4242421096
+mnt-by:             ANA-MNT
+source:             DN42

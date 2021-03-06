@@ -1,0 +1,7 @@
+mntner:             SCHWZR-MNT
+admin-c:            SCHWZR-DN42
+tech-c:             SCHWZR-DN42
+mnt-by:             SCHWZR-MNT
+auth:               pgp-fingerprint 30E439796A2A4894DCAD58D8F51436ECE83E2BAB
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDeinec8H4ICvLuQL8304hkJKfCdS+pRP7QyO9d789Uvgl3WKUytgBwXgOR7Esk2zTRvhmYKl8MfAgribU3pAa0D1IdclqMTa82d6haXTkwAsrGuDheQkgCDXXOJWN9KAH1sraj0jurg06RFR6FLDbXevGSixiqCbyc6sx+hILK7DBjXlOntpOYL4U8ayFiYq8WWIPzC6O3qr96i7gE7qDUx1ML+GHUZcP7RQqu8D5o36EY2cKe7RCZsj4eeM1FybbpYWxSfHKWJphyKVKU33CBWoN8uLRV7fQrRGobekifdt5tLfu+2g4LC0qiUWR6FwYgsxgOU1b/boKK2dWgnlVx
+source:             DN42

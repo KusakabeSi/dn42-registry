@@ -1,0 +1,6 @@
+mntner:             MORCK-MNT
+admin-c:            MORCK-DN42
+tech-c:             MORCK-DN42
+auth:               pgp-fingerprint D67AE5A50CA3A047DD971F910832DB0251FE5628
+mnt-by:             MORCK-MNT
+source:             DN42

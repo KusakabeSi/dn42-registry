@@ -1,0 +1,11 @@
+inet6num:           fdfd:0b19:7175:babe:0000:0000:0000:0000 - fdfd:0b19:7175:babe:ffff:ffff:ffff:ffff
+netname:            N2S-NET
+descr:              L33T
+country:            BG
+org:                ORG-N2S
+admin-c:            N2S-DN42
+tech-c:             N2S-DN42
+mnt-by:             N2S-MNT
+status:             ASSIGNED PA
+cidr:               fdfd:b19:7175:babe::/64
+source:             DN42

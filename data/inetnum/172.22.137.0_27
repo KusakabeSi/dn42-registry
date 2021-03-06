@@ -1,0 +1,11 @@
+inetnum:            172.22.137.0 - 172.22.137.31
+netname:            DOT-IPV4
+remarks:            Peer with me at atgit@tuta.io
+descr:              Peer with me at atgit@tuta.io
+country:            CN
+admin-c:            DOT-DN42
+tech-c:             DOT-DN42
+mnt-by:             DOT-MNT
+status:             ASSIGNED
+cidr:               172.22.137.0/27
+source:             DN42

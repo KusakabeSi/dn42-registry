@@ -1,0 +1,11 @@
+inet6num:           fd12:9554:7f59:0000:0000:0000:0000:0000 - fd12:9554:7f59:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:9554:7f59::/48
+netname:            GDEV v6 Alloc 1
+descr:              GDEV Allocation 1 - IPv6
+country:            GB
+admin-c:            GDEV-DN42
+tech-c:             GDEV-DN42
+mnt-by:             GDEV-MNT
+status:             ASSIGNED
+nserver:            1.ns.gibbons.dn42
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.77.0/27
+origin:             AS4242420277
+mnt-by:             BLACKHOLE-MNT
+source:             DN42

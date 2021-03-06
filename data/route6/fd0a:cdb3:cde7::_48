@@ -1,0 +1,4 @@
+route6:             fd0a:cdb3:cde7::/48
+origin:             AS4242422705
+mnt-by:             PIGGY-MNT
+source:             DN42

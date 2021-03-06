@@ -1,0 +1,7 @@
+inet6num:           fdbe:12d0:03d2:0000:0000:0000:0000:0000 - fdbe:12d0:03d2:0000:ffff:ffff:ffff:ffff
+cidr:               fdbe:12d0:3d2::/64
+netname:            ICVPN-BELGIEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: belgien
+mnt-by:             DN42-MNT
+source:             ICVPN

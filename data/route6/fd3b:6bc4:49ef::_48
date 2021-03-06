@@ -1,0 +1,5 @@
+route6:             fd3b:6bc4:49ef::/48
+descr:              RemiIO's Koumakan Network.i@linux.dog
+origin:             AS4242421101
+mnt-by:             REMI-MNT
+source:             DN42

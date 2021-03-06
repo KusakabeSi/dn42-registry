@@ -1,0 +1,5 @@
+route6:             fd22:3adc:a411::/48
+origin:             AS4242422610
+max-length:         48
+mnt-by:             VOTRIBE-MNT
+source:             DN42

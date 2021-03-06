@@ -1,0 +1,5 @@
+route6:             fde3:4c0d:2836::/48
+origin:             AS4242421280
+max-length:         56
+mnt-by:             MARGAU-MNT
+source:             DN42

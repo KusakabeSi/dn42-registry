@@ -1,0 +1,9 @@
+inetnum:            172.20.240.128 - 172.20.240.191
+netname:            MAJOR-TRANSFERNET
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+nserver:            ns1.major.dn42
+status:             ALLOCATED
+cidr:               172.20.240.128/26
+source:             DN42

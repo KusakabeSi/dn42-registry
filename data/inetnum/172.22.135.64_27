@@ -1,0 +1,13 @@
+inetnum:            172.22.135.64 - 172.22.135.95
+cidr:               172.22.135.64/27
+netname:            FOSSIBLE-NET
+descr:              Fossible.sh DN42 Research Network
+country:            ES
+org:                ORG-FOSSIBLE
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+status:             ASSIGNED
+nserver:            ns1.fossible.dn42
+nserver:            ns2.fossible.dn42
+source:             DN42

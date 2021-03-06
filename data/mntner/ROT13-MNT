@@ -1,0 +1,7 @@
+mntner:             ROT13-MNT
+descr:              rot13 Maintenance Object
+auth:               pgp-fingerprint 338A4CBDF437FB52AAB0576A45C0634C828E95C1
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+source:             DN42

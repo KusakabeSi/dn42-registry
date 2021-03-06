@@ -1,0 +1,83 @@
+as-set:             AS4242422237:AS-TRANSIT
+admin-c:            MUNSTERNET-DN42
+tech-c:             MUNSTERNET-DN42
+mnt-by:             MUNSTERNET-MNT
+remarks:            santost12
+members:            AS4201270009
+remarks:            JRB0001
+members:            AS4242420119
+remarks:            BAUEN1-AS bauen1 Network
+members:            AS4242420151
+remarks:            MGL Network mgl.dn42 https://dn42.miegl.cz/
+members:            AS4242420181
+remarks:            Clement VILLISEK AS for Clement VILLISEK personal use.
+members:            AS4242420308
+remarks:            FNK-AS FNK's DN42 Network&#65292;https://boke.wsfnk.com
+members:            AS4242420524
+remarks:            MOECAST-AS Moecast Network
+members:            AS4242420604
+remarks:            AS for HammyNet
+members:            AS4242420769
+remarks:            UFFSALOT-AS
+members:            AS4242420780
+remarks:            AS for NAB Network
+members:            AS4242420781
+remarks:            RHM-AS
+members:            AS4242420807
+remarks:            NAPSTERBATER-AS NAPSTERBATERs Network
+members:            AS4242421050
+remarks:            JLU5-AS
+members:            AS4242421080
+remarks:            Owens Research Network
+members:            AS4242421099
+remarks:            AS for KILOBYTE Network
+members:            AS4242421243
+remarks:            Niantic Network
+members:            AS4242421331
+remarks:            Netkolik Internet Hizmetleri
+members:            AS4242421461
+remarks:            TECH9 CORE NETWORK
+members:            AS4242421588
+remarks:            Tchekda Tchekda http://tchekda.dn42
+members:            AS4242421722
+remarks:            FABRATERIA-AS
+members:            AS4242421918
+remarks:            NOP nop.hu
+members:            AS4242421955
+remarks:            NARNIA-AS Narnia AS
+members:            AS4242422037
+remarks:            P3BK4C DN42 Network
+members:            AS4242422092
+remarks:            IEDON-NET-AS iEdon Networks
+members:            AS4242422189
+remarks:            WXMN-AS waxman.dn42 - http://dn42.wxmn.net/
+members:            AS4242422227
+remarks:            AS for ZOTAN Network
+members:            AS4242422341
+remarks:            Yura Yura Network
+members:            AS4242422464
+remarks:            ANDROW-AS Androw - https://www.androw.eu/
+members:            AS4242422575
+remarks:            BURBLE-AS burble.dn42 https://dn42.burble.com/
+members:            AS4242422601
+remarks:            LIBELLULES NETWORK
+members:            AS4242422752
+remarks:            AS for Xnoe
+members:            AS4242422833
+remarks:            DOXZ-AS
+members:            AS4242422904
+remarks:            SIS-DN42 SIS DN42 AS
+members:            AS4242422950
+remarks:            TAN-NET
+members:            AS4242422995
+remarks:            SUNNET Email: admin@6700.cc Telegram: tg126955 DN42 IRC: sunnet
+members:            AS4242423088
+remarks:            SHEBANG-AS Shebang
+members:            AS4242423395
+remarks:            Kioubit Network
+members:            AS4242423914
+remarks:            HESSNET-AS HESSNET Network
+members:            AS4242423934
+remarks:            TBSPACE TBSPACE.DE
+members:            AS76190
+source:             DN42

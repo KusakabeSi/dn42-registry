@@ -1,0 +1,4 @@
+route:              172.22.131.64/27
+origin:             AS4242420724
+mnt-by:             LFRAM-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdd5:7244:2776:0000:0000:0000:0000:0000 - fdd5:7244:2776:ffff:ffff:ffff:ffff:ffff
+netname:            ZZZ-NETWORK6
+descr:              ZZZ IPv6
+country:            GB
+admin-c:            ZZZ-DN42
+tech-c:             ZZZ-DN42
+mnt-by:             ZZZ-MNT
+status:             ASSIGNED
+cidr:               fdd5:7244:2776::/48
+source:             DN42

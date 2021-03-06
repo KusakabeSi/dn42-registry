@@ -1,0 +1,6 @@
+mntner:             BENL-MNT
+admin-c:            BENL-DN42
+tech-c:             BENL-DN42
+mnt-by:             BENL-MNT
+auth:               pgp-fingerprint 89C01AD354445B0AAA2547312C89713B680C03A0
+source:             DN42

@@ -1,0 +1,25 @@
+tinc-key:           VUTRAL-TINC
+tinc-host:          vger
+remarks:            * This object was generated based on info from legacy
+remarks:            * wiki and existing host files
+compression:        9
+subnet:             172.22.255.180/32
+tinc-address:       85.214.19.110
+admin-c:            VUTRAL-DN42
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet = 172.22.255.180/32
+                    Address = 85.214.19.110
+                    Compression = 9
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBigKCAYEAxeDA19AxsR+gbOpzNr0Bv2jtW6dYLDiz8+ZW5nE/D2kqac1DvC7B
+                    5H4dRihVRF2LjdLHNQ9egv4Ezmky0XwBOs+UZMMeXQunJATG0Uc6HZNVap2B8imV
+                    77L9yp1MZtL/OsCMI/JBXRhn6+WE9yTSg9S2zllS00xoTl5muZCgu/T5pkzyPRrI
+                    FThCu/4ePCOB7LuDiLu2TvOEaZ5P2SZJmueNvn08iBYLrFaQGJRtxl9XLh0I+9Df
+                    COXVrOxIpWzWbOugHy/SW5QrrDwL9IvndftjisGjGXhP7UrJkp4O/1aGfNfclyJX
+                    6085aWA2LhDKWZA0AjgRv9b9R0e3mTRpS1qKVxEt85k86s9xf60nfZHGENbG+80+
+                    WlAZtX0oQXHS0jZCSg8CKXMDmAOI+WSytBxIzytsfikTKTmDcFMYu+sjlp6Ev2La
+                    A2XKHzRB58eh+SEvU5FWl8lLPZH6bTmixZkTP9JVnXMO9cRiRX3L/tOSkHN7ypxk
+                    EtT4MbvtFCgTAgMBAAE=
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

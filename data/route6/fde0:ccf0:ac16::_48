@@ -1,0 +1,5 @@
+route6:             fde0:ccf0:ac16::/48
+origin:             AS4242423518
+max-length:         48
+mnt-by:             MOON-MNT
+source:             DN42

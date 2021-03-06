@@ -1,0 +1,11 @@
+inet6num:           fd81:c3c8:e9a2:0000:0000:0000:0000:0000 - fd81:c3c8:e9a2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:c3c8:e9a2::/48
+netname:            ZODDO-NET
+descr:              Network of Zoddo
+country:            FR
+admin-c:            ZODDO-DN42
+tech-c:             ZODDO-DN42
+mnt-by:             ZODDO-MNT
+status:             ASSIGNED
+nserver:            ns1.zoddo.dn42
+source:             DN42

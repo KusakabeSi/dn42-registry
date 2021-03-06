@@ -1,0 +1,14 @@
+inet6num:           fd4f:4e49:4f4e:0000:0000:0000:0000:0000 - fd4f:4e49:4f4e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4f:4e49:4f4e::/48
+netname:            ONION-NET-V3
+descr:              Tor-Onion Proxy Service V3
+remarks:            fd O:NI:ON - Last 80bit of MD5 Hash
+country:            DE
+admin-c:            THEQ-DN42
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+nserver:            ns1.theq.dn42
+nserver:            ns2.theq.dn42
+nserver:            ns3.theq.dn42
+status:             ASSIGNED
+source:             DN42

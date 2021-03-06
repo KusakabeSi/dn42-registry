@@ -1,0 +1,10 @@
+inet6num:           fd42:0b10:1010:0000:0000:0000:0000:0000 - fd42:0b10:1010:ffff:ffff:ffff:ffff:ffff
+netname:            B101010-NETWORK
+descr:              Network of b101010
+country:            GB
+admin-c:            B101010-DN42
+tech-c:             B101010-DN42
+mnt-by:             B101010-MNT
+status:             ASSIGNED
+cidr:               fd42:b10:1010::/48
+source:             DN42

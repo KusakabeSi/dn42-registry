@@ -1,0 +1,10 @@
+inet6num:           fd42:c0de:6a6d:0000:0000:0000:0000:0000 - fd42:c0de:6a6d:ffff:ffff:ffff:ffff:ffff
+netname:            IOVOID-NET6
+descr:              iovoid v6 network
+country:            AR
+admin-c:            IOVOID-DN42
+tech-c:             IOVOID-DN42
+mnt-by:             VALORAN-MNT
+status:             ALLOCATED
+cidr:               fd42:c0de:6a6d::/48
+source:             DN42

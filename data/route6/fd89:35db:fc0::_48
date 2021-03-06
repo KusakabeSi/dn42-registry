@@ -1,0 +1,5 @@
+route6:             fd89:35db:fc0::/48
+origin:             AS4242420604
+max-length:         48
+mnt-by:             MOECAST-MNT
+source:             DN42

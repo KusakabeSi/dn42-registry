@@ -1,0 +1,5 @@
+route6:             fd42:e621::/48
+descr:              Koala
+origin:             AS4242421488
+mnt-by:             KOALA-MNT
+source:             DN42

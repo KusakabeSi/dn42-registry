@@ -1,0 +1,10 @@
+inetnum:            172.22.24.0 - 172.22.25.255
+netname:            EQUINOX-DN42-NET4
+descr:              spaceboyz
+country:            DE
+admin-c:            EQUINOX-DN42
+tech-c:             EQUINOX-DN42
+status:             ASSIGNED
+mnt-by:             EQUINOX-DN42-MNT
+cidr:               172.22.24.0/23
+source:             DN42

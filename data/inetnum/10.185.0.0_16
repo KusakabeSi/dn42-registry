@@ -1,0 +1,13 @@
+inetnum:            10.185.0.0 - 10.185.255.255
+cidr:               10.185.0.0/16
+netname:            ICVPN-FULDA
+nserver:            1.0.185.10.ipv4.registry-sync.dn42
+nserver:            2.0.185.10.ipv4.registry-sync.dn42
+nserver:            4.0.185.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.a.3.9.8.a.5.6.0.0.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: fulda
+mnt-by:             DN42-MNT
+source:             ICVPN

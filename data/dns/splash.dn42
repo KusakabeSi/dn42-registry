@@ -1,0 +1,7 @@
+domain:             splash.dn42
+descr:              ZANET
+admin-c:            SPLASH-DN42
+tech-c:             SPLASH-DN42
+mnt-by:             SPLASH-MNT
+nserver:            ns1.splash.dn42 172.20.161.254
+source:             DN42

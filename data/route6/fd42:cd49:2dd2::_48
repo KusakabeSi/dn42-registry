@@ -1,0 +1,4 @@
+route6:             fd42:cd49:2dd2::/48
+origin:             AS4242420418
+mnt-by:             TDS-MNT
+source:             DN42

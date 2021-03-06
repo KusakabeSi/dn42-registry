@@ -1,0 +1,5 @@
+route:              172.22.134.192/26
+descr:              Neo2SHYAliens PA space
+origin:             AS4242421110
+mnt-by:             N2S-MNT
+source:             DN42

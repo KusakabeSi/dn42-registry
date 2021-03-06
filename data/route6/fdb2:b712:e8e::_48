@@ -1,0 +1,4 @@
+route6:             fdb2:b712:e8e::/48
+origin:             AS4242420177
+mnt-by:             JHE-MNT
+source:             DN42

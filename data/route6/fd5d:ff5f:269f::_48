@@ -1,0 +1,5 @@
+route6:             fd5d:ff5f:269f::/48
+origin:             AS4242420320
+max-length:         48
+mnt-by:             NUXIS-MNT
+source:             DN42

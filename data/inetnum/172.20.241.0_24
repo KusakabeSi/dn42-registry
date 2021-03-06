@@ -1,0 +1,11 @@
+inetnum:            172.20.241.0 - 172.20.241.255
+netname:            FFFD-TRANSFERNET
+descr:              Freifunk Fulda Transfernet
+country:            DE
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+nserver:            ns1.major.dn42
+status:             ASSIGNED
+cidr:               172.20.241.0/24
+source:             DN42

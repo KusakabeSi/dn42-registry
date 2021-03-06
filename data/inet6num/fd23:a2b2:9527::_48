@@ -1,0 +1,10 @@
+inet6num:           fd23:a2b2:9527:0000:0000:0000:0000:0000 - fd23:a2b2:9527:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:a2b2:9527::/48
+netname:            WORLDTEAM-NETWORK
+descr:              World.Team's IPv6 Network
+country:            US
+admin-c:            WORLDNET-DN42
+tech-c:             WORLDNET-DN42
+mnt-by:             WORLDNET-MNT
+status:             ASSIGNED
+source:             DN42

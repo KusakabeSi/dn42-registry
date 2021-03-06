@@ -1,0 +1,4 @@
+route:              172.20.34.128/27
+origin:             AS4242421928
+mnt-by:             ESCAMBEAU-MNT
+source:             DN42

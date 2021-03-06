@@ -1,0 +1,7 @@
+aut-num:            AS4242422515
+as-name:            ANYSERVICES-AS
+descr:              ANYSERVICES AS
+admin-c:            ANYSERVICES-DN42
+tech-c:             ANYSERVICES-DN42
+mnt-by:             ANYSERVICES-MNT
+source:             DN42

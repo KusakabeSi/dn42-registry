@@ -1,0 +1,8 @@
+organisation:       ORG-HUCKLOWNET
+org-name:           HUCKLOWNET
+e-mail:             info@hucklow.net
+descr:              HucklowNet Rural ISP
+admin-c:            HUCKLOWNET-DN42
+tech-c:             HUCKLOWNET-DN42
+mnt-by:             HUCKLOWNET-MNT
+source:             DN42

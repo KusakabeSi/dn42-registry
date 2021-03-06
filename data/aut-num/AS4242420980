@@ -1,0 +1,13 @@
+aut-num:            AS4242420980
+as-name:            FOOBARS
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+source:             DN42
+remarks:            Peering is open
+remarks:            Latency should be reasonable.
+remarks:            Persisting packet loss, downtime and/or peering issues is reason to disable our peering.
+remarks:            Peerings are ment to be 24/7. Mention scheduled maintenance beforehand.
+remarks:            Your contact info and peering policy must exist publicly.
+remarks:            The peer AS must have at least one other transit and/or upstream peer.
+remarks:            Tunnel's bandwidth is fair use policy, excessive traffic will be throttled

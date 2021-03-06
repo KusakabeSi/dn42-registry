@@ -1,0 +1,9 @@
+domain:             birb.dn42
+nserver:            ns1.birb.dn42 172.20.168.70
+nserver:            ns1.birb.dn42 fd42:c0ff:eeee:2000::
+nserver:            ns2.birb.dn42 172.20.168.71
+nserver:            ns2.birb.dn42 fd42:c0ff:eeee:2001::
+admin-c:            BIRB-DN42
+tech-c:             BIRB-DN42
+mnt-by:             BIRB-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.11.112.0/20
+origin:             AS64871
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligenhaus
+mnt-by:             DN42-MNT
+source:             ICVPN

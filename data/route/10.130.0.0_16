@@ -1,0 +1,6 @@
+route:              10.130.0.0/16
+origin:             AS201173
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

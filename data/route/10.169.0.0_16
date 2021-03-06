@@ -1,0 +1,6 @@
+route:              10.169.0.0/16
+origin:             AS65534
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mueritz
+mnt-by:             DN42-MNT
+source:             ICVPN

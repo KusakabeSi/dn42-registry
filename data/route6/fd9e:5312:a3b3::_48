@@ -1,0 +1,5 @@
+route6:             fd9e:5312:a3b3::/48
+origin:             AS4242423704
+max-length:         48
+mnt-by:             ELMER-MNT
+source:             DN42

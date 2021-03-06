@@ -1,0 +1,12 @@
+inetnum:            172.22.0.94 - 172.22.0.94
+netname:            ANYCASTTOR-NET
+descr:              Tor IPv4 anycast address
+remarks:            ORPort: 9001/tcp
+remarks:            DirPort: 9030/tcp
+remarks:            SocksPort: 9050/tcp
+admin-c:            NAPSTERBATER-DN42
+tech-c:             NAPSTERBATER-DN42
+mnt-by:             NAPSTERBATER-MNT
+status:             ASSIGNED
+cidr:               172.22.0.94/32
+source:             DN42

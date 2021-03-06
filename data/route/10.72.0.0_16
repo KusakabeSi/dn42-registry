@@ -1,0 +1,6 @@
+route:              10.72.0.0/16
+origin:             AS65513
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nordwest
+mnt-by:             DN42-MNT
+source:             ICVPN

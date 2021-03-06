@@ -1,0 +1,6 @@
+mntner:             CBS-MNT
+admin-c:            CBS-DN42
+tech-c:             CBS-DN42
+mnt-by:             CBS-MNT
+source:             DN42
+auth:               pgp-fingerprint 35D152F84DF63C0C14C7CC340FAB038CDF74DC6A

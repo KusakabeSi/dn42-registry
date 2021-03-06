@@ -1,0 +1,7 @@
+domain:             jason.dn42
+admin-c:            JASON-DN42
+tech-c:             JASON-DN42
+mnt-by:             JASON-MNT
+nserver:            ns1.jason.dn42 172.22.180.129
+nserver:            ns1.jason.dn42 fdb6:70fb:3966::1
+source:             DN42

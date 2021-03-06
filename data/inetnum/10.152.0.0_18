@@ -1,0 +1,11 @@
+inetnum:            10.152.0.0 - 10.152.63.255
+cidr:               10.152.0.0/18
+netname:            ICVPN-SIEGBURG
+nserver:            10.0.152.10.ipv4.registry-sync.dn42
+nserver:            10.16.152.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.5.4.8.1.2.7.1.4.a.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.5.4.8.1.2.7.1.4.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: siegburg
+mnt-by:             DN42-MNT
+source:             ICVPN

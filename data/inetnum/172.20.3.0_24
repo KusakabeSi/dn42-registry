@@ -1,0 +1,10 @@
+inetnum:            172.20.3.0 - 172.20.3.255
+country:            AT
+admin-c:            REISENB-DN42
+tech-c:             REISENB-DN42
+mnt-by:             REISENB-MNT
+nserver:            ns1.reisenb.dn42
+status:             ASSIGNED
+cidr:               172.20.3.0/24
+netname:            reisenb network
+source:             DN42

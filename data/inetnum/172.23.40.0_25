@@ -1,0 +1,8 @@
+inetnum:            172.23.40.0 - 172.23.40.127
+cidr:               172.23.40.0/25
+netname:            QLEAN-NETWORK
+admin-c:            QLEAN-DN42
+tech-c:             QLEAN-DN42
+mnt-by:             QLEAN-MNT
+status:             ASSIGNED
+source:             DN42

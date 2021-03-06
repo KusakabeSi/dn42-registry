@@ -1,0 +1,6 @@
+mntner:             IAMSI-MNT
+admin-c:            IAMSI-DN42
+tech-c:             IAMSI-DN42
+mnt-by:             IAMSI-MNT
+source:             DN42
+auth:               pgp-fingerprint 8BD9AE6125FFBF9A5AC870F857B79621E7130E13

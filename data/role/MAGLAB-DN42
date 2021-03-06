@@ -1,0 +1,10 @@
+role:               Magrathea Laboratories
+org:                ORG-MAGLAB
+nic-hdl:            MAGLAB-DN42
+admin-c:            MAJOR-DN42
+admin-c:            FOOKER-DN42
+tech-c:             MAJOR-DN42
+tech-c:             FOOKER-DN42
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+source:             DN42

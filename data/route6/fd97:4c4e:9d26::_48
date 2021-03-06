@@ -1,0 +1,5 @@
+route6:             fd97:4c4e:9d26::/48
+descr:              lex's network
+origin:             AS64697
+mnt-by:             DUMMY-MNT
+source:             DN42

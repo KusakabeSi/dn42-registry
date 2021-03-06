@@ -1,0 +1,6 @@
+mntner:             DOT-MNT
+admin-c:            DOT-DN42
+tech-c:             DOT-DN42
+mnt-by:             DOT-MNT
+auth:               pgp-fingerprint 2FC8280CC12B44A8470C77673A061751F2A0C810
+source:             DN42

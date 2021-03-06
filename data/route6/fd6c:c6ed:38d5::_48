@@ -1,0 +1,5 @@
+route6:             fd6c:c6ed:38d5::/48
+descr:              Byron's IP space
+origin:             AS4242423916
+mnt-by:             BYRON-MNT
+source:             DN42

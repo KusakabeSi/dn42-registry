@@ -1,0 +1,17 @@
+aut-num:            AS4242420077
+as-name:            GERGERNET
+descr:              Gerger's AS
+admin-c:            GERGER-DN42
+tech-c:             GERGER-DN42
+remarks:            ----------------------------
+remarks:            New peerings welcome!
+remarks:            OpenVPN preferred
+remarks:            Location: Germany, Frankfurt/Main
+remarks:            ----------------------------
+remarks:            Contact:
+remarks:            irc> Gerger@hackint
+remarks:            mail> gerger@netzkontrollstelle.de
+remarks:            ----------------------------
+remarks:            LookingGlass: http://gergernet.dn42/
+mnt-by:             GERGERNET-MNT
+source:             DN42

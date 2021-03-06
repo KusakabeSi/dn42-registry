@@ -1,0 +1,8 @@
+inetnum:            172.20.149.192 - 172.20.149.255
+cidr:               172.20.149.192/26
+netname:            ALT-NETWORK
+admin-c:            ALT-DN42
+tech-c:             ALT-DN42
+mnt-by:             ALT-MNT
+status:             ASSIGNED
+source:             DN42

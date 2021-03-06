@@ -1,0 +1,4 @@
+route6:             fd00:7882:4abb::/48
+origin:             AS4242420211
+mnt-by:             FUERO-MNT
+source:             DN42

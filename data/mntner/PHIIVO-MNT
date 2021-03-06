@@ -1,0 +1,9 @@
+mntner:             PHIIVO-MNT
+admin-c:            CRSHMAN-DN42
+tech-c:             CRSHMAN-DN42
+mnt-by:             PHIIVO-MNT
+remarks:            SSH-Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUoZAyDI9ACjgl9AmYnjG9SqzLMkZELvvFMnVgz9nSgXLVcu5gG6WdOQd4mSgF811nZiCcbQ4oXHKkFc0woj0RDak0xgL6VNtJkvB4AjkPfxh8Wqfv3Pjz3ToMWJrzl8Upez6mXt8zsNxzKeR9T6QASTQ7w5knw4XQvyJNW9MtKncwItjaEYQEeLGvPyW1kddLZ9VE1aCOCkPMSLRJw1Adi1dYQBo8p0uKTKR5xg4AIlgVG1Q13LZn72xUwV5MLnPUlfjttv7YfbBGdF/u2NqAKLhuBU5GTdg651r4h/R+Kop5IT8NQlb2nu4JM0/nKa+5IfnN45cIie8kJCewH+6T
+remarks:            GnuPG-Key:
+auth:               pgp-fingerprint 58E3D6DC746296994FBAF8870F4316EBB78B8FE3
+source:             DN42

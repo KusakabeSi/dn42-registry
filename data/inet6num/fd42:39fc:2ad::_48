@@ -1,0 +1,11 @@
+inet6num:           fd42:39fc:02ad:0000:0000:0000:0000:0000 - fd42:39fc:02ad:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:39fc:2ad::/48
+netname:            PALAKIS-IPV6
+country:            FR
+admin-c:            PALAKIS-DN42
+tech-c:             PALAKIS-DN42
+mnt-by:             PALAKIS-MNT
+nserver:            ns1.palakis.dn42
+nserver:            ns2.palakis.dn42
+status:             ASSIGNED
+source:             DN42

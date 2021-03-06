@@ -1,0 +1,16 @@
+inetnum:            10.195.0.0 - 10.195.255.255
+cidr:               10.195.0.0/16
+netname:            ICVPN-FRANKEN
+nserver:            2.5.2.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.d.b.9.2.2.0.6.5.3.4.d.f.ipv6.registry-sync.dn42
+nserver:            2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.d.b.9.2.2.0.6.5.3.4.d.f.ipv6.registry-sync.dn42
+nserver:            a.0.0.0.a.0.0.0.a.0.0.0.a.0.0.0.f.f.f.f.d.b.9.2.2.0.6.5.3.4.d.f.ipv6.registry-sync.dn42
+nserver:            2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.f.f.d.b.9.2.2.0.6.5.3.4.d.f.ipv6.registry-sync.dn42
+nserver:            10.40.50.10.ipv4.registry-sync.dn42
+nserver:            0.252.50.10.ipv4.registry-sync.dn42
+nserver:            0.252.83.10.ipv4.registry-sync.dn42
+nserver:            11.252.83.10.ipv4.registry-sync.dn42
+nserver:            62.252.83.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: franken
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,5 @@
+route6:             fd6d:a5fa:383c::/48
+origin:             AS4242423962
+max-length:         48
+mnt-by:             MANI-MNT
+source:             DN42

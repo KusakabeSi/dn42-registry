@@ -1,0 +1,5 @@
+route6:             fd62:cc46:576b::/48
+descr:              SOASURS DN42
+origin:             AS4242422809
+mnt-by:             SOASURS-MNT
+source:             DN42

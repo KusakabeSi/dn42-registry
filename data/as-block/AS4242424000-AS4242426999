@@ -1,0 +1,6 @@
+as-block:           AS4242424000-AS4242426999
+descr:              Future dn42 use
+remarks:            This block is reserved for future dn42 use.
+mnt-by:             DN42-MNT
+policy:             closed
+source:             DN42

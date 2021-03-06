@@ -1,0 +1,8 @@
+inetnum:            172.22.189.104 - 172.22.189.111
+cidr:               172.22.189.104/29
+netname:            YI-NET-002
+admin-c:            YI-DN42
+tech-c:             YI-DN42
+mnt-by:             YI-MNT
+status:             ASSIGNED
+source:             DN42

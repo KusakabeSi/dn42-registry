@@ -1,0 +1,6 @@
+mntner:             UNICORN-MNT
+admin-c:            UNICORN-DN42
+tech-c:             UNICORN-DN42
+mnt-by:             UNICORN-MNT
+auth:               pgp-fingerprint 6300B9257CBF71F48874D520D51634831791296E
+source:             DN42

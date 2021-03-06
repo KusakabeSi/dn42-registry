@@ -1,0 +1,4 @@
+registry:           LACNIC
+url:                whois://whois.lacnic.net
+mnt-by:             DN42-MNT
+source:             DN42

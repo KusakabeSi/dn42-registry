@@ -1,0 +1,10 @@
+inet6num:           fd2a:8eb0:74bd:0000:0000:0000:0000:0000 - fd2a:8eb0:74bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2a:8eb0:74bd::/48
+netname:            STATHIS-NETWORK
+descr:              STATHIS-NET
+country:            GR
+admin-c:            STATHIS-DN42
+tech-c:             STATHIS-DN42
+mnt-by:             STATHIS-MNT
+status:             ASSIGNED
+source:             DN42

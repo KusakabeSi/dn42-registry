@@ -1,0 +1,8 @@
+inet6num:           fd64:a2c3:9990:0000:0000:0000:0000:0000 - fd64:a2c3:9990:ffff:ffff:ffff:ffff:ffff
+admin-c:            ND-DN42
+tech-c:             ND-DN42
+mnt-by:             ND-MNT
+status:             ALLOCATED
+cidr:               fd64:a2c3:9990::/48
+netname:            Unnamed fd64:a2c3:9990::/48 Network
+source:             DN42

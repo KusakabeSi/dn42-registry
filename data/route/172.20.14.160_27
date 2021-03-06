@@ -1,0 +1,5 @@
+route:              172.20.14.160/27
+descr:              HORP-NETWORK
+origin:             AS4242420997
+mnt-by:             HORP-MNT
+source:             DN42

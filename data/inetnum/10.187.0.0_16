@@ -1,0 +1,9 @@
+inetnum:            10.187.0.0 - 10.187.255.255
+cidr:               10.187.0.0/16
+netname:            ICVPN-NORD
+nserver:            1.1.187.10.ipv4.registry-sync.dn42
+nserver:            0.0.d.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.5.b.0.c.9.4.b.e.2.4.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nord
+mnt-by:             DN42-MNT
+source:             ICVPN

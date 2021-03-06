@@ -1,0 +1,6 @@
+route:              10.145.0.0/16
+origin:             AS65077
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: aachen
+mnt-by:             DN42-MNT
+source:             ICVPN

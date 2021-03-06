@@ -1,0 +1,8 @@
+inetnum:            172.20.20.224 - 172.20.20.255
+netname:            YAN-NETWORK
+admin-c:            YAN-DN42
+tech-c:             YAN-DN42
+mnt-by:             YAN-MNT
+status:             ASSIGNED
+cidr:               172.20.20.224/27
+source:             DN42

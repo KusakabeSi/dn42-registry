@@ -1,0 +1,10 @@
+inetnum:            172.22.131.32 - 172.22.131.63
+netname:            MTN-NET-VPN
+descr:              Michael Trip VPN
+country:            NL
+admin-c:            MTR-DN42
+tech-c:             MTR-DN42
+mnt-by:             MTR-MNT
+status:             ASSIGNED
+cidr:               172.22.131.32/27
+source:             DN42

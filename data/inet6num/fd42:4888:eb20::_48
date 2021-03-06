@@ -1,0 +1,10 @@
+inet6num:           fd42:4888:eb20:0000:0000:0000:0000:0000 - fd42:4888:eb20:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4888:eb20::/48
+netname:            BARROW-NET
+descr:              barrow address space
+country:            US
+admin-c:            BARROW-DN42
+tech-c:             BARROW-DN42
+mnt-by:             BARROW-MNT
+status:             ASSIGNED
+source:             DN42

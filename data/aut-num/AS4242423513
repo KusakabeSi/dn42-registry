@@ -1,0 +1,7 @@
+aut-num:            AS4242423513
+as-name:            LFNET
+descr:              lf-net.org and related in DN42 - will route via OpenVPN and maybe others
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+source:             DN42

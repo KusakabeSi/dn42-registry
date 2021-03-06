@@ -1,0 +1,5 @@
+route6:             fdfc:bdcd:a880::/48
+origin:             AS4242423112
+max-length:         48
+mnt-by:             NIRN-MNT
+source:             DN42

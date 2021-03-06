@@ -1,0 +1,6 @@
+route:              10.62.0.0/16
+origin:             AS65046
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: halle
+mnt-by:             DN42-MNT
+source:             ICVPN

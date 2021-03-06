@@ -1,0 +1,9 @@
+inet6num:           fd42:dead:beef:0000:0000:0000:0000:0000 - fd42:dead:beef:ffff:ffff:ffff:ffff:ffff
+netname:            BYTETURTLE-V6-FUTURE
+country:            DE
+admin-c:            BYTETURTLE-DN42
+tech-c:             BYTETURTLE-DN42
+mnt-by:             BYTETURTLE-MNT
+status:             ASSIGNED
+cidr:               fd42:dead:beef::/48
+source:             DN42

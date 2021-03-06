@@ -1,0 +1,9 @@
+aut-num:            AS4242421212
+as-name:            eddynetweb NIC (eddynetweb.net)
+descr:              EDDYNETWEB NETWORK RESORUCES (EDUARDO SANTILLAN)
+org:                ORG-EDDYNETWEB
+remarks:            PEERING POLICY: PEERING.EDDYNETWEB.NET
+admin-c:            EDDYNETWEB-DN42
+tech-c:             EDDYNETWEB-DN42
+mnt-by:             EDDYNETWEB-MNT
+source:             DN42

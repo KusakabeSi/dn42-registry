@@ -1,0 +1,5 @@
+route6:             fd66:b99:c0da::/48
+origin:             AS17080
+max-length:         48
+mnt-by:             R-MNT
+source:             DN42

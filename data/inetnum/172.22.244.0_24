@@ -1,0 +1,10 @@
+inetnum:            172.22.244.0 - 172.22.244.255
+netname:            ARCHCD-DN42-IP4NET-TRANSFER
+descr:              Arch.CD transfer
+country:            CH
+admin-c:            ARCHCD-DN42
+tech-c:             ARCHCD-DN42
+mnt-by:             PLUESCH-MNT
+status:             ASSIGNED
+cidr:               172.22.244.0/24
+source:             DN42

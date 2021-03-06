@@ -1,0 +1,10 @@
+inet6num:           fddd:0ed3:375e:0000:0000:0000:0000:0000 - fddd:0ed3:375e:ffff:ffff:ffff:ffff:ffff
+netname:            NIYAWE-V6-NETWORK
+country:            DE
+admin-c:            NIYAWE-DN42
+tech-c:             NIYAWE-DN42
+mnt-by:             NIYAWE-MNT
+nserver:            ns.niyawe.dn42
+status:             ASSIGNED
+cidr:               fddd:ed3:375e::/48
+source:             DN42

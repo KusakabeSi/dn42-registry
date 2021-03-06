@@ -1,0 +1,19 @@
+inet6num:           fd56:b4dc:4b1e:0000:0000:0000:0000:0000 - fd56:b4dc:4b1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd56:b4dc:4b1e::/48
+netname:            ICVPN-MWU
+nserver:            7.255.87.10.ipv4.registry-sync.dn42
+nserver:            7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+nserver:            23.255.87.10.ipv4.registry-sync.dn42
+nserver:            7.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+nserver:            101.255.87.10.ipv4.registry-sync.dn42
+nserver:            5.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+nserver:            111.255.87.10.ipv4.registry-sync.dn42
+nserver:            f.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+nserver:            161.255.87.10.ipv4.registry-sync.dn42
+nserver:            1.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+nserver:            231.255.87.10.ipv4.registry-sync.dn42
+nserver:            7.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.e.1.b.4.c.d.4.b.6.8.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mwu
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,11 @@
+inetnum:            172.20.170.96 - 172.20.170.127
+netname:            ACIDMC-NET1
+descr:              AcidMC Net 1
+country:            US
+admin-c:            ACIDMC-DN42
+tech-c:             ACIDMC-DN42
+mnt-by:             ACIDMC-MNT
+nserver:            ns1.acidmc.dn42
+status:             ASSIGNED
+cidr:               172.20.170.96/27
+source:             DN42

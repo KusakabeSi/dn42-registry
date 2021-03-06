@@ -1,0 +1,10 @@
+inet6num:           fda7:a975:bfc2:0000:0000:0000:0000:0000 - fda7:a975:bfc2:ffff:ffff:ffff:ffff:ffff
+cidr:               fda7:a975:bfc2::/48
+netname:            R33INT-NETWORK
+descr:              Network of r33int
+country:            FR
+admin-c:            R33INT-DN42
+tech-c:             R33INT-DN42
+mnt-by:             R33INT-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.22.128.192 - 172.22.128.223
+cidr:               172.22.128.192/27
+netname:            JAYWIRE-NET
+descr:              Jaywire's Network
+admin-c:            JAYWIRE-DN42
+tech-c:             JAYWIRE-DN42
+mnt-by:             JAYWIRE-MNT
+status:             ASSIGNED
+source:             DN42

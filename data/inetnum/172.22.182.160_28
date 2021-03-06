@@ -1,0 +1,9 @@
+inetnum:            172.22.182.160 - 172.22.182.175
+cidr:               172.22.182.160/28
+netname:            DARKSNOW-NETWORK
+admin-c:            CLEMATIS-DN42
+tech-c:             CLEMATIS-DN42
+mnt-by:             CLEMATIS-MNT
+status:             ASSIGNED
+nserver:            ns1.darksnow.dn42
+source:             DN42

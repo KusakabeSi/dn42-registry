@@ -1,0 +1,10 @@
+inetnum:            172.22.105.96 - 172.22.105.111
+cidr:               172.22.105.96/28
+netname:            SHOGNET-AS
+descr:              sto-01 network
+country:            SE
+admin-c:            SHOGHI-DN42
+tech-c:             SHOGHI-DN42
+mnt-by:             SHOGHI-MNT
+status:             ASSIGNED
+source:             DN42

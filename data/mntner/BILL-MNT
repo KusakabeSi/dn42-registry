@@ -1,0 +1,6 @@
+mntner:             BILL-MNT
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+auth:               pgp-fingerprint 3d8f6bcde6bc2e96292d4cfe30191a2d94af43df
+source:             DN42

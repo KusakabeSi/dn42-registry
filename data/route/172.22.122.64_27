@@ -1,0 +1,4 @@
+route:              172.22.122.64/27
+origin:             AS4242422843
+mnt-by:             MCBROWN-MNT
+source:             DN42

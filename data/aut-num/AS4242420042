@@ -1,0 +1,15 @@
+aut-num:            AS4242420042
+as-name:            HAUKE-AS
+remarks:            +-------------------------------------------------+
+remarks:            | * Open peering policy, OpenVPN preferred        |
+remarks:            | * For peering contact HAUKE-DN42                |
+remarks:            +---------+---------------------------------------+
+remarks:            | Country | Location                              |
+remarks:            +---------+---------------------------------------+
+remarks:            | DE      | Falkenstein, Germany (Hetzner RZ14)   |
+remarks:            | SG      | Equinix Singapore (Digital Ocean)     |
+remarks:            +---------+---------------------------------------+
+admin-c:            HAUKE-DN42
+tech-c:             HAUKE-DN42
+mnt-by:             HAUKE-MNT
+source:             DN42

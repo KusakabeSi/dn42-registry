@@ -1,0 +1,10 @@
+inetnum:            172.20.165.0 - 172.20.165.7
+netname:            IXNET-INTERNAL
+descr:              Reserved for internal use
+country:            SG
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+status:             ALLOCATED
+cidr:               172.20.165.0/29
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.186.64/28
+origin:             AS4242422502
+max-length:         28
+mnt-by:             TRIS-MNT
+source:             DN42

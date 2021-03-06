@@ -1,0 +1,10 @@
+inetnum:            172.20.190.128 - 172.20.190.143
+netname:            DRATHIR-DN42-OVH-RBX-FRA-1-INET
+descr:              DRATHIR-DN42-OVH-RBX-FRA-1-INET
+country:            FR
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.190.128/28
+source:             DN42

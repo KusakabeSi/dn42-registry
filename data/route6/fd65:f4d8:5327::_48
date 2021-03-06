@@ -1,0 +1,5 @@
+route6:             fd65:f4d8:5327::/48
+origin:             AS4242420969
+max-length:         48
+mnt-by:             HEXCHEN-MNT
+source:             DN42

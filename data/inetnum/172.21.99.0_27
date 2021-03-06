@@ -1,0 +1,10 @@
+inetnum:            172.21.99.0 - 172.21.99.31
+cidr:               172.21.99.0/27
+netname:            YAIX-LAX
+descr:              Yet Another Internet Exchange
+country:            US
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+status:             ASSIGNED
+source:             DN42

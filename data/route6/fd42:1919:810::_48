@@ -1,0 +1,5 @@
+route6:             fd42:1919:810::/48
+origin:             AS4242421288
+max-length:         48
+mnt-by:             NICHOLASCW-MNT
+source:             DN42

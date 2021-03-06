@@ -1,0 +1,5 @@
+route:              172.20.14.192/26
+descr:              Gotroot Infra
+origin:             AS4242422700
+mnt-by:             GOTROOT-MNT
+source:             DN42

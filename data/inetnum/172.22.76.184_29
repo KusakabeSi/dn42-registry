@@ -1,0 +1,21 @@
+inetnum:            172.22.76.184 - 172.22.76.191
+netname:            LANTIAN-IPV4
+descr:              Lan Tian's IP space
+remarks:            My network is open to peering; see https://lantian.pub/page/dn42
+remarks:            or directly contact me at b980120@hotmail.com
+country:            CN
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+nserver:            ns-anycast.lantian.dn42
+nserver:            ns1.lantian.dn42
+nserver:            ns2.lantian.dn42
+nserver:            ns3.lantian.dn42
+nserver:            ns4.lantian.dn42
+nserver:            ns5.lantian.dn42
+ds-rdata:           21330 13 1 fb49af1550fe8c4cf2b7b5563ea30edb16af9745
+ds-rdata:           21330 13 2 a59ec36d9f00b94698db2502849b5259486e006234d5fcb808b1342e3e259c01
+ds-rdata:           21330 13 4 d70b1d5983cda0684ce0b91f2fc14d850f7bbfc54a9f773e6a5253c051f594fdd23fe8731e576029389a5601b9da3191
+status:             ASSIGNED
+cidr:               172.22.76.184/29
+source:             DN42

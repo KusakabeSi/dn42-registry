@@ -1,0 +1,8 @@
+domain:             8fcde.dn42
+descr:              8FCDE
+admin-c:            8FCDE-DN42
+tech-c:             8FCDE-DN42
+mnt-by:             8FCDE-MNT
+nserver:            ns1.8fcde.dn42 172.22.157.1
+nserver:            ns2.8fcde.dn42 172.22.157.2
+source:             DN42

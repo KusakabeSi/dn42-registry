@@ -1,0 +1,8 @@
+inet6num:           fda0:0b1c:8302:0000:0000:0000:0000:0000 - fda0:0b1c:8302:ffff:ffff:ffff:ffff:ffff
+netname:            Cork
+admin-c:            MARKMCN-DN42
+tech-c:             MARKMCN-DN42
+mnt-by:             MARKMCN-MNT
+status:             ASSIGNED
+cidr:               fda0:b1c:8302::/48
+source:             DN42

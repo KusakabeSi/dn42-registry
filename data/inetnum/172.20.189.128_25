@@ -1,0 +1,8 @@
+inetnum:            172.20.189.128 - 172.20.189.255
+cidr:               172.20.189.128/25
+netname:            World.Team's IPv4 Network
+admin-c:            WORLDNET-DN42
+tech-c:             WORLDNET-DN42
+mnt-by:             WORLDNET-MNT
+status:             ASSIGNED
+source:             DN42

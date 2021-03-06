@@ -1,0 +1,6 @@
+route6:             fd68:6868:6868::/48
+origin:             AS4242423237
+admin-c:            ABSLIMIT-DN42
+tech-c:             ABSLIMIT-DN42
+mnt-by:             ABSLIMIT-MNT
+source:             DN42

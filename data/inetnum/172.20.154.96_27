@@ -1,0 +1,9 @@
+inetnum:            172.20.154.96 - 172.20.154.127
+netname:            BANTER-NETWORK
+descr:              BANTERNET-NETWORK
+admin-c:            NICKUK-DN42
+tech-c:             NICKUK-DN42
+mnt-by:             BANTERNET-MNT
+status:             ASSIGNED
+cidr:               172.20.154.96/27
+source:             DN42

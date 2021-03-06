@@ -1,0 +1,10 @@
+domain:             fre.dn42
+descr:              FRE CORENETWORKS DNS
+admin-c:            RACIME-DN42
+tech-c:             RACIME-DN42
+mnt-by:             FRE-MNT
+nserver:            ns1.fre.dn42 172.20.148.96
+nserver:            ns2.fre.dn42 172.20.148.97
+nserver:            ns1.fre.dn42 fd86:4ce:d32f:53::1
+nserver:            ns2.fre.dn42 fd86:4ce:d32f:53::2
+source:             DN42

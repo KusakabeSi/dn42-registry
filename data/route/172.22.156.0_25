@@ -1,0 +1,4 @@
+route:              172.22.156.0/25
+origin:             AS4242421219
+mnt-by:             BIVABORI-MNT
+source:             DN42

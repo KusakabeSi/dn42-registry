@@ -1,0 +1,8 @@
+inetnum:            172.20.28.192 - 172.20.28.223
+cidr:               172.20.28.192/27
+netname:            ZERTAP-NETWORK
+admin-c:            ZERTAP-DN42
+tech-c:             ZERTAP-DN42
+mnt-by:             ZERTAP-MNT
+status:             ASSIGNED
+source:             DN42

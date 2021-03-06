@@ -1,0 +1,4 @@
+route:              172.20.49.128/25
+origin:             AS4242428192
+mnt-by:             FFAMAX-MNT
+source:             DN42

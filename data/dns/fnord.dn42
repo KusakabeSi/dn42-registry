@@ -1,0 +1,7 @@
+domain:             fnord.dn42
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+nserver:            ns1.fnord.dn42 172.20.128.49
+nserver:            ns1.fnord.dn42 fd42:6cef:5f39:5353::1
+source:             DN42

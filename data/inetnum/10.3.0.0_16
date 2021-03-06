@@ -1,0 +1,12 @@
+inetnum:            10.3.0.0 - 10.3.255.255
+cidr:               10.3.0.0/16
+netname:            ICVPN-WUPPERTAL
+nserver:            247.0.3.10.ipv4.registry-sync.dn42
+nserver:            249.0.3.10.ipv4.registry-sync.dn42
+nserver:            250.0.3.10.ipv4.registry-sync.dn42
+nserver:            251.0.3.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.7.0.f.f.a.b.1.e.9.2.b.a.e.7.4.7.0.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wuppertal
+mnt-by:             DN42-MNT
+source:             ICVPN

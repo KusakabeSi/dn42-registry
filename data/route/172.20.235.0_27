@@ -1,0 +1,5 @@
+route:              172.20.235.0/27
+descr:              WEITI DN42 Service Network
+origin:             AS4242423907
+mnt-by:             WEITI-MNT
+source:             DN42

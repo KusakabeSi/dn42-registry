@@ -1,0 +1,4 @@
+route:              172.20.178.96/28
+origin:             AS4242423506
+mnt-by:             MRXERMON-MNT
+source:             DN42

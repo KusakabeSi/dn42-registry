@@ -1,0 +1,11 @@
+inetnum:            172.20.181.0 - 172.20.181.127
+netname:            GOTROOT-INFRA
+descr:              Gotroot Network Infrastructure
+country:            CA
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+nserver:            ns1.gotroot.dn42
+status:             ALLOCATED
+cidr:               172.20.181.0/25
+source:             DN42

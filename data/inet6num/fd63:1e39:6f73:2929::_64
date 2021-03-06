@@ -1,0 +1,7 @@
+inet6num:           fd63:1e39:6f73:2929:0000:0000:0000:0000 - fd63:1e39:6f73:2929:ffff:ffff:ffff:ffff
+cidr:               fd63:1e39:6f73:2929::/64
+netname:            CHAOSVPN-ARMITAGE
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

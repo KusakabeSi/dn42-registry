@@ -1,0 +1,4 @@
+route6:             fd42:1234:4567::/48
+origin:             AS4242423450
+mnt-by:             VIRTIT-MNT
+source:             DN42

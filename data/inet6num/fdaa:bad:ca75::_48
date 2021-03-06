@@ -1,0 +1,10 @@
+inet6num:           fdaa:0bad:ca75:0000:0000:0000:0000:0000 - fdaa:0bad:ca75:ffff:ffff:ffff:ffff:ffff
+cidr:               fdaa:bad:ca75::/48
+netname:            CAP-NET
+descr:              cap's primary network
+country:            DE
+admin-c:            CAP-DN42
+tech-c:             CAP-DN42
+mnt-by:             CAP-MNT
+status:             ASSIGNED
+source:             DN42

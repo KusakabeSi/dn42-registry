@@ -1,0 +1,6 @@
+route:              10.10.0.0/16
+origin:             AS65252
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ingolstadt
+mnt-by:             DN42-MNT
+source:             ICVPN

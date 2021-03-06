@@ -1,0 +1,9 @@
+inet6num:           fd42:0015:0042:0000:0000:0000:0000:0000 - fd42:0015:0042:ffff:ffff:ffff:ffff:ffff
+netname:            MARTINS6-NET
+country:            CH
+admin-c:            MARTINS-DN42
+tech-c:             MARTINS-DN42
+mnt-by:             MARTINS-MNT
+status:             ASSIGNED
+cidr:               fd42:15:42::/48
+source:             DN42

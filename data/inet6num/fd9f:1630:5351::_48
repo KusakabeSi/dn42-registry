@@ -1,0 +1,10 @@
+inet6num:           fd9f:1630:5351:0000:0000:0000:0000:0000 - fd9f:1630:5351:ffff:ffff:ffff:ffff:ffff
+netname:            NET-WFK6
+descr:              WFK ipv6 block
+country:            NL
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             WFK-MNT
+status:             ALLOCATED
+cidr:               fd9f:1630:5351::/48
+source:             DN42

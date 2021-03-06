@@ -1,0 +1,9 @@
+inet6num:           fded:8ea7:f687:0000:0000:0000:0000:0000 - fded:8ea7:f687:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:8ea7:f687::/48
+netname:            HEXXNET-V6-NET-1
+country:            GB
+admin-c:            HEXXNET-DN42
+tech-c:             HEXXNET-DN42
+mnt-by:             HEXXNET-MNT
+status:             ASSIGNED
+source:             DN42

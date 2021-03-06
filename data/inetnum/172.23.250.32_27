@@ -1,0 +1,12 @@
+inetnum:            172.23.250.32 - 172.23.250.63
+cidr:               172.23.250.32/27
+netname:            EASTBOUND-NET-V4-1
+descr:              IPv4 block for EASTBOUND-NET
+country:            AU
+admin-c:            EASTBOUND-DN42
+tech-c:             EASTBOUND-DN42
+mnt-by:             EASTBOUND-MNT
+status:             ASSIGNED
+nserver:            ns1.eb.dn42
+nserver:            ns2.eb.dn42
+source:             DN42

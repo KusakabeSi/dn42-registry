@@ -1,0 +1,11 @@
+inetnum:            172.23.43.64 - 172.23.43.95
+netname:            NOP-DEMO4
+descr:              nop demo
+country:            HU
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+nserver:            ns.nop.dn42
+status:             ALLOCATED
+cidr:               172.23.43.64/27
+source:             DN42

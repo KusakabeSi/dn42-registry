@@ -1,0 +1,9 @@
+inetnum:            172.22.240.0 - 172.22.240.63
+netname:            NETRAVNEN-NET-20190910
+descr:              NETRAVNEN's Transfer Network
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+status:             ASSIGNED
+cidr:               172.22.240.0/26
+source:             DN42

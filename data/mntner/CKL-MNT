@@ -1,0 +1,8 @@
+mntner:             CKL-MNT
+descr:              Neo_Chen
+admin-c:            CKL-DN42
+tech-c:             CKL-DN42
+mnt-by:             CKL-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOmDHN34JY1aEBm4TquF/2srVLBvqFGKZyHs3EME+T03 neo_chen@NeoWorkstation
+auth:               pgp-fingerprint DA8A2B9348A145E9AECCE84CDC976EA3C19B94A6
+source:             DN42

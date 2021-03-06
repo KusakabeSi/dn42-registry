@@ -1,0 +1,7 @@
+inetnum:            10.123.64.0 - 10.123.127.255
+cidr:               10.123.64.0/18
+netname:            ICVPN-ANSBACH
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ansbach
+mnt-by:             DN42-MNT
+source:             ICVPN

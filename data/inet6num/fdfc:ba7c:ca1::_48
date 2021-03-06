@@ -1,0 +1,7 @@
+inet6num:           fdfc:ba7c:0ca1:0000:0000:0000:0000:0000 - fdfc:ba7c:0ca1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:ba7c:ca1::/48
+netname:            ICVPN-HEILIGENHAUS
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligenhaus
+mnt-by:             DN42-MNT
+source:             ICVPN

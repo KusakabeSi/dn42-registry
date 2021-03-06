@@ -1,0 +1,10 @@
+inetnum:            172.20.62.0 - 172.20.62.31
+cidr:               172.20.62.0/27
+netname:            HENOKV-NETWORK
+admin-c:            HENOKV-DN42
+tech-c:             HENOKV-DN42
+mnt-by:             HENOKV-MNT
+nserver:            ns1.henokv.dn42
+nserver:            ns2.henokv.dn42
+status:             ASSIGNED
+source:             DN42

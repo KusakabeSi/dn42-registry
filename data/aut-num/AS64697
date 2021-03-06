@@ -1,0 +1,7 @@
+aut-num:            AS64697
+as-name:            LEX-AS
+descr:              lex's AS
+admin-c:            LEX-DN42
+tech-c:             LEX-DN42
+mnt-by:             LEX-MNT
+source:             DN42

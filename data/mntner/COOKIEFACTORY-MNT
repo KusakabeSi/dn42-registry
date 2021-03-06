@@ -1,0 +1,8 @@
+mntner:             COOKIEFACTORY-MNT
+admin-c:            HYP3RX-DN42
+tech-c:             HYP3RX-DN42
+mnt-by:             COOKIEFACTORY-MNT
+auth:               pgp-fingerprint E3C597AEA32FA8961F7E2B0B01B15E274A5FDB93
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDWm+zgeUXH+A5vQp90/ifuC+kMQJkR9t1qOMGgFzEhtBb0VGbgzbTBV1jUpYnMrpet/tRo1X/OVrXCbVMc9kL7XGdOVsF71r99ym9BQlu/a5vERoQoty+f33gR0zyXXCT+2f+mJ+6Eg+7EfesWCbGau3PknSX9Utq6ELmuRJXL/idZye6VOptfMyc2H1IEDS5C5rbo6XxywLwsIf6unk9rUFK6aEnpDlZcalJjiw7BR+duyPCiYVo0aCzkOg4kffZZ/GiW6NOW64IhxxrzZMvMgvW+E98ssuF1mZltQLZNAhade0v7GFBvTy9EITibJu/8+eAEqqB6tShWSTcCB+5WdESt1hcmfZlEQ8IYwkAn4uvWYS7mFdoYEcp978/Nxa1hovL1iHiPebGuTqJklHf1BzU/dBPZRzfvfO3XKAHTq4drgfDcXFXcyjNmKw9jUU+TXj7u7ZMX1uMVmw5vbVnuzgmILOcALwGnwOUx3wp9di52hNRuRjdri/LMgA+JxjFisxUmqywv6iPgcEsVzmok5SI5z9SzkZ5qBND6rybCISlb5PFcXWHk96iIQOpW+jxxHp/B3Av3womkduPzehjsa70P6Da2WJOCqMAnMhckDKnftY0cjw45LnjuQ9OoqqAQUHW1RCyr1xul0+/onRFv7Nkxw6vJT9ttqrpglLnvXQ==
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQZcxaIHWeMqUhxqvpgEs8aduAfAbWODilPele6pBUkQSXbdhTaClkAvi8ooDgeuCw7F2MYdTwWrBkstTn9rDd0f8fdoKObBz98bIKuZGkJWr+JLhxIh8qIPB6BBUgt0j1q4zxZ9Co52d1yELGl4wzeQlhzh8cyoriNNUkYdtDm+yZFSPVMNmm9dzojYM8RVzyNyTOcfFmQL3jWLNpAXjwMrxI6iTz2kWYpd0oPSbglkMn/TKZNQa+XCNooqRlbWAufEWIrdYJGB0zTgq99+YSZJXboY7/i4CP/Pc1zRtSwgL/BpaaxrH8TM5mXM60P/giQIdUTlMTVhT+G67JOwwL timo@s1
+source:             DN42

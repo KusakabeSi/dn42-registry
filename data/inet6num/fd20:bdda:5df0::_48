@@ -1,0 +1,11 @@
+inet6num:           fd20:bdda:5df0:0000:0000:0000:0000:0000 - fd20:bdda:5df0:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-CHAOTIKUM-DN42
+descr:              Chaotikum e.V. /48 ULA
+country:            DE
+admin-c:            CHAOTIKUM-DN42
+tech-c:             CHAOTIKUM-DN42
+status:             ASSIGNED PA
+nserver:            ns0.nbsp.dn42
+cidr:               fd20:bdda:5df0::/48
+mnt-by:             DUMMY-MNT
+source:             DN42

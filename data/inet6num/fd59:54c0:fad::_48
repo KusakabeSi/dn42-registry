@@ -1,0 +1,10 @@
+inet6num:           fd59:54c0:0fad:0000:0000:0000:0000:0000 - fd59:54c0:0fad:ffff:ffff:ffff:ffff:ffff
+netname:            N1COLAS-NET002-V6
+descr:              N1COLAS-NET002-V6
+country:            FR
+admin-c:            N1COLAS-DN42
+tech-c:             N1COLAS-DN42
+mnt-by:             N1COLAS-ONL01-MNT
+status:             ASSIGNED
+cidr:               fd59:54c0:fad::/48
+source:             DN42

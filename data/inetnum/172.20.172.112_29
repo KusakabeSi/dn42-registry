@@ -1,0 +1,8 @@
+inetnum:            172.20.172.112 - 172.20.172.119
+cidr:               172.20.172.112/29
+netname:            WYLDESIDE-NETWORK
+admin-c:            JARRODCHRISTIANSEN-DN42
+tech-c:             JARRODCHRISTIANSEN-DN42
+mnt-by:             JARRODCHRISTIANSEN-MNT
+status:             ASSIGNED
+source:             DN42

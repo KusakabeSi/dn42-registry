@@ -1,0 +1,9 @@
+domain:             lotus.dn42
+admin-c:            LOTUS-DN42
+tech-c:             LOTUS-DN42
+mnt-by:             LOTUS-MNT
+nserver:            seed.lotus.dn42 172.22.111.67
+nserver:            seed.lotus.dn42 fd42:4242:2201::5eed
+nserver:            leaf.lotus.dn42 172.22.111.68
+nserver:            leaf.lotus.dn42 fd42:4242:2201::1eaf
+source:             DN42

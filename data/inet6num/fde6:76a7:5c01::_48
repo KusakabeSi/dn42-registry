@@ -1,0 +1,8 @@
+inet6num:           fde6:76a7:5c01:0000:0000:0000:0000:0000 - fde6:76a7:5c01:ffff:ffff:ffff:ffff:ffff
+netname:            JANFRED-NETWORK
+admin-c:            JANFRED-DN42
+tech-c:             JANFRED-DN42
+mnt-by:             JANFRED-MNT
+status:             ASSIGNED
+cidr:               fde6:76a7:5c01::/48
+source:             DN42

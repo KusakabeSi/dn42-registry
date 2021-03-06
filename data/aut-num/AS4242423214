@@ -1,0 +1,7 @@
+aut-num:            AS4242423214
+as-name:            TSYS-AS
+descr:              3214 because TBSPACE-DN42 can't count
+admin-c:            TSYS-DN42
+tech-c:             TSYS-DN42
+mnt-by:             TSYS-MNT
+source:             DN42

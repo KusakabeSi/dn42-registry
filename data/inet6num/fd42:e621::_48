@@ -1,0 +1,11 @@
+inet6num:           fd42:e621:0000:0000:0000:0000:0000:0000 - fd42:e621:0000:ffff:ffff:ffff:ffff:ffff
+netname:            Koala-IPV6
+descr:              Koala
+country:            SG
+admin-c:            KOALA-DN42
+tech-c:             KOALA-DN42
+mnt-by:             KOALA-MNT
+status:             ASSIGNED
+cidr:               fd42:e621::/48
+nserver:            ns1.koala.dn42
+source:             DN42

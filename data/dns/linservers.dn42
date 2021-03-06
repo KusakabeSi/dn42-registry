@@ -1,0 +1,8 @@
+domain:             linservers.dn42
+descr:              Linservers Networks
+admin-c:            JIMMY-DN42
+tech-c:             JIMMY-DN42
+mnt-by:             LINSERVERS-MNT
+nserver:            ns1.linservers.dn42 172.23.177.124
+nserver:            ns2.linservers.dn42 172.23.177.125
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.84.0/27
+origin:             AS4242421704
+mnt-by:             BGP1-MNT
+source:             DN42

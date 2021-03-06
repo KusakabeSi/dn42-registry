@@ -1,0 +1,9 @@
+inetnum:            172.23.128.64 - 172.23.128.95
+cidr:               172.23.128.64/27
+netname:            PACKETFRAME-IPV4-1
+org:                ORG-PACKETFRAME
+admin-c:            PACKETFRAME-DN42
+tech-c:             PACKETFRAME-DN42
+mnt-by:             PACKETFRAME-MNT
+status:             ASSIGNED
+source:             DN42

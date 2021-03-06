@@ -1,0 +1,4 @@
+route6:             fd00:1444:1821::/48
+origin:             AS4242422914
+mnt-by:             JSANDERS-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd68:ea13:20f::/48
+descr:              Route to own ASN ( 4242423759 )
+origin:             AS4242423759
+mnt-by:             DRATHIR-MNT
+source:             DN42

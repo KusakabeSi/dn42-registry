@@ -1,0 +1,32 @@
+inet6num:           fd5a:ad49:844c:0000:0000:0000:0000:0000 - fd5a:ad49:844c:0000:ffff:ffff:ffff:ffff
+netname:            CCCDA-IP6-TRANSFERNET
+descr:              CCC Darmstadt IPv6 Transfer Network
+remarks:            fd5a:ad49:84cc::248:4:0/112 - LEROY-DN42
+remarks:            fd5a:ad49:84cc::248:44:0/112 - DIRKS-DN42
+remarks:            fd5a:ad49:84cc::253:2:0/112 - LEMOER-DN42
+remarks:            fd5a:ad49:84cc::253:4:0/112 - LEMELISK-DN42
+remarks:            fd5a:ad49:84cc::253:6:0/112 - XUU-DN42
+remarks:            fd5a:ad49:84cc::253:8:0/112 - KEVIT-DN42
+remarks:            fd5a:ad49:84cc::253:10:/112 - KRSTN-DN42
+remarks:            fd5a:ad49:84cc::253:12:0/112 - LOCODOG-DN42
+remarks:            fd5a:ad49:84cc::253:16:0/112 - Nurtic-Vibe
+remarks:            fd5a:ad49:84cc::253:18:0/112 - Duplex
+remarks:            fd5a:ad49:84cc::253:22:0/112 - major
+remarks:            fd5a:ad49:84cc::253:24:0/112 - fooker
+remarks:            fd5a:ad49:84cc::253:26:0/112 - luelistan
+remarks:            fd5a:ad49:84cc::253:28:0/112 - fooker
+remarks:            fd5a:ad49:84cc::253:30:0/112 - io
+remarks:            fd5a:ad49:84cc::253:32:0/112 - feuerrot
+remarks:            fd5a:ad49:84cc::253:34:0/112 - lutoma
+remarks:            fd5a:ad49:84cc::253:36:0/112 - ffffm
+remarks:            fd5a:ad49:84cc::253:38:0/112 - chaosdorf
+remarks:            fd5a:ad49:84cc::253:40:0/112 - genofire
+remarks:            fd5a:ad49:84cc::253:42:0/112 - imlonghao
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cccda.dn42
+status:             ASSIGNED
+cidr:               fd5a:ad49:844c::/64
+source:             DN42

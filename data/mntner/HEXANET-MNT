@@ -1,0 +1,14 @@
+mntner:             HEXANET-MNT
+descr:              Hexanet Network Maintenance Object
+admin-c:            HEXAWOLF-DN42
+tech-c:             FOXCPP-DN42
+org:                ORG-HEXANET
+mnt-by:             HEXANET-MNT
+remarks:            Hexawolf:
+auth:               PGPKEY-9F62AB8E
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL6z7Ji7A2Ur5b7tA/7zY8VA9baRWxlwF9hkrv8InrDm
+remarks:            fox.cpp:
+auth:               PGPKEY-081396F4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJg4Q7Duzns6ApDlZWixYV8WcLkbCIRNOGTOg7v9kO7K
+remarks:            pin-sha256:xgj9tRg3OwvCWIRLRXrpom1teOvaNiH1boGMQPbZj34=
+source:             DN42

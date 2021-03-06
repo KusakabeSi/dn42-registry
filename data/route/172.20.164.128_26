@@ -1,0 +1,4 @@
+route:              172.20.164.128/26
+origin:             AS4242423169
+mnt-by:             CLEMENTPRIMOT-MNT
+source:             DN42

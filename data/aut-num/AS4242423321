@@ -1,0 +1,7 @@
+aut-num:            AS4242423321
+as-name:            Markteleport-AS
+descr:              AS for Markteleport DN42 Network
+admin-c:            MARKTELEPORT-DN42
+tech-c:             MARKTELEPORT-DN42
+mnt-by:             MARKTELEPORT-MNT
+source:             DN42

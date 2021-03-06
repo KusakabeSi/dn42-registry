@@ -1,0 +1,10 @@
+inetnum:            172.22.129.16 - 172.22.129.31
+netname:            BAKKERNET-ROTTERDAM
+descr:              Bakker Network in Rotterdam, The Netherlands
+country:            NL
+admin-c:            RICK-DN42
+tech-c:             RICK-DN42
+mnt-by:             RICK-MNT
+status:             ASSIGNED
+cidr:               172.22.129.16/28
+source:             DN42

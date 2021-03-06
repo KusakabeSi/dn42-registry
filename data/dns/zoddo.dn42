@@ -1,0 +1,7 @@
+domain:             zoddo.dn42
+admin-c:            ZODDO-DN42
+tech-c:             ZODDO-DN42
+mnt-by:             ZODDO-MNT
+nserver:            ns1.zoddo.dn42 172.20.238.161
+nserver:            ns1.zoddo.dn42 fd81:c3c8:e9a2:1::53
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             as4242420568.dn42
+descr:              AS4242420568 Domain
+admin-c:            MARSHY-DN42
+tech-c:             MARSHY-DN42
+mnt-by:             MARSHY-MNT
+nserver:            ns1.as4242420568.dn42 172.23.158.193
+nserver:            ns1.as4242420568.dn42 fdd7:7db4:6366:0000:0000:0000:0000:0001
+source:             DN42

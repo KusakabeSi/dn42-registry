@@ -1,0 +1,7 @@
+mntner:             ALT-MNT
+admin-c:            ALT-DN42
+tech-c:             ALT-DN42
+mnt-by:             ALT-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqVf74p/MJot+D4pN/tbFIL/r0CV1xigbQrY6UYD+EgcFQ1D0fT2gE3wsfA/qh238OXoF4zuunJ/VwSNiGPkolT2QtGbuciKIpI4hH2nVxNYuW8PedFUmZP2c8Mo2m7aa0+tfBrMeUZESgm0BrdJ5kX2k3k1jfYX/ZllHdwmthVZ3YXsBrm/qCMsyvkZp691igFN3eSRILaPORdJC2jy+uKwpwFnxCvhRw7vG8xyz8w0cd7gPDmchLJ3Fwepnooq3kvwG3SvDbvKWYahPQQgHluiBDcJPgQ0fXEA5PYH1V5qgyvqP/k8TYOI48niczhPD40V9VDMJ7BN886eds0Cjz
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAqiPAkM612xQd/ELNeRa0gJerbTFsDb1jMMA2N6QJJrSJYl6Pw2aqgyJxH99SdYSsnUcxlvHq9JloDxGcHJvctmQ13c+zE9aLFYZzg6O9ffjlZUIeIZfUwNOC6MEVcYjHmHLN7VnNTqdka6yDlaK3P0SzSbmoTExknOe0kJEamgU=
+source:             DN42

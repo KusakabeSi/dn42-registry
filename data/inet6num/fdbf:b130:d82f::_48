@@ -1,0 +1,10 @@
+inet6num:           fdbf:b130:d82f:0000:0000:0000:0000:0000 - fdbf:b130:d82f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbf:b130:d82f::/48
+netname:            YAIX
+descr:              Yet Another Internet Exchange
+country:            US
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+status:             ASSIGNED
+source:             DN42

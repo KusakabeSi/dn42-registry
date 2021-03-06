@@ -1,0 +1,10 @@
+inet6num:           fdbd:329d:c58a:0000:0000:0000:0000:0000 - fdbd:329d:c58a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbd:329d:c58a::/48
+netname:            FVPN IPv6 Allocation
+admin-c:            FUGITIVE-DN42
+tech-c:             FUGITIVE-DN42
+mnt-by:             FUGITIVE-MNT
+status:             ASSIGNED
+country:            RS
+nserver:            ns-v6.fvpn.dn42
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.114.112 - 172.22.114.127
+cidr:               172.22.114.112/28
+netname:            BAT-IPV4
+nserver:            ns1.off.dn42
+country:            ES
+status:             ASSIGNED
+admin-c:            BAT-DN42
+tech-c:             BAT-DN42
+mnt-by:             BAT-MNT
+source:             DN42

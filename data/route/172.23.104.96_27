@@ -1,0 +1,4 @@
+route:              172.23.104.96/27
+origin:             AS4242422205
+mnt-by:             LUCABER-MNT
+source:             DN42

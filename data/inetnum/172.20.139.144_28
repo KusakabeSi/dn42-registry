@@ -1,0 +1,8 @@
+inetnum:            172.20.139.144 - 172.20.139.159
+cidr:               172.20.139.144/28
+netname:            SERENITYLABS-01
+admin-c:            SLSASCHA-DN42
+tech-c:             SLSASCHA-DN42
+mnt-by:             SLSASCHA-MNT
+status:             ASSIGNED
+source:             DN42

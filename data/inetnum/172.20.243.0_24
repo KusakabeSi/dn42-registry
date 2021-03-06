@@ -1,0 +1,10 @@
+inetnum:            172.20.243.0 - 172.20.243.255
+netname:            M33-DN42
+descr:              m33
+country:            BY
+admin-c:            ALICEWL-DN42
+tech-c:             ALICEWL-DN42
+mnt-by:             ALICE-DN42-MNT
+status:             ASSIGNED
+cidr:               172.20.243.0/24
+source:             DN42

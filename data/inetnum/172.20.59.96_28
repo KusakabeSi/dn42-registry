@@ -1,0 +1,8 @@
+inetnum:            172.20.59.96 - 172.20.59.111
+cidr:               172.20.59.96/28
+netname:            Q1X-NETWORK
+admin-c:            Q1X-DN42
+tech-c:             Q1X-DN42
+mnt-by:             Q1X-MNT
+status:             ASSIGNED
+source:             DN42

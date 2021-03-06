@@ -1,0 +1,7 @@
+mntner:             AOTOKI-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC06V1gAM7nWlJ3GBvpWHT+mgyJEVOQHCX8nV0ylttKzcvDAXqa1WoytDGoER3mM+J0rtBX+5Bu+W1Rj+T9H4nACtAXKBPtmYtEV5y7gOuOa6x2ceW60jLERVgFhs56Duz8I5kwWJrKICdosnit26si7HM9xBFmImd+V9FXtaR1ePIvoz0KnZtJqYIEH2Wmh/KhClhbNtSKfK+yTN7j1UrreUc+Ujdd5UXj1NroroVNcMwtBS73PDd06BLrFLKO0mRSxCJgvaCHO2jqY6DZgXFUz522zzSEZtkp2NpZO+9N10XwhrDkx2GWmcfQ3Bq1GzP0BRWBRsN/pgOqBoz9S30l elct9620@cangshixianyedeMacBook-Pro.local
+auth:               pgp-fingerprint 31EFF3CDB6B5A96551251F1BC66BB09725189453
+admin-c:            AOTOKI-DN42
+tech-c:             AOTOKI-DN42
+mnt-by:             AOTOKI-MNT
+source:             DN42

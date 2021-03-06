@@ -1,0 +1,10 @@
+inetnum:            172.20.42.160 - 172.20.42.191
+cidr:               172.20.42.160/27
+netname:            TOPSARUN-IPV4-NETWORK
+descr:              Peer with me at sarun.hub@gmail.com
+country:            TH
+admin-c:            TOPSARUN-DN42
+tech-c:             TOPSARUN-DN42
+mnt-by:             TOPSARUN-MNT
+status:             ASSIGNED
+source:             DN42

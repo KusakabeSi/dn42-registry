@@ -1,0 +1,4 @@
+route:              172.21.93.0/27
+origin:             AS4242421020
+mnt-by:             5670-MNT
+source:             DN42

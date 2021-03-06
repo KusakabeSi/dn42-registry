@@ -1,0 +1,8 @@
+mntner:             GENOFIRE-MNT
+descr:              genofire
+remarks:            * this object was created for compatibility reasons by a third party
+auth:               pgp-fingerprint C54DA2BC5F66661B6C6E4A5B9D7D3C6BFF600C6A
+admin-c:            GENOFIRE-DN42
+tech-c:             GENOFIRE-DN42
+mnt-by:             GENOFIRE-MNT
+source:             DN42

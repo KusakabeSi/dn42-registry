@@ -1,0 +1,8 @@
+inetnum:            172.21.92.64 - 172.21.92.95
+cidr:               172.21.92.64/27
+netname:            OKASHI-NET
+admin-c:            OKASHI-DN42
+tech-c:             OKASHI-DN42
+mnt-by:             OKASHI-MNT
+status:             ASSIGNED
+source:             DN42

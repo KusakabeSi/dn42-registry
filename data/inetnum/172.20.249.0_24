@@ -1,0 +1,12 @@
+inetnum:            172.20.249.0 - 172.20.249.255
+netname:            WEEJITS-SERVER-NET
+descr:              Weejits Servers
+country:            AU
+admin-c:            KSM-DN42
+tech-c:             KSM-DN42
+mnt-by:             WEEJITS-MNT
+nserver:            ns1.weejits.dn42
+nserver:            ns2.weejits.dn42
+status:             ASSIGNED
+cidr:               172.20.249.0/24
+source:             DN42

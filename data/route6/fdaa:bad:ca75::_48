@@ -1,0 +1,4 @@
+route6:             fdaa:bad:ca75::/48
+origin:             AS4242421632
+mnt-by:             CAP-MNT
+source:             DN42

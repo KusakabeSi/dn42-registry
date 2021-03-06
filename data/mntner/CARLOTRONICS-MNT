@@ -1,0 +1,6 @@
+mntner:             CARLOTRONICS-MNT
+admin-c:            CARLOTRONICS-DN42
+tech-c:             CARLOTRONICS-DN42
+mnt-by:             CARLOTRONICS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCzahECtB075Ll/laeFEDqHUnltULpCZaNnYL7KPA9sSLaLny/rq9AvH85C4jM6bXMphsIHAHkps1nrbbWvRjPOH0cKFyoLbbHApGYc3dOxIe/umg5jbr2EwyFazo3LEHj1cLoiHCGJavWUGcdv8eLbs9M2cX6YvA7oBzmXFMYRTroLDzlxHH++MHeBBZfdAmuDHDgRWWpPdGgsKfgqz9ci7GvksEeGxW+GcYMd6KmzvszuHaEN4rdhT8IBwy5BtOUz4ik9MAXEgCVJE5n4BbgT7rP/17H3PuX5UcqU+rr6f+6SfmlGuHlukCWJob9X760i3nbxOAlBZCLRNbkru+HI1M7AAXffXlZuNJp+DIbC3ed6LA6yk70wAgv74bz9CFDJvjY8rWOE/8NmuAH6iIEo0ArYvBdYmarQGMHhaVIaaO+VklAB1aRoB80juJl8k0IHdpxAP5UxkpvqpVZ6YibHdBjgrhBIbLBne1fGLl09gsnEiEyhhfqnprjfq//BdvdT2QVaiwmmtWVfeOwjlW0jEA7Alj/sOHAVoOf3nQT18JYuj1TF2wB7S/2X7i8fmneiZLkiAckOmroQG+769j4L6HKiTcnFmBd0yWHeiXH2MYBl6+Gn940LT5oGygsaTYpXQOcD68yXVRTLmv0VUJpRBwklRvk5kebqN0WOG64r9w==
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:2feb:5536::/48
+origin:             AS4242420162
+mnt-by:             CUECHAN-MNT
+source:             DN42

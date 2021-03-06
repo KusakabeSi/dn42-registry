@@ -1,0 +1,4 @@
+route6:             fd42:beeb:beeb::/48
+origin:             AS4242422342
+mnt-by:             FIONERA-MNT
+source:             DN42

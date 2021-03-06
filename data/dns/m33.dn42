@@ -1,0 +1,10 @@
+domain:             m33.dn42
+descr:              M33
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             ALICE-DN42-MNT
+mnt-by:             OIDA-MNT
+nserver:            ns0.j.dn42
+nserver:            ns1.j.dn42
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd05:3aca:c3a0:a2c1:0000:0000:0000:0000 - fd05:3aca:c3a0:a2c1:ffff:ffff:ffff:ffff
+cidr:               fd05:3aca:c3a0:a2c1::/64
+netname:            RDEV-PEERING-NETWORK
+descr:              rdev.info Peering Network
+country:            DE
+admin-c:            STEPHRDEV-DN42
+tech-c:             STEPHRDEV-DN42
+mnt-by:             RDEV-MNT
+status:             ASSIGNED
+source:             DN42

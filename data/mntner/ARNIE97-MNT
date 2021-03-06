@@ -1,0 +1,7 @@
+mntner:             ARNIE97-MNT
+admin-c:            ARNIE97-DN42
+tech-c:             ARNIE97-DN42
+mnt-by:             ARNIE97-MNT
+auth:               pgp-fingerprint 945C949DA1AE31D8B4CBD6D7514233F0DFC5BA92
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBMzbeDlI3Ulo9VcrYiOoAUhbxLHhKJsJ+yskVWjvnI8
+source:             DN42

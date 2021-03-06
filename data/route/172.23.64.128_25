@@ -1,0 +1,5 @@
+route:              172.23.64.128/25
+descr:              ERI-NETWORK
+origin:             AS4242421374
+mnt-by:             ERI-MNT
+source:             DN42

@@ -1,0 +1,14 @@
+aut-num:            AS4242420630
+as-name:            SKYNET-AS
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+remarks:            Always open for peerings; contact io on the hackint IRC network.
+remarks:            Peers must agree to the Pico Peering Agreement v1.0 (cf. https://picopeer.net/).
+remarks:            Wireguard tunnels preferred, others on a case-by-case basis.
+remarks:            Peers are strongly encouraged to support IPv6.
+mp-import:          afi any.unicast from AS4242420630:AS-PEER    accept   PeerAS
+mp-export:          afi any.unicast to   AS4242420630:AS-PEER    announce AS4242420630
+mp-import:          afi any.unicast from AS4242420630:AS-TRANSIT accept   ANY
+mp-export:          afi any.unicast to   AS4242420630:AS-TRANSIT announce ANY
+source:             DN42

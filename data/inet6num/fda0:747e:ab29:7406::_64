@@ -1,0 +1,7 @@
+inet6num:           fda0:747e:ab29:7406:0000:0000:0000:0000 - fda0:747e:ab29:7406:ffff:ffff:ffff:ffff
+cidr:               fda0:747e:ab29:7406::/64
+netname:            ICVPN-HENNEF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hennef
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+route6:             fd10:127:5f37:59df::/64
+max-length:         64
+origin:             AS4201270000
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

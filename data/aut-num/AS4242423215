@@ -1,0 +1,15 @@
+aut-num:            AS4242423215
+as-name:            MINKENETZ-FFM-AS
+descr:              MinkeNetz Frankfurt
+remarks:            #------------------------------------#
+remarks:            # Peering over OpenVPN               #
+remarks:            # Located in Frankfurt/Main, Germany #
+remarks:            # 1 Gbit & 10 Gbit Ethernet Speed    #
+remarks:            #------------------------------------#
+remarks:            # OPEN for Peering                   #
+remarks:            # Contact via Mail: noc@minkenetz.de #
+remarks:            #------------------------------------#
+admin-c:            MINKE-DN42
+tech-c:             MINKE-DN42
+mnt-by:             MINKE-MNT
+source:             DN42

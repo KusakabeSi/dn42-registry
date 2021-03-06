@@ -1,0 +1,16 @@
+schema:             ROUTE6-SCHEMA
+ref:                dn42.route6
+key:                route6      required  single    primary schema
+key:                mnt-by      required  multiple  lookup=dn42.mntner
+key:                origin      required  multiple  lookup=dn42.aut-num
+key:                member-of   optional  multiple  lookup=dn42.route-set
+key:                admin-c     optional  multiple  lookup=dn42.person,dn42.role
+key:                tech-c      optional  multiple  lookup=dn42.person,dn42.role
+key:                descr       optional  multiple
+key:                remarks     optional  multiple
+key:                source      required  single    lookup=dn42.registry
+key:                pingable    optional  multiple
+key:                max-length  optional  single
+network-owner:      inet6num
+mnt-by:             DN42-MNT
+source:             DN42

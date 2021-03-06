@@ -1,0 +1,5 @@
+route6:             fd00:deca:fba0::/44
+descr:              wusel's DN42 v6
+origin:             AS4242423815
+mnt-by:             WUSEL-MNT
+source:             DN42

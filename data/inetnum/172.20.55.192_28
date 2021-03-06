@@ -1,0 +1,8 @@
+inetnum:            172.20.55.192 - 172.20.55.207
+cidr:               172.20.55.192/28
+netname:            VOTRIBE-NETWORK
+admin-c:            VOTRIBE-DN42
+tech-c:             VOTRIBE-DN42
+mnt-by:             VOTRIBE-MNT
+status:             ASSIGNED
+source:             DN42

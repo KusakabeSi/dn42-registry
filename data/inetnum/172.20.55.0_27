@@ -1,0 +1,10 @@
+inetnum:            172.20.55.0 - 172.20.55.31
+netname:            CATNET-ZA
+descr:              CATNET
+country:            ZA
+admin-c:            NETCAT-DN42
+tech-c:             NETCAT-DN42
+mnt-by:             CATNET-MNT
+status:             ASSIGNED
+cidr:               172.20.55.0/27
+source:             DN42

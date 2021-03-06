@@ -1,0 +1,6 @@
+domain:             krstn.dn42
+admin-c:            KRSTN-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             KRSTN-MNT
+nserver:            ns1.krstn.dn42 172.20.50.1
+source:             DN42

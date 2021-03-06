@@ -1,0 +1,10 @@
+inetnum:            172.22.252.128 - 172.22.252.159
+netname:            MIRSAL-DN42-IP4-TRANSFER
+descr:              TRANSFERNETWORK
+country:            FR
+admin-c:            MIRSAL-DN42
+tech-c:             MIRSAL-DN42
+status:             ASSIGNED
+cidr:               172.22.252.128/27
+mnt-by:             DUMMY-MNT
+source:             DN42

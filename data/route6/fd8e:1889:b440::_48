@@ -1,0 +1,5 @@
+route6:             fd8e:1889:b440::/48
+origin:             AS4242423266
+max-length:         48
+mnt-by:             DANN-MNT
+source:             DN42

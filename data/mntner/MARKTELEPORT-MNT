@@ -1,0 +1,6 @@
+mntner:             MARKTELEPORT-MNT
+admin-c:            MARKTELEPORT-DN42
+tech-c:             MARKTELEPORT-DN42
+mnt-by:             MARKTELEPORT-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCz4/j2uTe/8nwQG9Fg5OOb+w186pmGGMYiulUDMaOvEk9bLiCJtSvi7HMF/2bui+/uUtS2PhCz29mAd55ap8ad+vSRUq368N6DaKBbRH14ZSbL9lre3slgQqYB2quks2nTbh3G79xJ5qnuXIHBJI551vv+vFROouAhoNtrAUzhJWWZA4f4tz/LhxPbZmfFIakrOOuLpODqIFeu54SibZpXY3qh/DsXM3Oky27sAv3QRFSyfrnlKmZne86eW+EVg+lYIUpcfSrqB78sxoNK+TlGAyg5Gw4URzK3U7R1u4+iHc4YLXOBespLIawaYCldPVPEoO6As8nZxeMDARa4blcH rsa-key-markteleport-dn42
+source:             DN42

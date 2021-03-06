@@ -1,0 +1,9 @@
+inet6num:           fd9a:d414:cf1c:0000:0000:0000:0000:0000 - fd9a:d414:cf1c:ffff:ffff:ffff:ffff:ffff
+netname:            MAUL-6-NET
+admin-c:            MAULI-DN42
+tech-c:             MAULI-DN42
+mnt-by:             MAULI-MNT
+nserver:            ns0.maulware.dn42
+status:             ALLOCATED
+cidr:               fd9a:d414:cf1c::/48
+source:             DN42

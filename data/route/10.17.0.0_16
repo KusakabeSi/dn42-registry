@@ -1,0 +1,6 @@
+route:              10.17.0.0/16
+origin:             AS65055
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
+source:             ICVPN

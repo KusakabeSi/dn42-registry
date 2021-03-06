@@ -1,0 +1,10 @@
+inetnum:            172.21.101.96 - 172.21.101.103
+netname:            SOUTERRAIN-NET
+cidr:               172.21.101.96/29
+country:            US
+nserver:            ns.souterrain.dn42
+admin-c:            SOUTERRAIN-DN42
+tech-c:             SOUTERRAIN-DN42
+mnt-by:             SOUTERRAIN-MNT
+status:             ASSIGNED
+source:             DN42

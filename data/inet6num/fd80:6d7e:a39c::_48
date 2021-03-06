@@ -1,0 +1,10 @@
+inet6num:           fd80:6d7e:a39c:0000:0000:0000:0000:0000 - fd80:6d7e:a39c:ffff:ffff:ffff:ffff:ffff
+netname:            CHIPSAREDOWN-IP6-NET
+descr:              Chipsaredown's v6 net
+country:            US
+admin-c:            CHIPSAREDOWN-DN42
+tech-c:             CHIPSAREDOWN-DN42
+mnt-by:             CHIPSAREDOWN-MNT
+status:             ALLOCATED
+cidr:               fd80:6d7e:a39c::/48
+source:             DN42

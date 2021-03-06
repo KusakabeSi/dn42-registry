@@ -1,0 +1,7 @@
+domain:             cameron.dn42
+descr:              Personal DN42 website
+admin-c:            CAMERON-DN42
+tech-c:             CAMERON-DN42
+mnt-by:             BANNET-MNT
+nserver:            ns1.bannet.dn42
+source:             DN42

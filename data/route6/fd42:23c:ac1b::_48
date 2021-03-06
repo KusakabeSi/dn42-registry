@@ -1,0 +1,5 @@
+route6:             fd42:23c:ac1b::/48
+descr:              _ wl
+origin:             AS64643
+mnt-by:             ALICE-DN42-MNT
+source:             DN42

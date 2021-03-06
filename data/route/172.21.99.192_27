@@ -1,0 +1,4 @@
+route:              172.21.99.192/27
+origin:             AS4242420261
+mnt-by:             TAGLIO-MNT
+source:             DN42

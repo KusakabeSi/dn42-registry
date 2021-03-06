@@ -1,0 +1,5 @@
+route:              172.20.227.96/28
+origin:             AS4242421201
+mnt-by:             JOMAN-MNT
+mnt-by:             LUELISTAN-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             theq.dn42
+admin-c:            THEQ-DN42
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+nserver:            ns1.theq.dn42 fd42:8437:8437::367:1
+nserver:            ns2.theq.dn42 fd42:8437:8437::367:2
+nserver:            ns3.theq.dn42 fd42:8437:8437::367:3
+source:             DN42

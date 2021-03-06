@@ -1,0 +1,14 @@
+inetnum:            172.20.231.160 - 172.20.231.191
+netname:            HSYSTEMS-WWNET
+remarks:            ****************************
+remarks:            * If you see strange traffic, please contact us immediately.
+remarks:            ****************************
+descr:              NET-172-20-231-161
+country:            US
+admin-c:            HSYSTEMS-DN42
+tech-c:             HSYSTEMS-DN42
+mnt-by:             HSYSTEMS-MNT
+nserver:            ns2.he.net
+status:             ASSIGNED
+cidr:               172.20.231.160/27
+source:             DN42

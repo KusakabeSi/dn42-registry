@@ -1,0 +1,10 @@
+inet6num:           fd45:2e33:411e:0000:0000:0000:0000:0000 - fd45:2e33:411e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd45:2e33:411e::/48
+netname:            DEPACH-NETWORK
+descr:              Network of DEPACH
+country:            ZA
+admin-c:            DEPACH-DN42
+tech-c:             DEPACH-DN42
+mnt-by:             DEPACH-MNT
+status:             ASSIGNED
+source:             DN42

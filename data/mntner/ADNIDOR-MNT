@@ -1,0 +1,7 @@
+mntner:             ADNIDOR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPsxlMGH7MtU87KTUSXFieonVme/SZrbYIDuELQKKAiGUVea3SJdsYx7HPY8VYYh0sODa919T/bgKR4dYOLScV3Lne8T56z3iH/G1DoMR/EJxsWdH/lsYEaxHOyklJA3Ey0Dr5JBne32qoKtGhSG3izWL/4FEsTf+YTFHoBRMQqM6qheof4/Eu5ynA07T1fmhBqPKAPjgcou/Fp4Wadcid2fH6SRwltWSXyZ+WCxryavwoP24CMRvz2ay/iRqVpmwTABS2ajx3jySI9pmKWUpgdk48zM476+9jSvuggJCI/lwtktolGQ9LFTV38rIijClwUgM6F5UNHSXqrdQP0uFX
+auth:               pgp-fingerprint 77FC93F544B15C05222209A294AD608BD92C413D
+admin-c:            ADNIDOR-DN42
+tech-c:             ADNIDOR-DN42
+mnt-by:             ADNIDOR-MNT
+source:             DN42

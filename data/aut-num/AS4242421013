@@ -1,0 +1,7 @@
+aut-num:            AS4242421013
+as-name:            CHICI-AS
+descr:              CHICI first network
+admin-c:            CHICI-DN42
+tech-c:             CHICI-DN42
+mnt-by:             CHICI-MNT
+source:             DN42

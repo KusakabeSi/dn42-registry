@@ -1,0 +1,4 @@
+route6:             fd5b:dc38:47f5::/48
+origin:             AS4242420742
+mnt-by:             JUMBLE-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             ACONSULT-MNT
+admin-c:            IPHIL64-DN42
+tech-c:             IPHIL64-DN42
+mnt-by:             ACONSULT-MNT
+source:             DN42
+auth:               pgp-fingerprint 55B93CF158DE89BBA0FE16EA172496C4F5124394
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCa5HEd/TNP6PjslLhyB7NuTF7hVO+jNKqDpfzqrJmObuHWzeMu6lOy/vyN+PaM3b5VG+d2t4z7fxKarTXMdrvKPpVoLgPfXToHFy+sZv3GzA2CmlxGPLigtWqNETrXiePEZXM7fAzVTcAnTkFRpVcbJI9FU0vuAtTZQ/W8TfVPjajYCJEadleVRHvc+eyNiwAkZSb84pwoEn4Qe1XTEzynS+PCQNI/BWmlZ1LZRkavqzi49Mvajw6IxVwIH6WJ28UtjEU9/ZrFA7+6QkUqKLPlpClO+aDPu6Ju2D3pUKf+VKay/FXs6oZkO1rxWGAX9e0b5Q8jlQy7Y0AzpcnotDRn

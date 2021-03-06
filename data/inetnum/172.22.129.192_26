@@ -1,0 +1,10 @@
+inetnum:            172.22.129.192 - 172.22.129.255
+netname:            WHEAT-NET
+descr:              WHEAT-NET
+country:            US
+admin-c:            WHEAT-DN42
+tech-c:             WHEAT-DN42
+mnt-by:             WHEAT-MNT
+status:             ALLOCATED
+cidr:               172.22.129.192/26
+source:             DN42

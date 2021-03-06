@@ -1,0 +1,6 @@
+route6:             fd42:d42:d42:9001::/64
+descr:              dn42 anycast tor
+remarks:            NAPSTERBATER-MNT
+origin:             AS4242421050
+mnt-by:             NAPSTERBATER-MNT
+source:             DN42

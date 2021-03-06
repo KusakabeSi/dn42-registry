@@ -1,0 +1,11 @@
+inetnum:            172.23.140.0 - 172.23.141.255
+netname:            ORG-ZEROAE-BLK1
+org:                ORG-ZEROAE
+descr:              ZeroAE's DN42 Block
+country:            US
+admin-c:            SODRE-DN42
+tech-c:             SODRE-DN42
+mnt-by:             SODRE-MNT
+status:             ASSIGNED
+cidr:               172.23.140.0/23
+source:             DN42

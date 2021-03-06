@@ -1,0 +1,10 @@
+inetnum:            172.21.88.144 - 172.21.88.159
+netname:            IXNET-CN
+descr:              Network for Machines in Mainland China
+country:            CN
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+status:             ASSIGNED
+cidr:               172.21.88.144/28
+source:             DN42

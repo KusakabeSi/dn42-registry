@@ -1,0 +1,4 @@
+route:              172.20.162.64/26
+origin:             AS4242421588
+mnt-by:             TECH9-MNT
+source:             DN42

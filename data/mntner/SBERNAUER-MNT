@@ -1,0 +1,7 @@
+mntner:             SBERNAUER-MNT
+descr:              Personal account for sbernauer
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC8uo9PYm6sj3gclNUz82GY8kMoEC8vHnlDQhvTeyZSF26xHeFcQqkR0xzuAxuSRdvBGVTValjnjWwv1nA+4nIeAVgLGZbixHwfMRIl8Bu/TVb+1O5XhHbvWfTAOSUX3BqIsLbaAwSCVS0MzcQOu5ULQe5e+59XIoNQyhgAcQXdC4WOpu+KhXguq/DWjWT5Z22tjfX2eyRAfr+PWHEtw9b+JqbMpwTxjpjplsDCQDUiAoZuw/QaUzx2+7m8sJXabUKVzq4Gm0jTSx9533Lysr/AXReBRHiuoXGnw1yCb6Hsobu5sDc2bh8+WCskA7wK+sOcPN08EYIhxt7hrUX2ODVGNWPb2J9XetNmyhUxPhjeJNHmSkNuRNCNqxggjD3qE371Brg8CjR5aqPkeAahSH3xn2OsuWvgt/yYsXmvrcrsoNhv0J7nazp9V6flhFF6MnVWg0nDSQn1hWzclFNjKWeKEVJ0MNShpt3639lqd9oA5jaASUo4CMpRPeUn+LhNPX3HtkbGeLIDSheSsfTu1BetL9EjQft8AziADfXaRkqY1D3wSi6RM2fLGXTDgEJat9q1mOcuTcHRt0AVgdRscD9qsc/txHQ2de/eSWHfYz+MV1kHGFwT3h1dV0gJ0xZT9yfYGAl9yJgfvlEAmnbiwBBTLMW+tzcgwrUHisX64MrYdw==
+admin-c:            SBERNAUER-DN42
+tech-c:             SBERNAUER-DN42
+mnt-by:             SBERNAUER-MNT
+source:             DN42

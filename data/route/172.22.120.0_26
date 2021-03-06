@@ -1,0 +1,4 @@
+route:              172.22.120.0/26
+origin:             AS64720
+mnt-by:             PRAUSCHER-MNT
+source:             DN42

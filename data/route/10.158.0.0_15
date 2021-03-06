@@ -1,0 +1,6 @@
+route:              10.158.0.0/15
+origin:             AS65528
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kbu
+mnt-by:             DN42-MNT
+source:             ICVPN

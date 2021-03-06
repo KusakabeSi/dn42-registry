@@ -1,0 +1,7 @@
+mntner:             MONARCH-MNT
+admin-c:            THEOM-DN42
+tech-c:             THEOM-DN42
+mnt-by:             MONARCH-MNT
+auth:               pgp-fingerprint 2AEAB288F37BA3BD1918256D23FF2A5117DC7743
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJUxUKBiIYB2rG13JBeIpWVGRwaO4SdKN92frjsB0NoVwxqApbBg+W3jqpv2wu2ZodICeRPy+xJuU/G4YMKwD/d6wzZJsQlO8Ocm2M0PBbTi02ei55ur1VTcmFbxkouRFkvwyqJQ80SD0Ovv//rgWxI4y4sU0834RPI2SVpttJ5d9+JLzD86lsxy6WKn10kDJ6kocfq9WWPKMnNx7D8pQG27gpmpw+ClTAssXIt+N24IrS5yXtC3Zw2zCoteOLnECdrUZzLGIJ0NJshRsYvLQzkSyD4VEjJdrx43gS4gLt7mxQJ8yHmyEcU5C7WJhtrJAFS+SnOzfegQWVzGwiJYXB td512@td512.io
+source:             DN42

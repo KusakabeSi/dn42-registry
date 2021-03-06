@@ -1,0 +1,11 @@
+inet6num:           fdfc:3e4f:f3c0:0000:0000:0000:0000:0000 - fdfc:3e4f:f3c0:ffff:ffff:ffff:ffff:ffff
+netname:            UNBEDENKLICH-NET6
+cidr:               fdfc:3e4f:f3c0::/48
+descr:              complete completely UNBEDENKLICH network
+country:            DE
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+nserver:            ns.unbedenklich.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fda0:0023:1f05:0000:0000:0000:0000:0000 - fda0:0023:1f05:ffff:ffff:ffff:ffff:ffff
+netname:            LFNET6-1
+descr:              lf-net.org and related
+country:            DE
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+status:             ASSIGNED
+cidr:               fda0:23:1f05::/48
+source:             DN42

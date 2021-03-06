@@ -1,0 +1,10 @@
+inet6num:           fdf7:0e52:771d:0000:0000:0000:0000:0000 - fdf7:0e52:771d:ffff:ffff:ffff:ffff:ffff
+netname:            DOVY-DN42-ULA1-IP6NET
+descr:              Dovy's IPv6 net
+country:            NL
+admin-c:            DOVY-DN42
+tech-c:             DOVY-DN42
+mnt-by:             DOVY-MNT
+status:             ASSIGNED
+cidr:               fdf7:e52:771d::/48
+source:             DN42

@@ -1,0 +1,14 @@
+inet6num:           fda1:384a:74de:0000:0000:0000:0000:0000 - fda1:384a:74de:ffff:ffff:ffff:ffff:ffff
+cidr:               fda1:384a:74de::/48
+netname:            ICVPN-KIEL
+nserver:            0.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            2.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            3.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            5.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            6.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+nserver:            7.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.2.4.2.4.e.d.4.7.a.4.8.3.1.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kiel
+mnt-by:             DN42-MNT
+source:             ICVPN

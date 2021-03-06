@@ -1,0 +1,9 @@
+inet6num:           fdf4:3063:1fe6:0000:0000:0000:0000:0000 - fdf4:3063:1fe6:ffff:ffff:ffff:ffff:ffff
+netname:            VHAL-DN42
+country:            NL
+admin-c:            THVMH-DN42
+tech-c:             THVMH-DN42
+mnt-by:             VHAL-MNT
+status:             ALLOCATED
+cidr:               fdf4:3063:1fe6::/48
+source:             DN42

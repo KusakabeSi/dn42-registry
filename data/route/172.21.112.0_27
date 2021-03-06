@@ -1,0 +1,4 @@
+route:              172.21.112.0/27
+origin:             AS4242423642
+mnt-by:             SEEK42-MNT
+source:             DN42

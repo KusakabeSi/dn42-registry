@@ -1,0 +1,6 @@
+mntner:             NIRF-MNT
+admin-c:            NIRF-DN42
+tech-c:             NIRF-DN42
+mnt-by:             NIRF-MNT
+source:             DN42
+auth:               pgp-finterprint 689E1D86B7AACB23DDCCBCE9D6CE1F31DFB7419E

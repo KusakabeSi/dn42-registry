@@ -1,0 +1,8 @@
+inetnum:            10.21.0.0 - 10.21.255.255
+cidr:               10.21.0.0/16
+netname:            ICVPN-LEICHLINGEN
+nserver:            1.3.21.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: leichlingen
+mnt-by:             DN42-MNT
+source:             ICVPN

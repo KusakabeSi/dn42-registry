@@ -1,0 +1,8 @@
+inet6num:           fd42:3103:5bca:0000:0000:0000:0000:0000 - fd42:3103:5bca:ffff:ffff:ffff:ffff:ffff
+netname:            310-NETWORKS
+admin-c:            310-DN42
+tech-c:             310-DN42
+mnt-by:             310-MNT
+status:             ASSIGNED
+cidr:               fd42:3103:5bca::/48
+source:             DN42

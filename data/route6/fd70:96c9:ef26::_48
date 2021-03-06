@@ -1,0 +1,5 @@
+route6:             fd70:96c9:ef26::/48
+descr:              GERGER-V6NET1-ROUTE
+origin:             AS4242420077
+mnt-by:             GERGERNET-MNT
+source:             DN42

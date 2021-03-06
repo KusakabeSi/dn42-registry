@@ -1,0 +1,10 @@
+inetnum:            172.20.33.32 - 172.20.33.47
+netname:            ALTF4-GATEWAY
+descr:              my gateway to the wooooorld extention
+country:            BE
+admin-c:            ALTF4-DN42
+tech-c:             ALTF4-DN42
+mnt-by:             ALTF4-MNT
+status:             ASSIGNED
+cidr:               172.20.33.32/28
+source:             DN42

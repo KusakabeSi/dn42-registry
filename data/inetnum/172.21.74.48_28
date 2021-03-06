@@ -1,0 +1,9 @@
+inetnum:            172.21.74.48 - 172.21.74.63
+cidr:               172.21.74.48/28
+netname:            NIVEL4-NETWORK
+admin-c:            PONS-DN42
+tech-c:             PONS-DN42
+mnt-by:             PONS-MNT
+org:                ORG-NIVEL4
+status:             ASSIGNED
+source:             DN42

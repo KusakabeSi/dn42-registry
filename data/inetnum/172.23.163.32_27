@@ -1,0 +1,10 @@
+inetnum:            172.23.163.32 - 172.23.163.63
+netname:            HANLIN-NETWORK
+descr:              Hanlin DN42 Network
+country:            CN
+admin-c:            HANLIN-DN42
+tech-c:             HANLIN-DN42
+mnt-by:             HANLIN-MNT
+status:             ASSIGNED
+cidr:               172.23.163.32/27
+source:             DN42

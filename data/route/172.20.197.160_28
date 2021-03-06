@@ -1,0 +1,4 @@
+route:              172.20.197.160/28
+origin:             AS4242422247
+mnt-by:             NGW-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd88:8888:8888::/48
+origin:             AS4242420520
+max-length:         48
+mnt-by:             IVIP-MNT
+source:             DN42

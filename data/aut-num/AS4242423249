@@ -1,0 +1,8 @@
+aut-num:            AS4242423249
+as-name:            SCROWN-AS
+descr:              Scrown Network
+admin-c:            SCROWN-DN42
+tech-c:             SCROWN-DN42
+mnt-by:             SCROWN-MNT
+remarks:            For peering request : mail scrown@r2d2.fr (dn42)
+source:             DN42

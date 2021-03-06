@@ -1,0 +1,8 @@
+mntner:             WEITI-MNT
+remarks:            pin-sha256:u18IfMg5t9P3j9hltdraZitXlz8xT9SB5g0OkTR1wec=
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAw5LzA5GbzFsFuUviMCtjXRuRaKZs39eYja3kgv/psoF1zX7GTVpVE5AMTDnzARJyv+A5ifCRz3LA0BvBCkkNKEF5pdRvl+6n0EPmIFeC5JK09QguGtwir0KzLQA06vZoCX1TzZIin9zd10uxCLFM3mhFzODD+4inelvV8U1xvLE=
+auth:               pgp-fingerprint E70473036FF08393ADB1398E67F294AE59957DD8
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+source:             DN42

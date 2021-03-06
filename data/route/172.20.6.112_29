@@ -1,0 +1,4 @@
+route:              172.20.6.112/29
+origin:             AS4242421025
+mnt-by:             ICECAT-MNT
+source:             DN42

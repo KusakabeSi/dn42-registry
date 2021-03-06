@@ -1,0 +1,4 @@
+route6:             fd01:470:1989::/64
+origin:             AS4242421989
+mnt-by:             KCR-MNT
+source:             DN42

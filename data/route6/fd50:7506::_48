@@ -1,0 +1,5 @@
+route6:             fd50:7506::/48
+origin:             AS4242420183
+max-length:         48
+mnt-by:             GCT-MNT
+source:             DN42

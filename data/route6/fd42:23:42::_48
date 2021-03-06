@@ -1,0 +1,6 @@
+route6:             fd42:23:42::/48
+origin:             AS64600
+origin:             AS4242420101
+pingable:           fd42:23:42:b300::1
+mnt-by:             HEXA-MNT
+source:             DN42

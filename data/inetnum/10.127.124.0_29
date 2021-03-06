@@ -1,0 +1,8 @@
+inetnum:            10.127.124.0 - 10.127.124.7
+cidr:               10.127.124.0/29
+netname:            Yi Global VPN
+admin-c:            STEVEYI-NEONETWORK
+tech-c:             STEVEYI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

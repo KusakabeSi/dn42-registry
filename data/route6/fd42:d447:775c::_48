@@ -1,0 +1,5 @@
+route6:             fd42:d447:775c::/48
+origin:             AS4242421070
+max-length:         48
+mnt-by:             TRVR-MNT
+source:             DN42

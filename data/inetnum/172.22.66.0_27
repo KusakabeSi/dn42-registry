@@ -1,0 +1,8 @@
+inetnum:            172.22.66.0 - 172.22.66.31
+cidr:               172.22.66.0/27
+netname:            SECRETMINE-NETWORK
+admin-c:            SECRETMINE-DN42
+tech-c:             SECRETMINE-DN42
+mnt-by:             SECRETMINE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.15.160 - 172.20.15.191
+netname:            310-NETWORKS
+admin-c:            310-DN42
+tech-c:             310-DN42
+mnt-by:             310-MNT
+status:             ASSIGNED
+cidr:               172.20.15.160/27
+source:             DN42

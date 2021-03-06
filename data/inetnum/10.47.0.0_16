@@ -1,0 +1,7 @@
+inetnum:            10.47.0.0 - 10.47.255.255
+cidr:               10.47.0.0/16
+netname:            ICVPN-OSTVEST
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostvest
+mnt-by:             DN42-MNT
+source:             ICVPN

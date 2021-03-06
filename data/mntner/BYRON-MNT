@@ -1,0 +1,6 @@
+mntner:             BYRON-MNT
+admin-c:            BYRON-DN42
+tech-c:             BYRON-DN42
+mnt-by:             BYRON-MNT
+source:             DN42
+auth:               pgp-fingerprint EA856E49064AE96A714DD24FD2011109891EA2E4 

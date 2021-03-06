@@ -1,0 +1,5 @@
+route6:             fd93:6244:7aef::/48
+origin:             AS4242422011
+max-length:         48
+mnt-by:             MKOSMO-MNT
+source:             DN42

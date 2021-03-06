@@ -1,0 +1,8 @@
+inetnum:            172.22.186.32 - 172.22.186.63
+cidr:               172.22.186.32/27
+netname:            NICHI-NETWORK
+admin-c:            NICKCAO-DN42
+tech-c:             NICKCAO-DN42
+mnt-by:             NICHI-MNT
+status:             ASSIGNED
+source:             DN42

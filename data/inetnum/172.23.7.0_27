@@ -1,0 +1,9 @@
+inetnum:            172.23.7.0 - 172.23.7.31
+cidr:               172.23.7.0/27
+netname:            MORIARTY-V4-NET-1
+descr:              prof. Moriarty's dn42 IPv4 research network
+admin-c:            MORIARTY-DN42
+tech-c:             MORIARTY-DN42
+mnt-by:             MORIARTY-MNT
+status:             ASSIGNED
+source:             DN42

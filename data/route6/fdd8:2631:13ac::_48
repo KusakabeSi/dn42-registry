@@ -1,0 +1,4 @@
+route6:             fdd8:2631:13ac::/48
+origin:             AS4242421709
+mnt-by:             MIKI-MNT
+source:             DN42

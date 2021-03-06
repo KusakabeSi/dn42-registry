@@ -1,0 +1,10 @@
+domain:             lernet.dn42
+descr:              LERNET
+admin-c:            LER-DN42
+tech-c:             LER-DN42
+mnt-by:             LERNET-MNT
+nserver:            ns1.lernet.dn42 172.20.2.1
+nserver:            ns1.lernet.dn42 fd42:abcd:ef00::1
+nserver:            ns2.lernet.dn42 172.20.2.2
+nserver:            ns2.lernet.dn42 fd42:abcd:ef00::2
+source:             DN42

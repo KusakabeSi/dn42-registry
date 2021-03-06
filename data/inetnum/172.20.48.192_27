@@ -1,0 +1,8 @@
+inetnum:            172.20.48.192 - 172.20.48.223
+netname:            QVQ-AS-00-IPV4
+admin-c:            LRINQVQ-DN42
+tech-c:             LRINQVQ-DN42
+mnt-by:             LRINQVQ-MNT
+status:             ASSIGNED
+cidr:               172.20.48.192/27
+source:             DN42

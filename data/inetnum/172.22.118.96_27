@@ -1,0 +1,10 @@
+inetnum:            172.22.118.96 - 172.22.118.127
+cidr:               172.22.118.96/27
+netname:            KANGAROONET-NETWORK
+admin-c:            KANGAROONET-DN42
+tech-c:             KANGAROONET-DN42
+mnt-by:             KANGAROONET-MNT
+status:             ASSIGNED
+nserver:            ns1.kangaroonet.dn42
+nserver:            ns2.kangaroonet.dn42
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd18:18d9:adde:f000:0000:0000:0000:0000 - fd18:18d9:adde:ffff:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6-ANYCAST
+descr:              ATR Anycast Address
+country:            JP
+country:            EU
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               fd18:18d9:adde:f000::/52
+source:             DN42

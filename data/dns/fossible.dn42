@@ -1,0 +1,10 @@
+domain:             fossible.dn42
+org:                ORG-FOSSIBLE
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+nserver:            ns1.fossible.dn42 172.22.135.65
+nserver:            ns1.fossible.dn42 fd33:db90:fc62:100::1
+nserver:            ns2.fossible.dn42 172.22.135.66
+nserver:            ns2.fossible.dn42 fd33:db90:fc62:100::2
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd98:abd0:29cc:0000:0000:0000:0000:0000 - fd98:abd0:29cc:ffff:ffff:ffff:ffff:ffff
+country:            US
+admin-c:            CHULJIN-DN42
+tech-c:             CHULJIN-DN42
+mnt-by:             CHULJIN-MNT
+nserver:            ns1.chuljin.dn42
+status:             ALLOCATED
+cidr:               fd98:abd0:29cc::/48
+netname:            Unnamed fd98:abd0:29cc::/48 Network
+source:             DN42

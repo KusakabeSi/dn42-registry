@@ -1,0 +1,7 @@
+inetnum:            10.15.128.0 - 10.15.191.255
+cidr:               10.15.128.0/18
+netname:            ICVPN-FRANKENBERG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankenberg
+mnt-by:             DN42-MNT
+source:             ICVPN

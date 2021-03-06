@@ -1,0 +1,8 @@
+inet6num:           fd70:08d1:afc7:0000:0000:0000:0000:0000 - fd70:08d1:afc7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd70:8d1:afc7::/48
+netname:            FUDNET-INET
+admin-c:            FUDNET-DN42
+tech-c:             FUDNET-DN42
+mnt-by:             FUDNET-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd3b:ac17:d710:0000:0000:0000:0000:0000 - fd3b:ac17:d710:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3b:ac17:d710::/48
+netname:            NCON-NETWORK
+descr:              NCON Network
+country:            AU
+admin-c:            NCON-DN42
+tech-c:             NCON-DN42
+mnt-by:             NCON-MNT
+status:             ASSIGNED
+source:             DN42

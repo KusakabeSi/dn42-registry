@@ -1,0 +1,4 @@
+route:              172.20.18.64/27
+origin:             AS4242423754
+mnt-by:             MOHO-MNT
+source:             DN42

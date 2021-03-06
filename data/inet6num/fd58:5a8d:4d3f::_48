@@ -1,0 +1,10 @@
+inet6num:           fd58:5a8d:4d3f:0000:0000:0000:0000:0000 - fd58:5a8d:4d3f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd58:5a8d:4d3f::/48
+netname:            MURXMASTER-NETWORK
+descr:              Network of Murxmaster
+country:            DE
+admin-c:            MURXMASTER-DN42
+tech-c:             MURXMASTER-DN42
+mnt-by:             MURXMASTER-MNT
+status:             ASSIGNED
+source:             DN42

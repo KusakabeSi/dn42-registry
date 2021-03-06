@@ -1,0 +1,8 @@
+mntner:             ZHYZ-MNT
+admin-c:            ZHYZ-DN42
+tech-c:             ZHYZ-DN42
+mnt-by:             ZHYZ-MNT
+source:             DN42
+auth:               pgp-fingerprint 3063182DC8DDC8295327D968F81C854AA3BF45F7
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCkJnS/PblMLT3pzFwD+otLnP5WuD62YBsASTdKIspQZc41RCyVw8EBJzJH6OeJ/PmsFm6bdI8YakzK0K1EPkmybiorbznbu4w8gpUJdK5WundTzZS2xGCmPLJRoh1n4UlyF3j2+oEbQTamYKls9KX133vlzr86l0KdQrTNMHpJdWyRUJqRQrocrqSbMl3qWsvxJJuIca4vRN76Xkgrj1es6FZ763AWSLWXVKNXF+2n8RfjPH0NJRebxiee0HHjmExgc8najhbHmEp0fX+3mGrNCZERNkRptQwaQPNwsdvtvIW0NPEjIGJdEBkDO/QRdatXXQVLFTn7+/scrPuyi/Itdb62/wbbEyF06he99Kle4c9RBh1Y1k+IoEXkpI+lp0RY3yhBzZ3NQXDffnLnNeKhPIOpyGOSMCtbd8mZjvwPH7hfaAVlzvUhsMKBu/chtOyaj9oqJ4SuYK2PNIYrR36zksL1wVK+kzpOI9y/i62WzVMwNWxVrgfHqu2ySQKQ7ss=
+remarks:            The maintainer's telegram are zhihuiyuze

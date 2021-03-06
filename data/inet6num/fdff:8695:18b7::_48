@@ -1,0 +1,10 @@
+inet6num:           fdff:8695:18b7:0000:0000:0000:0000:0000 - fdff:8695:18b7:ffff:ffff:ffff:ffff:ffff
+netname:            LOADFRONT-POC-NETWORK
+cidr:               fdff:8695:18b7::/48
+country:            ES
+admin-c:            ORG-LOADFRONT-DN42
+tech-c:             ORG-LOADFRONT-DN42
+mnt-by:             LOADFRONT-MNT
+org:                ORG-LOADFRONT
+status:             ASSIGNED
+source:             DN42

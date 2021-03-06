@@ -1,0 +1,4 @@
+route:              172.20.20.32/28
+origin:             AS4242420560
+mnt-by:             DACR-MNT
+source:             DN42

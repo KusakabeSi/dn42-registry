@@ -1,0 +1,9 @@
+inetnum:            172.22.169.32 - 172.22.169.63
+cidr:               172.22.169.32/27
+netname:            PERKSCO-NET-IPV4-1
+country:            GB
+admin-c:            JPERKS-DN42
+tech-c:             JPERKS-DN42
+mnt-by:             PERKSCO-MNT
+status:             ASSIGNED
+source:             DN42

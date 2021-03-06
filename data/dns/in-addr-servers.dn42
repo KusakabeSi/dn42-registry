@@ -1,0 +1,14 @@
+domain:             in-addr-servers.dn42
+nserver:            m.in-addr-servers.dn42  172.23.67.53
+nserver:            x.in-addr-servers.dn42  172.22.141.2
+nserver:            x.in-addr-servers.dn42  fdea:a15a:77b9:4444::2
+nserver:            g.in-addr-servers.dn42  172.23.149.37
+nserver:            g.in-addr-servers.dn42  fd42:23:149:2::37
+admin-c:            DUMMY-DN42
+tech-c:             SOURIS-DN42
+tech-c:             TOBEE-DN42
+tech-c:             GRMML-DN42
+mnt-by:             XUU-MNT
+mnt-by:             BLAZING-MNT
+mnt-by:             GRMML-MNT
+source:             DN42

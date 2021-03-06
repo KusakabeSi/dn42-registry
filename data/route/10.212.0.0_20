@@ -1,0 +1,6 @@
+route:              10.212.0.0/20
+origin:             AS64879
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: freemesh-denmark
+mnt-by:             DN42-MNT
+source:             ICVPN

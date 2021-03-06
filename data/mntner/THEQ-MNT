@@ -1,0 +1,8 @@
+mntner:             THEQ-MNT
+admin-c:            THEQ-DN42
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1ATGnz4OiDDcgjet5LZ8GvAmgI8OQc4kJ3uf3txaGl+HqZ0l8Da3YIc40S2J+lXLQqPhr40gfRWXo5BvYVyxDeNZi2nePiz+H/CjJdBH+kOKKqF+gJzuEXn7upx6Jwf0gXfSWQXBZu7V7SfE3Pn8U20bj1VJBeUBX42+aE+kj4dQY8p/O03WwEwsr4nJMR9J14j+ro+Mdp7/zr116z0AxJFDogaWmVeRDTTcZL4Z282ubmpXLT1PxGYUZH9IXjtNq2dc2uHWJPyuWmw4cIJocI9kAMCh2x1eDciNlsrZ6KpFgHftHNMcQfWa35R23S4ZtHBiy2aM8KdQhgSIN8xdJ
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDmYJI5uLKE4xmL7xqu0ZDyCQA4DAnh4vWUL/1czljub4SDs/+EsgqbdPcRzXtIUs+/KKGjBwTklosYLw/jacU+wwxqYhwFFS3GR7ipX0Bpfl61vO5wzyJwpjnuVPHJ4gjJBJ7xc+URhxcf/u0wMJC7hRwglAe1OFeUi0yI2v+JOWS2ok2vVxcg65aaQf36JQw8RFLloDfPm4CfoxA1yP50v6ALqjmRcdgl7d62Rs7pUlncxQFqHikL0LN/6kjdJUWtStYgVJaK/ot5BjvFWiqB6g+3+ysa63kbMtzFWx6S46ghGcM7GoIAdRWic0rp0YhXfUhRFqeRe8gAQKov6/Ql
+auth:               pgp-fingerprint 7463D7FCAC8A3FB7D71B1EDC7A124C89A5B3533E

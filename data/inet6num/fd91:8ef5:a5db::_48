@@ -1,0 +1,9 @@
+inet6num:           fd91:8ef5:a5db:0000:0000:0000:0000:0000 - fd91:8ef5:a5db:ffff:ffff:ffff:ffff:ffff
+netname:            ELOKO-NET6
+country:            DE
+admin-c:            ELOKO-DN42
+tech-c:             ELOKO-DN42
+mnt-by:             ELOKO-MNT
+status:             ASSIGNED
+cidr:               fd91:8ef5:a5db::/48
+source:             DN42

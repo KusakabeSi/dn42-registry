@@ -1,0 +1,4 @@
+route:              172.21.99.160/27
+origin:             AS4242421592
+mnt-by:             CAMELUSFERUS-MNT
+source:             DN42

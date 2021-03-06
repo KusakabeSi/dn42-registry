@@ -1,0 +1,36 @@
+key-cert:           PGPKEY-C14306CD
+method:             PGP
+owner:              AIRGAPPED <info@airgapped.io>
+fingerpr:           67B8 8A33 890A 3491 0433  12B5 5FF7 CFF8 C143 06CD
+org:                ORG-AIRGAPPED
+mnt-by:             AIRGAPPED-MNT
+source:             DN42
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mQENBF2H38YBCADWizm16s74FLypx1NWIffCyhySD2zrldDkalW8/tDzlUmycR5+
+certif:             r8R0eZI2xiB1iu5uLz0SuYkFS/LtpXCNw8EBjZFFAFrjLBkerMPtSMZay5zTXRgH
+certif:             zyafWpET2Y8HxWwrY0fyLtxwtW9JPp+Sv+8OcKHwJH17ebyGYta/EstykuVudZ8A
+certif:             HYfet7fyBBzWY7CdCwIh0u6cyG3Ghz9gJvMKTbqHrLT4gbhzXjX1M8/wbEHPwCQ7
+certif:             L4OMLgsUvoe1at78wjWM6zwcRsr6cgsz1oEdwKt0LTU1x2pKC1KiRDJ/g+WMs6Sf
+certif:             KJojuULOVatH1oD0p7cPZwP8qEIMD9T9s9ilABEBAAG0HUFJUkdBUFBFRCA8aW5m
+certif:             b0BhaXJnYXBwZWQuaW8+iQE+BBMBAgAoBQJdh9/GAhsDBQklmAYABgsJCAcDAgYV
+certif:             CAIJCgsEFgIDAQIeAQIXgAAKCRBf98/4wUMGzdhMB/0c/6djiLhVD3wswLF230Qa
+certif:             FLUm8B5JJdKfX7o0l0KVLfnBSCIfUAxzQFmWc2JnMwsjpWmiVOt/dFfia+mmq/DB
+certif:             hQcOrWnhTfBnDfsESRKUJVjpH1JHs27eRKZMalL5TE7jAo4TKTk0lHCo9i7tIO2g
+certif:             V+UZesNJQb3NR0o5UB47cGwPSSFwZwWUkjIlsq4juYrQTHUOLHg9t+hEzk7bG7HP
+certif:             PN4GHN9+imfkriBzS/fIrv9IfeCq0OfqyosPGhCe7OQPtUYx6ow3QIk7F+OvpoQx
+certif:             7rXlgKiZwUeQEBQaBhH3e8js0Fq2IcZCdQd2eEEi5FQFyKf0f5Go5rI0CqMCPVPs
+certif:             uQENBF2H38YBCADfiI4rwjYquIUSOzyN0ICYi6w4l/msYqqZVzLFj/pq1ptIdS2c
+certif:             tCOcUrjPCoJnwDgX2uaudWOMvfrHykjriUZafj1mtD4HcKvmyH5bEU72uVE9fgbC
+certif:             AAydE8tVWqFC2ghHBJTfInBGSf6FwTx9gl7bMpdRkvjsjMSVHtfwjaOdKs+AIpyd
+certif:             f2pKX6IIP8fxyhcS78hVTLsyNOsrbW7tx+X7QLItzXWuWDXNCFe21yKeY+tDklUX
+certif:             G1HSvX7vwGiAQedZaS2POPp8yKNh1i2tblQRHwgB+/TBZH6Pn6F1xwSwcwSpX/0W
+certif:             amzAS+oqm5y/3xBpSzUN1uvF9vvfaS147PypABEBAAGJASUEGAECAA8FAl2H38YC
+certif:             GwwFCSWYBgAACgkQX/fP+MFDBs3fuggArwHr72vYVgzMFjDh4Xj59esCt6GtUg3p
+certif:             1pQyUqldO4QNOlGzfAvxYxTfAcYVsCTbqPBJ88E5WVIZTelsrZKJDVWLfJtTstXS
+certif:             p9lEsNTXNtRQZ02vJ7PTuH7bIcWaSmW4e8JQsKSzPjf9C1abivTM8Kn7x0mtcWXF
+certif:             xd+QdoJLzk+I+9iavS7aVHbrke/KbNaqRcF4J+atofreomlqtuZPYVg9pVYGxGwD
+certif:             WMxi8eVjSpRwwZBJlhXfiVqjtlKjA9uxsQXOAdS/exiI3k6t8Y4KAGJI9xhU3/7A
+certif:             hoQx7LotgusVasCjBv52tJOLWQjQ+8OlD6jVufUHrEl/MQrVxDOZOA==
+certif:             =HY8n
+certif:             -----END PGP PUBLIC KEY BLOCK-----

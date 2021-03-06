@@ -1,0 +1,9 @@
+inetnum:            172.20.161.0 - 172.20.161.127
+netname:            UA-NET-1
+country:            UA
+admin-c:            SAMODID-DN42
+tech-c:             SAMODID-DN42
+mnt-by:             SAMODID-MNT
+status:             ASSIGNED
+cidr:               172.20.161.0/25
+source:             DN42

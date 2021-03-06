@@ -1,0 +1,10 @@
+inetnum:            172.20.160.192 - 172.20.160.255
+netname:            TIMANDO-NET
+nserver:            ns1.timando.dn42
+status:             ASSIGNED
+country:            AU
+admin-c:            TIMANDO-DN42
+tech-c:             TIMANDO-DN42
+mnt-by:             TIMANDO-MNT
+cidr:               172.20.160.192/26
+source:             DN42

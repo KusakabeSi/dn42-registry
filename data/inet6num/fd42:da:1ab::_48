@@ -1,0 +1,10 @@
+inet6num:           fd42:00da:01ab:0000:0000:0000:0000:0000 - fd42:00da:01ab:ffff:ffff:ffff:ffff:ffff
+netname:            TUDA-ISPLAB-CLASSIC
+descr:              TUDA-ISPLAB-CLASSIC
+country:            DE
+admin-c:            TUDAISPLABCLASSIC-DN42
+tech-c:             TUDAISPLABCLASSIC-DN42
+mnt-by:             TUDA-ISPLAB-CLASSIC-MNT
+status:             ASSIGNED
+cidr:               fd42:da:1ab::/48
+source:             DN42

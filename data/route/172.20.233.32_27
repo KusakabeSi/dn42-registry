@@ -1,0 +1,4 @@
+route:              172.20.233.32/27
+origin:             AS4242421555
+mnt-by:             WRMSR-MNT
+source:             DN42

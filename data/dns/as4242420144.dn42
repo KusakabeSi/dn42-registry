@@ -1,0 +1,11 @@
+domain:             as4242420144.dn42
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+nserver:            marty.as4242420144.dn42 172.20.128.80
+nserver:            marty.as4242420144.dn42 fd00:aaaa:255:42::80
+nserver:            bart.as4242420144.dn42 172.20.128.81
+nserver:            bart.as4242420144.dn42 fd00:aaaa:255:42::81
+nserver:            mary.as4242420144.dn42 172.20.128.84
+nserver:            mary.as4242420144.dn42 fd00:aaaa:255:42::84
+source:             DN42

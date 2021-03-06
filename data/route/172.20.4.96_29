@@ -1,0 +1,4 @@
+route:              172.20.4.96/29
+origin:             AS4242421722
+mnt-by:             TCHEKDA-MNT
+source:             DN42

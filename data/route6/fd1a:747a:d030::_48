@@ -1,0 +1,5 @@
+route6:             fd1a:747a:d030::/48
+origin:             AS4242423505
+max-length:         48
+mnt-by:             HIVEMIND-MNT
+source:             DN42

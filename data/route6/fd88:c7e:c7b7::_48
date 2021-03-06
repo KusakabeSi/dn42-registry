@@ -1,0 +1,5 @@
+route6:             fd88:c7e:c7b7::/48
+origin:             AS4242420112
+max-length:         48
+mnt-by:             MEBUS-MNT
+source:             DN42

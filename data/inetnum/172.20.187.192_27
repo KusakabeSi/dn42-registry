@@ -1,0 +1,8 @@
+inetnum:            172.20.187.192 - 172.20.187.223
+cidr:               172.20.187.192/27
+netname:            RAEDNETWORK
+admin-c:            RAED-DN42
+tech-c:             RAED-DN42
+mnt-by:             RAED-MNT
+status:             ASSIGNED
+source:             DN42

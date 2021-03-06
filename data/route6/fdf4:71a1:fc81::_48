@@ -1,0 +1,5 @@
+route6:             fdf4:71a1:fc81::/48
+descr:              Contact 0@04d.co or O4dco on IRC for peering.
+origin:             AS4242420304
+mnt-by:             04DCO-MNT
+source:             DN42

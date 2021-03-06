@@ -1,0 +1,20 @@
+aut-num:            AS4242422203
+as-name:            0XCB-AS
+descr:              0xCB.dev AS
+admin-c:            0XCB-DN42
+tech-c:             0XCB-DN42
+mnt-by:             0XCB-MNT
+remarks:            +---------------------------------------------------------------+
+remarks:            0xCB, OPEN PEERING
+remarks:            +---------------------------------------------------------------+
+remarks:            Peering Info: https://42.0xcb.dev
+remarks:            Mail: mail+bgp@0xcb.dev
+remarks:            IRC: conor
+remarks:            Looking Glass: https://lg.42.0xcb.dev
+remarks:            -----------------------------------------------------------------
+remarks:            Peering Location:
+remarks:            -----------------------------------------------------------------
+remarks:            EU - Germany, Frankfurt am Main, Venocix [Maincubes (FRA01)]
+remarks:            US - New Jersey, Newark, Linode [cologix (NNJ2)]
+remarks:            -----------------------------------------------------------------
+source:             DN42

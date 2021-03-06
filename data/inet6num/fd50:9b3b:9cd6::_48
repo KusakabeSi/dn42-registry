@@ -1,0 +1,10 @@
+inet6num:           fd50:9b3b:9cd6:0000:0000:0000:0000:0000 - fd50:9b3b:9cd6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd50:9b3b:9cd6::/48
+netname:            RBRANDON81-NETWORK
+descr:              RBRANDON81
+country:            US
+admin-c:            RBRANDON81-DN42
+tech-c:             RBRANDON81-DN42
+mnt-by:             RBRANDON81-MNT
+status:             ASSIGNED
+source:             DN42

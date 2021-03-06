@@ -1,0 +1,4 @@
+route6:             fd42:beef:dead::/48
+origin:             AS4242420525
+mnt-by:             MARIOS-MNT
+source:             DN42

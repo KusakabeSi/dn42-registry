@@ -1,0 +1,10 @@
+inetnum:            172.20.150.32 - 172.20.150.63
+netname:            TORFISH-NETWORK
+descr:              TORFISH-NETWORK[TESTING]
+country:            TH
+admin-c:            TORFISH-DN42
+tech-c:             TORFISH-DN42
+mnt-by:             TORFISH-MNT
+status:             ASSIGNED
+cidr:               172.20.150.32/27
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.19.128/27
+origin:             AS4242420829
+mnt-by:             AVASQUEZT-MNT
+source:             DN42

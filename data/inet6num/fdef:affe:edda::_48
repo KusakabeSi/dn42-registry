@@ -1,0 +1,9 @@
+inet6num:           fdef:affe:edda:0000:0000:0000:0000:0000 - fdef:affe:edda:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:affe:edda::/48
+netname:            ICVPN-GREIFSWALD
+nserver:            2.0.143.10.ipv4.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.d.d.e.e.f.f.a.f.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: greifswald
+mnt-by:             DN42-MNT
+source:             ICVPN

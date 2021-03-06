@@ -1,0 +1,10 @@
+inet6num:           fd2a:07dd:07df:0000:0000:0000:0000:0000 - fd2a:07dd:07df:ffff:ffff:ffff:ffff:ffff
+netname:            INTV6
+descr:              Network of intv6
+country:            DE
+mnt-by:             KIBO-MNT
+admin-c:            KIBO-DN42
+tech-c:             KIBO-DN42
+status:             ASSIGNED
+cidr:               fd2a:7dd:7df::/48
+source:             DN42

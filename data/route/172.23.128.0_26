@@ -1,0 +1,5 @@
+route:              172.23.128.0/26
+descr:              ERIS-NETWORK route
+origin:             AS4242422747
+mnt-by:             ROT13-MNT
+source:             DN42

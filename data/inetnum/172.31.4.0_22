@@ -1,0 +1,7 @@
+inetnum:            172.31.4.0 - 172.31.7.255
+cidr:               172.31.4.0/22
+netname:            CHAOSVPN-57NORTH
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

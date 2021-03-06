@@ -1,0 +1,4 @@
+route:              172.20.177.0/27
+origin:             AS4242421982
+mnt-by:             SCUTTLEBUG-MNT
+source:             DN42

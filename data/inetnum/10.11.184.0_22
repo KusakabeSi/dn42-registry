@@ -1,0 +1,7 @@
+inetnum:            10.11.184.0 - 10.11.187.255
+cidr:               10.11.184.0/22
+netname:            ICVPN-EBERSDORF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ebersdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,4 @@
+route:              172.22.146.192/27
+origin:             AS4242423962
+mnt-by:             MANI-MNT
+source:             DN42

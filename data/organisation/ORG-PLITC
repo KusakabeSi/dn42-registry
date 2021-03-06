@@ -1,0 +1,10 @@
+organisation:       ORG-PLITC
+org-name:           Plominski IT Consulting
+descr:              Plominski IT Consulting
+www:                https://www.plitc.eu
+e-mail:             Service@PLITC.EU
+remarks:            pgp-fingerprint: 1280 39A6 83AA 5A9B F3B1 B632 7A49 AF03 27E0 4AB3
+admin-c:            PLOMINSKI-DN42
+tech-c:             PLOMINSKI-DN42
+mnt-by:             PLOMINSKI-MNT
+source:             DN42

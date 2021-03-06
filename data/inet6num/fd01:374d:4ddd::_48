@@ -1,0 +1,8 @@
+inet6num:           fd01:374d:4ddd:0000:0000:0000:0000:0000 - fd01:374d:4ddd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd01:374d:4ddd::/48
+netname:            SELLERIE-NETWORK
+admin-c:            SELLERIE-DN42
+tech-c:             SELLERIE-DN42
+mnt-by:             SELLERIE-MNT
+status:             ASSIGNED
+source:             DN42

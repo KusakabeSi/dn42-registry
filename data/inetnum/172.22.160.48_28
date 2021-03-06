@@ -1,0 +1,8 @@
+inetnum:            172.22.160.48 - 172.22.160.63
+cidr:               172.22.160.48/28
+netname:            DUCKSOFT-NETWORK
+admin-c:            DUCKSOFT-DN42
+tech-c:             DUCKSOFT-DN42
+mnt-by:             DUCKSOFT-MNT
+status:             ASSIGNED
+source:             DN42

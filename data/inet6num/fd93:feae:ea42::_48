@@ -1,0 +1,10 @@
+inet6num:           fd93:feae:ea42:0000:0000:0000:0000:0000 - fd93:feae:ea42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd93:feae:ea42::/48
+netname:            STEVEFAN1999-NETWORK
+descr:              Network of stevefan1999
+country:            HK
+admin-c:            STEVEFAN1999-DN42
+tech-c:             STEVEFAN1999-DN42
+mnt-by:             STEVEFAN1999-MNT
+status:             ASSIGNED
+source:             DN42

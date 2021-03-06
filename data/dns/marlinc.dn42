@@ -1,0 +1,6 @@
+domain:             marlinc.dn42
+admin-c:            MARLINC-DN42
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+nserver:            ns1.nl-zuid.dn42
+source:             DN42

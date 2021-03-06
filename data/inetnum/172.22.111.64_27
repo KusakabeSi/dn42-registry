@@ -1,0 +1,10 @@
+inetnum:            172.22.111.64 - 172.22.111.95
+cidr:               172.22.111.64/27
+nserver:            seed.lotus.dn42
+nserver:            leaf.lotus.dn42
+netname:            LOTUST-DN42-INET4
+admin-c:            LOTUS-DN42
+tech-c:             LOTUS-DN42
+mnt-by:             LOTUS-MNT
+status:             ASSIGNED
+source:             DN42

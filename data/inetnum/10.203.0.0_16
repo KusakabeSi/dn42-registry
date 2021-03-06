@@ -1,0 +1,7 @@
+inetnum:            10.203.0.0 - 10.203.255.255
+cidr:               10.203.0.0/16
+netname:            ICVPN-DRESDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dresden
+mnt-by:             DN42-MNT
+source:             ICVPN

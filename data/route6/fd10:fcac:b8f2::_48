@@ -1,0 +1,4 @@
+route6:             fd10:fcac:b8f2::/48
+origin:             AS4242421918
+mnt-by:             FABRATERIA-MNT
+source:             DN42

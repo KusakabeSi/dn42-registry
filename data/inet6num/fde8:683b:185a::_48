@@ -1,0 +1,10 @@
+inet6num:           fde8:683b:185a:0000:0000:0000:0000:0000 - fde8:683b:185a:ffff:ffff:ffff:ffff:ffff
+cidr:               fde8:683b:185a::/48
+netname:            VO-NETWORK
+descr:              Network of vo
+country:            FR
+admin-c:            VO-DN42
+tech-c:             VO-DN42
+mnt-by:             VO-MNT
+status:             ASSIGNED
+source:             DN42

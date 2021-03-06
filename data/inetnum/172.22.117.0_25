@@ -1,0 +1,10 @@
+inetnum:            172.22.117.0 - 172.22.117.127
+netname:            NET-FELICIA
+descr:              Felicia Server Network
+country:            DE
+admin-c:            FELICIA-DN42
+tech-c:             FELICIA-DN42
+status:             ASSIGNED
+mnt-by:             FELICIA-MNT
+cidr:               172.22.117.0/25
+source:             DN42

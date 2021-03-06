@@ -1,0 +1,11 @@
+inetnum:            172.22.130.128 - 172.22.130.159
+cidr:               172.22.130.128/27
+netname:            TAAVI-NET-V4-1
+descr:              IPv4 block for TAAVInet
+country:            FI
+admin-c:            TAAVI-DN42
+tech-c:             TAAVI-DN42
+mnt-by:             TAAVI-MNT
+status:             ASSIGNED
+nserver:            ns01.taavi.dn42
+source:             DN42

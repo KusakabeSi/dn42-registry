@@ -1,0 +1,11 @@
+inetnum:            172.22.148.64 - 172.22.148.127
+netname:            DELTAMAN-CORE
+descr:              DELTAMAN-CORE
+country:            NL
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+status:             ALLOCATED
+nserver:            ns1.deltaman.dn42
+cidr:               172.22.148.64/26
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd81:763a:ce01:0000:0000:0000:0000:0000 - fd81:763a:ce01:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:763a:ce01::/48
+netname:            SUDOPARADISE-NETWORK
+descr:              IPv6 allocation for sudo Paradise
+country:            FI
+admin-c:            SUDOPARADISE-DN42
+tech-c:             SUDOPARADISE-DN42
+mnt-by:             SUDOPARADISE-MNT
+status:             ASSIGNED
+source:             DN42

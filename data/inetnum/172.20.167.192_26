@@ -1,0 +1,10 @@
+inetnum:            172.20.167.192 - 172.20.167.255
+netname:            DN42-JAMES-A
+descr:              JAMES
+country:            GB
+admin-c:            JAMES-DN42
+tech-c:             JAMES-DN42
+mnt-by:             JAMES-MNT
+status:             ALLOCATED
+cidr:               172.20.167.192/26
+source:             DN42

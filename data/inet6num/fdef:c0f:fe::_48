@@ -1,0 +1,12 @@
+inet6num:           fdef:0c0f:00fe:0000:0000:0000:0000:0000 - fdef:0c0f:00fe:ffff:ffff:ffff:ffff:ffff
+netname:            NET-BODEMS-IP6-ULA
+descr:              Bodems IPv6 ULA-Net
+nserver:            ns0.bodems.dn42
+nserver:            ns1.bodems.dn42
+country:            DE
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+status:             ASSIGNED
+cidr:               fdef:c0f:fe::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.34.0/26
+descr:              SOSG IPv4 Region A
+origin:             AS4242422900
+mnt-by:             KYON-MNT
+source:             DN42

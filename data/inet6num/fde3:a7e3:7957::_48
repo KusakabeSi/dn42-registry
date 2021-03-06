@@ -1,0 +1,11 @@
+inet6num:           fde3:a7e3:7957:0000:0000:0000:0000:0000 - fde3:a7e3:7957:ffff:ffff:ffff:ffff:ffff
+netname:            GIN42-PEER2-NET6
+descr:              GIN42 Peer 2
+country:            DE
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+nserver:            ns1.jin42.de
+status:             ASSIGNED
+cidr:               fde3:a7e3:7957::/48
+source:             DN42

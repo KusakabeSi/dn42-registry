@@ -1,0 +1,9 @@
+inet6num:           fddc:3293:81a4:0000:0000:0000:0000:0000 - fddc:3293:81a4:ffff:ffff:ffff:ffff:ffff
+cidr:               fddc:3293:81a4::/48
+netname:            ANYSERVICES-V6-NET-1
+country:            FR
+admin-c:            ANYSERVICES-DN42
+tech-c:             ANYSERVICES-DN42
+mnt-by:             ANYSERVICES-MNT
+status:             ASSIGNED
+source:             DN42

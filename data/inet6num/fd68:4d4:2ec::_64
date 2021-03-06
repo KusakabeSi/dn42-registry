@@ -1,0 +1,10 @@
+inet6num:           fd68:04d4:02ec:0000:0000:0000:0000:0000 - fd68:04d4:02ec:0000:ffff:ffff:ffff:ffff
+netname:            NET-LEROY-DN42-IPV6
+descr:              Leroy’s IPv6 Range
+country:            SG
+admin-c:            LEROY-DN42
+tech-c:             LEROY-DN42
+mnt-by:             LEROY-MNT
+status:             ASSIGNED
+cidr:               fd68:4d4:2ec::/64
+source:             DN42

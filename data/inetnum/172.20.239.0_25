@@ -1,0 +1,11 @@
+inetnum:            172.20.239.0 - 172.20.239.127
+netname:            GRUENET-HOME
+nserver:            daemon.gruetzkopf.dn42
+descr:              gruetzkopf research home labs
+country:            DE
+admin-c:            GRUETZKOPF-DN42
+tech-c:             GRUETZKOPF-DN42
+mnt-by:             GRUETZKOPF-MNT
+status:             ASSIGNED
+cidr:               172.20.239.0/25
+source:             DN42

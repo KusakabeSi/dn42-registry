@@ -1,0 +1,7 @@
+aut-num:            AS4242423000
+as-name:            RELROD-AS
+descr:              relrod
+admin-c:            RELROD-DN42
+tech-c:             RELROD-DN42
+mnt-by:             RELROD-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+as-set:             AS4242420904:AS-TRANSIT
+remarks:            LANTIAN
+members:            AS4242422547
+remarks:            ZOTAN
+members:            AS4242422341
+admin-c:            Y525-DN42
+tech-c:             Y525-DN42
+mnt-by:             Y525-MNT
+source:             DN42

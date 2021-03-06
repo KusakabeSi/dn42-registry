@@ -1,0 +1,11 @@
+domain:             ffpi
+nserver:            1.12.137.10.ipv4.registry-sync.dn42
+nserver:            1.13.137.10.ipv4.registry-sync.dn42
+nserver:            1.10.137.10.ipv4.registry-sync.dn42
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.d.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.8.d.9.6.c.1.2.8.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: pinneberg
+mnt-by:             DN42-MNT
+source:             ICVPN

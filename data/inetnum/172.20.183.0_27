@@ -1,0 +1,10 @@
+inetnum:            172.20.183.0 - 172.20.183.31
+netname:            N0WUN-NET-DN42
+descr:              Noone's network
+country:            US
+admin-c:            N0WUN-DN42
+tech-c:             N0WUN-DN42
+mnt-by:             N0WUN-MNT
+status:             ASSIGNED
+cidr:               172.20.183.0/27
+source:             DN42

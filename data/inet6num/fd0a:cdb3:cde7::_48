@@ -1,0 +1,8 @@
+inet6num:           fd0a:cdb3:cde7:0000:0000:0000:0000:0000 - fd0a:cdb3:cde7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0a:cdb3:cde7::/48
+netname:            PIGGY-NETWORK
+admin-c:            PIGGY-DN42
+tech-c:             PIGGY-DN42
+mnt-by:             PIGGY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.135.32 - 172.20.135.63
+cidr:               172.20.135.32/27
+netname:            BITPIPE-NETWORK
+admin-c:            IUS-DN42
+tech-c:             IUS-DN42
+mnt-by:             IUS-MNT
+nserver:            ns1.bitpipe.dn42
+status:             ASSIGNED
+source:             DN42

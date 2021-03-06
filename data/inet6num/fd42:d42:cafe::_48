@@ -1,0 +1,8 @@
+inet6num:           fd42:0d42:cafe:0000:0000:0000:0000:0000 - fd42:0d42:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            W0H-IP6NET-DT
+admin-c:            W0H-DN42
+tech-c:             W0H-DN42
+mnt-by:             W0H-MNT
+status:             ASSIGNED
+cidr:               fd42:d42:cafe::/48
+source:             DN42

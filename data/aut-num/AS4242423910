@@ -1,0 +1,8 @@
+aut-num:            AS4242423910
+as-name:            PNG-AS
+remarks:            ** Still in install phase
+remarks:            ** Looking for peers (IPv6/OpenVPN preferred)
+admin-c:            PNG-DN42
+tech-c:             PNG-DN42
+mnt-by:             PNG-MNT
+source:             DN42

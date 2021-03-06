@@ -1,0 +1,18 @@
+aut-num:            AS64737
+as-name:            XUU-AS
+descr:              xuu.dn42 network
+remarks:            +---------------------------------------------+
+remarks:            ##    Located in DE, California & Ontario    ##
+remarks:            ##         Currently CLOSED to new Peers     ##
+remarks:            +---------------------------------------------+
+remarks:            ## Anycast DNS:  172.23.0.53                 ##
+remarks:            ## Anycast DNS6: fd42:d42:d42:53::1          ##
+remarks:            +---------------------------------------------+
+geo-loc:            40.776N 111.920W ayurveda
+geo-loc:            09.000N  51.000E rakta
+geo-loc:            45.504N  73.574W kapha
+geo-loc:            37.296N 122.097W lavana
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+source:             DN42

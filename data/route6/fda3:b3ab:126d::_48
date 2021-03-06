@@ -1,0 +1,5 @@
+route6:             fda3:b3ab:126d::/48
+origin:             AS4242423217
+max-length:         48
+mnt-by:             KANGAROONET-MNT
+source:             DN42

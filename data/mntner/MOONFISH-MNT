@@ -1,0 +1,6 @@
+mntner:             MOONFISH-MNT
+admin-c:            MOONFISH-DN42
+tech-c:             MOONFISH-DN42
+mnt-by:             MOONFISH-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDF6je5k9ZESUkD14kQkxso0GUVatZBt912ZYd6mMbuwWsqwqhNq1eI4uLlv3Lp53nsvfNOQk8LRF6McDFB9S8AvUaUEsDftfb11ZpeDnzc7fqYlf5Ty/tqCggTA5Aimx+VuOxuxOphweixlzrS/06xY8jMwagYSpcokJFd06fGWj35DJHnV8Ahb73qWP1PdxZ6C401LYCLtlfU3VoiGUsMBjnPqfRaSQfHMy8mSCAqiQr16rT5t8ljGInOTTFCJ1q/yBF5/CXV8+JdN6Ke2t01B2OAAWtjf7bYIqIagSYPSBnmp6w9wK81TCDpjKMVsOaNDMZRcsnb0Yy+Z81F54aV
+source:             DN42

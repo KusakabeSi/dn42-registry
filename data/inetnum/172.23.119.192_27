@@ -1,0 +1,10 @@
+inetnum:            172.23.119.192 - 172.23.119.223
+netname:            NET-AWESOMESITES-000
+descr:              awesomesit.es net
+country:            FR
+admin-c:            SDUMONT-DN42
+tech-c:             SDUMONT-DN42
+mnt-by:             AWESOMESITES-MNT
+status:             ASSIGNED
+cidr:               172.23.119.192/27
+source:             DN42

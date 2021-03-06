@@ -1,0 +1,11 @@
+inet6num:           fdee:90fc:cafe:0000:0000:0000:0000:0000 - fdee:90fc:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:90fc:cafe::/48
+netname:            BENL-NETWORK
+descr:              Network of Benjamyn Love
+country:            AU
+admin-c:            BENL-DN42
+tech-c:             BENL-DN42
+mnt-by:             BENL-MNT
+nserver:            ns1.benl.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdfa:8c85:5ca3::/48
+origin:             AS4242420416
+mnt-by:             NJD-MNT
+descr:              njd.dn42
+source:             DN42

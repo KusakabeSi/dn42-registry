@@ -1,0 +1,6 @@
+route:              172.22.160.16/28
+origin:             AS4242421707
+admin-c:            CMIKOSCH-DN42
+tech-c:             CMIKOSCH-DN42
+mnt-by:             DTNET-MNT
+source:             DN42

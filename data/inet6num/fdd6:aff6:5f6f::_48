@@ -1,0 +1,21 @@
+inet6num:           fdd6:aff6:5f6f:0000:0000:0000:0000:0000 - fdd6:aff6:5f6f:ffff:ffff:ffff:ffff:ffff
+netname:            CCCHB-IPV6
+cidr:               fdd6:aff6:5f6f::/48
+org:                ORG-CCCHB-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+zone-c:             FRITZ-DN42
+zone-c:             PYROPETER-DN42
+status:             ASSIGNED PA
+nserver:            ns.p5.ccchb.de
+ds-rdata:           24396 7 1 CE4CA1EEE1AF124B7EA84D9995E3BAD711856339
+ds-rdata:           24396 7 2 6F6C0CF7F7582CB1866861749BBC8226F25377C3C22AE43DFA0A3C52 A76E4F7F
+ds-rdata:           47014 15 1 A7BE6F5EA826580E28CDB81DDB88DE3797BA67B7
+ds-rdata:           47014 15 2 CC910EFC9A3EC2173ECEDB7A3230F7D73405185175D0CFE6CBAFA29F 269BB438
+ds-rdata:           35914 8 1 D99864214DED737EBF5E92641037301B687D7BFA
+ds-rdata:           35914 8 2 9386C1AE21B065D2D50D7B98B2D680A334D063BDE0D5DF5815D7391B 6B3FD7F3
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdce:ebc5:bbd8::/48
+origin:             AS4242423999
+mnt-by:             CPBARNES-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             eb.dn42
+descr:              eastbound
+admin-c:            EASTBOUND-DN42
+tech-c:             EASTBOUND-DN42
+mnt-by:             EASTBOUND-MNT
+nserver:            ns1.eb.dn42 fd4c:7750:c7e7:ac53::1
+nserver:            ns1.eb.dn42 172.23.250.50
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2499:0000:0000:0000:0000:0000 - fd42:4242:2499:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2499::/48
+netname:            NICOLAS-NETWORK
+descr:              Network of Nicolas
+country:            FR
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+nserver:            ns1.nicolas.dn42
+status:             ASSIGNED
+source:             DN42

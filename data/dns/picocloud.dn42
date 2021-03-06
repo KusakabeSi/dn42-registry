@@ -1,0 +1,8 @@
+domain:             picocloud.dn42
+descr:              picoCloud
+admin-c:            MALAIWAH-DN42
+tech-c:             MALAIWAH-DN42
+mnt-by:             PICOCLOUD-MNT
+nserver:            ns1.picocloud.dn42 172.20.162.131
+nserver:            ns2.picocloud.dn42 172.20.162.132
+source:             DN42

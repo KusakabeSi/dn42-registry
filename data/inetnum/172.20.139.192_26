@@ -1,0 +1,9 @@
+inetnum:            172.20.139.192 - 172.20.139.255
+netname:            MARIDE-STATIC-NET
+country:            DE
+admin-c:            MARIDE-DN42
+tech-c:             MARIDE-DN42
+mnt-by:             MARIDE-MNT
+status:             ASSIGNED
+cidr:               172.20.139.192/26
+source:             DN42

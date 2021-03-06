@@ -1,0 +1,9 @@
+inetnum:            172.20.128.96 - 172.20.128.103
+cidr:               172.20.128.96/29
+netname:            SNEK-NETWORK
+admin-c:            SNEK-DN42
+tech-c:             SNEK-DN42
+mnt-by:             SNEK-MNT
+nserver:            ns1.snek.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd71:cfc3:9259:6935:0000:0000:0000:0000 - fd71:cfc3:9259:6935:ffff:ffff:ffff:ffff
+cidr:               fd71:cfc3:9259:6935::/64
+netname:            SVINSON-V6-NET-1
+country:            US
+admin-c:            SVINSON-DN42
+tech-c:             SVINSON-DN42
+mnt-by:             SVINSON-MNT
+nserver:            dns1.svinson.dn42
+nserver:            dns2.svinson.dn42
+status:             ASSIGNED
+source:             DN42

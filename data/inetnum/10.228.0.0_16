@@ -1,0 +1,7 @@
+inetnum:            10.228.0.0 - 10.228.255.255
+cidr:               10.228.0.0/16
+netname:            ICVPN-ESSEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: essen
+mnt-by:             DN42-MNT
+source:             ICVPN

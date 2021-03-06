@@ -1,0 +1,7 @@
+aut-num:            AS4242423763
+as-name:            Twakkie_Net
+descr:              Local network in RSA for testing purposes
+admin-c:            TWAKKIE-DN42
+tech-c:             TWAKKIE-DN42
+mnt-by:             TWAKKIE-MNT
+source:             DN42

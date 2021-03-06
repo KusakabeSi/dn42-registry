@@ -1,0 +1,7 @@
+domain:             adamyi.dn42
+admin-c:            ADAMYI-DN42
+tech-c:             ADAMYI-DN42
+mnt-by:             ADAMYI-MNT
+nserver:            ns1.adamyi.dn42 172.20.33.201
+nserver:            ns2.adamyi.dn42 172.20.33.202
+source:             DN42

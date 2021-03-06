@@ -1,0 +1,8 @@
+aut-num:            AS4242420021
+as-name:            BEDENKLICH AS
+descr:              a little bit BEDENKLICH AS
+remarks:            Ask AS4242420020 for peering.
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+source:             DN42

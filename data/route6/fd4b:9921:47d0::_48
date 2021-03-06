@@ -1,0 +1,5 @@
+route6:             fd4b:9921:47d0::/48
+origin:             AS4242420550
+max-length:         48
+mnt-by:             SLNX-MNT
+source:             DN42

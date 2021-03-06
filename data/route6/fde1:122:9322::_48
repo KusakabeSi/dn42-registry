@@ -1,0 +1,5 @@
+route6:             fde1:122:9322::/48
+origin:             AS4242423913
+max-length:         60
+mnt-by:             SOHA-MNT
+source:             DN42

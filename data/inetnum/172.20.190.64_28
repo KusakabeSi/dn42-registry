@@ -1,0 +1,11 @@
+inetnum:            172.20.190.64 - 172.20.190.79
+netname:            NOB-NETWORK
+descr:              The Nobody44 Network
+country:            DE
+admin-c:            PAUL-DN42
+nserver:            ns1.nobody44.dn42
+tech-c:             PAUL-DN42
+mnt-by:             NOB-MNT
+status:             ASSIGNED
+cidr:               172.20.190.64/28
+source:             DN42

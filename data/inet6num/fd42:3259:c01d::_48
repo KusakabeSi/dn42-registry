@@ -1,0 +1,10 @@
+inet6num:           fd42:3259:c01d:0000:0000:0000:0000:0000 - fd42:3259:c01d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:3259:c01d::/48
+netname:            DN42-INET6-WHEATLEY
+descr:              IPv6 Network of Wheatley
+country:            NL
+admin-c:            BART-DN42
+tech-c:             BART-DN42
+mnt-by:             BART-MNT
+status:             ASSIGNED
+source:             DN42

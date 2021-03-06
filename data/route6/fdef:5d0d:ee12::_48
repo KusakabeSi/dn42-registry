@@ -1,0 +1,5 @@
+route6:             fdef:5d0d:ee12::/48
+origin:             AS64738
+max-length:         48
+mnt-by:             WELTERDE-MNT
+source:             DN42

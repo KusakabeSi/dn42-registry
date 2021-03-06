@@ -1,0 +1,5 @@
+route:              172.20.144.0/23
+descr:              Global
+origin:             AS4242422180
+mnt-by:             SKORPY-MNT
+source:             DN42

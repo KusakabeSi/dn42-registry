@@ -1,0 +1,9 @@
+inetnum:            172.20.128.0 - 172.20.128.31
+netname:            COMPUGLOBAL-400
+country:            DE
+admin-c:            DEEGEE-DN42
+tech-c:             DEEGEE-DN42
+mnt-by:             COMPUGLOBAL-MNT
+status:             ASSIGNED
+cidr:               172.20.128.0/27
+source:             DN42

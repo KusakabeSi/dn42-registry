@@ -1,0 +1,4 @@
+route:              172.20.154.96/27
+origin:             AS4242421424
+mnt-by:             BANTERNET-MNT
+source:             DN42

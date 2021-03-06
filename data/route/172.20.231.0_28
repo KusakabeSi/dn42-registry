@@ -1,0 +1,4 @@
+route:              172.20.231.0/28
+origin:             AS4242420343
+mnt-by:             PEER-MNT
+source:             DN42

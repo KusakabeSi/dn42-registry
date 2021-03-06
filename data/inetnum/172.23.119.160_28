@@ -1,0 +1,11 @@
+inetnum:            172.23.119.160 - 172.23.119.175
+netname:            HSYSTEMS-NET-PEERING
+country:            US
+org:                ORG-HSYSTEMS
+admin-c:            HSYSTEMS-DN42
+tech-c:             HSYSTEMS-DN42
+mnt-by:             HSYSTEMS-MNT
+nserver:            ns2.he.net
+status:             ASSIGNED
+cidr:               172.23.119.160/28
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.116.0/26
+descr:              Gigadoc2 homenetwork
+origin:             AS4242420003
+mnt-by:             GIGA-MNT
+source:             DN42

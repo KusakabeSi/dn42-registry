@@ -1,0 +1,4 @@
+route6:             fd42:2882:2882::/48
+origin:             AS4242422882
+mnt-by:             MISKA-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242420299
+as-name:            YUYUKO-NETWORK
+descr:              peer with me dn42@yuyuko.com
+admin-c:            YUYUKO-DN42
+tech-c:             YUYUKO-DN42
+mnt-by:             YUYUKO-MNT
+source:             DN42

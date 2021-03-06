@@ -1,0 +1,5 @@
+route6:             fd42:c33e:bef4:228::/64
+descr:              GRMML-NET-HOME
+origin:             AS4242420121
+mnt-by:             GRMML-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.48.0 - 172.23.48.31
+cidr:               172.23.48.0/27
+netname:            ADAMG-NETWORK-IPV4
+admin-c:            ADAMG-DN42
+tech-c:             ADAMG-DN42
+mnt-by:             ADAMG-MNT
+status:             ASSIGNED
+source:             DN42

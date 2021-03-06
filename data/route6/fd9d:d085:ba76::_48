@@ -1,0 +1,5 @@
+route6:             fd9d:d085:ba76::/48
+origin:             AS4242422833
+max-length:         48
+mnt-by:             XNOE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.189.0 - 172.20.189.127
+netname:            UTLEYCCKS-NET
+descr:              UTLEYCC KS Network
+country:            US
+admin-c:            JUTLEY-DN42
+tech-c:             JUTLEY-DN42
+mnt-by:             UTLEYCCKS-MNT
+status:             ASSIGNED
+cidr:               172.20.189.0/25
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.15.40/29
+origin:             AS4242422131
+mnt-by:             JULIA-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd92:a682:9c0d:0000:0000:0000:0000:0000 - fd92:a682:9c0d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd92:a682:9c0d::/48
+netname:            AMDEXA-NET-1
+descr:              Amdexa DN42 IPv6 network 1
+country:            LK
+admin-c:            AMDEXA-DN42
+tech-c:             AMDEXA-DN42
+mnt-by:             AMDEXA-MNT
+status:             ASSIGNED
+source:             DN42

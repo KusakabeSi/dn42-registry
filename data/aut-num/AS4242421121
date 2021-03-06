@@ -1,0 +1,7 @@
+aut-num:            AS4242421121
+as-name:            NEO-NETWORK-AS-2
+descr:              the backup AS OF NEO NETWORK
+admin-c:            NEO-DN42
+tech-c:             NEO-DN42
+mnt-by:             NEO-MNT
+source:             DN42

@@ -1,0 +1,36 @@
+key-cert:           PGPKEY-70C6DD8B
+method:             PGP
+fingerpr:           4B30 4799 0696 0CB6 3FC1  765A 2970 8E49 70C6 DD8B
+owner:              Patrick Aszody (DN42 experimental network) <carak@carak.fr>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mQENBF/JVlwBCAC1jqZkiAKQNOt2WiYryLH2B0YRgoKCxaqSuwBACllgbbznavrs
+certif:             5Bv4u9yi2I7KhVuJhGWJ5nZEeMYkupDbRoJal8BkeuDGRScI7FKlnjihpZ1XHjWB
+certif:             XM0hhL3VoEEArBMhFfFAzJnpoFcuXSyUjpZNv3WEOkzCIUMjEHPSTEi57W8HVShC
+certif:             Zf+9JPJr2pv2ckXTKQNcZrf++639k0AAu+DHpa1owFGYtZ9sXYNJNDyuZv+n/3q3
+certif:             8XcGjH947p3gG8gwKIjTaiubC9ieJoPsiWGcv5SzzK+ZDZaKwu+krvM4q1j/VSBx
+certif:             wtUiKlsKuN30EWBq2a8wEquzTb+2fttZq55TABEBAAG0O1BhdHJpY2sgQXN6b2R5
+certif:             IChETjQyIGV4cGVyaW1lbnRhbCBuZXR3b3JrKSA8Y2FyYWtAY2FyYWsuZnI+iQE+
+certif:             BBMBAgAoBQJfyVZcAhsDBQkDwmcABgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAK
+certif:             CRApcI5JcMbdi73eB/oDwg+/iomoPezcq4mtSkYPAZCiMfe47tZCIGSvhwv2Gfat
+certif:             e2ECmriYIWPsUj4eQBwap40+2gTLUAIsGK1goSmLGEK4BSl2cE5YskiwaaRegoJI
+certif:             fdgpFnyTiS0LMycDF0yCg61f8kCdI9s8gPW77FQrFIwmM8hVy7BmfvYtrxioshiF
+certif:             Kz+ybptmiaJhsueNYebp53VNdiffsiQahmSY9FHh0hZ8wrqM+BxtpOW+nlweI7Cu
+certif:             nrU/vc7LVLto8AgdZZhSBSN9fP8KlMgVczk+zBVQ33uWZVAkzK0KRACcNrXxqjD3
+certif:             KTs6XAzVije+gFstiGg/x556pCWM9vcygYxs/mL+uQENBF/JVlwBCACpI0Eb7Esa
+certif:             yymDCu+Z3XOj4cx1GXfxwes7QvpDY7qfqDj5zOFvztlGNA0Mbnb4o4k6N2itX/zE
+certif:             sJFc7Ud9+gUA4sb9T85/EA3M50R6AHm6rPtGoLO+xsgvVRV2TauhtYb6Yw/MSwSx
+certif:             9wxKF0gsjJWUsGRVF7Q3kxP0l4O6+GFlqPptCAcbTpWgZfnfRKSKDjtQ0i8FBB0u
+certif:             ZzIFrzN+i0Ud6YeuN4R1hqvuFX34hfhEASnGy0lDbAevnHhnszSxEBjIicmnuLxZ
+certif:             5E/11710jHb50stQHGk7YthH/Gby4Rc/qS8P1GMCmfCQTU0NNJDlNwoWfXrJy/KV
+certif:             goWsYrQqpcaVABEBAAGJASUEGAECAA8FAl/JVlwCGwwFCQPCZwAACgkQKXCOSXDG
+certif:             3YuhQAf9F6MExd07xHHaZVX4p4pw5li4z3K/ajznoWJhsL6iGqiLHy14EdMmbxJd
+certif:             nTLGWwyq+b6WAmPiKCV/iXGK01BdWuaLgKyFjbqn7xjtCnidPboTw9go8gEVXyBd
+certif:             5gTcbuufYC7+yIMmTsAqQC5nIURl2/2WguSK7j2Nwsx1y0KyOWp10osrupulx9pO
+certif:             sw6UCa4viskoauDcWYD04cRYNW5aGw8mH5Ru//wpWftBiKlelk/b9x90pGAeo4FX
+certif:             1f5mQlt/6eStbYbdqCFc6LrTsEUcok4RrKMB+ILsrW79K3QglCM09CCI/gNKC7Cs
+certif:             L2GMu/UIj7q4J5YxUdqKiNaBbGYz8Q==
+certif:             =2shf
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+mnt-by:             CARAK-MNT
+source:             DN42

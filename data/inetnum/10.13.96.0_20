@@ -1,0 +1,7 @@
+inetnum:            10.13.96.0 - 10.13.111.255
+cidr:               10.13.96.0/20
+netname:            ICVPN-WETZLAR
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wetzlar
+mnt-by:             DN42-MNT
+source:             ICVPN

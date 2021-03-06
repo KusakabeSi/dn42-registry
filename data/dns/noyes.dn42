@@ -1,0 +1,7 @@
+domain:             noyes.dn42
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+nserver:            ns1.nw.dn42
+nserver:            ns1.nw.dn42
+source:             DN42

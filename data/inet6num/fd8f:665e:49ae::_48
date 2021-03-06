@@ -1,0 +1,11 @@
+inet6num:           fd8f:665e:49ae:0000:0000:0000:0000:0000 - fd8f:665e:49ae:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8f:665e:49ae::/48
+netname:            NETENS-NETWORK
+descr:              Network of ORG-NETENS
+country:            FR
+admin-c:            RAITO-DN42
+tech-c:             RAITO-DN42
+org:                ORG-NETENS
+mnt-by:             RAITO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.23.119.0 - 172.23.119.31
+netname:            XERA-NET
+country:            RO
+admin-c:            WALLE256-DN42
+tech-c:             WALLE256-DN42
+mnt-by:             WALLE256-MNT
+status:             ASSIGNED
+cidr:               172.23.119.0/27
+source:             DN42

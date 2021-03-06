@@ -1,0 +1,9 @@
+inetnum:            172.20.15.40 - 172.20.15.47
+cidr:               172.20.15.40/29
+netname:            JULIA-NETWORK
+admin-c:            JULIA-DN42
+tech-c:             JULIA-DN42
+mnt-by:             JULIA-MNT
+status:             ASSIGNED
+nserver:            ns1.julia.dn42
+source:             DN42

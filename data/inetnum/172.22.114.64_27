@@ -1,0 +1,8 @@
+inetnum:            172.22.114.64 - 172.22.114.95
+cidr:               172.22.114.64/27
+netname:            JCAHILL-NET-1
+admin-c:            JCAHILL-DN42
+tech-c:             JCAHILL-DN42
+mnt-by:             JCAHILL-MNT
+status:             ASSIGNED
+source:             DN42

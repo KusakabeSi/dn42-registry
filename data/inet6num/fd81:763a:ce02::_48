@@ -1,0 +1,10 @@
+inet6num:           fd81:763a:ce02:0000:0000:0000:0000:0000 - fd81:763a:ce02:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:763a:ce02::/48
+netname:            ZERTAP-NETWORK
+descr:              IPv6 allocation for zertap
+country:            FI
+admin-c:            ZERTAP-DN42
+tech-c:             ZERTAP-DN42
+mnt-by:             ZERTAP-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd33:9493:a6ed::/48
+origin:             AS4242421243
+mnt-by:             KILOBYTE-MNT
+source:             DN42

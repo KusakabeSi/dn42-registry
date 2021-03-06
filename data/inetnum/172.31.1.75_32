@@ -1,0 +1,7 @@
+inetnum:            172.31.1.75 - 172.31.1.75
+cidr:               172.31.1.75/32
+netname:            CHAOSVPN-THINSERV2
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,11 @@
+inetnum:            172.23.89.0 - 172.23.89.31
+netname:            MOECAST-NET
+descr:              Moecast Network IPv4
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+nserver:            ns1.moecast.dn42
+status:             ASSIGNED
+cidr:               172.23.89.0/27
+ds-rdata:           49612 8 2 563378FD588B97D4394EEEF7CF8337EE0136187F97F84C3D75EAFDFBC70DE375
+source:             DN42

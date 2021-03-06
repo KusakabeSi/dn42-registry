@@ -1,0 +1,5 @@
+route6:             fdcd:3682:1c17::/48
+descr:              Nocturno IPv6 Network
+origin:             AS4242422002
+mnt-by:             NOCTURNO-MNT
+source:             DN42

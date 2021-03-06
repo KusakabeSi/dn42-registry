@@ -1,0 +1,9 @@
+inet6num:           fd42:067c:1160:0000:0000:0000:0000:0000 - fd42:067c:1160:ffff:ffff:ffff:ffff:ffff
+netname:            JULEZ-PUBLIC
+country:            DE
+admin-c:            JULEZ-DN42
+tech-c:             JULEZ-DN42
+mnt-by:             JULEZ-MNT
+status:             ASSIGNED
+cidr:               fd42:67c:1160::/48
+source:             DN42

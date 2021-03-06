@@ -1,0 +1,8 @@
+domain:             ttygap.dn42
+org:                ORG-TTYGAP
+admin-c:            BANDIE-DN42
+tech-c:             BANDIE-DN42
+mnt-by:             BANDIE-MNT
+nserver:            ns.ttygap.dn42 172.23.238.193
+nserver:            ns.ttygap.dn42 fd42:c42:c42::1
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            10.127.1.0 - 10.127.1.255
+cidr:               10.127.1.0/24
+netname:            CROOM
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

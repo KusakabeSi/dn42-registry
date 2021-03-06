@@ -1,0 +1,9 @@
+inetnum:            172.20.6.32 - 172.20.6.63
+cidr:               172.20.6.32/27
+netname:            DAN-NETWORK
+admin-c:            DAN-DN42
+tech-c:             DAN-DN42
+mnt-by:             DAN-MNT
+nserver:            ns.dan.dn42
+status:             ASSIGNED
+source:             DN42

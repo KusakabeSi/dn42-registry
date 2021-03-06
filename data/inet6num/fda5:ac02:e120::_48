@@ -1,0 +1,8 @@
+inet6num:           fda5:ac02:e120:0000:0000:0000:0000:0000 - fda5:ac02:e120:ffff:ffff:ffff:ffff:ffff
+cidr:               fda5:ac02:e120::/48
+netname:            BITCLOUD-NETWORK
+admin-c:            BITCLOUD-DN42
+tech-c:             BITCLOUD-DN42
+mnt-by:             BITCLOUD-MNT
+status:             ASSIGNED
+source:             DN42

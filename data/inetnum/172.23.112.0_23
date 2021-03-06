@@ -1,0 +1,12 @@
+inetnum:            172.23.112.0 - 172.23.113.255
+netname:            SIGTERM-DN42-IP4NET
+descr:              raise(SIGTERM)
+country:            NO
+admin-c:            SIGTERM-DN42
+tech-c:             SIGTERM-DN42
+status:             ASSIGNED
+nserver:            dns1.sigterm.dn42
+nserver:            dns2.sigterm.dn42
+cidr:               172.23.112.0/23
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             babble.dn42
+admin-c:            BABBLE-DN42
+tech-c:             BABBLE-DN42
+mnt-by:             BABBLE-MNT
+nserver:            ns1.babble.dn42 172.20.48.224
+nserver:            ns1.babble.dn42 fd28:4a00:7533:53::1
+nserver:            ns2.babble.dn42 172.20.48.225
+nserver:            ns2.babble.dn42 fd28:4a00:7533:53::2
+source:             DN42

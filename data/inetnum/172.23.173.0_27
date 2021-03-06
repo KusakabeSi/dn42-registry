@@ -1,0 +1,9 @@
+inetnum:            172.23.173.0 - 172.23.173.31
+cidr:               172.23.173.0/27
+netname:            DOZENCLOUD-NETWORK
+admin-c:            DOZENCLOUD-DN42
+tech-c:             DOZENCLOUD-DN42
+mnt-by:             DOZENCLOUD-MNT
+nserver:            ns1.dozencloud.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.22.128.224 - 172.22.128.255
+cidr:               172.22.128.224/27
+netname:            NUXIS-LEGACY-NETWORK
+descr:              Nuxis Networks Legacy Network
+country:            NO
+admin-c:            MBG18-DN42
+tech-c:             MBG18-DN42
+mnt-by:             NUXIS-MNT
+org:                ORG-NUXIS
+nserver:            ns.nuxis.dn42
+status:             ASSIGNED
+source:             DN42

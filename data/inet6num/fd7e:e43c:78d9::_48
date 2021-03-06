@@ -1,0 +1,10 @@
+inet6num:           fd7e:e43c:78d9:0000:0000:0000:0000:0000 - fd7e:e43c:78d9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7e:e43c:78d9::/48
+netname:            TUX333-NETWORK
+descr:              TUX333-NETWORK
+country:            NL
+admin-c:            TUX333-DN42
+tech-c:             TUX333-DN42
+mnt-by:             TUX333-MNT
+status:             ASSIGNED
+source:             DN42

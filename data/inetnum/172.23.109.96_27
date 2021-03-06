@@ -1,0 +1,8 @@
+inetnum:            172.23.109.96 - 172.23.109.127
+cidr:               172.23.109.96/27
+netname:            BANNET-NETWORK
+admin-c:            CAMERON-DN42
+tech-c:             CAMERON-DN42
+mnt-by:             BANNET-MNT
+status:             ASSIGNED
+source:             DN42

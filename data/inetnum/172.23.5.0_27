@@ -1,0 +1,10 @@
+inetnum:            172.23.5.0 - 172.23.5.31
+cidr:               172.23.5.0/27
+netname:            ROBOBO-NETWORK
+descr:              Network of ROBOBO
+country:            SE
+admin-c:            ROBOBO-DN42
+tech-c:             ROBOBO-DN42
+mnt-by:             ROBOBO-MNT
+status:             ASSIGNED
+source:             DN42

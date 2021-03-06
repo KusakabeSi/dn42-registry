@@ -1,0 +1,8 @@
+inetnum:            172.20.46.112 - 172.20.46.119
+cidr:               172.20.46.112/29
+netname:            NETKOLIK-NETWORK
+admin-c:            NETKOLIK-DN42
+tech-c:             NETKOLIK-DN42
+mnt-by:             NETKOLIK-MNT
+status:             ASSIGNED
+source:             DN42

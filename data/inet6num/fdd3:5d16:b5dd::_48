@@ -1,0 +1,7 @@
+inet6num:           fdd3:5d16:b5dd:0000:0000:0000:0000:0000 - fdd3:5d16:b5dd:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:5d16:b5dd::/48
+netname:            ICVPN-KBU
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kbu
+mnt-by:             DN42-MNT
+source:             ICVPN

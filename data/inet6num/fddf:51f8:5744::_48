@@ -1,0 +1,8 @@
+inet6num:           fddf:51f8:5744:0000:0000:0000:0000:0000 - fddf:51f8:5744:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:51f8:5744::/48
+netname:            KANA-NET-1
+admin-c:            KANA-DN42
+tech-c:             KANA-DN42
+mnt-by:             KANA-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+route:              172.22.76.184/29
+descr:              Lan Tian's IP space
+remarks:            Allowed to use by both my main AS and testing AS
+remarks:            My network is open to peering; see https://lantian.pub/page/dn42
+remarks:            or directly contact me at b980120@hotmail.com
+origin:             AS4242422547
+mnt-by:             LANTIAN-MNT
+source:             DN42

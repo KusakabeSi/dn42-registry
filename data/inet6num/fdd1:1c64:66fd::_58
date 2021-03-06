@@ -1,0 +1,10 @@
+inet6num:           fdd1:1c64:66fd:0000:0000:0000:0000:0000 - fdd1:1c64:66fd:003f:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6-NA
+descr:              ATR North America
+country:            US
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               fdd1:1c64:66fd::/58
+source:             DN42

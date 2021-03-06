@@ -1,0 +1,5 @@
+route:              172.20.228.0/26
+descr:              GRMML-NET-HOME
+origin:             AS4242420121
+mnt-by:             GRMML-MNT
+source:             DN42

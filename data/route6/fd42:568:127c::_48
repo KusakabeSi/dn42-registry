@@ -1,0 +1,4 @@
+route6:             fd42:568:127c::/48
+origin:             AS4242420616
+mnt-by:             AOTOKI-MNT
+source:             DN42

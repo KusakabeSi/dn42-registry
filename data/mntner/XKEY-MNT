@@ -1,0 +1,6 @@
+mntner:             XKEY-MNT
+admin-c:            XKEY-DN42
+tech-c:             XKEY-DN42
+mnt-by:             XKEY-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXfW6/f5LU7jRvNMB92ur65qOADKiBHeN4SXILzz+xqyY3ye49K2FRTSJojGpgNFvC/azFt0F9zwGeKfeZqwQH5BDa800LyLOtksP6a3M/oMElA81/UZh3DerFRppHTpNApoxqausQPHTui6dwvdUsGuz+aQOVzFVIeSgk0d2E2wUsZVmSaE5W3cPX+nueln2Z+yzFjgPBA8H3NzDOMae1vq4KNvAeEzwiGwv0C7FjqqXs6ZGMq2zDk90A7jDClRiFuMfBRvDQgrCwYZ+KBCA8tYWoBiU+Wei61G2Ad63O07xzco45+n2t1mXpot+swiUO/lat6VwbcyPA9kDTn+8N dn42 olabs
+source:             DN42

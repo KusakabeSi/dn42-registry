@@ -1,0 +1,9 @@
+inet6num:           fd42:fe2c:d17a:0000:0000:0000:0000:0000 - fd42:fe2c:d17a:ffff:ffff:ffff:ffff:ffff
+netname:            RDBCN-NET6-1
+admin-c:            RDBCN-DN42
+tech-c:             RDBCN-DN42
+mnt-by:             RDBCN-MNT
+nserver:            ns1.as4242422027.dn42
+status:             ASSIGNED
+cidr:               fd42:fe2c:d17a::/48
+source:             DN42

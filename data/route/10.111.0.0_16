@@ -1,0 +1,6 @@
+route:              10.111.0.0/16
+origin:             AS65111
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rheinsiegkreis
+mnt-by:             DN42-MNT
+source:             ICVPN

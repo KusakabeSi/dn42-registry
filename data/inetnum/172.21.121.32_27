@@ -1,0 +1,10 @@
+inetnum:            172.21.121.32 - 172.21.121.63
+netname:            FLORA-NETWORK
+descr:              FLORA27
+country:            CH
+admin-c:            FLORA-DN42
+tech-c:             FLORA-DN42
+mnt-by:             FLORA-MNT
+status:             ASSIGNED
+cidr:               172.21.121.32/27
+source:             DN42

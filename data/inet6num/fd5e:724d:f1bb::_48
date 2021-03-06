@@ -1,0 +1,10 @@
+inet6num:           fd5e:724d:f1bb:0000:0000:0000:0000:0000 - fd5e:724d:f1bb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:724d:f1bb::/48
+netname:            ENPLS-NET6-1
+descr:              IPv6 Network for enpls
+country:            GP
+admin-c:            OUTOUT-DN42
+tech-c:             OUTOUT-DN42
+mnt-by:             OUTOUT-MNT
+status:             ASSIGNED
+source:             DN42

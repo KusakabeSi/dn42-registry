@@ -1,0 +1,4 @@
+route:              172.22.124.0/28
+origin:             AS4242422024
+mnt-by:             GCC-MNT
+source:             DN42

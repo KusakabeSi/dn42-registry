@@ -1,0 +1,9 @@
+inetnum:            10.13.0.0 - 10.13.63.255
+cidr:               10.13.0.0/18
+netname:            ICVPN-WESTKUESTE
+nserver:            1.1.13.10.ipv4.registry-sync.dn42
+nserver:            1.0.f.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.e.e.b.d.a.e.d.3.2.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westkueste
+mnt-by:             DN42-MNT
+source:             ICVPN

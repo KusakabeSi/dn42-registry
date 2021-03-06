@@ -1,0 +1,7 @@
+mntner:             MOECAST-MNT
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+source:             DN42
+auth:               PGPKEY-ECAB32E4
+remarks:            pin-sha256:cv+GjbOaqhfsldvMWzQoEq6uiA2WMkm14dr/SfORMrc=

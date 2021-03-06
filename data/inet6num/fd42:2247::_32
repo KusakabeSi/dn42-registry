@@ -1,0 +1,10 @@
+inet6num:           fd42:2247:0000:0000:0000:0000:0000:0000 - fd42:2247:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            NGW-NETWORK
+descr:              IPv6 NGW NETWORK
+country:            CZ
+admin-c:            NGW-DN42
+tech-c:             NGW-DN42
+mnt-by:             NGW-MNT
+status:             ALLOCATED
+cidr:               fd42:2247::/32
+source:             DN42

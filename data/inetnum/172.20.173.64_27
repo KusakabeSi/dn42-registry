@@ -1,0 +1,8 @@
+inetnum:            172.20.173.64 - 172.20.173.95
+netname:            MKOSMO-V4-NET-001
+admin-c:            MKOSMOSKI-DN42
+tech-c:             MKOSMOSKI-DN42
+mnt-by:             MKOSMO-MNT
+status:             ASSIGNED
+cidr:               172.20.173.64/27
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             0ae.dn42
+admin-c:            SODRE-DN42
+tech-c:             SODRE-DN42
+mnt-by:             SODRE-MNT
+nserver:            ns1.0ae.dn42 172.23.140.53
+source:             DN42

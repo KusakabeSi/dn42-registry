@@ -1,0 +1,4 @@
+route:              172.20.20.160/27
+origin:             AS4242423904
+mnt-by:             LUGINBASH-MNT
+source:             DN42

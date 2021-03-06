@@ -1,0 +1,7 @@
+aut-num:            AS4242423510
+descr:              Inftyloop.tech experimental AS
+admin-c:            INFTYLOOP-DN42
+tech-c:             INFTYLOOP-DN42
+mnt-by:             INFTYLOOP-MNT
+as-name:            INFTYLOOP-AS
+source:             DN42

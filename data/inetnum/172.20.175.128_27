@@ -1,0 +1,11 @@
+inetnum:            172.20.175.128 - 172.20.175.159
+cidr:               172.20.175.128/27
+netname:            42ISLIFE-NETWORK
+descr:              42is Life Network
+country:            CA
+admin-c:            42ISLIFE-DN42
+tech-c:             42ISLIFE-DN42
+mnt-by:             42ISLIFE-MNT
+nserver:            ns1.42islife.dn42
+status:             ASSIGNED
+source:             DN42

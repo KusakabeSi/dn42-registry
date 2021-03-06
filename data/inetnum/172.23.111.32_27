@@ -1,0 +1,8 @@
+inetnum:            172.23.111.32 - 172.23.111.63
+cidr:               172.23.111.32/27
+netname:            A2X-NETWORK-IPV4
+admin-c:            A2X-DN42
+tech-c:             A2X-DN42
+mnt-by:             A2X-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd97:0036:c802:0000:0000:0000:0000:0000 - fd97:0036:c802:ffff:ffff:ffff:ffff:ffff
+cidr:               fd97:36:c802::/48
+netname:            MFK-NET
+country:            DE
+admin-c:            MFK-DN42
+tech-c:             MFK-DN42
+mnt-by:             MFK-MNT
+status:             ASSIGNED
+source:             DN42

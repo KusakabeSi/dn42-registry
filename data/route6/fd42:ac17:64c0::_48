@@ -1,0 +1,4 @@
+route6:             fd42:ac17:64c0::/48
+origin:             AS4242422042
+mnt-by:             KLEEN-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             PUDDING-MNT
+admin-c:            PUDDING-DN42
+tech-c:             PUDDING-DN42
+mnt-by:             PUDDING-MNT
+source:             DN42
+auth:               pgp-fingerprint 7CEB21D25ED330B93331FC86FE4C180A82B704EF

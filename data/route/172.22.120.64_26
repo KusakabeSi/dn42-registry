@@ -1,0 +1,5 @@
+route:              172.22.120.64/26
+descr:              RELROD-ROUTE
+origin:             AS4242423000
+mnt-by:             RELROD-MNT
+source:             DN42

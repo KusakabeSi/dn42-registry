@@ -1,0 +1,12 @@
+inetnum:            172.21.118.128 - 172.21.118.159
+cidr:               172.21.118.128/27
+netname:            VRNET-NETWORK
+descr:              Network of VRNET for Server in node-sg1
+country:            TH
+admin-c:            VRNET-DN42
+tech-c:             VRNET-DN42
+mnt-by:             VRNET-MNT
+nserver:            ns1.vrnet.dn42
+nserver:            ns2.vrnet.dn42
+status:             ASSIGNED
+source:             DN42

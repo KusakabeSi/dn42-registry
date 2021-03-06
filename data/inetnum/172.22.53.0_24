@@ -1,0 +1,12 @@
+inetnum:            172.22.53.0 - 172.22.53.255
+nserver:            uz5d3wnxjz4knk85k92hpvukwt03frmkv12k4lp3jxw8gmtdvfbvqr.ns.somerandomnick.dn42
+nserver:            uz5ynfcj3ldl4sl9zlqmn8g6740guhrp8vz4xmv2hvd3bc3bth120p.ns.somerandomnick.dn42
+netname:            SRN's anycast DNS experiment
+descr:              http://www.srn.dn42/crazydns
+remarks:            To participate, please contact SRN.
+admin-c:            SRN-DN42
+tech-c:             SRN-DN42
+status:             ALLOCATED
+cidr:               172.22.53.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+domain:             abcde.dn42
+descr:              ABCDE Domain
+admin-c:            ABCDE-DN42
+tech-c:             ABCDE-DN42
+mnt-by:             ABCDE-MNT
+nserver:            ns1.abcde.dn42 172.23.150.120
+nserver:            ns2.abcde.dn42 172.23.150.121
+nserver:            ns1.abcde.dn42 fd00:abcd:e:000e::120
+nserver:            ns2.abcde.dn42 fd00:abcd:e:000e::121
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            172.31.18.0 - 172.31.19.255
+cidr:               172.31.18.0/23
+netname:            CHAOSVPN-HAEGAR-TOKAMAK
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

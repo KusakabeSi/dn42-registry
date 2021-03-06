@@ -1,0 +1,10 @@
+inet6num:           fdf8:34f6:4f6f:0000:0000:0000:0000:0000 - fdf8:34f6:4f6f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:34f6:4f6f::/48
+netname:            JASONSREALM-NETWORK
+descr:              JasonsRealm Network
+country:            US
+admin-c:            JRS83-DN42
+tech-c:             JRS83-DN42
+mnt-by:             JASONSREALM-MNT
+status:             ASSIGNED
+source:             DN42

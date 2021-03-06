@@ -1,0 +1,5 @@
+route6:             fdca:88bb:ba3a::/48
+origin:             AS4242420677
+max-length:         48
+mnt-by:             NEVERLOCATE-MNT
+source:             DN42

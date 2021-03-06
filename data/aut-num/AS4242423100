@@ -1,0 +1,12 @@
+aut-num:            AS4242423100
+remarks:            +---------------------------------------------------+
+remarks:            | * Open peering policy, OpenVPN preferred.         |
+remarks:            | * For peering contact me at DN42-Delta@wolke7.net |
+remarks:            |   or via IRC Delta @ hackint                      |
+remarks:            |   or XMPP: Delta@Jabber.noname-ev.de              |
+remarks:            +---------------------------------------------------+
+as-name:            DELTA-AS
+admin-c:            DELTA-DN42
+tech-c:             DELTA-DN42
+mnt-by:             DELTA-MNT
+source:             DN42

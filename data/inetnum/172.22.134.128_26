@@ -1,0 +1,11 @@
+inetnum:            172.22.134.128 - 172.22.134.191
+netname:            DELTAMAN-LAN
+descr:              DELTAMAN-LAN
+country:            NL
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+status:             ALLOCATED
+nserver:            ns1.deltaman.dn42
+cidr:               172.22.134.128/26
+source:             DN42

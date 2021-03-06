@@ -1,0 +1,7 @@
+inetnum:            172.31.0.10 - 172.31.0.10
+cidr:               172.31.0.10/32
+netname:            CHAOSVPN-DVB
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

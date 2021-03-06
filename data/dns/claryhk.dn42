@@ -1,0 +1,11 @@
+domain:             claryhk.dn42
+admin-c:            CLARISSA-DN42
+tech-c:             CLARISSA-DN42
+mnt-by:             CLARISSA-MNT
+nserver:            clary.claryhk.dn42 fd00:1010:519::1
+nserver:            photographipv4.claryhk.dn42 172.20.138.1
+nserver:            yvonne.claryhk.dn42 fd00:1010:519::2
+nserver:            miraitrainipv4.claryhk.dn42 172.20.138.2
+nserver:            saaya.claryhk.dn42 fd00:1010:519::3
+nserver:            stepbystepipv4.claryhk.dn42 172.20.138.3
+source:             DN42

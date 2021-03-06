@@ -1,0 +1,7 @@
+domain:             bit.dn42
+admin-c:            JASTRUP-DN42
+tech-c:             JASTRUP-DN42
+mnt-by:             BITBAKERS-MNT
+nserver:            ns1.bit.dn42 172.21.66.18
+nserver:            ns2.bit.dn42 172.21.66.193
+source:             DN42

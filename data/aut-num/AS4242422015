@@ -1,0 +1,7 @@
+aut-num:            AS4242422015
+as-name:            WUNIX-AS
+descr:              AS for Wunix's Network Labs
+admin-c:            WUNIX-DN42
+tech-c:             WUNIX-DN42
+mnt-by:             WUNIX-MNT
+source:             DN42

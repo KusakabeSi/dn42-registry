@@ -1,0 +1,7 @@
+mntner:             JASONSREALM-MNT
+admin-c:            JRS83-DN42
+tech-c:             JRS83-DN42
+mnt-by:             JASONSREALM-MNT
+source:             DN42
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAiB5ObVCwmQ2wrShfHBPb9/UrG6i1hUpwMe2/IQvM8bf84GxGA2HJ9SL7OPBDAZ9x1sq6UXrvcD0bkN+CTBu0OvYPSXhhnmVaLoziw2lkT39+AIzTk6spfCm2hgEfNHulQvsXALs2egiqWR2ONc3BgZRcQH4Hy7EeXjfb/29o4QsLw5NPkOchuExgHH5wsymiyt2ND5gpf/qbm7zuPqkTX9gp0yeyG4pgHfZcn+DgyBvG1klk5ebCdTBmpUD3i4FGooph0m/AVRQVKLI91tkaQsvMjODKWSlD4YbxOCIm43LDFDupl3lUyUifPktoQRKeUU9HuIK06oKlTj0NObcmtw== rsa-key-20180907
+auth:               pgp-fingerprint BAA510DBFEB3DF1688E844354A7AE4A03560A50B

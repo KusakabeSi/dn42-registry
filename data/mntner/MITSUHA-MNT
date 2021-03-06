@@ -1,0 +1,7 @@
+mntner:             MITSUHA-MNT
+descr:              Mitsuha Networks
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA+4dytC9qvynwe0JBXlj7gfd/A8rSY7uraH7kMGYmzmYo8xu53CIRj53atewXl1TjfMCJwCA9JHI43G1I1pPp6vutBaWqtZNiJV220rs61ekJBY0N6+FJSXAqVTrppircdYKAJYL/nAVabah62Ih41UXCihb++U53Z2KNPuy08PHYA5mNYno+6O+n9+ueJwyxkvtSd3TR2u8tBjUd7t8RAbILm7Ort3g9l4qxZg6efFDogv+xURh9dX45McK7V4WLuiRhDZx9bcerEv9M130Qen9jPCKAkMP0uFQsb+CFMD/o/W0h2Z/PblmzZrgAdGNLNLSDefDpg5MFmF5gsBnlUQ==
+admin-c:            MITSUHA-DN42
+tech-c:             MITSUHA-DN42
+mnt-by:             MITSUHA-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.35.0.0 - 10.35.255.255
+cidr:               10.35.0.0/16
+netname:            ICVPN-COTTBUS
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: cottbus
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inetnum:            10.127.8.128 - 10.127.8.135
+cidr:               10.127.8.128/29
+netname:            Edward_P-Ezpro
+admin-c:            EDWARD-P-NEONETWORK
+tech-c:             EDWARD-P-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,5 @@
+route:              172.20.1.0/24
+origin:             AS4242420119
+max-length:         24
+mnt-by:             JRB0001-MNT
+source:             DN42

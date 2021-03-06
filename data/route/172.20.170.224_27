@@ -1,0 +1,4 @@
+route:              172.20.170.224/27
+origin:             AS4242420157
+mnt-by:             IBJ-MNT
+source:             DN42

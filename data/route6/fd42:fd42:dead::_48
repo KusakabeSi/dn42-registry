@@ -1,0 +1,5 @@
+route6:             fd42:fd42:dead::/48
+origin:             AS4242420280
+max-length:         48
+mnt-by:             BIT-MNT
+source:             DN42

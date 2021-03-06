@@ -1,0 +1,4 @@
+route:              172.20.224.128/26
+origin:             AS4242422866
+mnt-by:             OCEANLY-MNT
+source:             DN42

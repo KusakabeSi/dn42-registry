@@ -1,0 +1,7 @@
+route6:             fdcc:8b7e:4593::/48
+origin:             AS4242421237
+max-length:         48
+admin-c:            RG-DN42
+tech-c:             RG-DN42
+mnt-by:             RG-MNT
+source:             DN42

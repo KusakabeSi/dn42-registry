@@ -1,0 +1,6 @@
+route6:             fd85:7370:a8a1::/48
+origin:             AS4242421690
+max-length:         48
+mnt-by:             NEV-MNT
+mnt-by:             WILL-MNT
+source:             DN42

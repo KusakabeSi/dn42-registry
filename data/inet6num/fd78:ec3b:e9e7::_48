@@ -1,0 +1,9 @@
+inet6num:           fd78:ec3b:e9e7:0000:0000:0000:0000:0000 - fd78:ec3b:e9e7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd78:ec3b:e9e7::/48
+netname:            DEEPWATER-NET-1
+country:            DE
+admin-c:            DEEPWATER-DN42
+tech-c:             DEEPWATER-DN42
+mnt-by:             DEEPWATER-MNT
+status:             ASSIGNED
+source:             DN42

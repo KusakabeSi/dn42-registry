@@ -1,0 +1,7 @@
+domain:             villisek.dn42
+admin-c:            VILLISEK-DN42
+tech-c:             VILLISEK-DN42
+mnt-by:             VILLISEK-MNT
+nserver:            ns1.villisek.dn42 172.20.149.17
+nserver:            ns1.villisek.dn42 fd98:308:41fc::1
+source:             DN42

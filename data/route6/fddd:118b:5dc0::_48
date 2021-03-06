@@ -1,0 +1,5 @@
+route6:             fddd:118b:5dc0::/48
+descr:              xse's ipv6 route
+origin:             AS4242423146
+mnt-by:             XSE-MNT
+source:             DN42

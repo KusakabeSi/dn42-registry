@@ -1,0 +1,5 @@
+route:              172.20.72.0/21
+descr:              zentralwerk network
+origin:             AS4242421127
+mnt-by:             ZW-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd64:cafe:cafe::/48
+origin:             AS4242423400
+mnt-by:             DAN-MNT
+source:             DN42

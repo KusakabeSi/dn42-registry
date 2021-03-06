@@ -1,0 +1,9 @@
+inetnum:            172.23.200.0 - 172.23.200.255
+netname:            FOOKER-NET
+country:            DE
+admin-c:            FOOKER-DN42
+tech-c:             FOOKER-DN42
+mnt-by:             FOOKER-MNT
+status:             ASSIGNED
+cidr:               172.23.200.0/24
+source:             DN42

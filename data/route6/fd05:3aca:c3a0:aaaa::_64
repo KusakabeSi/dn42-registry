@@ -1,0 +1,5 @@
+route6:             fd05:3aca:c3a0:aaaa::/64
+origin:             AS0
+max-length:         128
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

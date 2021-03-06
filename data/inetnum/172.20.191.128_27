@@ -1,0 +1,8 @@
+inetnum:            172.20.191.128 - 172.20.191.159
+cidr:               172.20.191.128/27
+netname:            UFFSALOT-NETWORK
+admin-c:            UFFSALOT-DN42
+tech-c:             UFFSALOT-DN42
+mnt-by:             UFFSALOT-MNT
+status:             ASSIGNED
+source:             DN42

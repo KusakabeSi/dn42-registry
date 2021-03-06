@@ -1,0 +1,8 @@
+domain:             diemaco.dn42
+descr:              dns entry
+admin-c:            DIEMACO-DN42
+tech-c:             DIEMACO-DN42
+mnt-by:             DIEMACO-MNT
+nserver:            chicago.diemaco.dn42 172.20.4.129
+nserver:            seattle.diemaco.dn42 172.20.4.130
+source:             DN42

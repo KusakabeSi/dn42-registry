@@ -1,0 +1,10 @@
+inetnum:            172.23.217.0 - 172.23.217.31
+netname:            SERNET-DN42-IPV4
+country:            CN
+admin-c:            HAKSRPD-DN42
+tech-c:             HAKSRPD-DN42
+mnt-by:             SERNET-MNT
+status:             ASSIGNED
+cidr:               172.23.217.0/27
+remarks:            Want some peer in China Mainland, contact me at haksrpd@outlook.com
+source:             DN42

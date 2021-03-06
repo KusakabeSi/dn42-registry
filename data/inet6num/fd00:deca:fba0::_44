@@ -1,0 +1,10 @@
+inet6num:           fd00:deca:fba0:0000:0000:0000:0000:0000 - fd00:deca:fbaf:ffff:ffff:ffff:ffff:ffff
+netname:            DECAFBAD-NET
+descr:              wusel's DN42 v6 testbed
+country:            DE
+admin-c:            WUSEL-DN42
+tech-c:             WUSEL-DN42
+mnt-by:             WUSEL-MNT
+status:             ASSIGNED
+cidr:               fd00:deca:fba0::/44
+source:             DN42

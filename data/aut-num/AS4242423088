@@ -1,0 +1,14 @@
+aut-num:            AS4242423088
+as-name:            SUNNET
+descr:              Email: admin@6700.cc Telegram: tg126955 DN42 IRC: sunnet
+remarks:            New peers welcome and open.
+remarks:            Peering details:
+remarks:            https://dn42.6700.cc - http://sun.dn42
+remarks:            --------------------------------------------------------
+remarks:            Looking glass:
+remarks:            https://lg.dn42.6700.cc - http://lg.sun.dn42
+remarks:            --------------------------------------------------------
+admin-c:            SUNNET-DN42
+tech-c:             SUNNET-DN42
+mnt-by:             SUNNET-MNT
+source:             DN42

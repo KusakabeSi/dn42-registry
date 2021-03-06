@@ -1,0 +1,4 @@
+route6:             fd48:fcde:4242::/48
+origin:             AS4242422022
+mnt-by:             8FCDE-MNT
+source:             DN42

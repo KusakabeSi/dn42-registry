@@ -1,0 +1,17 @@
+inetnum:            172.20.49.128 - 172.20.49.255
+netname:            MEDIA24-RU-MSK-N4
+descr:              --
+country:            RU
+admin-c:            FFAMAX-DN42
+tech-c:             FFAMAX-DN42
+mnt-by:             FFAMAX-MNT
+status:             ASSIGNED
+remarks:            172.20.49.128/30 - AS4242420039 - 174.136.108.179 - mkb
+remarks:            172.20.49.132/30 - AS4242420022 - 212.90.134.114 - toBee
+remarks:            172.20.49.136/30 - AS4242420039 - 45.76.2.245 - mkb
+remarks:            172.20.49.140/30 - AS4242423721 - la.wow911.com - askdaddy
+remarks:            172.20.49.148/30 - AS____ - ____ - ____
+remarks:            172.20.49.152/30 - AS64915 - 91.121.9.203 - Frederic
+remarks:            172.20.49.156/30 - AS____ - ____ - ____
+cidr:               172.20.49.128/25
+source:             DN42

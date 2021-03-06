@@ -1,0 +1,7 @@
+inet6num:           fdd9:a0b1:5bd0:0000:0000:0000:0000:0000 - fdd9:a0b1:5bd0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd9:a0b1:5bd0::/48
+netname:            ICVPN-METTMANN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mettmann
+mnt-by:             DN42-MNT
+source:             ICVPN

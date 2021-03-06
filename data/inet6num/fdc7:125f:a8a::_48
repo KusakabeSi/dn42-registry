@@ -1,0 +1,10 @@
+inet6num:           fdc7:125f:0a8a:0000:0000:0000:0000:0000 - fdc7:125f:0a8a:ffff:ffff:ffff:ffff:ffff
+netname:            PHOTON-NET6
+descr:              I've made it this far..
+country:            NL
+admin-c:            PHOTON-DN42
+tech-c:             PHOTON-DN42
+mnt-by:             PHOTON-MNT
+status:             ALLOCATED
+cidr:               fdc7:125f:a8a::/48
+source:             DN42

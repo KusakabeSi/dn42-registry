@@ -1,0 +1,11 @@
+inetnum:            172.20.178.32 - 172.20.178.63
+netname:            IMP-DN42-IP4NET
+descr:              IMPnet address space
+country:            LV
+admin-c:            ALBS-DN42
+tech-c:             ALBS-DN42
+mnt-by:             IMP-MNT
+nserver:            ns0.imp.dn42
+status:             ASSIGNED
+cidr:               172.20.178.32/27
+source:             DN42

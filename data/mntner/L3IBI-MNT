@@ -1,0 +1,6 @@
+mntner:             L3IBI-MNT
+admin-c:            L3IBI-DN42
+tech-c:             L3IBI-DN42
+mnt-by:             L3IBI-MNT
+auth:               pgp-fingerprint 3CE70725ADB4C27FF106C792BAE67EC668CAFB30
+source:             DN42

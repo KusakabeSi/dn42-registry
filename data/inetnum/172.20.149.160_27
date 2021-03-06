@@ -1,0 +1,7 @@
+inetnum:            172.20.149.160 - 172.20.149.191
+cidr:               172.20.149.160/27
+country:            US
+netname:            DCR-NET
+mnt-by:             DCR-MNT
+source:             DN42
+status:             ASSIGNED

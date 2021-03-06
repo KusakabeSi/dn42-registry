@@ -1,0 +1,7 @@
+mntner:             LZ-MNT
+descr:              LZ Networks
+admin-c:            MICROLZ-DN42
+tech-c:             MICROLZ-DN42
+mnt-by:             LZ-MNT
+auth:               pgp-fingerprint 0D48472E6FD469D0DEE091FC68A74AE5626DE107
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fde1:0122:9322:0000:0000:0000:0000:0000 - fde1:0122:9322:ffff:ffff:ffff:ffff:ffff
+cidr:               fde1:122:9322::/48
+netname:            SOHA-NETWORK
+country:            CN
+descr:              Soha's IPv6 Network @ DN42
+status:             ASSIGNED
+admin-c:            SOHA-DN42
+tech-c:             SOHA-DN42
+mnt-by:             SOHA-MNT
+source:             DN42

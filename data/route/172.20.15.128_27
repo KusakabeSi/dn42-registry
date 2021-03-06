@@ -1,0 +1,4 @@
+route:              172.20.15.128/27
+origin:             AS4242421031
+mnt-by:             KOE-MNT
+source:             DN42

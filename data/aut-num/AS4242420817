@@ -1,0 +1,8 @@
+aut-num:            AS4242420817
+as-name:            Ciel-Net
+descr:              Ciel's Naive AS
+admin-c:            CIEL-DN42
+tech-c:             CIEL-DN42
+remarks:            You may refer to https://dn42.ciel.dev for details.
+mnt-by:             CIEL-MNT
+source:             DN42

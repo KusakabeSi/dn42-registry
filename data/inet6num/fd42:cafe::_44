@@ -1,0 +1,12 @@
+inet6num:           fd42:cafe:0000:0000:0000:0000:0000:0000 - fd42:cafe:000f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:cafe::/44
+netname:            STARCLOUD-NETWORK
+descr:              Star's lab network
+country:            CN
+admin-c:            SB-DN42
+tech-c:             SB-DN42
+mnt-by:             STARCLOUD-MNT
+nserver:            rdns1.starcloud.dn42
+nserver:            rdns2.starcloud.dn42
+status:             ASSIGNED
+source:             DN42

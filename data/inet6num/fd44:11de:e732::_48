@@ -1,0 +1,10 @@
+inet6num:           fd44:11de:e732:0000:0000:0000:0000:0000 - fd44:11de:e732:ffff:ffff:ffff:ffff:ffff
+netname:            ROMERO-DN42-ULA2-IP6NET
+descr:              ROMERO's IPv6 network
+country:            LT
+admin-c:            ROMERO-DN42
+tech-c:             ROMERO-DN42
+status:             ASSIGNED
+cidr:               fd44:11de:e732::/48
+mnt-by:             DUMMY-MNT
+source:             DN42

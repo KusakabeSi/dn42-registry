@@ -1,0 +1,11 @@
+inet6num:           fd10:1074:41f6:0000:0000:0000:0000:0000 - fd10:1074:41f6:ffff:ffff:ffff:ffff:ffff
+netname:            ALLO-DN42-ULA-IP6NET
+descr:              Allo's ULA IPv6 network
+country:            DE
+admin-c:            ALLO-DN42
+tech-c:             ALLO-DN42
+status:             ASSIGNED
+nserver:            ns.allo.dn42
+cidr:               fd10:1074:41f6::/48
+mnt-by:             ALLO-MNT
+source:             DN42

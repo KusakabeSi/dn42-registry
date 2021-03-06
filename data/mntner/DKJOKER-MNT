@@ -1,0 +1,7 @@
+mntner:             DKJOKER-MNT
+descr:              DKJOKER
+admin-c:            DKJOKER-DN42
+tech-c:             DKJOKER-DN42
+auth:               pgp-fingerprint B825C43DC3A339C14FDBDE0F9AD4F22C30941EC5
+mnt-by:             DKJOKER-MNT
+source:             DN42

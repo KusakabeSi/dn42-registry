@@ -1,0 +1,7 @@
+domain:             qinlong.dn42
+admin-c:            QINLONG-DN42
+tech-c:             QINLONG-DN42
+mnt-by:             QINLONG-MNT
+nserver:            ns1.qinlong.dn42 172.22.169.20
+nserver:            ns1.qinlong.dn42 fd83:d1d1:2690:169::20
+source:             DN42

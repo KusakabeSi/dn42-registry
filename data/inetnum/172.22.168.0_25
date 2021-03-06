@@ -1,0 +1,10 @@
+inetnum:            172.22.168.0 - 172.22.168.127
+netname:            YANG-DN42-IP4NET
+descr:              yang's dn42 network
+country:            SI
+admin-c:            YANG-DN42
+tech-c:             YANG-DN42
+mnt-by:             YANG-MNT
+status:             ASSIGNED
+cidr:               172.22.168.0/25
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdb0:4339:2aff:0000:0000:0000:0000:0000 - fdb0:4339:2aff:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-IIIDEFIX-MULTI42-DN42
+descr:              iiidefix multicast 42 prefix
+country:            DE
+admin-c:            IIIDEFIX-DN42
+tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
+mnt-by:             IIIDEFIX-MNT
+status:             ASSIGNED
+cidr:               fdb0:4339:2aff::/48
+source:             DN42

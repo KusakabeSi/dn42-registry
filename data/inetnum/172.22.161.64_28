@@ -1,0 +1,10 @@
+inetnum:            172.22.161.64 - 172.22.161.79
+netname:            KD7IKE-NET1
+descr:              KD7IKE-NET1
+country:            US
+admin-c:            KD7IKE-DN42
+tech-c:             KD7IKE-DN42
+mnt-by:             KD7IKE-MNT
+status:             ASSIGNED
+cidr:               172.22.161.64/28
+source:             DN42

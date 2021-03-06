@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2189:0000:0000:0000:0000:0000 - fd42:4242:2189:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2189::/48
+country:            JP
+descr:              iEdon Networks - Backbone and branches
+netname:            IEDON-NET
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+nserver:            ns1.iedon.dn42
+status:             ASSIGNED
+source:             DN42

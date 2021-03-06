@@ -1,0 +1,4 @@
+route:              172.20.46.64/28
+origin:             AS4242421277
+mnt-by:             NOJJA-MNT
+source:             DN42

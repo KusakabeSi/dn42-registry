@@ -1,0 +1,6 @@
+mntner:             LPV-MNT
+admin-c:            LPV-DN42
+tech-c:             LPV-DN42
+mnt-by:             LPV-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOhTHtn2EIzG4Oq8D3U7RtGI7+MLCOWY0TW8+ZjIKcvM
+source:             DN42

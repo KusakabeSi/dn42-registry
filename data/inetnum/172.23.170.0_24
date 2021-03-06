@@ -1,0 +1,11 @@
+inetnum:            172.23.170.0 - 172.23.170.255
+cidr:               172.23.170.0/24
+netname:            NET-SEBI-DN42
+descr:              Sebi's DN42 IPv4 network
+nserver:            ns.sebi.dn42
+country:            DE
+admin-c:            SEBI-DN42
+tech-c:             SEBI-DN42
+mnt-by:             SEBI-MNT
+status:             ASSIGNED
+source:             DN42

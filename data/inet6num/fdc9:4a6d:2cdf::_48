@@ -1,0 +1,10 @@
+inet6num:           fdc9:4a6d:2cdf:0000:0000:0000:0000:0000 - fdc9:4a6d:2cdf:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc9:4a6d:2cdf::/48
+netname:            CSN-C-V6
+descr:              CSN IPv6 Network
+country:            DE
+admin-c:            JAKOB-DN42
+tech-c:             JAKOB-DN42
+mnt-by:             JAKOB-MNT
+status:             ASSIGNED
+source:             DN42

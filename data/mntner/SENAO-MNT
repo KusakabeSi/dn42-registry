@@ -1,0 +1,7 @@
+mntner:             SENAO-MNT
+descr:              SENAO-DN42-NET
+admin-c:            SENAO-DN42
+tech-c:             SENAO-DN42
+mnt-by:             SENAO-MNT
+source:             DN42
+auth:               pgp-fingerprint C67B9427C281D6220D5A6B33F8DF100DE86472D4

@@ -1,0 +1,10 @@
+inetnum:            172.23.231.0 - 172.23.231.63
+netname:            NARNIA-V4NET
+descr:              Narnia IPv4 Network
+country:            AU
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+status:             ASSIGNED PI
+cidr:               172.23.231.0/26
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             JPT-MNT
+admin-c:            JPT-DN42
+tech-c:             JPT-DN42
+mnt-by:             JPT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGWpwD8HKaBHqP2BD0wvgXyCxF0BJekcXRJDlfZOuvre
+auth:               pgp-fingerprint D66F4F7687CD68D78EA9D12D3B1C09F02E57908E

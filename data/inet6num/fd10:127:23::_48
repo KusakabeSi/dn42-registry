@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0023:0000:0000:0000:0000:0000 - fd10:0127:0023:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:23::/48
+netname:            leedagee
+admin-c:            LEEDAGEE-NEONETWORK
+tech-c:             LEEDAGEE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

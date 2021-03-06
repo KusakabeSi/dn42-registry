@@ -1,0 +1,4 @@
+route:              172.23.173.0/27
+origin:             AS4242421178
+mnt-by:             DOZENCLOUD-MNT
+source:             DN42

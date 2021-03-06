@@ -1,0 +1,11 @@
+inetnum:            172.20.232.0 - 172.20.232.31
+netname:            SAINTWOLF-NETWORK
+descr:              Saintwolf's Network
+country:            GB
+admin-c:            SAINTWOLF-DN42
+tech-c:             SAINTWOLF-DN42
+mnt-by:             SAINTWOLF-MNT
+nserver:            ns1.saintwolf.dn42
+status:             ASSIGNED
+cidr:               172.20.232.0/27
+source:             DN42

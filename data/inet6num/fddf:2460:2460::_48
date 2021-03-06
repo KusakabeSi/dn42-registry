@@ -1,0 +1,10 @@
+inet6num:           fddf:2460:2460:0000:0000:0000:0000:0000 - fddf:2460:2460:ffff:ffff:ffff:ffff:ffff
+country:            DE
+admin-c:            RFC2460-DN42
+tech-c:             RFC2460-DN42
+mnt-by:             RFC2460-MNT
+status:             ALLOCATED
+descr:              RFC2460 V6 NET
+cidr:               fddf:2460:2460::/48
+netname:            Unnamed fddf:2460:2460::/48 Network
+source:             DN42

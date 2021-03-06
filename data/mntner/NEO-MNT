@@ -1,0 +1,7 @@
+mntner:             NEO-MNT
+descr:              NEO-MNT
+admin-c:            NEO-DN42
+tech-c:             NEO-DN42
+mnt-by:             NEO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDt/5DNejsTWiE5LcNoDk+7u5c0ELjULBZl+QrRaZs4bBf2kTCa5OxxjbX9HagivXqIyWPowFQhqnGguE5fSRMFr92JcIP70HIockC5xOjPmjDVpd8P//0GomTngac1kdhj/8plRwCLiMp/TPad1OQ7Sc8m6mpT094Aq2aWYEFn1Wuf+B+VT3D/ItayaWMNCk0+1MI99xtA33jyB8Rok7l/LtXNo1PNIio2KflHoCtBVRe9TQ69/kI8gxJ3u8tC+7feV+NDk9B6o5QzDyFGLiuIWCXvv5oiXp7F64juBdCLNg0aXDYAJVPUcgrVth085NcvFLvhL864i0PDOYg0+ULj mli@matmac
+source:             DN42

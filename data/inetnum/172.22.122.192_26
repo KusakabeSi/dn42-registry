@@ -1,0 +1,11 @@
+inetnum:            172.22.122.192 - 172.22.122.255
+netname:            NET-TRIHOP-000
+country:            US
+admin-c:            TRIHOP-DN42
+tech-c:             TRIHOP-DN42
+mnt-by:             TRIHOP-MNT
+status:             ASSIGNED
+cidr:               172.22.122.192/26
+nserver:            ns1.trihop.dn42
+nserver:            ns2.trihop.dn42
+source:             DN42

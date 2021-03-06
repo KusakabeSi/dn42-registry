@@ -1,0 +1,5 @@
+route6:             fda6:2474:15a4::/48
+origin:             AS4242423078
+max-length:         48
+mnt-by:             HEXANET-MNT
+source:             DN42

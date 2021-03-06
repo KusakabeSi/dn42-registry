@@ -1,0 +1,6 @@
+mntner:             AMNET-MNT
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcFraD1ke+WwfEEzQ9ucueHyU/kyZk3ob9EVVRYQhRfmMN5yk3WJ/jh7Blf6g+olgdvwfuvdAYYy4KbgTaW+7gjzkvnUS4omNAb5FSwCmejQ1FhTlVBXXa4vrO2gvNmzdpUuUjyQmolt3tgiSDFQ/0e8mhtVijaRzqRZO7QOgFjSawkrhhh+AP0t9RrodIiNo7z402KoFbJSTeF9Q4AaA4YFUDVXa8WtWhADCPsjHqYNURFoXR6WVXdvUMiypouh96KAefq2364YLj8sishhdeXRGRj7SNHTLtpX2pKUHJhj7RRKkpIaO6ZyxnjJTggM03HZ2fG2vnuoeFEhQrBhYh rsa-key-dekinw-dn42
+source:             DN42

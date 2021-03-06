@@ -1,0 +1,7 @@
+domain:             as4242420415.dn42
+admin-c:            TYLER-DN42
+tech-c:             TYLER-DN42
+mnt-by:             TYLER-MNT
+nserver:            ns1.as4242420415.dn42 172.23.151.221
+nserver:            ns2.as4242420415.dn42 172.23.151.222
+source:             DN42

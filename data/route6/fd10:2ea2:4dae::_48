@@ -1,0 +1,6 @@
+route6:             fd10:2ea2:4dae::/48
+origin:             AS64894
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: glienicke-nordbahn
+mnt-by:             DN42-MNT
+source:             ICVPN

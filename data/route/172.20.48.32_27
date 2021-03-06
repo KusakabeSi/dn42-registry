@@ -1,0 +1,4 @@
+route:              172.20.48.32/27
+origin:             AS4242420573
+mnt-by:             PHUZION-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:9942:e15b::/56
+descr:              KYW-CORE
+origin:             AS4242422161
+mnt-by:             DAURNIMATOR-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.20.176.0 - 172.20.176.255
+netname:            TWINK0RNET-FFM-NLZUID-IX
+descr:              NL Zuid IXP Space for Frankfurt / Germany
+country:            DE
+admin-c:            TWINK0R-DN42
+admin-c:            NL-ZUID-DN42
+tech-c:             TWINK0R-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             TWINK0R-MNT
+status:             ASSIGNED
+cidr:               172.20.176.0/24
+source:             DN42

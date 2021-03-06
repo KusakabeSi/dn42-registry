@@ -1,0 +1,7 @@
+mntner:             BLACKHOLETW-MNT
+descr:              Blackhole Networking Taiwan Maintainer
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCysOHhdbm156l8WSr0q6cKaMEM7J6QYpfYbCgFHT5f9GTftwe37cuJmRRz9V9pWUXEWV7ssO5DMQ953af2ZKFqYFdFtMcRjSJIP/ahWYHQ1Ptq5tzgvKxGFL6ncGki+aPaJ0/Xal4UxVjKnexnyTpsxV6JKkyHZY6LreGa66A4BGIhYRgK5JcyMVmIZWyWm+meXmN3Y3rvwqCCclSDIkSIJKkzwj/4dWSmuFsrrJO0BAxFjkpBVor7Au26gWoesaXHVG0vY+oeKWqH2nUT9IQ1yTw3urnDdDqYHl4jUu/CW0B/ynO9+POIDgnCT55Ot+02V/Vbmrz053ZLbL7PbKsgLZkmNjmYqPOxRcnE4hJ79xoWbH3H/F6QMLxFNjJoP6/Kke7EVd93Fgy1pJro/PwoEAclMEAS7GZxjNqvvxx49qkCJYs+RE1q4UOuyFzeVrua4/wGiF3sBCH5wLp3DLh7hZqYw4iaJcmhhnqYZOWnUGFs2fs608tAVBpg7nCJz3Kom6fyQNJE2Q6yPxp1G/OvarxYOznFFa1+v0Tkdw9DsvUgEVnm+42mPiJXmU/PhaUFu1jDPp4B++5e/dIor2nKMvsEQ8V0xYvv3wOAfEB02hBJS/A7VIN50Usi0bfskzJQ7N27qJAEQ678wH26VBDCDaXqwdQHYO1JZMrQKGNtbQ== frank@nbl-desktop
+admin-c:            FRANKCHANG-DN42
+tech-c:             FRANKCHANG-DN42
+mnt-by:             BLACKHOLETW-MNT
+source:             DN42

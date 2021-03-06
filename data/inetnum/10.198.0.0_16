@@ -1,0 +1,15 @@
+inetnum:            10.198.0.0 - 10.198.255.255
+cidr:               10.198.0.0/16
+netname:            ICVPN-WESTPFALZ
+nserver:            1.8.198.10.ipv4.registry-sync.dn42
+nserver:            1.16.198.10.ipv4.registry-sync.dn42
+nserver:            1.24.198.10.ipv4.registry-sync.dn42
+nserver:            1.32.198.10.ipv4.registry-sync.dn42
+nserver:            1.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.e.d.1.e.f.4.c.6.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.d.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.e.d.1.e.f.4.c.6.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.e.d.1.e.f.4.c.6.c.d.f.ipv6.registry-sync.dn42
+nserver:            1.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.e.d.1.e.f.4.c.6.c.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: westpfalz
+mnt-by:             DN42-MNT
+source:             ICVPN

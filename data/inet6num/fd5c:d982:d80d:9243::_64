@@ -1,0 +1,9 @@
+inet6num:           fd5c:d982:d80d:9243:0000:0000:0000:0000 - fd5c:d982:d80d:9243:ffff:ffff:ffff:ffff
+cidr:               fd5c:d982:d80d:9243::/64
+netname:            JAMIEWEB-V6-NET-1
+country:            GB
+admin-c:            JAMIEWEB-DN42
+tech-c:             JAMIEWEB-DN42
+mnt-by:             JAMIEWEB-MNT
+status:             ASSIGNED
+source:             DN42

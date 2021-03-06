@@ -1,0 +1,10 @@
+inetnum:            172.20.191.0 - 172.20.191.63
+netname:            RC2000-DN42NET
+descr:              RC2000DN42NET
+country:            CA
+admin-c:            JUNIPERRC-DN42
+tech-c:             JUNIPERRC-DN42
+mnt-by:             RACHA2000-MNT
+status:             ASSIGNED
+cidr:               172.20.191.0/26
+source:             DN42

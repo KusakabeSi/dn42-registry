@@ -1,0 +1,6 @@
+route6:             fdc8:8a2:b198::/48
+origin:             AS64870
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: velbert
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,22 @@
+aut-num:            AS4242423953
+as-name:            Erinn Network Global Backbone
+remarks:            
+remarks:            -------------------------------------------
+remarks:            Erinn Network              Open for Peering
+remarks:            -------------------------------------------
+remarks:            Service Area : ULADH
+remarks:            Taillteann[CA_YYZ]
+remarks:            -------------------------------------------
+remarks:            Service Area : IRIA
+remarks:            Vales[CN_CGQ]
+remarks:            -------------------------------------------
+remarks:            Telegram Channel              @ErinnNetwork
+remarks:            Looking Glass      lg.2434.me lg.erinn.dn42
+remarks:            Website             https://erinnet.2434.me
+remarks:            -------------------------------------------
+remarks:            
+admin-c:            ERINN-DN42
+tech-c:             ERINN-DN42
+mnt-by:             ERINN-MNT
+org:                ORG-ERINN
+source:             DN42

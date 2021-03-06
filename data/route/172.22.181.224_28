@@ -1,0 +1,4 @@
+route:              172.22.181.224/28
+origin:             AS4242423353
+mnt-by:             ZSTEVA-MNT
+source:             DN42

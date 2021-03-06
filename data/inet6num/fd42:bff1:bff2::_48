@@ -1,0 +1,9 @@
+inet6num:           fd42:bff1:bff2:0000:0000:0000:0000:0000 - fd42:bff1:bff2:ffff:ffff:ffff:ffff:ffff
+netname:            NIXKJ-NET
+country:            ZA
+admin-c:            NIXKJ-DN42
+tech-c:             NIXKJ-DN42
+mnt-by:             NIXKJ-MNT
+status:             ASSIGNED
+cidr:               fd42:bff1:bff2::/48
+source:             DN42

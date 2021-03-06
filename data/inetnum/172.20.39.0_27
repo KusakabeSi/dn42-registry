@@ -1,0 +1,8 @@
+inetnum:            172.20.39.0 - 172.20.39.31
+cidr:               172.20.39.0/27
+netname:            SKY-DN42-NET
+admin-c:            SKY-DN42
+tech-c:             SKY-DN42
+mnt-by:             SKY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdc7:d436:6765:0000:0000:0000:0000:0000 - fdc7:d436:6765:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc7:d436:6765::/48
+netname:            DARENET-NET-1
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+org:                ORG-DARENET
+nserver:            ns1.darenet.dn42
+nserver:            ns2.darenet.dn42
+status:             ASSIGNED
+source:             DN42

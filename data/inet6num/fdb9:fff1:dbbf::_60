@@ -1,0 +1,11 @@
+inet6num:           fdb9:fff1:dbbf:0000:0000:0000:0000:0000 - fdb9:fff1:dbbf:000f:ffff:ffff:ffff:ffff
+netname:            LYM-NET6
+country:            CN
+admin-c:            LYM-DN42
+tech-c:             LYM-DN42
+mnt-by:             LYM-MNT
+nserver:            ns1.lym.dn42
+nserver:            ns2.lym.dn42
+status:             ASSIGNED
+cidr:               fdb9:fff1:dbbf::/60
+source:             DN42

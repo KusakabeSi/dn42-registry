@@ -1,0 +1,5 @@
+route:              172.23.99.192/27
+descr:              Peer with me at i@dingyx99.ne
+origin:             AS4242423936
+mnt-by:             DINGYX99-MNT
+source:             DN42

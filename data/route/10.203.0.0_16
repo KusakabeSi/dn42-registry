@@ -1,0 +1,6 @@
+route:              10.203.0.0/16
+origin:             AS65051
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dresden
+mnt-by:             DN42-MNT
+source:             ICVPN

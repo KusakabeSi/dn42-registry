@@ -1,0 +1,12 @@
+inet6num:           fd00:fd00:0192:0000:0000:0000:0000:0000 - fd00:fd00:0192:ffff:ffff:ffff:ffff:ffff
+netname:            OHNX-NET6-NA
+descr:              ohnx's v6 netblock in North America
+country:            US
+admin-c:            OHNX-DN42
+tech-c:             OHNX-DN42
+mnt-by:             OHNX-MNT
+nserver:            ns1.ohnxnet.dn42
+nserver:            ns2.ohnxnet.dn42
+status:             ASSIGNED
+cidr:               fd00:fd00:192::/48
+source:             DN42

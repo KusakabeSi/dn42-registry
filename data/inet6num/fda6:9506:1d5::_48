@@ -1,0 +1,10 @@
+inet6num:           fda6:9506:01d5:0000:0000:0000:0000:0000 - fda6:9506:01d5:ffff:ffff:ffff:ffff:ffff
+netname:            OXYGEN233-IPV6
+descr:              Oxygen233 Network
+country:            CN
+admin-c:            OXYGEN233-DN42
+tech-c:             OXYGEN233-DN42
+mnt-by:             OXYGEN233-MNT
+status:             ASSIGNED
+cidr:               fda6:9506:1d5::/48
+source:             DN42

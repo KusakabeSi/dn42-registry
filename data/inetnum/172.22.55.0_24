@@ -1,0 +1,9 @@
+inetnum:            172.22.55.0 - 172.22.55.255
+nserver:            ns.geekhabitat.dn42
+netname:            DOWNHILL's dn42 network
+admin-c:            DOWNHILL-DN42
+tech-c:             DOWNHILL-DN42
+status:             ASSIGNED
+cidr:               172.22.55.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

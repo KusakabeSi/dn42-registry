@@ -1,0 +1,11 @@
+inet6num:           fd22:cf08:697b:0000:0000:0000:0000:0000 - fd22:cf08:697b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:cf08:697b::/48
+netname:            SFN-NETWORK
+descr:              SaltedFish Network
+admin-c:            KAYWML-DN42
+tech-c:             KAYWML-DN42
+mnt-by:             SFN-MNT
+nserver:            ns1.sfn.dn42
+nserver:            ns2.sfn.dn42
+status:             ASSIGNED
+source:             DN42

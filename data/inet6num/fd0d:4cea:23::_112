@@ -1,0 +1,7 @@
+inet6num:           fd0d:4cea:0023:0000:0000:0000:0000:0000 - fd0d:4cea:0023:0000:0000:0000:0000:ffff
+cidr:               fd0d:4cea:23::/112
+netname:            CHAOSVPN-ARGV0X17
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

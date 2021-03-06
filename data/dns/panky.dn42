@@ -1,0 +1,7 @@
+domain:             panky.dn42
+admin-c:            PANKY-DN42
+tech-c:             PANKY-DN42
+mnt-by:             PANKY-MNT
+nserver:            egypt1.panky.dn42 172.23.177.130
+nserver:            russia1.panky.dn42 172.23.177.140
+source:             DN42

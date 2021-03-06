@@ -1,0 +1,8 @@
+domain:             yellowlm.dn42
+admin-c:            YELLOWLM-DN42
+tech-c:             YELLOWLM-DN42
+mnt-by:             YELLOWLM-MNT
+org:                ORG-YELLOWLM
+nserver:            ns1.yellowlm.dn42 fd30:fe56:7891:1000::1
+nserver:            ns2.yellowlm.dn42 fd30:fe56:7891:1000::2
+source:             DN42

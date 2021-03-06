@@ -1,0 +1,11 @@
+inetnum:            172.23.64.0 - 172.23.64.127
+netname:            CHELNOK-NETWORK
+descr:              Chelnok Network
+country:            DE
+org:                ORG-CHELNOK
+admin-c:            ERI-DN42
+tech-c:             ERI-DN42
+mnt-by:             ERI-MNT
+status:             ASSIGNED
+cidr:               172.23.64.0/25
+source:             DN42

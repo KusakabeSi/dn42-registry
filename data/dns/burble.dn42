@@ -1,0 +1,9 @@
+domain:             burble.dn42
+descr:              burble.dn42 https://dn42.burble.com/
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+nserver:            ns1.burble.dn42 172.20.129.1
+nserver:            ns1.burble.dn42 fd42:4242:2601:ac53::1
+ds-rdata:           61857 13 2 bd35e3efe3325d2029fb652e01604a48b677cc2f44226eeabee54b456c67680c
+source:             DN42

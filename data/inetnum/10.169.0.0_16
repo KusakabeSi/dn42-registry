@@ -1,0 +1,8 @@
+inetnum:            10.169.0.0 - 10.169.255.255
+cidr:               10.169.0.0/16
+netname:            ICVPN-MUERITZ
+nserver:            1.1.169.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mueritz
+mnt-by:             DN42-MNT
+source:             ICVPN

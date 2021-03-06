@@ -1,0 +1,10 @@
+inetnum:            172.20.140.0 - 172.20.141.255
+netname:            APERTURE-NETWORKS-NET
+descr:              Used by rewbycraft throughout his primary global network. Expected to come online mid-march.
+country:            NL
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+status:             ASSIGNED
+cidr:               172.20.140.0/23
+source:             DN42

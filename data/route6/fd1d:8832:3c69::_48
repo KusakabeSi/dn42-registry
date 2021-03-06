@@ -1,0 +1,4 @@
+route6:             fd1d:8832:3c69::/48
+origin:             AS4242420488
+mnt-by:             CK-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdfc:e23f:fb45:3234:0000:0000:0000:0000 - fdfc:e23f:fb45:3234:ffff:ffff:ffff:ffff
+cidr:               fdfc:e23f:fb45:3234::/64
+descr:              Transfer Network
+netname:            KIOUBIT-NETWORK-IPV6-TRANSFER
+nserver:            ns1.kioubit.dn42
+status:             ASSIGNED
+admin-c:            KIOUBIT-DN42
+tech-c:             KIOUBIT-DN42
+mnt-by:             KIOUBIT-MNT
+source:             DN42

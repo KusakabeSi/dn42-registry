@@ -1,0 +1,5 @@
+route:              172.22.129.32/28
+descr:              2F30 network
+origin:             AS4242423993
+mnt-by:             2F30-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:0:f::/48
+descr:              hyhIX WORK
+origin:             AS4242420991
+mnt-by:             HYHIX-MNT
+source:             DN42

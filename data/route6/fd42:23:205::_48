@@ -1,0 +1,4 @@
+route6:             fd42:23:205::/48
+origin:             AS4242420205
+mnt-by:             ROOT6-MNT
+source:             DN42

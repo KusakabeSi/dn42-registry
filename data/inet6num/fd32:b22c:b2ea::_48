@@ -1,0 +1,9 @@
+inet6num:           fd32:b22c:b2ea:0000:0000:0000:0000:0000 - fd32:b22c:b2ea:ffff:ffff:ffff:ffff:ffff
+cidr:               fd32:b22c:b2ea::/48
+netname:            ALPACA-NETWORK
+descr:              Network of ALPACA
+admin-c:            ALPACA-DN42
+tech-c:             ALPACA-DN42
+mnt-by:             ALPACA-MNT
+status:             ASSIGNED
+source:             DN42

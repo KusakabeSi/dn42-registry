@@ -1,0 +1,7 @@
+inetnum:            172.20.0.0 - 172.23.255.255
+cidr:               172.20.0.0/14
+netname:            NET-BLK014-DN42
+policy:             reserved
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

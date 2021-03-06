@@ -1,0 +1,8 @@
+inetnum:            172.23.240.0 - 172.23.240.15
+netname:            PRESTON-NET-001
+admin-c:            PRESTON-DN42
+tech-c:             PRESTON-DN42
+mnt-by:             PRESTON-MNT
+status:             ALLOCATED
+cidr:               172.23.240.0/28
+source:             DN42

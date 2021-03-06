@@ -1,0 +1,6 @@
+route:              172.20.155.0/27
+origin:             AS4242423435
+mnt-by:             DCVOIP-MNT
+admin-c:            DCVOIP-DN42
+tech-c:             DCVOIP-DN42
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fdb0:4339:016a:0000:0000:0000:0000:0000 - fdb0:4339:016a:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-IIIDEFIX-DERHR1-DN42
+descr:              iiidefix derhr1 prefix
+country:            DE
+admin-c:            IIIDEFIX-DN42
+tech-c:             IIIDEFIX-DN42
+org:                ORG-IIIDEFIX
+mnt-by:             IIIDEFIX-MNT
+status:             ASSIGNED
+cidr:               fdb0:4339:16a::/48
+source:             DN42

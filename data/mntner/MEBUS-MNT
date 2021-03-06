@@ -1,0 +1,7 @@
+mntner:             MEBUS-MNT
+admin-c:            MEBUS-DN42
+tech-c:             MEBUS-DN42
+mnt-by:             MEBUS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCf+fYRqliv1hMM5BptvLQpXrOuNw24slTVaVkq6Ws4elNZbfmSWlwVCL8irA77ve4FXeNEh16oQ/KMFUk6McvWFlz4RSyhLSUTv0PGbeEEey5YrmHgAQmE/R3ImNTA+xaG/xTzft386OKjKbHBUlWoZaVQPC0KPYZWlgf0f6Fw13D3vmv/bkWf2T1KLMBxzY/UjH3cNuvj7iOpdiLyMF7PEDLM+DreWiDmYlA/gSpL/zAxJ/q8dX2TEeHCFDG+sYeD/A+dr0H0lbyXo8JTFY5JEyjwg7DX5CLR7OpUXk4Wfwi1JsuuLAvX8la+uGZy85oNlGZSqqQ3BihDBXNXVY2f1rLTqI+0eBz8GFvyQUo2sf+3EOL9gVyMSlx6FSNERszgvrK2qSmdb867bvFCseR57x3cHgdVcQXNPY8xKlxnirXYLUVRSvX/vTnC4r2r/LcwjosuElje2gkkealJRsobjO0JX2iB9irWh0BBLHdvmfLAQkEyoKusyrVbmQuJT+M=
+auth:               pgp-fingerprint B052D1B9222EAB94AC714407F5B3580A566BEB34
+source:             DN42

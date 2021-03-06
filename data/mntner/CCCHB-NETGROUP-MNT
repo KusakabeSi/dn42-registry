@@ -1,0 +1,9 @@
+mntner:             CCCHB-NETGROUP-MNT
+auth:               MTN-FRITZ
+auth:               PGPKEY-758AF1B8
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+mnt-by:             FRITZ-MNT
+mnt-by:             PYROPETER-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

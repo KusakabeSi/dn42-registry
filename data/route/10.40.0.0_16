@@ -1,0 +1,6 @@
+route:              10.40.0.0/16
+origin:             AS65078
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rheinufer
+mnt-by:             DN42-MNT
+source:             ICVPN

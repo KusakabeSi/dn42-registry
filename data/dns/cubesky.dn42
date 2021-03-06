@@ -1,0 +1,8 @@
+domain:             cubesky.dn42
+descr:              cubesky
+admin-c:            CUBESKY-DN42
+tech-c:             CUBESKY-DN42
+mnt-by:             CUBESKY-MNT
+nserver:            ns.cubesky.dn42 172.20.149.1
+nserver:            ns.cubesky.dn42 fd42:f61:e13::1
+source:             DN42

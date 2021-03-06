@@ -1,0 +1,7 @@
+domain:             seadog007.dn42
+nserver:            ns1.seadog007.dn42 172.22.182.53
+nserver:            ns2.seadog007.dn42 172.22.182.54
+admin-c:            SEADOG007-DN42
+tech-c:             SEADOG007-DN42
+mnt-by:             SEADOG007-MNT
+source:             DN42

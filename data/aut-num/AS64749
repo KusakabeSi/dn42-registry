@@ -1,0 +1,7 @@
+aut-num:            AS64749
+as-name:            MWD-TEST3
+descr:              Test Network 3
+admin-c:            MWD-DN42
+tech-c:             MWD-DN42
+mnt-by:             MWD-MNT
+source:             DN42

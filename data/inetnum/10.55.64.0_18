@@ -1,0 +1,9 @@
+inetnum:            10.55.64.0 - 10.55.127.255
+cidr:               10.55.64.0/18
+netname:            ICVPN-SAARLOUIS
+nserver:            55.66.55.10.ipv4.registry-sync.dn42
+nserver:            3.64.55.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saarlouis
+mnt-by:             DN42-MNT
+source:             ICVPN

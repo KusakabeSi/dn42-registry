@@ -1,0 +1,4 @@
+route:              172.23.222.160/28
+origin:             AS4242423626
+mnt-by:             SPACE24-MNT
+source:             DN42

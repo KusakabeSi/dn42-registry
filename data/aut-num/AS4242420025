@@ -1,0 +1,8 @@
+aut-num:            AS4242420025
+as-name:            MEEH-AS
+descr:              Meeh dn42 AS
+admin-c:            SIGTERM-DN42
+tech-c:             SIGTERM-DN42
+remarks:            route information goes here
+mnt-by:             DUMMY-MNT
+source:             DN42

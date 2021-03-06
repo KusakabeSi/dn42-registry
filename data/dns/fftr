@@ -1,0 +1,9 @@
+domain:             fftr
+nserver:            14.0.172.10.ipv4.registry-sync.dn42
+nserver:            16.0.172.10.ipv4.registry-sync.dn42
+nserver:            4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+nserver:            6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.c.f.7.f.b.0.1.0.0.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: trier
+mnt-by:             DN42-MNT
+source:             ICVPN

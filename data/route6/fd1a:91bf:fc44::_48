@@ -1,0 +1,5 @@
+route6:             fd1a:91bf:fc44::/48
+origin:             AS4242421401
+max-length:         48
+mnt-by:             JUNICAST-MNT
+source:             DN42

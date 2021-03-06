@@ -1,0 +1,10 @@
+inetnum:            172.23.151.192 - 172.23.151.223
+cidr:               172.23.151.192/27
+netname:            TYLER-NETWORK
+admin-c:            TYLER-DN42
+tech-c:             TYLER-DN42
+mnt-by:             TYLER-MNT
+nserver:            ns1.as4242420415.dn42
+nserver:            ns2.as4242420415.dn42
+status:             ASSIGNED
+source:             DN42

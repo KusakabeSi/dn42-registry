@@ -1,0 +1,5 @@
+route:              172.20.233.64/26
+descr:              Peer with me at bonjou2333@gmail.com
+origin:             AS4242421130
+mnt-by:             BONJOU2333-MNT
+source:             DN42

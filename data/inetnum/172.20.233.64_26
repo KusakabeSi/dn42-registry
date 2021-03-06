@@ -1,0 +1,11 @@
+inetnum:            172.20.233.64 - 172.20.233.127
+netname:            BONJOU2333-IPV4
+remarks:            Peer with me at bonjou2333@gmail.com
+descr:              Peer with me at bonjou2333@gmail.com
+country:            CN
+admin-c:            BONJOU2333-DN42
+tech-c:             BONJOU2333-DN42
+mnt-by:             BONJOU2333-MNT
+status:             ASSIGNED
+cidr:               172.20.233.64/26
+source:             DN42

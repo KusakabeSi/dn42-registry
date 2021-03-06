@@ -1,0 +1,9 @@
+organisation:       ORG-WN-NETWORKS
+org-name:           WN Networks
+admin-c:            NEV-DN42
+admin-c:            WILL-DN42
+tech-c:             NEV-DN42
+tech-c:             WILL-DN42
+mnt-by:             NEV-MNT
+mnt-by:             WILL-MNT
+source:             DN42

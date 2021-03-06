@@ -1,0 +1,4 @@
+route:              172.22.189.128/27
+origin:             AS4242420393
+mnt-by:             GISCHELEMAN-MNT
+source:             DN42

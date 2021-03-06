@@ -1,0 +1,13 @@
+inetnum:            172.23.16.128 - 172.23.16.191
+netname:            NL-ZUID-IX-FKS
+cidr:               172.23.16.128/26
+descr:              NL-Zuid IX Falkenstein / Hetzner
+country:            DE
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+mnt-by:             GRMML-MNT
+nserver:            ns1.nl-zuid.dn42
+nserver:            ns2.nl-zuid.dn42
+status:             ASSIGNED PI
+source:             DN42

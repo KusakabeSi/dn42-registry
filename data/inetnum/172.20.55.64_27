@@ -1,0 +1,10 @@
+inetnum:            172.20.55.64 - 172.20.55.95
+netname:            NETOM-NETWORK
+descr:              netom lab network
+country:            DE
+admin-c:            NETOM-DN42
+tech-c:             NETOM-DN42
+mnt-by:             NETOM-MNT
+status:             ASSIGNED
+cidr:               172.20.55.64/27
+source:             DN42

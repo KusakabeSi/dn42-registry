@@ -1,0 +1,8 @@
+mntner:             REWBYSOFT-MNT
+descr:              RewbySoft DN42 Organisation
+remarks:            pin-sha256:Nb+zX6KulG8DM5JCokwLTdxWpZ5LYfjxTyyTVwBjYeY=
+remarks:            ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLyl9SETiKnTnh+499QtWFM+KNjqdxhDcEmySPiWNURmfd42XqrqlYK4UVtfXzeQ//DLMCH9qGXodPvoMdN8Dbc= rewbycraft@dn42
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+source:             DN42

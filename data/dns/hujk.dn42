@@ -1,0 +1,9 @@
+domain:             hujk.dn42
+admin-c:            HUJK-DN42
+tech-c:             HUJK-DN42
+mnt-by:             HUJK-MNT
+nserver:            ns1.hujk.dn42 172.22.66.66
+nserver:            ns1.hujk.dn42 fd94:dba8:42b0:6666:6666:6666:6666:6666
+nserver:            ns2.hujk.dn42 172.22.66.77
+nserver:            ns2.hujk.dn42 fd94:dba8:42b0:7777:7777:7777:7777:7777
+source:             DN42

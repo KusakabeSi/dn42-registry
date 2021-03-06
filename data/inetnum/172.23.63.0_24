@@ -1,0 +1,11 @@
+inetnum:            172.23.63.0 - 172.23.63.255
+netname:            STL-NETWORK
+descr:              Steelnet Network PLD
+country:            BG
+org:                ORG-STLNET
+admin-c:            DILST-DN42
+tech-c:             DILST-DN42
+mnt-by:             STLNET-MNT
+status:             ASSIGNED
+cidr:               172.23.63.0/24
+source:             DN42

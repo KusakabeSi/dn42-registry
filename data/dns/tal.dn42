@@ -1,0 +1,7 @@
+domain:             tal.dn42
+descr:              TALs DNS Zone
+admin-c:            TAL-DN42
+tech-c:             TAL-DN42
+mnt-by:             TAL-MNT
+nserver:            ns.tal.dn42 172.20.227.240
+source:             DN42

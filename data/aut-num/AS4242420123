@@ -1,0 +1,50 @@
+aut-num:            AS4242420123
+as-name:            GRMML-AS
+descr:              GRMML Main Network
+remarks:            ********************************************************
+remarks:            Info
+remarks:            ********************************************************
+remarks:            - Open peering policy (requirements below)
+remarks:            - For peering contact me at nurtic-vibe@grmml.net
+remarks:            or via IRC Nurtic-Vibe @ hackint
+remarks:            ********************************************************
+remarks:            Nodes
+remarks:            ********************************************************
+remarks:            | Server    | Location                                 |
+remarks:            +-----------+------------------------------------------+
+remarks:            | Europe                                               |
+remarks:            +-----------+------------------------------------------+
+remarks:            | Meduna    | Falkenstein, Germany (Hetzner FSN1-DC7)  |
+remarks:            | Abnoba    | Falkenstein, Germany (Hetzner FSN1-DC13) |
+remarks:            | Teutates  | Frankfurt, Germany (ArubaCloud)          |
+remarks:            | Bergusia  | Vitry-Sur-Seine, France (Online.net)     |
+remarks:            | Eirene    | Strasbourg, France (OVH)                 |
+remarks:            | Tuisto    | Amsterdam, Netherlands (Leaseweb)        |
+remarks:            | Apollo    | Arezzo, Italy (ArubaCloud)               |
+remarks:            | Alator    | London, UK (ArubaCloud)                  |
+remarks:            | Perun     | Ktis, Czech Republic (ArubaCloud)        |
+remarks:            +-----------+------------------------------------------+
+remarks:            | North America                                        |
+remarks:            +-----------+------------------------------------------+
+remarks:            | Nimue     | New York City, NY, USA (BuyVM)           |
+remarks:            | Artio     | Chicago, IL, USA (Kaiju)                 |
+remarks:            | Rigani    | Los Angeles, CA, USA (Quadranet)         |
+remarks:            | Idun      | Beauharnois, QC, Canada (OVH)            |
+remarks:            +-----------+------------------------------------------+
+remarks:            | Asia & Pacific                                       |
+remarks:            +-----------+------------------------------------------+
+remarks:            | Delanui   | Singapore (OVH)                          |
+remarks:            | Alinga    | Sydney, Australia (OVH)                  |
+remarks:            ********************************************************
+remarks:            Routing Policies:
+remarks:            ********************************************************
+mp-import:          afi any.unicast from AS4242420123:AS-TRANSIT accept ANY
+mp-import:          afi any.unicast from AS4242420123:AS-PEER accept PeerAS
+mp-import:          afi any.unicast from AS4242420123:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242420123:AS-TRANSIT announce ANY
+mp-export:          afi any.unicast to AS4242420123:AS-PEER announce AS-GRMML
+mp-export:          afi any.unicast to AS4242420123:AS-DOWNSTREAM announce ANY
+admin-c:            GRMML-DN42
+tech-c:             GRMML-DN42
+mnt-by:             GRMML-MNT
+source:             DN42

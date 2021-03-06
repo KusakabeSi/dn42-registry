@@ -1,0 +1,12 @@
+inet6num:           fde0:9750:6d9d:0000:0000:0000:0000:0000 - fde0:9750:6d9d:ffff:ffff:ffff:ffff:ffff
+cidr:               fde0:9750:6d9d::/48
+netname:            LORKEP
+descr:              LORKEP Long-Range Interconnect
+country:            BR
+nserver:            ns1.lorkep.dn42
+nserver:            ns2.lorkep.dn42
+admin-c:            AASG-DN42
+tech-c:             AASG-DN42
+mnt-by:             AASG-MNT
+status:             ASSIGNED
+source:             DN42

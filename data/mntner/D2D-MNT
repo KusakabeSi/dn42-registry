@@ -1,0 +1,6 @@
+mntner:             D2D-MNT
+descr:              TEST SERVICE
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             D2D-MNT
+source:             DN42

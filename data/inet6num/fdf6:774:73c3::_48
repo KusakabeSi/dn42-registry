@@ -1,0 +1,11 @@
+inet6num:           fdf6:0774:73c3:0000:0000:0000:0000:0000 - fdf6:0774:73c3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf6:774:73c3::/48
+netname:            WYCHLW-NETWORK
+descr:              Network of WYCHLW
+admin-c:            WYCHLW-DN42
+tech-c:             WYCHLW-DN42
+mnt-by:             WYCHLW-MNT
+status:             ASSIGNED
+source:             DN42
+country:            cn
+nserver:            ns1.wcysite.dn42

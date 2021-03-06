@@ -1,0 +1,9 @@
+inetnum:            172.20.239.224 - 172.20.239.239
+netname:            SJG-PPTP
+admin-c:            SIMON-DN42
+tech-c:             SIMON-DN42
+mnt-by:             SIMON-MNT
+nserver:            dns.wiregrid.dn42
+status:             ALLOCATED
+cidr:               172.20.239.224/28
+source:             DN42

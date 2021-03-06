@@ -1,0 +1,8 @@
+inet6num:           fd71:07ce:bfbb:0000:0000:0000:0000:0000 - fd71:07ce:bfbb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd71:7ce:bfbb::/48
+netname:            LILLECARL-NET-1
+admin-c:            LILLECARL-DN42
+tech-c:             LILLECARL-DN42
+mnt-by:             LILLECARL-MNT
+status:             ASSIGNED
+source:             DN42

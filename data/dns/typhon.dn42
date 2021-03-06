@@ -1,0 +1,7 @@
+domain:             typhon.dn42
+admin-c:            TYPHON-DN42
+tech-c:             TYPHON-DN42
+mnt-by:             TYPHON-MNT
+nserver:            pluto.typhon.dn42 172.23.234.2
+nserver:            neptun.typhon.dn42 172.23.234.1
+source:             DN42

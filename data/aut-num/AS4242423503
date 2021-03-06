@@ -1,0 +1,7 @@
+aut-num:            AS4242423503
+as-name:            INSIGHTIUM-AS
+descr:              TEST-NETWORK
+admin-c:            INSIGHTIUM-DN42
+tech-c:             INSIGHTIUM-DN42
+mnt-by:             INSIGHTIUM-MNT
+source:             DN42

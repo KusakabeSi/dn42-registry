@@ -1,0 +1,4 @@
+route:              172.22.114.0/27
+origin:             AS4242421985
+mnt-by:             BPEETERS-MNT
+source:             DN42

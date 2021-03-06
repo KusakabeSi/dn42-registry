@@ -1,0 +1,7 @@
+mntner:             WXMN-MNT
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDb4j+bJnx/UO7MkL2t6aHenLbFwVu7+NABmwXcvz6JlD4K/MLuzLV7oH6tij6ZdEHy/pEkNiphVjiYuLXtzqDMPH0gpunwxrSkwis3n6f0IZTmjGoVtcDqH3NSW1OIQJsCUvlWc8joPjpXJUpOHdjKcK6dL9/3hOfj8cl8pJiGUf1B68ydchOvoXU2sopJJ1g5bdGQHUr0a0DP79ZZoVi2WVCXlW/nx/494iRoD2Ynu7iRVBQY85jLLxqdoZoO81I+Ur2R2N/hYCpoUzTbLOnLP7b17hoJDS0rHEI/mffTfGRFqzdy8/VSZkuJRVIviinmhZfXJVfNZDDkU4IH4qdT dn42 authschluessel
+auth:               pgp-fingerprint B6AD9B2F6B81FA547821E20586C88FB6738EAA8F
+source:             DN42

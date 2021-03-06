@@ -1,0 +1,7 @@
+inetnum:            172.31.1.117 - 172.31.1.117
+cidr:               172.31.1.117/32
+netname:            CHAOSVPN-ROMULUS
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

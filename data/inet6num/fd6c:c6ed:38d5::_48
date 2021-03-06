@@ -1,0 +1,10 @@
+inet6num:           fd6c:c6ed:38d5:0000:0000:0000:0000:0000 - fd6c:c6ed:38d5:ffff:ffff:ffff:ffff:ffff
+netname:            BYRON-IPV6
+descr:              Byron's IP space
+country:            CN
+admin-c:            BYRON-DN42
+tech-c:             BYRON-DN42
+mnt-by:             BYRON-MNT
+status:             ASSIGNED
+cidr:               fd6c:c6ed:38d5::/48
+source:             DN42

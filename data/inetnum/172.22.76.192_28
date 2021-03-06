@@ -1,0 +1,10 @@
+inetnum:            172.22.76.192 - 172.22.76.207
+netname:            TBRB-NET-HACKLAB
+descr:              TBRB Core Network
+country:            GB
+admin-c:            TBRB-DN42
+tech-c:             TBRB-DN42
+mnt-by:             TBRB-MNT
+status:             ASSIGNED
+cidr:               172.22.76.192/28
+source:             DN42

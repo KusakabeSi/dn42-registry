@@ -1,0 +1,7 @@
+aut-num:            AS4242420232
+as-name:            SNOW-IX-SERVICE
+descr:              Services like Stats + ANYCAST
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+source:             DN42

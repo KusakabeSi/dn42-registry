@@ -1,0 +1,9 @@
+inetnum:            172.20.142.96 - 172.20.142.127
+cidr:               172.20.142.96/27
+netname:            FISCALCHEIS-NETWORK
+country:            ES
+admin-c:            FISCO-DN42
+tech-c:             FISCO-DN42
+mnt-by:             FISCALCHEIS-MNT
+status:             ASSIGNED
+source:             DN42

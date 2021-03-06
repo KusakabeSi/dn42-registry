@@ -1,0 +1,10 @@
+inetnum:            172.20.170.64 - 172.20.170.95
+netname:            IP64-NETWORK
+descr:              Test network space
+country:            GB
+admin-c:            IP64-DN42
+tech-c:             IP64-DN42
+mnt-by:             IP64-MNT
+status:             ASSIGNED
+cidr:               172.20.170.64/27
+source:             DN42

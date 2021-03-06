@@ -1,0 +1,8 @@
+inetnum:            172.20.19.128 - 172.20.19.159
+cidr:               172.20.19.128/27
+netname:            AVASQUEZT-NETWORK
+admin-c:            AVASQUEZT-DN42
+tech-c:             AVASQUEZT-DN42
+mnt-by:             AVASQUEZT-MNT
+status:             ASSIGNED
+source:             DN42

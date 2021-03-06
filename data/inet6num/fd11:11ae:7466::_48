@@ -1,0 +1,7 @@
+inet6num:           fd11:11ae:7466:0000:0000:0000:0000:0000 - fd11:11ae:7466:ffff:ffff:ffff:ffff:ffff
+cidr:               fd11:11ae:7466::/48
+netname:            ICVPN-DRESDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dresden
+mnt-by:             DN42-MNT
+source:             ICVPN

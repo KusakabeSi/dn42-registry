@@ -1,0 +1,4 @@
+route:              172.20.42.0/25
+origin:             AS4242422100
+mnt-by:             FLOKLI-MNT
+source:             DN42

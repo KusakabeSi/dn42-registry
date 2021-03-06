@@ -1,0 +1,10 @@
+inetnum:            172.21.88.128 - 172.21.88.143
+netname:            IXNET-BACKBONE
+descr:              Backbone Routers of IX Network
+country:            SG
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+status:             ASSIGNED
+cidr:               172.21.88.128/28
+source:             DN42

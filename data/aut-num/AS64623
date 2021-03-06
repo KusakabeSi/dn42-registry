@@ -1,0 +1,7 @@
+aut-num:            AS64623
+as-name:            HSMR-AS
+descr:              Hackerspace Marburg Network Holding International AG
+admin-c:            HSMR-DN42
+tech-c:             OLEANDER-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

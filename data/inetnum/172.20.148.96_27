@@ -1,0 +1,8 @@
+inetnum:            172.20.148.96 - 172.20.148.127
+cidr:               172.20.148.96/27
+netname:            FRE-CORE-NET
+admin-c:            RACIME-DN42
+tech-c:             RACIME-DN42
+mnt-by:             FRE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             nex.dn42
+admin-c:            NEX-DN42
+tech-c:             NEX-DN42
+mnt-by:             NEX-MNT
+nserver:            ns1.nex.dn42 fd9b:37f7:faf7:53::1
+source:             DN42

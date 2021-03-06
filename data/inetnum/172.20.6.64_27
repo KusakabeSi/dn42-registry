@@ -1,0 +1,8 @@
+inetnum:            172.20.6.64 - 172.20.6.95
+netname:            NET-0RIGO-1-DN42
+admin-c:            0RIGO-DN42
+tech-c:             0RIGO-DN42
+mnt-by:             0RIGO-MNT
+status:             ASSIGNED
+cidr:               172.20.6.64/27
+source:             DN42

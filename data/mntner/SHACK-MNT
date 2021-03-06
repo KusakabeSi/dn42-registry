@@ -1,0 +1,10 @@
+mntner:             SHACK-MNT
+descr:              shack e.V.
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+auth:               mntner 4A6F-MNT
+auth:               pgp-fingerprint:    F466A548AD3FC1F18C88457687027528B006D66D
+org:                ORG-SHACK
+source:             DN42

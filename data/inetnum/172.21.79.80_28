@@ -1,0 +1,13 @@
+inetnum:            172.21.79.80 - 172.21.79.95
+netname:            CHENG-IPV4
+remarks:            Peer with me at admin@byxong.com
+descr:              Peer with me at admin@byxong.com
+country:            CN
+admin-c:            CHENG-DN42
+tech-c:             CHENG-DN42
+mnt-by:             CHENG-MNT
+nserver:            ns1.cheng.dn42
+nserver:            ns2.cheng.dn42
+status:             ASSIGNED
+cidr:               172.21.79.80/28
+source:             DN42

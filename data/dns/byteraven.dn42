@@ -1,0 +1,7 @@
+domain:             byteraven.dn42
+admin-c:            BYTERAVEN-DN42
+tech-c:             BYTERAVEN-DN42
+mnt-by:             BYTERAVEN-MNT
+nserver:            ns1.byteraven.dn42 172.23.132.33
+nserver:            ns1.byteraven.dn42 fd6f:ff99:5ab2:a773::2
+source:             DN42

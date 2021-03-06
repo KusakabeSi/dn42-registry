@@ -1,0 +1,6 @@
+mntner:             NOROUTE-MNT
+descr:              no-route.org maintainer object
+admin-c:            SYSOFABLAB-DN42
+tech-c:             SYSOFABLAB-DN42
+mnt-by:             NOROUTE-MNT
+source:             DN42

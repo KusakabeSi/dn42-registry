@@ -1,0 +1,7 @@
+inetnum:            10.111.0.0 - 10.111.255.255
+cidr:               10.111.0.0/16
+netname:            ICVPN-RHEINSIEGKREIS
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rheinsiegkreis
+mnt-by:             DN42-MNT
+source:             ICVPN

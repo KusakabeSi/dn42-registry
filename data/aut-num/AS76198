@@ -1,0 +1,26 @@
+aut-num:            AS76198
+as-name:            ORG-CCCHB-AS
+org:                ORG-CCCHB-DN42
+remarks:            ------------------------
+remarks:            Welcome to the DN42 autonomous system of  Chaos Computer
+remarks:            Club Bremen. We have an open peering policy.
+remarks:            ------------------------
+remarks:            Transit from AS64712
+mp-import:          afi ipv4 from AS64712 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to AS64712 announce { 172.22.1.0/24, 172.22.70.0/24, 172.23.198.0/24, 172.20.36.0/23 }
+mp-import:          afi ipv6 from AS64712 accept { fc00::/7^+ }
+mp-export:          afi ipv6 to AS64712 announce { fdd6:aff6:5f6f::/48 }
+remarks:            ------------------------
+remarks:            Transit from AS4242420000
+mp-import:          afi ipv4 from AS4242420000 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to AS4242420000 announce { 172.22.1.0/24, 172.22.70.0/24, 172.23.198.0/24, 172.20.36.0/23 }
+mp-import:          afi ipv6 from AS4242420000 accept { fc00::/7^+ }
+mp-export:          afi ipv6 to AS4242420000 announce { fdd6:aff6:5f6f::/48 }
+admin-c:            FRITZ-DN42
+admin-c:            DEELKAR-DN42
+admin-c:            PYROPETER-DN42
+tech-c:             FRITZ-DN42
+tech-c:             PYROPETER-DN42
+mnt-by:             FLHB-NETGROUP-MNT
+mnt-by:             CCCHB-NETGROUP-MNT
+source:             DN42

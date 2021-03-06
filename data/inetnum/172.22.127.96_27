@@ -1,0 +1,10 @@
+inetnum:            172.22.127.96 - 172.22.127.127
+netname:            IUT-BEZIERS-NET
+descr:              Network used by IUT Béziers projects
+country:            FR
+admin-c:            QUENTIN-DN42
+tech-c:             QUENTIN-DN42
+mnt-by:             IUT-BEZIERS-MNT
+status:             ASSIGNED
+cidr:               172.22.127.96/27
+source:             DN42

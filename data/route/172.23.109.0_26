@@ -1,0 +1,4 @@
+route:              172.23.109.0/26
+origin:             AS4242422387
+mnt-by:             WOCKEY-MNT
+source:             DN42

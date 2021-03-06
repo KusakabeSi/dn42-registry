@@ -1,0 +1,8 @@
+inetnum:            172.20.31.64 - 172.20.31.71
+cidr:               172.20.31.64/29
+netname:            Unnamed 172.20.31.64/29 Network
+admin-c:            IMIR-DN42
+tech-c:             IMIR-DN42
+mnt-by:             IMIR-MNT
+status:             ASSIGNED
+source:             DN42

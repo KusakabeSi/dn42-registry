@@ -1,0 +1,10 @@
+inetnum:            172.20.204.48 - 172.20.204.63
+netname:            LEVING-NET
+descr:              German LABNET
+country:            DE
+admin-c:            LEVING-DN42
+tech-c:             LEVING-DN42
+mnt-by:             LEVING-MNT
+status:             ASSIGNED
+cidr:               172.20.204.48/28
+source:             DN42

@@ -1,0 +1,7 @@
+inet6num:           fdc8:08a2:b198:0000:0000:0000:0000:0000 - fdc8:08a2:b198:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:8a2:b198::/48
+netname:            ICVPN-VELBERT
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: velbert
+mnt-by:             DN42-MNT
+source:             ICVPN

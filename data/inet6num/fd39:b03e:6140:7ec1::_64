@@ -1,0 +1,10 @@
+inet6num:           fd39:b03e:6140:7ec1:0000:0000:0000:0000 - fd39:b03e:6140:7ec1:ffff:ffff:ffff:ffff
+cidr:               fd39:b03e:6140:7ec1::/64
+netname:            SZCZOT3K-DN42
+country:            PL
+admin-c:            SZCZOT3K-DN42
+tech-c:             SZCZOT3K-DN42
+mnt-by:             SZCZOT3K-MNT
+nserver:            ns1.szczot3k.dn42
+status:             ASSIGNED
+source:             DN42

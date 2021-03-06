@@ -1,0 +1,4 @@
+route6:             fd42:7879:7879::/48
+origin:             AS4242421787
+mnt-by:             JAMMY-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.158.160 - 172.23.158.191
+netname:            ELOKO-NETWORK
+descr:              ELOKO-NETWORK
+country:            DE
+admin-c:            ELOKO-DN42
+tech-c:             ELOKO-DN42
+mnt-by:             ELOKO-MNT
+status:             ASSIGNED
+cidr:               172.23.158.160/27
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             PHUZION-MNT
+descr:              phuzion
+admin-c:            PHUZION-DN42
+tech-c:             PHUZION-DN42
+mnt-by:             PHUZION-MNT
+source:             DN42
+auth:               pgp-fingerprint 19D183E30039EF31C34766A032EC272A73778423

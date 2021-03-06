@@ -1,0 +1,18 @@
+aut-num:            AS207268
+as-name:            STREXP
+mp-import:          afi any.unicast from AS-NIA:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-PEER announce AS-NIA
+mp-import:          afi any.unicast from AS-NIA:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-NIA:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS-NIA:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS-NIA:AS-UPSTREAM announce AS-NIA AS-NIA:AS-DOWNSTREAM
+remarks:            Public AS from RIPE
+remarks:            See also: AS4242421331 / AS4242421332
+remarks:            Open to peering. Check https://www.peeringdb.com/asn/207268
+org:                ORG-NIA
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+mnt-by:             NIA-MNT
+source:             RIPE

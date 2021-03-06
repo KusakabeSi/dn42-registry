@@ -1,0 +1,9 @@
+inetnum:            172.20.58.128 - 172.20.58.159
+netname:            NEURONET-NET
+admin-c:            HARDB1T-DN42
+tech-c:             HARDB1T-DN42
+mnt-by:             HARDB1T-MNT
+status:             ASSIGNED
+org:                ORG-NEURONET
+cidr:               172.20.58.128/27
+source:             DN42

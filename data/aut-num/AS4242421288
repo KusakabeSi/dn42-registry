@@ -1,0 +1,10 @@
+aut-num:            AS4242421288
+as-name:            NICHOLASCW Network
+admin-c:            NICHOLASCW-DN42
+tech-c:             NICHOLASCW-DN42
+mnt-by:             NICHOLASCW-MNT
+source:             DN42
+remarks:            Peering: prefer wireguard; MPBGP accepted;
+remarks:            Locations: Seattle, Chicago, Los Angeles, Tokoyo
+remarks:            Contact me with email: me[at]nicho1as[dot]wang
+remarks:            Contact me with Telegram: [at]nicholascw

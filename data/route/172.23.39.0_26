@@ -1,0 +1,6 @@
+route:              172.23.39.0/26
+descr:              mnihyc's IPv4 Network
+remarks:            Contact me at rmnihyc@gmail.com !!
+origin:             AS4242423939
+mnt-by:             MNIHYC-MNT
+source:             DN42

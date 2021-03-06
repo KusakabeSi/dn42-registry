@@ -1,0 +1,4 @@
+route6:             fd66:feed:beef::/48
+origin:             AS4242423439
+mnt-by:             ROBOTHAM-MNT
+source:             DN42

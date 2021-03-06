@@ -1,0 +1,7 @@
+inet6num:           fd0c:9a97:47dc:0000:0000:0000:0000:0000 - fd0c:9a97:47dc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0c:9a97:47dc::/48
+netname:            ICVPN-HEILIGKREUZTAL
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligkreuztal
+mnt-by:             DN42-MNT
+source:             ICVPN

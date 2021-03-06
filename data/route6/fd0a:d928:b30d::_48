@@ -1,0 +1,6 @@
+route6:             fd0a:d928:b30d::/48
+origin:             AS65099
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: erfurt
+mnt-by:             DN42-MNT
+source:             ICVPN

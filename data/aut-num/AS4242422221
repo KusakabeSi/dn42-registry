@@ -1,0 +1,19 @@
+aut-num:            AS4242422221
+as-name:            8TRACK NETWORK
+remarks:            +---------------------------------------------------+
+remarks:            |                  8TRACK NETWORKS                  |
+remarks:            |                   AS4242422221                    |
+remarks:            | * Peering: IRC HalfEatenPie @ hackint             |
+remarks:            |            or stard@8t.io                         |
+remarks:            +---------------------------------------------------+
+remarks:            +-----------+---------------------------------------+
+remarks:            | Server    | Location                              |
+remarks:            +-----------+---------------------------------------+
+remarks:            | US01      | Dallas, Texas, USA (Catalyst)         |
+remarks:            | US02      | Los Angeles, CA, USA (Atlantic.net)          |
+remarks:            | US03      | Lenoir, NC, USA (Dacentec)            |
+remarks:            +-----------+---------------------------------------+
+admin-c:            HEPVB-DN42
+tech-c:             HEPVB-DN42
+mnt-by:             8TRK-MNT
+source:             DN42

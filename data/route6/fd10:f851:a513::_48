@@ -1,0 +1,4 @@
+route6:             fd10:f851:a513::/48
+origin:             AS4242420809
+mnt-by:             RC-MNT
+source:             DN42

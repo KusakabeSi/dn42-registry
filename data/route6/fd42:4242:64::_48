@@ -1,0 +1,4 @@
+route6:             fd42:4242:64::/48
+origin:             AS4242420064
+mnt-by:             4A6F-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             NEVERLOCATE-MNT
+descr:              neverlocate.me Maintainer
+admin-c:            BGLOPEZ-DN42
+tech-c:             BGLOPEZ-DN42
+mnt-by:             NEVERLOCATE-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJuQJ4yRhHYuMkm6fkuAsl+sRrkZKVKJOYZ+ZwJuPwZf
+source:             DN42

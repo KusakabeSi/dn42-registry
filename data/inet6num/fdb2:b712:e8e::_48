@@ -1,0 +1,10 @@
+inet6num:           fdb2:b712:0e8e:0000:0000:0000:0000:0000 - fdb2:b712:0e8e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb2:b712:e8e::/48
+netname:            JHE-NETWORK
+descr:              Network of jhe
+country:            DE
+admin-c:            JHE-DN42
+tech-c:             JHE-DN42
+mnt-by:             JHE-MNT
+status:             ASSIGNED
+source:             DN42

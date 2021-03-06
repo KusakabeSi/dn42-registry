@@ -1,0 +1,5 @@
+route6:             fd27:3df4:67a1::/48
+origin:             AS4242420393
+max-length:         48
+mnt-by:             GISCHELEMAN-MNT
+source:             DN42

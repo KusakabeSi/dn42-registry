@@ -1,0 +1,4 @@
+route:              172.20.158.0/27
+origin:             AS206633
+mnt-by:             NULLROUTE-MNT
+source:             DN42

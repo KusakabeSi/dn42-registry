@@ -1,0 +1,7 @@
+aut-num:            AS4242420105
+as-name:            AS-AFICS-SECONDARY
+descr:              AFICS secondary AS, currently used at Easterhegg 2016
+admin-c:            AFICS-DN42
+tech-c:             AFICS-DN42
+mnt-by:             AFICS-MNT
+source:             DN42

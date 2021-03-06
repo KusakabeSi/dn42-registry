@@ -1,0 +1,8 @@
+inetnum:            172.20.155.96 - 172.20.155.127
+cidr:               172.20.155.96/27
+netname:            WILLY-NET
+admin-c:            WILLY-DN42
+tech-c:             WILLY-DN42
+mnt-by:             WILLY-MNT
+status:             ASSIGNED
+source:             DN42

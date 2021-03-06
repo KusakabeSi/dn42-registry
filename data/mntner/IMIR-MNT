@@ -1,0 +1,7 @@
+mntner:             IMIR-MNT
+admin-c:            IMIR-DN42
+tech-c:             IMIR-DN42
+auth:               pgp-fingerprint 9E87B12EA2E1747E59E36F20BCEDBC2B3EDF80D7
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDbrHG6Jh0Tj0gF+8eTTco6nGWcxb8TkVbwcaclhA0dg84cCprVPgAWpgyNPczHsSVd+JJsii9Ngxt4+MzsPJJ1AU10WGTDNhVJsT73BAXmtXdKxEdj87UhZstamJ9i85mtqsni8JgkaSZBnAgOCDo2eYvQqr3hbxBnWNkI3V12ZOTYpzTOiaJsAJAmBuEKJo6hwFMaTr5mi5BLrxDcybd3/MuoPHfb/OAgpFxEcDtEYsATofBRgS8m6epuol7OwN0ICLXPlbViEX4PsArmuDEjZofGPyZEo0bS9DOkzuF5iLUhRNDM3Y2PSwc0y41kPLEwxFWGUNzVHWouqdE9KPy79y1MVlqJfW2p4WKadE8hBeDhXOA8XUgOHYLV/LLtxXNyakGqT+KwNjhwB8hdKP5705ldgAxarCDN/PthavIxkUO2mZ8OO4KARAm7uNVOduimwq3S9xzdlymP1jSP+yZJWjKAZ7F0xumj1P15Jg6Ock9aLc2EIQyFUywU5Lg1z70L0xnvLikvbscbmbfPmxLuBasIkG673IUrE+6vSufnV5DOxbzFXl0JVnLxpcTVXuTRvje3ryfgLA8Savnb8NS0qY8Nj//sHZobZVEwPebGU+Byk1FCPyDIcF+kyIg/P0FGgyzxFNMuic2mxI141dtHKDPwl2V+FpBA6lVvEcOoiQ==
+mnt-by:             IMIR-MNT
+source:             DN42

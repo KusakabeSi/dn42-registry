@@ -1,0 +1,11 @@
+inetnum:            172.20.2.0 - 172.20.2.31
+netname:            LERNET
+country:            GB
+admin-c:            LER-DN42
+tech-c:             LER-DN42
+mnt-by:             LERNET-MNT
+status:             ASSIGNED
+nserver:            ns1.lernet.dn42
+nserver:            ns2.lernet.dn42
+cidr:               172.20.2.0/27
+source:             DN42

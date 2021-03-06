@@ -1,0 +1,8 @@
+inetnum:            172.20.184.96 - 172.20.184.127
+cidr:               172.20.184.96/27
+netname:            SHEEPBREW-NETWORK
+admin-c:            SHEEPBREW-DN42
+tech-c:             SHEEPBREW-DN42
+mnt-by:             SHEEPBREW-MNT
+status:             ASSIGNED
+source:             DN42

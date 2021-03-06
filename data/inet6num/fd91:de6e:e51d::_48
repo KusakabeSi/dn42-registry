@@ -1,0 +1,10 @@
+inet6num:           fd91:de6e:e51d:0000:0000:0000:0000:0000 - fd91:de6e:e51d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:de6e:e51d::/48
+netname:            IAMSI-NETWORK
+descr:              IAMSI v6
+country:            FR
+admin-c:            IAMSI-DN42
+tech-c:             IAMSI-DN42
+mnt-by:             IAMSI-MNT
+status:             ASSIGNED
+source:             DN42

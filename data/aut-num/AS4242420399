@@ -1,0 +1,9 @@
+aut-num:            AS4242420399
+as-name:            RAVAGEIX-AS
+descr:              Leanor Ravage Internet Exchange
+remarks:            World-wide internet exchange to speed up the darknet
+remarks:            and public internet networks.
+admin-c:            RAVAGENOC-DN42
+tech-c:             RAVAGENOC-DN42
+mnt-by:             RAVAGE-MNT
+source:             DN42

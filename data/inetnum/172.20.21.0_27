@@ -1,0 +1,12 @@
+inetnum:            172.20.21.0 - 172.20.21.31
+cidr:               172.20.21.0/27
+netname:            INTERACTIVELABS-NET
+country:            AU
+admin-c:            GISH-DN42
+tech-c:             GISH-DN42
+org:                ORG-INTERACTIVELABS
+mnt-by:             INTERACTIVELABS-MNT
+nserver:            ns1.interactivelabs.dn42
+nserver:            ns2.interactivelabs.dn42
+status:             ASSIGNED
+source:             DN42

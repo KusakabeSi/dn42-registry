@@ -1,0 +1,9 @@
+inetnum:            172.22.146.224 - 172.22.146.255
+netname:            UAH-NETWORK
+country:            US
+admin-c:            HFULLER-DN42
+tech-c:             HFULLER-DN42
+mnt-by:             HFULLER-MNT
+status:             ASSIGNED
+cidr:               172.22.146.224/27
+source:             DN42

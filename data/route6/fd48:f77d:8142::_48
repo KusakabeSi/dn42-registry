@@ -1,0 +1,4 @@
+route6:             fd48:f77d:8142::/48
+origin:             AS4242423328
+mnt-by:             DEBOERDN2000-MNT
+source:             DN42

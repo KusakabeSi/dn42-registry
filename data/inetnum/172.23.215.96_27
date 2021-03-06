@@ -1,0 +1,10 @@
+inetnum:            172.23.215.96 - 172.23.215.127
+netname:            ARENDTSEN-NETWORK
+descr:              Arendtsen Network
+country:            DK
+admin-c:            ARENDTSEN-DN42
+tech-c:             ARENDTSEN-DN42
+mnt-by:             ARENDTSEN-MNT
+status:             ASSIGNED
+cidr:               172.23.215.96/27
+source:             DN42

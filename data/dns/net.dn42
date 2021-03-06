@@ -1,0 +1,6 @@
+domain:             net.dn42
+admin-c:            JULEZ-DN42
+tech-c:             JULEZ-DN42
+mnt-by:             JULEZ-MNT
+nserver:            ns.julez.dn42
+source:             DN42

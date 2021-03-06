@@ -1,0 +1,11 @@
+inetnum:            172.20.187.0 - 172.20.187.127
+netname:            ALENAN-IPV4-01
+country:            DE
+admin-c:            VMANN-DN42
+tech-c:             VMANN-DN42
+tech-c:             MUMU-DN42
+mnt-by:             VMANN-MNT
+mnt-by:             MUMU-MNT
+status:             ASSIGNED
+cidr:               172.20.187.0/25
+source:             DN42

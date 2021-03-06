@@ -1,0 +1,8 @@
+as-block:           AS64600-AS64855
+descr:              dn42 native ASN block (legacy)
+remarks:            The legacy policy was that if you own 172.22.x.0/24 you own the ASN 64600+x.
+remarks:            With the default allocation policy of an /25 per person now this becomes a problem.
+remarks:            Please only make an assignment from this block if you can't use 4 byte ASNs.
+mnt-by:             DN42-MNT
+policy:             ask
+source:             DN42

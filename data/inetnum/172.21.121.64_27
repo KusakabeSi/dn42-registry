@@ -1,0 +1,8 @@
+inetnum:            172.21.121.64 - 172.21.121.95
+netname:            TIMK-NET-1
+admin-c:            TIMK-DN42
+tech-c:             TIMK-DN42
+mnt-by:             TIMK-MNT
+status:             ASSIGNED
+cidr:               172.21.121.64/27
+source:             DN42

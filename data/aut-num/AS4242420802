@@ -1,0 +1,7 @@
+aut-num:            AS4242420802
+as-name:            OTTERS-AS
+descr:              Otters network
+admin-c:            KOODA-DN42
+tech-c:             KOODA-DN42
+mnt-by:             KOODA-MNT
+source:             DN42

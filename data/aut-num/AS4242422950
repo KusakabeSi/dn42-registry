@@ -1,0 +1,32 @@
+aut-num:            AS4242422950
+as-name:            SIS-DN42
+descr:              SIS DN42 AS
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+remarks:            
+remarks:            peering request self-service can be found at http://dn42.sis-netz.de/
+remarks:            
+remarks:            open for peerings, please contact admin-c
+remarks:            WireGuard/GRE+IPsec and via IPv6 only
+remarks:            
+remarks:            what we provide:
+remarks:            - up to 1 GBit/s dn42 transit
+remarks:            - transit to ICVPN and internal freifunk networks
+remarks:            - shells, virtual machines, hosted nameservers etc.
+remarks:            - fun wireless access points on hacker congresses and events!
+remarks:            
+remarks:            NOTE: please provide following details for peering requests
+remarks:            - your endpoint/remote IPv6 address (that one on the Internet, e.g. 2001:db8::123, DNS preferred if possible)
+remarks:            please do not forget the port! (needed for WireGuard, default: 51280)
+remarks:            - your AS number (e.g. AS424242XXXX)
+remarks:            - your tunnel IPv4 (out of 172.20/14, link-local not preferred)
+remarks:            - your tunnel IPv6 (link-local preferred, e.g. fe80::XXXX using the last four digits of your ASN)
+remarks:            - your WireGuard public-key (if applicable)
+remarks:            - your link speed (e.g. 1 GBit/s, 100 MBit/s)
+remarks:            - if your uplink is tunneled or you are behind for instance the DTAG 4G network, please name your Internet MTU (default: 1500)
+remarks:            - you agree to accept the Pico Peering Agreement v1.0 when peering with us
+remarks:            
+remarks:            Thanks for reading! Feel free to contact whenever you like.
+source:             DN42

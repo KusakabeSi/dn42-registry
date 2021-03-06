@@ -1,0 +1,8 @@
+mntner:             BAUDLORD-MNT
+descr:              baudlord.dn42
+admin-c:            BAUDLORD-DN42
+tech-c:             BAUDLORD-DN42
+mnt-by:             BAUDLORD-MNT
+auth:               pgp-fingerprint F123235977BC33377A50A8403F40DB27B7CE3221
+remarks:            pin-sha256:wvRr/PBVJzuHVpVOhP4Uqi324nYIixppDXIRas4jd8s=
+source:             DN42

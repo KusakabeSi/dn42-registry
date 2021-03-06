@@ -1,0 +1,11 @@
+inet6num:           fd00:1953:0615:0000:0000:0000:0000:0000 - fd00:1953:0615:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:1953:615::/48
+netname:            ARG-IPV6
+descr:              Core IPv6 Network of Arg Network
+country:            CN
+admin-c:            ARG-DN42
+tech-c:             ARG-DN42
+mnt-by:             ARG-MNT
+nserver:            ns.nia.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:4f81:ecf4::/48
+origin:             AS4242421824
+max-length:         48
+mnt-by:             NETSPEEDY-MNT
+source:             DN42

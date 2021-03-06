@@ -1,0 +1,6 @@
+mntner:             CONSOMA-MNT
+admin-c:            CONSOMA-DN42
+tech-c:             CONSOMA-DN42
+mnt-by:             CONSOMA-MNT
+source:             DN42
+auth:               pgp-fingerprint 3EAB946CDAD9D09D6EED9E6385EFE4A44E9BD6B2

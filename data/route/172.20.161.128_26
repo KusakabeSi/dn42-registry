@@ -1,0 +1,4 @@
+route:              172.20.161.128/26
+origin:             AS4242420666
+mnt-by:             SZF-MNT
+source:             DN42

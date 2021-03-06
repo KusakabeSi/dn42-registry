@@ -1,0 +1,8 @@
+inetnum:            172.23.100.224 - 172.23.100.255
+cidr:               172.23.100.224/27
+netname:            DEEPWATER-NET-1
+admin-c:            DEEPWATER-DN42
+tech-c:             DEEPWATER-DN42
+mnt-by:             DEEPWATER-MNT
+status:             ASSIGNED
+source:             DN42

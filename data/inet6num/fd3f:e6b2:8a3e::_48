@@ -1,0 +1,9 @@
+inet6num:           fd3f:e6b2:8a3e:0000:0000:0000:0000:0000 - fd3f:e6b2:8a3e:ffff:ffff:ffff:ffff:ffff
+netname:            SPIN-INET6
+country:            ZA
+admin-c:            SPIN-DN42
+tech-c:             SPIN-DN42
+mnt-by:             SPIN-MNT
+status:             ASSIGNED
+cidr:               fd3f:e6b2:8a3e::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.5.0 - 172.20.5.127
+netname:            V2-IPV4-1-HOME
+descr:              V2 IP Block for home usage
+country:            GB
+org:                ORG-V2
+admin-c:            ALISTAIR-DN42
+tech-c:             ALISTAIR-DN42
+mnt-by:             V2-MNT
+status:             ASSIGNED
+cidr:               172.20.5.0/25
+source:             DN42

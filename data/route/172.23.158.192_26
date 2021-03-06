@@ -1,0 +1,4 @@
+route:              172.23.158.192/26
+origin:             AS4242420568
+mnt-by:             MARSHY-MNT
+source:             DN42

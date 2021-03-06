@@ -1,0 +1,9 @@
+inetnum:            172.21.106.128 - 172.21.106.159
+cidr:               172.21.106.128/27
+netname:            MATTPROD-V4-NET-1
+country:            FR
+admin-c:            MATTPROD-DN42
+tech-c:             MATTPROD-DN42
+mnt-by:             MATTPROD-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:2201:0000:0000:0000:0000:0000 - fd42:4242:2201:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:2201::/48
+nserver:            seed.lotus.dn42
+nserver:            leaf.lotus.dn42
+netname:            LOTUS-DN42-INET6
+descr:              LOTUS DN42 INET6
+admin-c:            LOTUS-DN42
+tech-c:             LOTUS-DN42
+mnt-by:             LOTUS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:ccc:da::/48
+descr:              ROUTE-IP6-CCCDA
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+source:             DN42

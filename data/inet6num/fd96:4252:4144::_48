@@ -1,0 +1,10 @@
+inet6num:           fd96:4252:4144:0000:0000:0000:0000:0000 - fd96:4252:4144:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:4252:4144::/48
+netname:            BRADLEYCLAUS-NETWORK
+descr:              Network of BRADLEYCLAUS
+country:            US
+admin-c:            BRADLEYCLAUS-DN42
+tech-c:             BRADLEYCLAUS-DN42
+mnt-by:             BRADLEYCLAUS-MNT
+status:             ASSIGNED
+source:             DN42

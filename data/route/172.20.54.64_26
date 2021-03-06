@@ -1,0 +1,5 @@
+route:              172.20.54.64/26
+descr:              CHALLENE-NET
+origin:             AS4242420527
+mnt-by:             CHALLENE-MNT
+source:             DN42

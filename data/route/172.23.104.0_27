@@ -1,0 +1,5 @@
+route:              172.23.104.0/27
+descr:              GNILEBEIN-ROUTE
+origin:             AS4242420423
+mnt-by:             GNILEBEIN-MNT
+source:             DN42

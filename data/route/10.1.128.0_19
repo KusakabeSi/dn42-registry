@@ -1,0 +1,6 @@
+route:              10.1.128.0/19
+origin:             AS64864
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligkreuztal
+mnt-by:             DN42-MNT
+source:             ICVPN

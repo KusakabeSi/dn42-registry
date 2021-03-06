@@ -1,0 +1,10 @@
+inetnum:            172.20.15.128 - 172.20.15.159
+netname:            KOE-NET4
+descr:              koe dn42 network
+country:            US
+admin-c:            KOE-DN42
+tech-c:             KOE-DN42
+mnt-by:             KOE-MNT
+status:             ASSIGNED
+cidr:               172.20.15.128/27
+source:             DN42

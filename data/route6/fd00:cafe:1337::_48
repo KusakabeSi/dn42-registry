@@ -1,0 +1,4 @@
+route6:             fd00:cafe:1337::/48
+origin:             AS4242423420
+mnt-by:             LUX-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fda3:bb19:1754:1338:0000:0000:0000:0000 - fda3:bb19:1754:1338:ffff:ffff:ffff:ffff
+country:            DE
+admin-c:            TISET-DN42
+tech-c:             TISET-DN42
+mnt-by:             TISET-MNT
+status:             ASSIGNED
+cidr:               fda3:bb19:1754:1338::/64
+netname:            Unnamed fda3:bb19:1754:1338::/64 Network
+source:             DN42

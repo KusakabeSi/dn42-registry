@@ -1,0 +1,21 @@
+inet6num:           fd00:ffba:ffba:0000:0000:0000:0000:0000 - fd00:ffba:ffba:0000:ffff:ffff:ffff:ffff
+cidr:               fd00:ffba:ffba::/64
+netname:            ICVPN-SUEDWEST
+nserver:            101.0.210.10.ipv4.registry-sync.dn42
+nserver:            102.0.210.10.ipv4.registry-sync.dn42
+nserver:            103.0.210.10.ipv4.registry-sync.dn42
+nserver:            104.0.210.10.ipv4.registry-sync.dn42
+nserver:            105.0.210.10.ipv4.registry-sync.dn42
+nserver:            106.0.210.10.ipv4.registry-sync.dn42
+nserver:            199.0.210.10.ipv4.registry-sync.dn42
+nserver:            1.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            2.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            3.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            4.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            5.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            6.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+nserver:            9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.b.f.f.a.b.f.f.0.0.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: suedwest
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+role:               AIRGAPPED TECH
+nic-hdl:            AIRGAPPED-TECH-DN42
+abuse-mailbox:      abuse@airgapped.io
+org:                ORG-AIRGAPPED
+tech-c:             AIRGAPPED-PERCY-DN42
+mnt-by:             AIRGAPPED-MNT
+mnt-by:             AIRGAPPED-PERCY-MNT
+source:             DN42

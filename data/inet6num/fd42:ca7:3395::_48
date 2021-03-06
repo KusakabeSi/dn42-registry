@@ -1,0 +1,10 @@
+inet6num:           fd42:0ca7:3395:0000:0000:0000:0000:0000 - fd42:0ca7:3395:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ca7:3395::/48
+netname:            SHEBANG-NETWORK
+descr:              Network of SHEBANG
+country:            FR
+admin-c:            SHEBANG-DN42
+tech-c:             SHEBANG-DN42
+mnt-by:             SHEBANG-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.60.128 - 172.23.60.255
+netname:            XIAOYU-NET
+descr:              peering email dn42@ongod.org
+country:            CN
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+nserver:            ns.xiaoyu.dn42
+status:             ASSIGNED
+cidr:               172.23.60.128/25
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.109.160/29
+origin:             AS4242421325
+mnt-by:             PHILCGN-MNT
+source:             DN42

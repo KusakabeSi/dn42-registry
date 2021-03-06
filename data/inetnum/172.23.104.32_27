@@ -1,0 +1,10 @@
+inetnum:            172.23.104.32 - 172.23.104.63
+cidr:               172.23.104.32/27
+netname:            NJD-NETWORK
+descr:              njd.dn42
+admin-c:            NJD-DN42
+tech-c:             NJD-DN42
+mnt-by:             NJD-MNT
+status:             ASSIGNED
+source:             DN42
+country:            FR

@@ -1,0 +1,10 @@
+inet6num:           fd66:0b99:c0da:0000:0000:0000:0000:0000 - fd66:0b99:c0da:ffff:ffff:ffff:ffff:ffff
+cidr:               fd66:b99:c0da::/48
+netname:            CHUUNILAB6-NETWORK
+descr:              IPv6 network of Chuunilab
+country:            US
+admin-c:            R-DN42
+tech-c:             R-DN42
+mnt-by:             R-MNT
+status:             ASSIGNED
+source:             DN42

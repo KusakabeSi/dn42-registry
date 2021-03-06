@@ -1,0 +1,8 @@
+inet6num:           fd42:c0fe:babe:0000:0000:0000:0000:0000 - fd42:c0fe:babe:ffff:ffff:ffff:ffff:ffff
+netname:            NET-0RIGO-IP6-1-DN42
+cidr:               fd42:c0fe:babe::/48
+admin-c:            0RIGO-DN42
+tech-c:             0RIGO-DN42
+mnt-by:             0RIGO-MNT
+status:             ASSIGNED
+source:             DN42

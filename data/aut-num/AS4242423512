@@ -1,0 +1,18 @@
+aut-num:            AS4242423512
+as-name:            SHEOGORATH-AS
+org:                ORG-MADCIX
+remarks:            +---------------------------------------------------+
+remarks:            | * Open peering policy                             |
+remarks:            | * Currently only GRE/IPSec and tinc               |
+remarks:            |              GRE/IPSec is prefered                |
+remarks:            +-----------+---------------------------------------+
+remarks:            | Server    | Location                              |
+remarks:            +-----------+---------------------------------------+
+remarks:            | srv01     | Germany (netcup)                      |
+remarks:            +-----------+---------------------------------------+
+remarks:            |   Searching for non-"mainstream"-peers            |
+remarks:            +---------------------------------------------------+
+admin-c:            SHEOGORATH-DN42
+tech-c:             SHEOGORATH-DN42
+mnt-by:             SHEOGORATH-MNT
+source:             DN42

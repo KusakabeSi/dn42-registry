@@ -1,0 +1,4 @@
+route:              172.20.131.96/27
+origin:             AS4242422816
+mnt-by:             MVO-MNT
+source:             DN42

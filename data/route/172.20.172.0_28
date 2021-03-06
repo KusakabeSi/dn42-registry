@@ -1,0 +1,4 @@
+route:              172.20.172.0/28
+origin:             AS4242423160
+mnt-by:             ENS160-MNT
+source:             DN42

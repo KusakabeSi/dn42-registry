@@ -1,0 +1,5 @@
+route6:             fde3:a7e3:7957::/48
+descr:              GIn42 PEER2
+origin:             AS4242423004
+mnt-by:             GIN42-MNT
+source:             DN42

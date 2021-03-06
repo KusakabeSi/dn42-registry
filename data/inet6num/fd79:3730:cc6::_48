@@ -1,0 +1,9 @@
+inet6num:           fd79:3730:0cc6:0000:0000:0000:0000:0000 - fd79:3730:0cc6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd79:3730:cc6::/48
+netname:            SCUTTLE-NET
+descr:              ScuttleNet
+admin-c:            SCUTTLEBUG-DN42
+tech-c:             SCUTTLEBUG-DN42
+mnt-by:             SCUTTLEBUG-MNT
+status:             ASSIGNED
+source:             DN42

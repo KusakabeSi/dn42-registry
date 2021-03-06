@@ -1,0 +1,6 @@
+mntner:             CATER-MNT
+admin-c:            CATER-DN42
+tech-c:             CATER-DN42
+auth:               pgp-fingerprint 2478427067E02BD98C9F15D8DC8C0C4D20DD1A7E
+mnt-by:             CATER-MNT
+source:             DN42

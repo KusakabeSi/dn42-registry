@@ -1,0 +1,5 @@
+route:              172.21.125.192/28
+descr:              AS4242423560 announcement for OHNX-NET4-NA
+origin:             AS4242423560
+mnt-by:             OHNX-MNT
+source:             DN42

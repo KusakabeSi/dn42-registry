@@ -1,0 +1,12 @@
+inetnum:            172.23.231.64 - 172.23.231.95
+cidr:               172.23.231.64/27
+remarks:            Peer with me at DKJOKER@pm.me
+netname:            DKJOKER-DN42
+descr:              Peer with me at DKJOKER@pm.me
+country:            JP
+nserver:            ns1.dkjoker.dn42
+admin-c:            DKJOKER-DN42
+tech-c:             DKJOKER-DN42
+mnt-by:             DKJOKER-MNT
+status:             ASSIGNED
+source:             DN42

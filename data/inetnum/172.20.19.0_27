@@ -1,0 +1,8 @@
+inetnum:            172.20.19.0 - 172.20.19.31
+cidr:               172.20.19.0/27
+netname:            LANAO-NET-2
+admin-c:            TOBIKRIS-DN42
+tech-c:             TOBIKRIS-DN42
+mnt-by:             LANAO-MNT
+status:             ASSIGNED
+source:             DN42

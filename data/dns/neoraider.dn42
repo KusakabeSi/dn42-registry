@@ -1,0 +1,7 @@
+domain:             neoraider.dn42
+nserver:            ns0.neoraider.dn42 172.22.184.1
+nserver:            ns0.neoraider.dn42 fd1b:c28a:2fd6::1
+admin-c:            NEORAIDER-DN42
+tech-c:             NEORAIDER-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

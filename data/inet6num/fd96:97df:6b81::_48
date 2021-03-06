@@ -1,0 +1,9 @@
+inet6num:           fd96:97df:6b81:0000:0000:0000:0000:0000 - fd96:97df:6b81:ffff:ffff:ffff:ffff:ffff
+netname:            NET-HOPE-003
+country:            GB
+admin-c:            DHOPE-DN42
+tech-c:             DHOPE-DN42
+mnt-by:             HOPE-MNT
+status:             ASSIGNED
+cidr:               fd96:97df:6b81::/48
+source:             DN42

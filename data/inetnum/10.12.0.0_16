@@ -1,0 +1,7 @@
+inetnum:            10.12.0.0 - 10.12.255.255
+cidr:               10.12.0.0/16
+netname:            ICVPN-GRAZ
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: graz
+mnt-by:             DN42-MNT
+source:             ICVPN

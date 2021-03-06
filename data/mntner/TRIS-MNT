@@ -1,0 +1,6 @@
+mntner:             TRIS-MNT
+admin-c:            TRIS-DN42
+tech-c:             TRIS-DN42
+mnt-by:             TRIS-MNT
+source:             DN42
+auth:               pgp-fingerprint 2DEBDC50AC06DD4628931D3811A8846EDB4A2FB0

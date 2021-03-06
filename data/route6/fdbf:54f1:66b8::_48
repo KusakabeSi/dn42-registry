@@ -1,0 +1,5 @@
+route6:             fdbf:54f1:66b8::/48
+origin:             AS4242421525
+max-length:         48
+mnt-by:             ALEMAL-MNT
+source:             DN42

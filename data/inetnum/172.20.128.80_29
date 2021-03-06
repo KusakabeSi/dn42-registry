@@ -1,0 +1,8 @@
+inetnum:            172.20.128.80 - 172.20.128.87
+cidr:               172.20.128.80/29
+netname:            SH-NETWORK
+admin-c:            SH-DN42
+tech-c:             SH-DN42
+mnt-by:             SH-MNT
+status:             ASSIGNED
+source:             DN42

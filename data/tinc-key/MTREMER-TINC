@@ -1,0 +1,23 @@
+tinc-key:           MTREMER-TINC
+tinc-host:          mtremer
+admin-c:            MTREMER-DN42
+tech-c:             MTREMER-DN42
+tinc-address:       tinc.tremer.co.uk
+mnt-by:             MTREMER-MNT
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Address = tinc.tremer.co.uk
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEAshNBXeV4ht/pzBmWF2IrJUwfjFbVVYXdTR73nWOCnhwglhPTNalH
+                    lTZk8ngFnhMZSWsBrBx4Ik+ftHCPMKpSsoQNSUIicITDMkiLcUvKqSTaY71AiRPL
+                    Ye/gAY8sw7zvKrKKqLm8TuIQUGk2SkQHlb0/hgLuc0PMQ7neYc0KUGM+6WP8xOQP
+                    yrvHmfGknq8MTHP85AGDq871SRkjGwx8ybaUXNYroq1KFa5JMQ/c4lL9euIUbj8P
+                    OoXYATve4PZiGGMn0Loa0LZq2vmnuAxm64i3/Q1EGL4EFA9mO9ULDatBZCO7zj6J
+                    TdM4yeDcOOv0u6bZhQZRiFjqwolNAmEtapY54M1Ue8VU3y0/ADQWC3w/d0SbtHLy
+                    yidpgRiSXiggoEJgSuCG8/KQqkr/VW/nrYO8ANmJmrn/k7tREBSuwhj9QhVDM4PT
+                    F0VQyXL5+vu5t6BiN5LhvCkssnWn+RRJYRQz47m7qz1By2DVv8oRQxGx4QRPiwm7
+                    RzkwJXbOorMKAtQVhayhfaFCgY52Ojs4mn2kD1n9ycymoCOiluKXKHqSHQaWzQPj
+                    CRuuw2x2jPVeOO3rDrlOW1m99lw4lWeTzI7mcf01SyFq1s+sTSG2PjHwGaB0iHN7
+                    ubHk/iw7fp9ZvvYpKa5IV+R3KQQdDyTBM1py1uUBNrwhmhtHMCyLs3cCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

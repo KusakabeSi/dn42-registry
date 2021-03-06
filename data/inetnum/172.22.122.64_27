@@ -1,0 +1,8 @@
+inetnum:            172.22.122.64 - 172.22.122.95
+cidr:               172.22.122.64/27
+netname:            MCBROWN-NETWORK
+admin-c:            MCBROWN-DN42
+tech-c:             MCBROWN-DN42
+mnt-by:             MCBROWN-MNT
+status:             ASSIGNED
+source:             DN42

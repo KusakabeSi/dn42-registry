@@ -1,0 +1,11 @@
+inetnum:            172.20.148.16 - 172.20.148.31
+netname:            SPARCIENET-DN42
+cidr:               172.20.148.16/28
+descr:              seeabove
+country:            NL
+admin-c:            SPARCIE-DN42
+tech-c:             SPARCIE-DN42
+mnt-by:             SPARCIE-MNT
+nserver:            ns.sparcienet.dn42
+status:             ALLOCATED
+source:             DN42

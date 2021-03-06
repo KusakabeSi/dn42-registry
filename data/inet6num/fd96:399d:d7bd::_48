@@ -1,0 +1,8 @@
+inet6num:           fd96:399d:d7bd:0000:0000:0000:0000:0000 - fd96:399d:d7bd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:399d:d7bd::/48
+netname:            NATO-NET6-1
+admin-c:            NATO-DN42
+tech-c:             NATO-DN42
+mnt-by:             NATO-MNT
+status:             ASSIGNED
+source:             DN42

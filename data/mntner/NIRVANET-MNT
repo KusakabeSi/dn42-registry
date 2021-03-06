@@ -1,0 +1,6 @@
+mntner:             NIRVANET-MNT
+admin-c:            NIRVANET-DN42
+tech-c:             NIRVANET-DN42
+mnt-by:             NIRVANET-MNT
+source:             DN42
+auth:               pgp-fingerprint CCE7F9D368B43A9385CE2BDBF1480E4744B259CB

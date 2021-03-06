@@ -1,0 +1,5 @@
+route6:             fd23:42:c3d2:500::/56
+descr:              C3D2-HQ
+origin:             AS64699
+mnt-by:             ASTRO-MNT
+source:             DN42

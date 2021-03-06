@@ -1,0 +1,5 @@
+route6:             fdb6:70fb:3966::/48
+origin:             AS4242421210
+max-length:         48
+mnt-by:             JASON-MNT
+source:             DN42

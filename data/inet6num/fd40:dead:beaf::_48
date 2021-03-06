@@ -1,0 +1,9 @@
+inet6num:           fd40:dead:beaf:0000:0000:0000:0000:0000 - fd40:dead:beaf:ffff:ffff:ffff:ffff:ffff
+netname:            OGELPRE-IP6-NET
+cidr:               fd40:dead:beaf::/48
+country:            DE
+admin-c:            OGELPRE-DN42
+tech-c:             OGELPRE-DN42
+mnt-by:             OGELPRE-MNT
+status:             ASSIGNED
+source:             DN42

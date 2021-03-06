@@ -1,0 +1,4 @@
+route6:             fd14:aad:efca::/48
+origin:             AS4242420724
+mnt-by:             LFRAM-MNT
+source:             DN42

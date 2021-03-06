@@ -1,0 +1,10 @@
+inet6num:           fdc3:10cd:ae9e:0000:0000:0000:0000:0000 - fdc3:10cd:ae9e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:10cd:ae9e::/48
+netname:            JOSENG_GO1-NETWORK
+descr:              Network of joseng
+country:            US
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

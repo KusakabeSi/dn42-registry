@@ -1,0 +1,10 @@
+inet6num:           fd2e:b71f:7983:0000:0000:0000:0000:0000 - fd2e:b71f:7983:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2e:b71f:7983::/48
+netname:            DELTADELTA-NETWORK
+country:            FR
+admin-c:            DELTADELTA-DN42
+tech-c:             DELTADELTA-DN42
+mnt-by:             DELTADELTA-MNT
+status:             ASSIGNED
+nserver:            ns1.libellules.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd00:bad:f00d::/48
+pingable:           fd00:bad:f00d::1
+origin:             AS4242420899
+mnt-by:             LOSER-MNT
+source:             DN42

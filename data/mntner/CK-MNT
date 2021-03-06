@@ -1,0 +1,7 @@
+mntner:             CK-MNT
+descr:              CKPLAY Network
+admin-c:            CK-DN42
+tech-c:             CK-DN42
+mnt-by:             CK-MNT
+source:             DN42
+auth:               pgp-fingerprint  EB7DDF0636F43D101198603E4E3E9181D2A2FB98

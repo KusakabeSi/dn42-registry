@@ -1,0 +1,5 @@
+route6:             fd06:e881:5380::/48
+origin:             AS4242423197
+max-length:         48
+mnt-by:             SCIX-MNT
+source:             DN42

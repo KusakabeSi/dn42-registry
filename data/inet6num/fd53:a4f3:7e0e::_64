@@ -1,0 +1,9 @@
+inet6num:           fd53:a4f3:7e0e:0000:0000:0000:0000:0000 - fd53:a4f3:7e0e:0000:ffff:ffff:ffff:ffff
+netname:            JAMES-TRANSITS-SGP
+country:            SG
+admin-c:            JAMESITS-DN42
+tech-c:             JAMESITS-DN42
+mnt-by:             JAMESITS-MNT
+status:             ALLOCATED
+cidr:               fd53:a4f3:7e0e::/64
+source:             DN42

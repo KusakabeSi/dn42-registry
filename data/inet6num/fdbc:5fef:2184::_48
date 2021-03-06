@@ -1,0 +1,8 @@
+inet6num:           fdbc:5fef:2184:0000:0000:0000:0000:0000 - fdbc:5fef:2184:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbc:5fef:2184::/48
+netname:            GT-NET-1
+admin-c:            GT-DN42
+tech-c:             GT-DN42
+mnt-by:             GT-MNT
+status:             ASSIGNED
+source:             DN42

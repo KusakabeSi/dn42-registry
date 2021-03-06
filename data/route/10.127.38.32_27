@@ -1,0 +1,8 @@
+route:              10.127.38.32/27
+max-length:         29
+origin:             AS4242420308
+admin-c:            CLEMENT-VILLISEK-NEONETWORK
+tech-c:             CLEMENT-VILLISEK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

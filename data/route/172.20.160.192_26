@@ -1,0 +1,4 @@
+route:              172.20.160.192/26
+origin:             AS4242421189
+mnt-by:             TIMANDO-MNT
+source:             DN42

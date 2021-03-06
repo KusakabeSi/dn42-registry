@@ -1,0 +1,11 @@
+inetnum:            172.22.172.128 - 172.22.172.255
+netname:            UNBEDENKLICH-CUSTOMERS
+descr:              Customer Networks
+country:            DE
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+nserver:            ns.unbedenklich.dn42
+status:             ASSIGNED
+cidr:               172.22.172.128/25
+source:             DN42

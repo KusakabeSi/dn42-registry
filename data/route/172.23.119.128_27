@@ -1,0 +1,4 @@
+route:              172.23.119.128/27
+origin:             AS4242423112
+mnt-by:             NIRN-MNT
+source:             DN42

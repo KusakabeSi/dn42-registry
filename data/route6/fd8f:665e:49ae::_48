@@ -1,0 +1,5 @@
+route6:             fd8f:665e:49ae::/48
+origin:             AS4242421458
+max-length:         48
+mnt-by:             RAITO-MNT
+source:             DN42

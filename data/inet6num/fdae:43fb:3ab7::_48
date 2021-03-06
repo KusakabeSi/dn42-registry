@@ -1,0 +1,11 @@
+inet6num:           fdae:43fb:3ab7:0000:0000:0000:0000:0000 - fdae:43fb:3ab7:ffff:ffff:ffff:ffff:ffff
+cidr:               fdae:43fb:3ab7::/48
+netname:            HAMMYNET-NETWORK
+descr:              Network of HAMMYNET
+country:            US
+admin-c:            HAMPTON-DN42
+tech-c:             HAMPTON-DN42
+mnt-by:             HAMMYNET-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            blue.ns.hammynet.dn42

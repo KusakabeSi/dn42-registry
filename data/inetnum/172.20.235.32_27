@@ -1,0 +1,9 @@
+inetnum:            172.20.235.32 - 172.20.235.63
+cidr:               172.20.235.32/27
+netname:            KR4SH-NETWORK
+admin-c:            KR4SH-DN42
+tech-c:             KR4SH-DN42
+mnt-by:             KR4SH-MNT
+status:             ASSIGNED
+country:            DE
+source:             DN42

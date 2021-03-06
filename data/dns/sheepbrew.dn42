@@ -1,0 +1,7 @@
+domain:             sheepbrew.dn42
+admin-c:            SHEEPBREW-DN42
+tech-c:             SHEEPBREW-DN42
+mnt-by:             SHEEPBREW-MNT
+nserver:            ns1.sheepbrew.dn42 fd88:ee35:b221:53::1
+nserver:            ns1.sheepbrew.dn42 fd88:ee35:b221:53::2
+source:             DN42

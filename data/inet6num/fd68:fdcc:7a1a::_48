@@ -1,0 +1,11 @@
+inet6num:           fd68:fdcc:7a1a:0000:0000:0000:0000:0000 - fd68:fdcc:7a1a:ffff:ffff:ffff:ffff:ffff
+netname:            ASOT-IPV6-DN42
+descr:              A Series of Tubez Networks
+country:            CA
+admin-c:            HEAVYMETAL-DN42
+tech-c:             HEAVYMETAL-DN42
+mnt-by:             ASOTNET-MNT
+status:             ALLOCATED PI
+nserver:            ns1.aseriesoftubez.dn42
+cidr:               fd68:fdcc:7a1a::/48
+source:             DN42

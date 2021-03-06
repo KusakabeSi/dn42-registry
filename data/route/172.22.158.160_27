@@ -1,0 +1,4 @@
+route:              172.22.158.160/27
+origin:             AS4242420058
+mnt-by:             ILL-MNT
+source:             DN42

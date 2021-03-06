@@ -1,0 +1,8 @@
+inet6num:           fd31:2352:60a9:0000:0000:0000:0000:0000 - fd31:2352:60a9:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:2352:60a9::/48
+netname:            HANNIBAL-NET-1
+admin-c:            HANNIBAL-DN42
+tech-c:             HANNIBAL-DN42
+mnt-by:             HANNIBAL-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+inet6num:           fd62:44e1:00da:0000:0000:0000:0000:0000 - fd62:44e1:00da:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:44e1:da::/48
+netname:            ICVPN-MAYEN-KOBLENZ
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mayen-koblenz
+mnt-by:             DN42-MNT
+source:             ICVPN

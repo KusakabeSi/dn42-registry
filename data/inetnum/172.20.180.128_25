@@ -1,0 +1,10 @@
+inetnum:            172.20.180.128 - 172.20.180.255
+netname:            MDP-HOME
+descr:              Home Network Prefix
+country:            US
+admin-c:            MDP-DN42
+tech-c:             MDP-DN42
+mnt-by:             MDP-MNT
+status:             ASSIGNED
+cidr:               172.20.180.128/25
+source:             DN42

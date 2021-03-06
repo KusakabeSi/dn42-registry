@@ -1,0 +1,5 @@
+route6:             fd97:36:c802::/48
+origin:             AS62396
+max-length:         48
+mnt-by:             MFK-MNT
+source:             DN42

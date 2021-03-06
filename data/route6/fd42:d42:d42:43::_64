@@ -1,0 +1,10 @@
+route6:             fd42:d42:d42:43::/64
+descr:              DN42 Anycast Whois
+remarks:            http://wiki.dn42/services/Whois
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+origin:             AS4242423723
+mnt-by:             KRSTN-MNT
+origin:             AS4242422601
+mnt-by:             BURBLE-MNT
+source:             DN42

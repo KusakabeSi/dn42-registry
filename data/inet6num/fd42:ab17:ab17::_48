@@ -1,0 +1,10 @@
+inet6num:           fd42:ab17:ab17:0000:0000:0000:0000:0000 - fd42:ab17:ab17:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ab17:ab17::/48
+netname:            AFTBIT-V6-NET-2
+country:            US
+admin-c:            AFTBIT-DN42
+tech-c:             AFTBIT-DN42
+mnt-by:             AFTBIT-MNT
+status:             ASSIGNED
+nserver:            ns1.aftbit.dn42
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242421551
+as-name:            VRNET-DN42
+descr:              vr network
+admin-c:            VRNET-DN42
+tech-c:             VRNET-DN42
+mnt-by:             VRNET-MNT
+source:             DN42

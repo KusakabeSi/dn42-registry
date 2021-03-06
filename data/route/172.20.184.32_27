@@ -1,0 +1,4 @@
+route:              172.20.184.32/27
+origin:             AS4242423884
+mnt-by:             AFX-MNT
+source:             DN42

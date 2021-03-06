@@ -1,0 +1,4 @@
+route6:             fd42:1b5:1b5::/48
+origin:             AS4242423904
+mnt-by:             LUGINBASH-MNT
+source:             DN42

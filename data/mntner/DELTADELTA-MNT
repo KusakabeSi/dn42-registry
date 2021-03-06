@@ -1,0 +1,6 @@
+mntner:             DELTADELTA-MNT
+admin-c:            DELTADELTA-DN42
+tech-c:             DELTADELTA-DN42
+mnt-by:             DELTADELTA-MNT
+auth:               pgp-fingerprint 304DF90CF6979D98B3E6E9062B139D7FCB11D075
+source:             DN42

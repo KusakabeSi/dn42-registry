@@ -1,0 +1,10 @@
+inet6num:           fd00:0490:cb2d:0000:0000:0000:0000:0000 - fd00:0490:cb2d:0fff:ffff:ffff:ffff:ffff
+netname:            FXKR-DN42-IP6NET
+descr:              fxkr's dn42 network
+country:            DE
+admin-c:            FXKR-DN42
+tech-c:             FXKR-DN42
+mnt-by:             FXKR-MNT
+status:             ASSIGNED
+cidr:               fd00:490:cb2d::/52
+source:             DN42

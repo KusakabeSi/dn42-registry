@@ -1,0 +1,10 @@
+inet6num:           fd21:b0e7:6c39:c241:0000:0000:0000:0000 - fd21:b0e7:6c39:c241:ffff:ffff:ffff:ffff
+cidr:               fd21:b0e7:6c39:c241::/64
+netname:            DK6H05T-NETWORK
+descr:              Network of dk6h05t
+country:            MX
+admin-c:            DK6H05T-DN42
+tech-c:             DK6H05T-DN42
+mnt-by:             DK6H05T-MNT
+status:             ASSIGNED
+source:             DN42

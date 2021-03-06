@@ -1,0 +1,10 @@
+inet6num:           fdbc:fddc:67ad:0000:0000:0000:0000:0000 - fdbc:fddc:67ad:ffff:ffff:ffff:ffff:ffff
+netname:            VICTORY-IPV6
+descr:              Peer with me at 22981096@qq.com
+country:            CN
+admin-c:            VICTORY-DN42
+tech-c:             VICTORY-DN42
+mnt-by:             VICTORY-MNT
+status:             ASSIGNED
+cidr:               fdbc:fddc:67ad::/48
+source:             DN42

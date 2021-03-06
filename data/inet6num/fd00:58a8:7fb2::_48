@@ -1,0 +1,8 @@
+inet6num:           fd00:58a8:7fb2:0000:0000:0000:0000:0000 - fd00:58a8:7fb2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:58a8:7fb2::/48
+netname:            MORXI-NETWORK
+admin-c:            MORXI-DN42
+tech-c:             MORXI-DN42
+mnt-by:             MOXI-MNT
+status:             ASSIGNED
+source:             DN42

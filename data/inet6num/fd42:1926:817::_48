@@ -1,0 +1,11 @@
+inet6num:           fd42:1926:0817:0000:0000:0000:0000:0000 - fd42:1926:0817:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:1926:817::/48
+netname:            NAIVE-NETWORK
+descr:              Naive Network
+country:            US
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+nserver:            ns1.zhaofeng.dn42
+status:             ASSIGNED
+source:             DN42

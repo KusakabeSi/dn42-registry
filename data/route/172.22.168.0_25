@@ -1,0 +1,5 @@
+route:              172.22.168.0/25
+descr:              YANG dn42 IPv4 subnet
+origin:             AS64768
+mnt-by:             YANG-MNT
+source:             DN42

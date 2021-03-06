@@ -1,0 +1,7 @@
+mntner:             DACR-MNT
+descr:              DACR DN42
+admin-c:            DACR-DN42
+tech-c:             DACR-DN42
+mnt-by:             DACR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKPPwUMgYWFLLnDK4WSPzzp8R0u4wUPGogG8XD1caxF/NKRr9LwTVm00Z3RZFQWivPpBeWybODrqYQ9wEyVQ3L6PryFwk2vWPbgO0bVSu5FrkFkkb9G3yIGuo9FhTfooUrX7PKdwJA/Z6/dN5FE40O8fgYriI4wKfw7lxRjYwTY60ew5/heMpo1D1huMoQG0QKnzf4zez7d16O7jiVxkIGbImIwS8920xAAgvcM9h5YUJAywB+kJE47prqhrESzNknuMd0HUu92/lb0i5AcWoW2zDz/mgxOVXWDBvz/SwslLoH8RXsmJ+Z/H2PyOrjdWfcKIJt4fpt1qdp2Ol9prln
+source:             DN42

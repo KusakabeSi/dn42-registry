@@ -1,0 +1,12 @@
+inetnum:            172.23.76.0 - 172.23.76.63
+netname:            NET-CHAOS-SBG-INFRA
+descr:              Chaostreff Salzburg Infra
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+nserver:            ns0.at.dn42
+status:             ASSIGNED
+cidr:               172.23.76.0/26
+source:             DN42

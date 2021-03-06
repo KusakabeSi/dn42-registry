@@ -1,0 +1,9 @@
+inet6num:           fd42:5969:0505:0000:0000:0000:0000:0000 - fd42:5969:0505:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:5969:505::/48
+netname:            LPV-NETWORK
+country:            DE
+admin-c:            LPV-DN42
+tech-c:             LPV-DN42
+mnt-by:             LPV-MNT
+status:             ASSIGNED
+source:             DN42

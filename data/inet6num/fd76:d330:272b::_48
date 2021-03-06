@@ -1,0 +1,8 @@
+inet6num:           fd76:d330:272b:0000:0000:0000:0000:0000 - fd76:d330:272b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd76:d330:272b::/48
+netname:            RHINE-NET-1
+admin-c:            RHINE-DN42
+tech-c:             RHINE-DN42
+mnt-by:             RHINE-MNT
+status:             ASSIGNED
+source:             DN42

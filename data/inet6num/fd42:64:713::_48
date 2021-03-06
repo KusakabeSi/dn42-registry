@@ -1,0 +1,10 @@
+inet6num:           fd42:0064:0713:0000:0000:0000:0000:0000 - fd42:0064:0713:ffff:ffff:ffff:ffff:ffff
+netname:            MARTIN89-DN42-IP6NET
+descr:              Martin89 dn42 network
+admin-c:            MARTIN89-DN42
+tech-c:             MARTIN89-DN42
+status:             ASSIGNED
+nserver:            adns.martin89.dn42
+cidr:               fd42:64:713::/48
+mnt-by:             MARTIN89-MNT
+source:             DN42

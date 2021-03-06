@@ -1,0 +1,6 @@
+route:              10.204.0.0/16
+origin:             AS64857
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: vogtland
+mnt-by:             DN42-MNT
+source:             ICVPN

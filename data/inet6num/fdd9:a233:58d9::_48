@@ -1,0 +1,10 @@
+inet6num:           fdd9:a233:58d9:0000:0000:0000:0000:0000 - fdd9:a233:58d9:ffff:ffff:ffff:ffff:ffff
+netname:            XIAOYU-NET
+country:            CN
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+nserver:            ns.xiaoyu.dn42
+status:             ASSIGNED
+cidr:               fdd9:a233:58d9::/48
+source:             DN42

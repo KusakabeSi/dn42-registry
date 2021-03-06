@@ -1,0 +1,7 @@
+mntner:             DEEPWATER-MNT
+descr:              DEEPWATER
+admin-c:            DEEPWATER-DN42
+tech-c:             DEEPWATER-DN42
+mnt-by:             DEEPWATER-MNT
+auth:               pgp-fingerprint F249D402BA92A13CB320FF6D9694F559BD43E4D7
+source:             DN42

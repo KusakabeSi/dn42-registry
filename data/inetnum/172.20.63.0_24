@@ -1,0 +1,10 @@
+inetnum:            172.20.63.0 - 172.20.63.255
+netname:            NOCTURNO2-NET-DN42
+descr:              NOCTURNO2-NET-DN42
+country:            PT
+admin-c:            PR0BE-DN42
+tech-c:             PR0BE-DN42
+mnt-by:             NOCTURNO-MNT
+status:             ALLOCATED
+cidr:               172.20.63.0/24
+source:             DN42

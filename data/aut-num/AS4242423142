@@ -1,0 +1,7 @@
+aut-num:            AS4242423142
+as-name:            TFLGEN2-AS
+descr:              GEN2-BACKBONE
+admin-c:            TFLGEN2-DN42
+tech-c:             TFLGEN2-DN42
+mnt-by:             TFLGEN2-MNT
+source:             DN42

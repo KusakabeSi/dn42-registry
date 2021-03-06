@@ -1,0 +1,8 @@
+inetnum:            172.20.162.8 - 172.20.162.15
+cidr:               172.20.162.8/29
+netname:            GTDB-NETWORK
+admin-c:            GTDB-DN42
+tech-c:             GTDB-DN42
+mnt-by:             GTDB-MNT
+status:             ASSIGNED
+source:             DN42

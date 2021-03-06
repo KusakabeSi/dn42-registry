@@ -1,0 +1,7 @@
+aut-num:            AS4242423789
+as-name:            KHANAGE-AS
+descr:              AS for dumb mistakes
+admin-c:            KHANAGE-DN42
+tech-c:             KHANAGE-DN42
+mnt-by:             KHANAGE-MNT
+source:             DN42

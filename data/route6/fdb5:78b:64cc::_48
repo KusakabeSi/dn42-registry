@@ -1,0 +1,6 @@
+route6:             fdb5:78b:64cc::/48
+origin:             AS65181
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: gera-greiz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,9 @@
+domain:             gcc.dn42
+admin-c:            LIYUMI-DN42
+tech-c:             LIYUMI-DN42
+mnt-by:             GCC-MNT
+nserver:            ns1.gcc.dn42 172.22.124.1
+nserver:            ns1.gcc.dn42 fdb2:b297:900d:1::1
+nserver:            ns2.gcc.dn42 172.22.124.3
+nserver:            ns2.gcc.dn42 fdb2:b297:900d:3::1
+source:             DN42

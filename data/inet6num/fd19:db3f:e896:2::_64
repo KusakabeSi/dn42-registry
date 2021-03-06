@@ -1,0 +1,10 @@
+inet6num:           fd19:db3f:e896:0002:0000:0000:0000:0000 - fd19:db3f:e896:0002:ffff:ffff:ffff:ffff
+netname:            CTN-3
+descr:              Customer Network 3
+country:            DE
+admin-c:            JAJO-DN42
+tech-c:             JAJO-DN42
+mnt-by:             JAJO-MNT
+status:             ASSIGNED
+cidr:               fd19:db3f:e896:2::/64
+source:             DN42

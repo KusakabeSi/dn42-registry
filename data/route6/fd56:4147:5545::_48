@@ -1,0 +1,4 @@
+route6:             fd56:4147:5545::/48
+origin:             AS4242420810
+mnt-by:             JAMESR-MNT
+source:             DN42

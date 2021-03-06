@@ -1,0 +1,10 @@
+inetnum:            172.21.92.32 - 172.21.92.63
+cidr:               172.21.92.32/27
+netname:            HEIAS-NETWORK
+admin-c:            HEIAS-DN42
+tech-c:             HEIAS-DN42
+mnt-by:             HEIAS-MNT
+nserver:            ns1.heias.dn42
+nserver:            ns2.heias.dn42
+status:             ASSIGNED
+source:             DN42

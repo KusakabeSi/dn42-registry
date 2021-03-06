@@ -1,0 +1,8 @@
+inet6num:           fd42:3a16:0acd:0000:0000:0000:0000:0000 - fd42:3a16:0acd:ffff:ffff:ffff:ffff:ffff
+netname:            YGGDRASIL-6NET
+admin-c:            NEKO-DN42
+tech-c:             NEKO-DN42
+mnt-by:             NEKO-MNT
+status:             ASSIGNED
+cidr:               fd42:3a16:acd::/48
+source:             DN42

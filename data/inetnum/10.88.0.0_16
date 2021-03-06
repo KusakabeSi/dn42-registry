@@ -1,0 +1,7 @@
+inetnum:            10.88.0.0 - 10.88.255.255
+cidr:               10.88.0.0/16
+netname:            ICVPN-OWL
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: owl
+mnt-by:             DN42-MNT
+source:             ICVPN

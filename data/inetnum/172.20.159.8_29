@@ -1,0 +1,10 @@
+inetnum:            172.20.159.8 - 172.20.159.15
+netname:            DEUT-NETWORK-LEGACY
+descr:              Deut legacy network
+country:            FR
+admin-c:            DEUT-DN42
+tech-c:             DEUT-DN42
+mnt-by:             DEUT-MNT
+status:             ASSIGNED
+cidr:               172.20.159.8/29
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.129.32/27
+origin:             AS4242423338
+mnt-by:             YUXANS-MNT
+source:             DN42

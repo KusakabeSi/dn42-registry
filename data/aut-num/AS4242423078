@@ -1,0 +1,17 @@
+aut-num:            AS4242423078
+as-name:            HEXANET AS
+remarks:            +------------------------------------------------+
+remarks:            | Hexanet AS                                     |
+remarks:            | * Open peering policy                          |
+remarks:            | * Wireguard only                               |
+remarks:            | * IPv6 only network                            |
+remarks:            +------------------------------------------------+
+remarks:            | Full information at https://hexanet.dev/dn42/  |
+remarks:            +------------------------------------------------+
+admin-c:            HEXAWOLF-DN42
+tech-c:             FOXCPP-DN42
+mp-import:          afi ipv6.unicast from AS4242423078:AS-TRANSIT accept { fd00::/8^+ }
+mp-export:          afi ipv6.unicast to AS4242423078:AS-TRANSIT announce { fd00::/8^+ }
+org:                ORG-HEXANET
+mnt-by:             HEXANET-MNT
+source:             DN42

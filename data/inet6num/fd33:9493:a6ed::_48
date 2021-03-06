@@ -1,0 +1,9 @@
+inet6num:           fd33:9493:a6ed:0000:0000:0000:0000:0000 - fd33:9493:a6ed:ffff:ffff:ffff:ffff:ffff
+cidr:               fd33:9493:a6ed::/48
+netname:            KILOBYTE-NETWORK
+admin-c:            KILOBYTE-DN42
+tech-c:             KILOBYTE-DN42
+mnt-by:             KILOBYTE-MNT
+nserver:            ns1.kilobyte.dn42
+status:             ASSIGNED
+source:             DN42

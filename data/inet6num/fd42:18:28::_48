@@ -1,0 +1,13 @@
+inet6num:           fd42:0018:0028:0000:0000:0000:0000:0000 - fd42:0018:0028:ffff:ffff:ffff:ffff:ffff
+netname:            BR-NET6-1
+descr:              BR-NET6-1
+country:            BR
+admin-c:            BR-DN42
+tech-c:             BR-DN42
+mnt-by:             BR-MNT
+nserver:            ns1.br.dn42
+nserver:            ns2.br.dn42
+nserver:            ns3.br.dn42
+status:             ALLOCATED
+cidr:               fd42:18:28::/48
+source:             DN42

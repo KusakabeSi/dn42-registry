@@ -1,0 +1,5 @@
+route:              172.20.15.96/27
+descr:              linuxgemini IPv4
+origin:             AS4242422255
+mnt-by:             LINUXGEMINI-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             sky.dn42
+descr:              Sky on DN42
+admin-c:            SKY-DN42
+tech-c:             SKY-DN42
+mnt-by:             SKY-MNT
+nserver:            ns1.sky.dn42 fddc:5f35:fd47::1
+source:             DN42

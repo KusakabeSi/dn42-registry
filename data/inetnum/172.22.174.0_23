@@ -1,0 +1,11 @@
+inetnum:            172.22.174.0 - 172.22.175.255
+netname:            NET-GATOR-172-22-174-0
+descr:              NET-GATOR-001
+country:            US
+admin-c:            DKRAKLAN-DN42
+tech-c:             DKRAKLAN-DN42
+mnt-by:             DKRAKLAN-MNT
+nserver:            ns1.gatortech.dn42
+status:             ASSIGNED
+cidr:               172.22.174.0/23
+source:             DN42

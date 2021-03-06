@@ -1,0 +1,6 @@
+route6:             fd59:b1b7:1d1f::/48
+origin:             AS65055
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: jena
+mnt-by:             DN42-MNT
+source:             ICVPN

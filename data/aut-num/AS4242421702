@@ -1,0 +1,18 @@
+aut-num:            AS4242421702
+as-name:            BAKKER-AS
+descr:              BakkerNET™ - Global Anycast Network
+remarks:            -------------------------------------
+remarks:            (Soon) Available locations:
+remarks:            Amsterdam, The Netherlands
+remarks:            Milano, Italy
+remarks:            Gravelines, France
+remarks:            Roubaix, France
+remarks:            Warsaw, Poland
+remarks:            London, United Kingdom
+remarks:            Falkenstein, Germany
+remarks:            Piscataway (NJ), United States
+remarks:            -------------------------------------
+admin-c:            RICK-DN42
+tech-c:             RICK-DN42
+mnt-by:             RICK-MNT
+source:             DN42

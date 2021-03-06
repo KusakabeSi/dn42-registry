@@ -1,0 +1,4 @@
+route:              172.20.6.144/28
+origin:             AS4242422644
+mnt-by:             FOXO-MNT
+source:             DN42

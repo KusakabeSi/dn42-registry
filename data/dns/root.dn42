@@ -1,0 +1,10 @@
+domain:             root.dn42
+nserver:            lavana.sjc.xuu.dn42
+nserver:            rakta.fra.xuu.dn42
+admin-c:            DUMMY-DN42
+tech-c:             WELTERDE-DN42
+tech-c:             XUU-DN42
+tech-c:             GRMML-DN42
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.88.0/24
+origin:             AS4242420205
+mnt-by:             ROOT6-MNT
+source:             DN42

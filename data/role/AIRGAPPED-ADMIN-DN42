@@ -1,0 +1,7 @@
+role:               AIRGAPPED ADMIN
+nic-hdl:            AIRGAPPED-ADMIN-DN42
+abuse-mailbox:      abuse@airgapped.io
+org:                ORG-AIRGAPPED
+admin-c:            AIRGAPPED-DAVID-DN42
+mnt-by:             AIRGAPPED-MNT
+source:             DN42

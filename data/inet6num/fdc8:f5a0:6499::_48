@@ -1,0 +1,8 @@
+inet6num:           fdc8:f5a0:6499:0000:0000:0000:0000:0000 - fdc8:f5a0:6499:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:f5a0:6499::/48
+netname:            ACCELERATOR-NET-1
+admin-c:            ACCELERATOR-DN42
+tech-c:             ACCELERATOR-DN42
+mnt-by:             ACCELERATOR-MNT
+status:             ASSIGNED
+source:             DN42

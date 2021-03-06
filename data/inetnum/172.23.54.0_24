@@ -1,0 +1,11 @@
+inetnum:            172.23.54.0 - 172.23.54.255
+netname:            RSK-NET
+country:            AE
+admin-c:            RSK-DN42
+tech-c:             RSK-DN42
+mnt-by:             RSK-MNT
+status:             ASSIGNED
+nserver:            ns1.rsk.dn42
+nserver:            ns2.rsk.dn42
+cidr:               172.23.54.0/24
+source:             DN42

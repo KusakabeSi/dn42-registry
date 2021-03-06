@@ -1,0 +1,7 @@
+domain:             robbie.dn42
+descr:              Robbie Fan Club
+admin-c:            CALLUM-DN42
+tech-c:             CALLUM-DN42
+mnt-by:             CALLUM-MNT
+nserver:            ns1.robbie.dn42 172.20.138.194
+source:             DN42

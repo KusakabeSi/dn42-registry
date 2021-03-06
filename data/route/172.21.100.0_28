@@ -1,0 +1,5 @@
+route:              172.21.100.0/28
+descr:              NETCLIPSE-NETWORK-CORE
+origin:             AS4242423737
+mnt-by:             NETCLIPSE-MNT
+source:             DN42

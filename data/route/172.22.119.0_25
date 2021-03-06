@@ -1,0 +1,5 @@
+route:              172.22.119.0/25
+descr:              LUTOMA-IP4NET
+origin:             AS64719
+mnt-by:             LUTOMA-MNT
+source:             DN42

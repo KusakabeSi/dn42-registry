@@ -1,0 +1,5 @@
+route6:             fd29:612d:9dd1::/48
+origin:             AS4242423928
+max-length:         48
+mnt-by:             TOPSARUN-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.20.228.96 - 172.20.228.127
+netname:            ATR-EU
+descr:              ATR Network in Atlantic and Europe
+country:            DE
+country:            FR
+country:            NL
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               172.20.228.96/27
+source:             DN42

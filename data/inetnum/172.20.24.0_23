@@ -1,0 +1,10 @@
+inetnum:            172.20.24.0 - 172.20.25.255
+netname:            ANDI-HOME-NET
+cidr:               172.20.24.0/23
+descr:              andi-
+country:            DE
+admin-c:            ANDI-DN42
+tech-c:             ANDI-DN42
+mnt-by:             ANDI--MNT
+status:             ALLOCATED
+source:             DN42

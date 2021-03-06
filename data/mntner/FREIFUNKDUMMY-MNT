@@ -1,0 +1,6 @@
+mntner:             FREIFUNKDUMMY-MNT
+descr:              Freifunk dummy object
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+source:             DN42

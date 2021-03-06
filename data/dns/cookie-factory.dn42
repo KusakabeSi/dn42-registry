@@ -1,0 +1,9 @@
+domain:             cookie-factory.dn42
+descr:              DNS PROJECT
+admin-c:            HYP3RX-DN42
+tech-c:             HYP3RX-DN42
+mnt-by:             COOKIEFACTORY-MNT
+nserver:            ns1.cookie-factory.dn42 172.20.6.165
+nserver:            ns2.cookie-factory.dn42 172.20.6.166
+remarks:            DNS hosted by Cookie-Factory.dn42
+source:             DN42

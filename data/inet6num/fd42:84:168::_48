@@ -1,0 +1,10 @@
+inet6num:           fd42:0084:0168:0000:0000:0000:0000:0000 - fd42:0084:0168:ffff:ffff:ffff:ffff:ffff
+netname:            DATA-NET
+descr:              pibone
+country:            DE
+admin-c:            DATA-DN42
+tech-c:             DATA-DN42
+mnt-by:             DATA-MNT
+status:             ASSIGNED
+cidr:               fd42:84:168::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:5d71:0219:0000:0000:0000:0000:0000 - fd42:5d71:0219:ffff:ffff:ffff:ffff:ffff
+netname:            JRB0001
+nserver:            ns1.as4242420119.dn42
+nserver:            ns2.as4242420119.dn42
+ds-rdata:           27958 13 2 51ebdd82f68aea13ca1d1e7aad2282da2c471a7fc187c7852de33ced491411c9
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+status:             ALLOCATED PA
+cidr:               fd42:5d71:219::/48
+source:             DN42

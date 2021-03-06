@@ -1,0 +1,8 @@
+domain:             cccac.dn42
+descr:              Domain des CCC Aachens
+admin-c:            ND-DN42
+tech-c:             ND-DN42
+mnt-by:             ND-MNT
+mnt-by:             SPQ-MNT
+nserver:            ns1.cccac.dn42 172.20.120.4
+source:             DN42

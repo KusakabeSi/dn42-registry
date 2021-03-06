@@ -1,0 +1,5 @@
+route6:             fd18:3ab6:2508::/48
+origin:             AS4242422512
+max-length:         48
+mnt-by:             CLEMENT-MNT
+source:             DN42

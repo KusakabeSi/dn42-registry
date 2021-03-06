@@ -1,0 +1,9 @@
+domain:             palakis.dn42
+admin-c:            PALAKIS-DN42
+tech-c:             PALAKIS-DN42
+mnt-by:             PALAKIS-MNT
+nserver:            ns1.palakis.dn42 172.20.21.65
+nserver:            ns1.palakis.dn42 fd42:39fc:02ad::65
+nserver:            ns2.palakis.dn42 172.20.21.66
+nserver:            ns2.palakis.dn42 fd42:39fc:02ad::66
+source:             DN42

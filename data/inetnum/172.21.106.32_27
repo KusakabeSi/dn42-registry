@@ -1,0 +1,9 @@
+inetnum:            172.21.106.32 - 172.21.106.63
+cidr:               172.21.106.32/27
+netname:            BENL-NETWORK
+admin-c:            BENL-DN42
+tech-c:             BENL-DN42
+mnt-by:             BENL-MNT
+nserver:            ns1.benl.dn42
+status:             ASSIGNED
+source:             DN42

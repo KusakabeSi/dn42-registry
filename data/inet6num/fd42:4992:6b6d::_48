@@ -1,0 +1,14 @@
+inet6num:           fd42:4992:6b6d:0000:0000:0000:0000:0000 - fd42:4992:6b6d:ffff:ffff:ffff:ffff:ffff
+netname:            WOLF-NET
+descr:              WhiteWolf's ZA Net
+country:            ZA
+admin-c:            WOLF-DN42
+tech-c:             WOLF-DN42
+mnt-by:             WOLF-MNT
+nserver:            hail.wolf.dn42
+nserver:            snow.wolf.dn42
+nserver:            sleet.wolf.dn42
+nserver:            water.wolf.dn42
+status:             ASSIGNED
+cidr:               fd42:4992:6b6d::/48
+source:             DN42

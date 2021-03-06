@@ -1,0 +1,4 @@
+route:              172.20.39.96/27
+origin:             AS4242423615
+mnt-by:             FUDNET-MNT
+source:             DN42

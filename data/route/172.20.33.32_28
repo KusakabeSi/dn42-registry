@@ -1,0 +1,5 @@
+route:              172.20.33.32/28
+descr:              ALTF4-GATEWAY
+origin:             AS4242422935
+mnt-by:             ALTF4-MNT
+source:             DN42

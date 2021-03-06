@@ -1,0 +1,7 @@
+aut-num:            AS4242420999
+as-name:            GROKSTER-AS
+descr:              Grokster
+admin-c:            GROKSTER-DN42
+tech-c:             GROKSTER-DN42
+mnt-by:             GROKSTER-MNT
+source:             DN42

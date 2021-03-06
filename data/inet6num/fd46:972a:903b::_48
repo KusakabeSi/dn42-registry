@@ -1,0 +1,10 @@
+inet6num:           fd46:972a:903b:0000:0000:0000:0000:0000 - fd46:972a:903b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd46:972a:903b::/48
+netname:            MARKR-NETWORK
+descr:              Mark Network
+country:            US
+admin-c:            MARKR-DN42
+tech-c:             MARKR-DN42
+mnt-by:             MARKR-MNT
+status:             ASSIGNED
+source:             DN42

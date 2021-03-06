@@ -1,0 +1,7 @@
+domain:             hessnet.dn42
+admin-c:            GRAFFEN-DN42
+tech-c:             GRAFFEN-DN42
+mnt-by:             HESSNET-MNT
+nserver:            ns1.hessnet.dn42 fd62:77fb:94bf::2300
+nserver:            ns1.hessnet.dn42 172.20.170.192
+source:             DN42

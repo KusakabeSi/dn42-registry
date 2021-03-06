@@ -1,0 +1,4 @@
+route:              172.20.142.96/27
+origin:             AS4242421120
+mnt-by:             FISCALCHEIS-MNT
+source:             DN42

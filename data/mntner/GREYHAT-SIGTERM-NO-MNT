@@ -1,0 +1,6 @@
+mntner:             GREYHAT-SIGTERM-NO-MNT
+descr:              Sigterm.no
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             GREYHAT-SIGTERM-NO-MNT
+source:             DN42

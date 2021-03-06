@@ -1,0 +1,11 @@
+aut-num:            AS64698
+as-name:            C3D2WETU-AS
+descr:              CCC Dresden Server
+org:                ORG-C3D2
+admin-c:            ASTRO-DN42
+admin-c:            ERI-DN42
+tech-c:             ASTRO-DN42
+tech-c:             ERI-DN42
+mnt-by:             ASTRO-MNT
+mnt-by:             ERI-MNT
+source:             DN42

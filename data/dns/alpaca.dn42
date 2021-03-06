@@ -1,0 +1,7 @@
+domain:             alpaca.dn42
+admin-c:            ALPACA-DN42
+tech-c:             ALPACA-DN42
+mnt-by:             ALPACA-MNT
+nserver:            ns1.alpaca.dn42 172.22.110.201
+nserver:            ns1.alpaca.dn42 fd32:b22c:b2ea::1
+source:             DN42

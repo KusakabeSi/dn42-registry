@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0010:0000:0000:0000:0000:0000 - fd10:0127:0010:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:10::/48
+netname:            Lan Tian LAN6
+admin-c:            LAN-TIAN-NEONETWORK
+tech-c:             LAN-TIAN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

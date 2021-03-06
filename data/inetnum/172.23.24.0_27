@@ -1,0 +1,10 @@
+inetnum:            172.23.24.0 - 172.23.24.31
+cidr:               172.23.24.0/27
+netname:            PATRYK-NETWORK
+country:            GB
+admin-c:            PATRYK-DN42
+tech-c:             PATRYK-DN42
+mnt-by:             PATRYK-MNT
+status:             ASSIGNED
+nserver:            ns1.patryk.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd96:4252:4144::/48
+origin:             AS4242421324
+max-length:         48
+mnt-by:             BRADLEYCLAUS-MNT
+source:             DN42

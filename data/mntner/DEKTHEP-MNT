@@ -1,0 +1,6 @@
+mntner:             DEKTHEP-MNT
+admin-c:            DEKTHEP-DN42
+tech-c:             DEKTHEP-DN42
+mnt-by:             DEKTHEP-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAcAbsSAgSYZPtKoSQsEpccmbjVZpm96rQYFrewk9Dw6xb+caYOZ4QlvSUWecQEACTnQiwBBgdiPbcbOW/I/8qPlhPeDFdQHhrH9qS9O1BONcf5Fg1MsdTW1g6whbZ3pvPRTul5qKIM33IWkhUedr4NZTs6C9lTPd7I3RCq71XVoofR7fT7oXTuFD/awQ0x6nkAC243DLMs5gbQw2Z3Ze/Yt3byCX2tyWau7kuQwzd6VgkawhCJEYN57PiR1CPZ5EsVqukTnIzHwKSuGQ3KyPhULbUbIM7IIlsyHrkmPXTQe6TZspBevZtSDJ/k8R44JrbFd3VgZXUcaa9qriMVC8Z rsa-key-dekthep-dn42
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.21.64 - 172.20.21.95
+cidr:               172.20.21.64/27
+netname:            PALAKIS-IPV4
+admin-c:            PALAKIS-DN42
+tech-c:             PALAKIS-DN42
+mnt-by:             PALAKIS-MNT
+nserver:            ns1.palakis.dn42
+nserver:            ns2.palakis.dn42
+status:             ASSIGNED
+source:             DN42

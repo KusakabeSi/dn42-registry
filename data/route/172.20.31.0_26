@@ -1,0 +1,5 @@
+route:              172.20.31.0/26
+descr:              ROBOTHAM-IPV4
+origin:             AS4242423439
+mnt-by:             ROBOTHAM-MNT
+source:             DN42

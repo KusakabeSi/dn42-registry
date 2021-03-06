@@ -1,0 +1,10 @@
+inet6num:           fd94:3e63:c202:0000:0000:0000:0000:0000 - fd94:3e63:c202:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:3e63:c202::/48
+netname:            NORNET-NET
+descr:              NORNET Network allocation
+country:            UK
+admin-c:            NORNET-DN42
+tech-c:             NORNET-DN42
+mnt-by:             NORNET-MNT
+status:             ASSIGNED
+source:             DN42

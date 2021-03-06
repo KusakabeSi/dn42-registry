@@ -1,0 +1,11 @@
+inetnum:            172.20.149.16 - 172.20.149.31
+cidr:               172.20.149.16/28
+netname:            VILLISEK-NETWORK
+country:            FR
+remarks:            Network router: 172.20.149.17
+admin-c:            VILLISEK-DN42
+tech-c:             VILLISEK-DN42
+nserver:            ns1.villisek.dn42
+mnt-by:             VILLISEK-MNT
+status:             ASSIGNED
+source:             DN42

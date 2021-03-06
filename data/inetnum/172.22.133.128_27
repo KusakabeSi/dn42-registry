@@ -1,0 +1,8 @@
+inetnum:            172.22.133.128 - 172.22.133.159
+cidr:               172.22.133.128/27
+netname:            CBS-NETWORK
+admin-c:            CBS-DN42
+tech-c:             CBS-DN42
+mnt-by:             CBS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.232.64/29
+descr:              ANUBIOZ-NET
+origin:             AS4242422815
+mnt-by:             ANUBIOZ-MNT
+source:             DN42

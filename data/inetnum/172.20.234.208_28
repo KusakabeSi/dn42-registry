@@ -1,0 +1,10 @@
+inetnum:            172.20.234.208 - 172.20.234.223
+cidr:               172.20.234.208/28
+netname:            CAPITOL-AG-NETWORK
+descr:              Network of captiol ag with legacy ip
+country:            DE
+admin-c:            MNAGEL-DN42
+tech-c:             MNAGEL-DN42
+mnt-by:             MNAGEL-MNT
+status:             ASSIGNED
+source:             DN42

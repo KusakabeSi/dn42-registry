@@ -1,0 +1,7 @@
+mntner:             NEXUS-MNT
+descr:              NEXUS Network
+admin-c:            NEXUS-DN42
+tech-c:             NEXUS-DN42
+mnt-by:             NEXUS-MNT
+auth:               pgp-fingerprint 5A92450A284FF06EA0807477CB53C5BF1D3DDADF
+source:             DN42

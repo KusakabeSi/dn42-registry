@@ -1,0 +1,6 @@
+domain:             whs.dn42
+admin-c:            WHS-DN42
+tech-c:             WHS-DN42
+mnt-by:             WHS-MNT
+nserver:            ns1.whs.dn42 172.20.18.129
+source:             DN42

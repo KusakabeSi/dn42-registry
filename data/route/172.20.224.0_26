@@ -1,0 +1,4 @@
+route:              172.20.224.0/26
+origin:             AS4242422284
+mnt-by:             X84-MNT
+source:             DN42

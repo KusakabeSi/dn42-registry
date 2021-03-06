@@ -1,0 +1,8 @@
+inetnum:            172.22.128.64 - 172.22.128.79
+netname:            LLRZ1-NET
+admin-c:            FH-DN42
+tech-c:             FH-DN42
+mnt-by:             LLRZ-MNT
+status:             ASSIGNED
+cidr:               172.22.128.64/28
+source:             DN42

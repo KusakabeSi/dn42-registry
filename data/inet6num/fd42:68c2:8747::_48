@@ -1,0 +1,11 @@
+inet6num:           fd42:68c2:8747:0000:0000:0000:0000:0000 - fd42:68c2:8747:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:68c2:8747::/48
+netname:            DOZENCLOUD-NETWORK
+descr:              Network of DozenCloud
+country:            TW
+admin-c:            DOZENCLOUD-DN42
+tech-c:             DOZENCLOUD-DN42
+mnt-by:             DOZENCLOUD-MNT
+nserver:            ns1.dozencloud.dn42
+status:             ASSIGNED
+source:             DN42

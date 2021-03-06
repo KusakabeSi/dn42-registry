@@ -1,0 +1,7 @@
+domain:             neverbehave.dn42
+nserver:            ns1.neverbehave.dn42 172.21.99.96
+nserver:            ns1.neverbehave.dn42 fd4c:2535:91::53
+admin-c:            NEVERBEHAVE-DN42
+tech-c:             NEVERBEHAVE-DN42
+mnt-by:             NEVERBEHAVE-MNT
+source:             DN42

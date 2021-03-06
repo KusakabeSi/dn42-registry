@@ -1,0 +1,6 @@
+route6:             fd42:fa76:1110::/48
+origin:             AS4242421189
+mnt-by:             TIMANDO-MNT
+admin-c:            TIMANDO-DN42
+tech-c:             TIMANDO-DN42
+source:             DN42

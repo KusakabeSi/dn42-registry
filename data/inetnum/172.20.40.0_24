@@ -1,0 +1,10 @@
+inetnum:            172.20.40.0 - 172.20.40.255
+netname:            HADRILLHOME-NETWORK
+descr:              Jack's Home Network
+country:            GB
+admin-c:            HADRILL-DN42
+tech-c:             HADRILL-DN42
+mnt-by:             HADRILL-MNT
+status:             ASSIGNED
+cidr:               172.20.40.0/24
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fda7:a975:bfc2::/48
+origin:             AS4242420469
+mnt-by:             R33INT-MNT
+source:             DN42

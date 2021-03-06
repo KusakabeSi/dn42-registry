@@ -1,0 +1,8 @@
+inetnum:            172.20.131.64 - 172.20.131.79
+cidr:               172.20.131.64/28
+netname:            DCS-NET01
+admin-c:            DCS-DN42
+tech-c:             DCS-DN42
+mnt-by:             DCS-MNT
+status:             ASSIGNED
+source:             DN42

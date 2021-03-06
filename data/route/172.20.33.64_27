@@ -1,0 +1,4 @@
+route:              172.20.33.64/27
+origin:             AS4242423377
+mnt-by:             XXSLDN-MNT
+source:             DN42

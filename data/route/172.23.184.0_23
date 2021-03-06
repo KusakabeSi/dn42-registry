@@ -1,0 +1,5 @@
+route:              172.23.184.0/23
+descr:              Route to polynome's network
+origin:             AS4242420184
+mnt-by:             POLYNOME-MNT
+source:             DN42

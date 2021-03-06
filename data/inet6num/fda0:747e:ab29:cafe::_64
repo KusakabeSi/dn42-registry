@@ -1,0 +1,7 @@
+inet6num:           fda0:747e:ab29:cafe:0000:0000:0000:0000 - fda0:747e:ab29:cafe:ffff:ffff:ffff:ffff
+cidr:               fda0:747e:ab29:cafe::/64
+netname:            ICVPN-RHEINUFER
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rheinufer
+mnt-by:             DN42-MNT
+source:             ICVPN

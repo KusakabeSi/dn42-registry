@@ -1,0 +1,8 @@
+domain:             jgn.dn42
+descr:              JGNDATA-DOMAIN
+admin-c:            JUSTIN-DN42
+tech-c:             JUSTIN-DN42
+mnt-by:             JGNDATA-MNT
+nserver:            ns1.jgn.dn42 172.22.181.53
+nserver:            ns1.jgn.dn42 fd68:fdcc:7a1a::53
+source:             DN42

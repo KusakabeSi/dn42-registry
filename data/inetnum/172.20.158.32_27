@@ -1,0 +1,10 @@
+inetnum:            172.20.158.32 - 172.20.158.63
+netname:            ZERUKS-NETWORK
+descr:              Zeruks Network
+country:            ZA
+admin-c:            ZERUKS-DN42
+tech-c:             ZERUKS-DN42
+mnt-by:             ZERUKS-MNT
+status:             ASSIGNED
+cidr:               172.20.158.32/27
+source:             DN42

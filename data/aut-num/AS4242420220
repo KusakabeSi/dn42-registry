@@ -1,0 +1,7 @@
+aut-num:            AS4242420220
+as-name:            VOXLR-AS
+descr:              Voxlr Autonomous System
+admin-c:            JHEAD-DN42
+tech-c:             JHEAD-DN42
+mnt-by:             JHEAD-MNT
+source:             DN42

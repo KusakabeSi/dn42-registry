@@ -1,0 +1,8 @@
+domain:             pomoke.dn42
+admin-c:            POMOKE-DN42
+tech-c:             POMOKE-DN42
+mnt-by:             POMOKE-MNT
+descr:              by pomoke Network
+nserver:            ns-a.pomoke.dn42 172.22.137.47
+nserver:            ns-a.pomoke.dn42 fd98:de34:62e8::1
+source:             DN42

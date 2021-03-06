@@ -1,0 +1,10 @@
+inetnum:            172.22.246.0 - 172.22.246.255
+netname:            DATA-NET
+descr:              pibone
+country:            DE
+admin-c:            DATA-DN42
+tech-c:             DATA-DN42
+mnt-by:             DATA-MNT
+status:             ASSIGNED
+cidr:               172.22.246.0/24
+source:             DN42

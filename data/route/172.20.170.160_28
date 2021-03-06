@@ -1,0 +1,5 @@
+route:              172.20.170.160/28
+descr:              KYW
+origin:             AS4242422161
+mnt-by:             DAURNIMATOR-MNT
+source:             DN42

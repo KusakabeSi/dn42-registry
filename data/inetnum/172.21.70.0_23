@@ -1,0 +1,11 @@
+inetnum:            172.21.70.0 - 172.21.71.255
+netname:            XIAOYU-NET
+descr:              peering to irc liuxyon
+country:            CN
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+nserver:            ns.xiaoyu.dn42
+status:             ASSIGNED
+cidr:               172.21.70.0/23
+source:             DN42

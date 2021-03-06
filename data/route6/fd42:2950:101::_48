@@ -1,0 +1,7 @@
+route6:             fd42:2950:101::/48
+descr:              SIS-DN42-INET6-LAB1 route
+origin:             AS4242422950
+origin:             AS202265
+pingable:           fd42:2950:101::1
+mnt-by:             SIS-MNT
+source:             DN42

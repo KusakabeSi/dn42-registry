@@ -1,0 +1,9 @@
+inetnum:            172.22.247.32 - 172.22.247.63
+netname:            KANKAN-DN42 interconnect
+country:            FR
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+mnt-by:             KANKAN-MNT
+status:             ASSIGNED
+cidr:               172.22.247.32/27
+source:             DN42

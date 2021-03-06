@@ -1,0 +1,11 @@
+inet6num:           fdf1:3daf:c397:0000:0000:0000:0000:0000 - fdf1:3daf:c397:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:3daf:c397::/48
+netname:            LUYS-IPV6
+descr:              Luys, Network.
+country:            CN
+org:                ORG-LUYS
+status:             ASSIGNED
+admin-c:            LUYS-DN42
+tech-c:             LUYS-DN42
+mnt-by:             LUYS-MNT
+source:             DN42

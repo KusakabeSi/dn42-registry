@@ -1,0 +1,8 @@
+inetnum:            172.23.109.160 - 172.23.109.167
+cidr:               172.23.109.160/29
+netname:            PHILCGN-NETWORK
+admin-c:            PHILCGN-DN42
+tech-c:             PHILCGN-DN42
+mnt-by:             PHILCGN-MNT
+status:             ASSIGNED
+source:             DN42

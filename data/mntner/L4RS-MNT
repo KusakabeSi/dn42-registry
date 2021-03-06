@@ -1,0 +1,6 @@
+mntner:             L4RS-MNT
+admin-c:            L4RS-DN42
+tech-c:             L4RS-DN42
+mnt-by:             L4RS-MNT
+auth:               pgp-fingerprint 314EE125D2A9F136B813A076DEE652127CA586B9
+source:             DN42

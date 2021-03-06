@@ -1,0 +1,5 @@
+route:              172.20.245.224/27
+descr:              Weejits IE1 VPNs
+origin:             AS4242423212
+mnt-by:             WEEJITS-MNT
+source:             DN42

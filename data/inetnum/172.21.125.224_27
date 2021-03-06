@@ -1,0 +1,11 @@
+inetnum:            172.21.125.224 - 172.21.125.255
+netname:            FMAUNEKO-NET
+descr:              fmauNeko's V4 Network
+country:            FR
+admin-c:            FMAUNEKO-DN42
+tech-c:             FMAUNEKO-DN42
+mnt-by:             FMAUNEKO-MNT
+nserver:            ns1.dissidence.dn42
+status:             ASSIGNED
+cidr:               172.21.125.224/27
+source:             DN42

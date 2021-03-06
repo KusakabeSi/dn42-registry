@@ -1,0 +1,8 @@
+inetnum:            172.20.234.192 - 172.20.234.207
+cidr:               172.20.234.192/28
+netname:            ALBITZ-NETWORK
+admin-c:            ALBITZ-DN42
+tech-c:             ALBITZ-DN42
+mnt-by:             ALBITZ-MNT
+status:             ASSIGNED
+source:             DN42

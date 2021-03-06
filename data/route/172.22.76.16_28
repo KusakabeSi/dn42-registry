@@ -1,0 +1,5 @@
+route:              172.22.76.16/28
+descr:              rotty's dn42 network
+origin:             AS4242423040
+mnt-by:             ROTTY-MNT
+source:             DN42

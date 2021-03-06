@@ -1,0 +1,4 @@
+route:              172.20.19.0/27
+origin:             AS4242420530
+mnt-by:             LANAO-MNT
+source:             DN42

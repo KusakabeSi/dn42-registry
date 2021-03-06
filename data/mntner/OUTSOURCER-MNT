@@ -1,0 +1,6 @@
+mntner:             OUTSOURCER-MNT
+admin-c:            OUTSOURCER-DN42
+tech-c:             OUTSOURCER-DN42
+mnt-by:             OUTSOURCER-MNT
+source:             DN42
+auth:               pgp-fingerprint 98F7C5B196EE887387CADD4DD7E28B39C5822C5E

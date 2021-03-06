@@ -1,0 +1,10 @@
+inet6num:           fd42:0bad:0a55:0000:0000:0000:0000:0000 - fd42:0bad:0a55:ffff:ffff:ffff:ffff:ffff
+netname:            HADRILL6-NETWORK
+descr:              Home v6
+country:            GB
+admin-c:            HADRILL-DN42
+tech-c:             HADRILL-DN42
+mnt-by:             HADRILL-MNT
+status:             ASSIGNED
+cidr:               fd42:bad:a55::/48
+source:             DN42

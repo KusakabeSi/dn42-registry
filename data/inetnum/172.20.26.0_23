@@ -1,0 +1,10 @@
+inetnum:            172.20.26.0 - 172.20.27.255
+netname:            FLOKLI-IP4-NEW
+country:            DE
+admin-c:            FLOKLI-DN42
+tech-c:             FLOKLI-DN42
+mnt-by:             FLOKLI-MNT
+nserver:            ns1.flokli.dn42
+status:             ASSIGNED
+cidr:               172.20.26.0/23
+source:             DN42

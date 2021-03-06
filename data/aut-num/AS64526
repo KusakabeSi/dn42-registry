@@ -1,0 +1,7 @@
+aut-num:            AS64526
+as-name:            EPOCH-AS
+descr:              Epoch's DN42 AS
+admin-c:            EPOCH-DN42
+tech-c:             EPOCH-DN42
+mnt-by:             EPOCH-MNT
+source:             DN42

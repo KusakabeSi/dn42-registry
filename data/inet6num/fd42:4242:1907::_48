@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:1907:0000:0000:0000:0000:0000 - fd42:4242:1907:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1907::/48
+netname:            MRGHOSH-V6-NET
+descr:              Network of MrGhosh
+country:            IN
+admin-c:            MRGHOSH-DN42
+tech-c:             MRGHOSH-DN42
+mnt-by:             MRGHOSH-MNT
+nserver:            ns1.mrghosh.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.152.0 - 172.23.153.255
+netname:            NET-57N-LOCAL
+descr:              57North Hacklab
+country:            GB
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             IRL-MNT
+nserver:            ns1.57n.dn42
+status:             ASSIGNED
+cidr:               172.23.152.0/23
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             R-MNT
+admin-c:            R-DN42
+tech-c:             R-DN42
+mnt-by:             R-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEyMiYFmwx/lHvdrPb+vFmJ36TIq7LjKezP61p08GMUM
+source:             DN42

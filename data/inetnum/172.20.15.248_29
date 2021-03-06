@@ -1,0 +1,11 @@
+inetnum:            172.20.15.248 - 172.20.15.255
+netname:            HYHIX-NETWORK
+descr:              hyhIX GD
+country:            CN
+admin-c:            HYHIX-DN42
+tech-c:             HYHIX-DN42
+mnt-by:             HYHIX-MNT
+nserver:            ns1.hyhix.dn42
+status:             ALLOCATED
+cidr:               172.20.15.248/29
+source:             DN42

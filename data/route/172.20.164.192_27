@@ -1,0 +1,4 @@
+route:              172.20.164.192/27
+origin:             AS4242420195
+mnt-by:             TSYMQ00-MNT
+source:             DN42

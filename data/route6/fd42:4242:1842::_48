@@ -1,0 +1,4 @@
+route6:             fd42:4242:1842::/48
+origin:             AS4242421842
+mnt-by:             WHS-MNT
+source:             DN42

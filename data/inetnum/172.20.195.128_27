@@ -1,0 +1,10 @@
+inetnum:            172.20.195.128 - 172.20.195.159
+netname:            MDUCHARME-NETWORK
+country:            CA
+admin-c:            MDUCHARME-DN42
+tech-c:             MDUCHARME-DN42
+mnt-by:             MDUCHARME-MNT
+nserver:            ns1.mducharmenet.dn42
+status:             ASSIGNED
+cidr:               172.20.195.128/27
+source:             DN42

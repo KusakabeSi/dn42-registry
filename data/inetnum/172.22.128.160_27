@@ -1,0 +1,9 @@
+inetnum:            172.22.128.160 - 172.22.128.191
+cidr:               172.22.128.160/27
+netname:            HEXXNET-V4-NET-1
+country:            GB
+admin-c:            HEXXNET-DN42
+tech-c:             HEXXNET-DN42
+mnt-by:             HEXXNET-MNT
+status:             ASSIGNED
+source:             DN42

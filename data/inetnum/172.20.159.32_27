@@ -1,0 +1,8 @@
+inetnum:            172.20.159.32 - 172.20.159.63
+cidr:               172.20.159.32/27
+netname:            FML-NET-4
+admin-c:            FML1-DN42
+tech-c:             FML1-DN42
+mnt-by:             FML-MNT
+status:             ASSIGNED
+source:             DN42

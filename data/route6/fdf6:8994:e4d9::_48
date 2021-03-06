@@ -1,0 +1,5 @@
+route6:             fdf6:8994:e4d9::/48
+origin:             AS4242421541
+descr:              pelethiec's IPv6 network route
+mnt-by:             PELETHIEC-MNT
+source:             DN42

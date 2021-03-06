@@ -1,0 +1,4 @@
+route:              172.22.189.64/27
+origin:             AS4242421238
+mnt-by:             MOO-MNT
+source:             DN42

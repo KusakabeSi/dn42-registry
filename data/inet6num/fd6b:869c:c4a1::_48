@@ -1,0 +1,11 @@
+inet6num:           fd6b:869c:c4a1:0000:0000:0000:0000:0000 - fd6b:869c:c4a1:ffff:ffff:ffff:ffff:ffff
+netname:            COOKIEFACTORY-NET6
+cidr:               fd6b:869c:c4a1::/48
+descr:              CookieFactory's IPv6 network
+country:            DE
+admin-c:            HYP3RX-DN42
+tech-c:             HYP3RX-DN42
+mnt-by:             COOKIEFACTORY-MNT
+status:             ASSIGNED
+org:                ORG-COOKIEFACTORY
+source:             DN42

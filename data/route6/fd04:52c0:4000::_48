@@ -1,0 +1,6 @@
+route6:             fd04:52c0:4000::/48
+origin:             AS4242423585
+tech-c:             JD52RU-DN42
+admin-c:            JD52RU-DN42
+mnt-by:             JD52RU-MNT
+source:             DN42

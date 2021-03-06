@@ -1,0 +1,9 @@
+aut-num:            AS4242420100
+as-name:            JVIJSMA-AS
+descr:              JVijsma AS object.(Still alive on 1475331436)
+remarks:            Peering request: peering@jvijsma.nl
+remarks:            Abuse: abuse@jvijsma.nl
+admin-c:            JVIJSMA-DN42
+tech-c:             JVIJSMA-DN42
+mnt-by:             JVIJSMA-MNT
+source:             DN42

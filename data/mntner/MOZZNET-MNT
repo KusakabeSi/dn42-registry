@@ -1,0 +1,6 @@
+mntner:             MOZZNET-MNT
+admin-c:            MOZZNET-DN42
+tech-c:             MOZZNET-DN42
+mnt-by:             MOZZNET-MNT
+auth:               pgp-fingerprint a7711f2ae90264d6aaee30940a9605b47580ae20
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdcc:60b6:2f38::/48
+origin:             AS4242422441
+mnt-by:             FCON-MNT
+source:             DN42

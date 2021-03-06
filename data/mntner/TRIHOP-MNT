@@ -1,0 +1,6 @@
+mntner:             TRIHOP-MNT
+admin-c:            TRIHOP-DN42
+tech-c:             TRIHOP-DN42
+mnt-by:             TRIHOP-MNT
+source:             DN42
+auth:               PGPKEY-3AE96F39

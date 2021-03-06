@@ -1,0 +1,4 @@
+route6:             fd00:490:cb2d::/52
+origin:             AS64833
+mnt-by:             FXKR-MNT
+source:             DN42

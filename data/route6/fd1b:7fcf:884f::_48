@@ -1,0 +1,4 @@
+route6:             fd1b:7fcf:884f::/48
+origin:             AS4242423884
+mnt-by:             AFX-MNT
+source:             DN42

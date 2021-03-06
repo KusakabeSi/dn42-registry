@@ -1,0 +1,5 @@
+route:              172.23.216.64/27
+descr:              jomat
+origin:             AS64773
+mnt-by:             JOMAT-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.21.87.32 - 172.21.87.63
+netname:            TESTNET-LOCODOG
+descr:              Locodog test network /27
+country:            RS
+admin-c:            LDG1P-DN42
+tech-c:             LDG1P-DN42
+mnt-by:             LDG1-MNT
+status:             ASSIGNED
+cidr:               172.21.87.32/27
+source:             DN42

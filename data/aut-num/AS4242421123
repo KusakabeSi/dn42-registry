@@ -1,0 +1,15 @@
+aut-num:            AS4242421123
+as-name:            NEO-AS
+geo-loc:            US/EU
+descr:              NEO-AS
+admin-c:            NEO-DN42
+tech-c:             NEO-DN42
+mnt-by:             NEO-MNT
+remarks:            + Open peering, Openvpn
+remarks:            + Network: 172.20.47.0/26
+remarks:            + Locations:
+remarks:            +  EU East   - 172.20.47.1
+remarks:            +  US East   - 172.20.47.2
+remarks:            +  Paris, FR - 172.20.47.3
+remarks:            +  AMS, NL   - 172.20.47.4
+source:             DN42

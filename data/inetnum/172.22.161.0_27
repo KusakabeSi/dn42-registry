@@ -1,0 +1,11 @@
+inetnum:            172.22.161.0 - 172.22.161.31
+netname:            AXD-NET
+descr:              AXD-NET
+country:            US
+admin-c:            AXD-DN42
+tech-c:             AXD-DN42
+mnt-by:             AXD-MNT
+nserver:            a.ns.agam.dn42
+status:             ASSIGNED
+cidr:               172.22.161.0/27
+source:             DN42

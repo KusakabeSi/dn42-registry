@@ -1,0 +1,11 @@
+inetnum:            172.20.197.224 - 172.20.197.255
+netname:            CONREY-NET
+descr:              Conrey Networks
+country:            US
+admin-c:            CONREY-DN42
+tech-c:             CONREY-DN42
+mnt-by:             CONREY-MNT
+nserver:            ns1.conrey.dn42
+status:             ASSIGNED
+cidr:               172.20.197.224/27
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242422996
+as-name:            CONTROLPLANE-AS-TEST
+descr:              CONTROLPLANE-AS-TEST
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+source:             DN42

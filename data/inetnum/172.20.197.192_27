@@ -1,0 +1,11 @@
+inetnum:            172.20.197.192 - 172.20.197.223
+netname:            DONNY-NETWORK
+country:            CA
+admin-c:            DONNY-DN42
+tech-c:             DONNY-DN42
+mnt-by:             DONNY-MNT
+nserver:            ns1.donnynet.dn42
+nserver:            ns2.donnynet.dn42
+status:             ASSIGNED
+cidr:               172.20.197.192/27
+source:             DN42

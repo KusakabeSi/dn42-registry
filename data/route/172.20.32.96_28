@@ -1,0 +1,4 @@
+route:              172.20.32.96/28
+origin:             AS4242420171
+mnt-by:             JAMIEWEB-MNT
+source:             DN42

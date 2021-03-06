@@ -1,0 +1,9 @@
+inetnum:            172.20.232.80 - 172.20.232.95
+cidr:               172.20.232.80/28
+netname:            BRUEGGUS-NETWORK
+descr:              Brueggus IPv4 network
+admin-c:            BRUEGGUS-DN42
+tech-c:             BRUEGGUS-DN42
+mnt-by:             BRUEGGUS-MNT
+status:             ASSIGNED
+source:             DN42

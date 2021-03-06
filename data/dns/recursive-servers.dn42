@@ -1,0 +1,9 @@
+domain:             recursive-servers.dn42
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 b5a3838ac45872120ad6f0da3b8b89c0b468a0120be4fa71fc6b24b0a15b9c7f
+ds-rdata:           3096 10 2 7df78bd90c7a6f48608df266d94687c833e2cc6c65ffd7b2aadb906612116430
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

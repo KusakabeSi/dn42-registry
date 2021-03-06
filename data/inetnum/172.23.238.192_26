@@ -1,0 +1,11 @@
+inetnum:            172.23.238.192 - 172.23.238.255
+netname:            TTYGAP-NET
+descr:              Yip
+nserver:            ns.ttygap.dn42
+country:            DE
+admin-c:            BANDIE-DN42
+tech-c:             BANDIE-DN42
+mnt-by:             BANDIE-MNT
+status:             ASSIGNED
+cidr:               172.23.238.192/26
+source:             DN42

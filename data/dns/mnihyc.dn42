@@ -1,0 +1,7 @@
+domain:             mnihyc.dn42
+admin-c:            MNIHYC-DN42
+tech-c:             MNIHYC-DN42
+mnt-by:             MNIHYC-MNT
+nserver:            ns1.mnihyc.dn42 172.23.39.53
+nserver:            ns1.mnihyc.dn42 fd87:3e50:cf33::53
+source:             DN42

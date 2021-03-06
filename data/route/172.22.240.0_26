@@ -1,0 +1,5 @@
+route:              172.22.240.0/26
+origin:             AS0
+max-length:         32
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

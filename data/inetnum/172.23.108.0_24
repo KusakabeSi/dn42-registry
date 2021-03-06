@@ -1,0 +1,9 @@
+inetnum:            172.23.108.0 - 172.23.108.255
+netname:            TWI-IP4NET
+status:             ASSIGNED
+country:            DE
+admin-c:            TWI-DN42
+tech-c:             TWI-DN42
+mnt-by:             TWI-MNT
+cidr:               172.23.108.0/24
+source:             DN42

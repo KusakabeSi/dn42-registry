@@ -1,0 +1,18 @@
+aut-num:            AS4242422301
+as-name:            MARIDE-AS
+remarks:            ,-----------------------------------------------,
+remarks:            |                maride Network =]              |
+remarks:            +-----------------------------------------------+
+remarks:            | Interested in peering! Currently OpenVPN only |
+remarks:            +-----------------------------------------------+
+remarks:            | Location           Address                    |
+remarks:            | Nürnberg, DE       ursus.nuernberg.maride.cc  |
+remarks:            | Frankfurt (M), DE  lupus.frankfurt.maride.cc  |
+remarks:            | Düsseldorf, DE     canis.duesseldorf.maride.cc|
+remarks:            +-----------------------------------------------+
+remarks:            |    * * be excellent to each other. <3 * *     |
+remarks:            '-----------------------------------------------'
+admin-c:            MARIDE-DN42
+tech-c:             MARIDE-DN42
+mnt-by:             MARIDE-MNT
+source:             DN42

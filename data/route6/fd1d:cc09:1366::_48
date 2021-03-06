@@ -1,0 +1,5 @@
+route6:             fd1d:cc09:1366::/48
+origin:             AS4242421607
+max-length:         48
+mnt-by:             UNICORN-MNT
+source:             DN42

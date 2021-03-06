@@ -1,0 +1,10 @@
+inet6num:           fd68:6868:6868:0000:0000:0000:0000:0000 - fd68:6868:6868:ffff:ffff:ffff:ffff:ffff
+netname:            ABSLIMIT-IPV6-NETWORK
+descr:              abslimit's IPv6 network
+country:            RU
+admin-c:            ABSLIMIT-DN42
+tech-c:             ABSLIMIT-DN42
+mnt-by:             ABSLIMIT-MNT
+status:             ASSIGNED
+cidr:               fd68:6868:6868::/48
+source:             DN42

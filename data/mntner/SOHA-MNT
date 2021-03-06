@@ -1,0 +1,6 @@
+mntner:             SOHA-MNT
+admin-c:            SOHA-DN42
+tech-c:             SOHA-DN42
+mnt-by:             SOHA-MNT
+auth:               pgp-fingerprint 517E4E3C364C6C55C907284915AC252CE20E3FC8
+source:             DN42

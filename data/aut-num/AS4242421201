@@ -1,0 +1,9 @@
+aut-num:            AS4242421201
+as-name:            AS for D120 network
+admin-c:            JOMAN-DN42
+admin-c:            LUELISTAN-DN42
+tech-c:             LUELISTAN-DN42
+tech-c:             JOMAN-DN42
+mnt-by:             JOMAN-MNT
+mnt-by:             LUELISTAN-MNT
+source:             DN42

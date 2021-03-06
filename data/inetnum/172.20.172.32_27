@@ -1,0 +1,11 @@
+inetnum:            172.20.172.32 - 172.20.172.63
+netname:            VITALE-NETWORKS
+descr:              Direct Peering Range
+country:            NL
+org:                ORG-VITALE
+admin-c:            SCARLET-DN42
+tech-c:             SCARLET-DN42
+mnt-by:             VITALE-MNT
+status:             ASSIGNED
+cidr:               172.20.172.32/27
+source:             DN42

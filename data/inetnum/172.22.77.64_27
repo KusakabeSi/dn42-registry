@@ -1,0 +1,11 @@
+inetnum:            172.22.77.64 - 172.22.77.95
+cidr:               172.22.77.64/27
+netname:            SKYNET-NET4
+descr:              Skynet IPv4 main network
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+status:             ASSIGNED
+nserver:            ns1.skynet.dn42
+nserver:            ns2.skynet.dn42
+source:             DN42

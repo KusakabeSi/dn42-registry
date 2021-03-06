@@ -1,0 +1,10 @@
+inet6num:           fdf0:e6e6:0b56:0000:0000:0000:0000:0000 - fdf0:e6e6:0b56:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:e6e6:b56::/48
+netname:            GPX-NETWORK6
+descr:              GPX IPv6 Network
+country:            CN
+admin-c:            GPX-DN42
+tech-c:             GPX-DN42
+mnt-by:             GPX-MNT
+status:             ASSIGNED
+source:             DN42

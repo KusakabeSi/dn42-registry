@@ -1,0 +1,10 @@
+inetnum:            172.21.118.0 - 172.21.118.127
+netname:            ZLD-NET
+descr:              ZLD_NET
+country:            CN
+admin-c:            ZLD-DN42
+tech-c:             ZLD-DN42
+mnt-by:             ZLD-MNT
+status:             ASSIGNED
+cidr:               172.21.118.0/25
+source:             DN42

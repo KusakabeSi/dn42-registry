@@ -1,0 +1,4 @@
+route6:             fd15:1825:72::/48
+origin:             AS4242421825
+mnt-by:             LUKKIE-MNT
+source:             DN42

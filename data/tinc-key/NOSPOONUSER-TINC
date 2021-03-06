@@ -1,0 +1,17 @@
+tinc-key:           NOSPOONUSER-TINC
+tinc-host:          nospoonuser
+remarks:            * This object was generated based on info from legacy
+remarks:            * wiki and existing host files
+subnet:             172.22.255.188/32
+tinc-address:       212.168.173.241
+admin-c:            NOSPOONUSER-DN42
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet = 172.22.255.188/32
+                    Address = 212.168.173.241
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIGJAoGBAJyuY17nR+mH+9tkNDN/bUCB16vQnzaY1A6Z+GW5yL9xSX3ubNBh654I
+                    CkJZqSC1b1LP/f4WQELwKLuUjLNmNKZjPKQwpeUrH9bBC9swQRQBeSU5Npu35Z/C
+                    8REfH7FVZByZ1+2AhNRO6GrhEmP4ArAagH/y7c6yG0plPpoh43C7AgMBAAE=
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

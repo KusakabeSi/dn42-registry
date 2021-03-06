@@ -1,0 +1,8 @@
+inet6num:           fdcd:a61d:f378:0000:0000:0000:0000:0000 - fdcd:a61d:f378:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcd:a61d:f378::/48
+netname:            NABOUNO-V6-NET-1
+admin-c:            NABOUNO-DN42
+tech-c:             NABOUNO-DN42
+mnt-by:             NABOUNO-MNT
+status:             ASSIGNED
+source:             DN42

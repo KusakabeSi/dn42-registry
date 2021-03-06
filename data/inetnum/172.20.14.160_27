@@ -1,0 +1,10 @@
+inetnum:            172.20.14.160 - 172.20.14.191
+cidr:               172.20.14.160/27
+netname:            HORP-NETWORK
+descr:              HORP-DN42
+country:            US
+admin-c:            HORP-DN42
+tech-c:             HORP-DN42
+mnt-by:             HORP-MNT
+status:             ASSIGNED
+source:             DN42

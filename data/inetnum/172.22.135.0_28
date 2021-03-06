@@ -1,0 +1,8 @@
+inetnum:            172.22.135.0 - 172.22.135.15
+cidr:               172.22.135.0/28
+netname:            AR-DN42_Network
+admin-c:            AR-DN42
+tech-c:             AR-DN42
+mnt-by:             AR-MNT
+status:             ASSIGNED
+source:             DN42

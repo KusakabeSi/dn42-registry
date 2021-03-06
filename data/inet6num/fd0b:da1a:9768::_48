@@ -1,0 +1,10 @@
+inet6num:           fd0b:da1a:9768:0000:0000:0000:0000:0000 - fd0b:da1a:9768:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:da1a:9768::/48
+netname:            LAPISBLUE27-NETWORK
+descr:              Network of LapisBlue27
+country:            FR
+admin-c:            LAPISBLUE27-DN42
+tech-c:             LAPISBLUE27-DN42
+mnt-by:             LAPISBLUE27-MNT
+status:             ASSIGNED
+source:             DN42

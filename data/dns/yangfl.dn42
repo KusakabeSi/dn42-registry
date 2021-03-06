@@ -1,0 +1,10 @@
+domain:             yangfl.dn42
+descr:              yangfl
+admin-c:            YANGFL-DN42
+tech-c:             YANGFL-DN42
+mnt-by:             YANGFL-MNT
+nserver:            ns1.yangfl.dn42 172.22.127.1
+nserver:            ns1.yangfl.dn42 fd72:9b7f:e932::1
+nserver:            ns2.yangfl.dn42 172.22.127.2
+nserver:            ns2.yangfl.dn42 fd72:9b7f:e932::2
+source:             DN42

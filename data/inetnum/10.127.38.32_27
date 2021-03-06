@@ -1,0 +1,8 @@
+inetnum:            10.127.38.32 - 10.127.38.63
+cidr:               10.127.38.32/27
+netname:            VILLISEK-NEO
+admin-c:            CLEMENT-VILLISEK-NEONETWORK
+tech-c:             CLEMENT-VILLISEK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

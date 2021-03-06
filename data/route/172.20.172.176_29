@@ -1,0 +1,4 @@
+route:              172.20.172.176/29
+origin:             AS4242423999
+mnt-by:             CPBARNES-MNT
+source:             DN42

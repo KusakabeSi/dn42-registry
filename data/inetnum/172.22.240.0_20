@@ -1,0 +1,8 @@
+inetnum:            172.22.240.0 - 172.22.255.255
+cidr:               172.22.240.0/20
+netname:            DN42-TRANSFER-IP4NET
+descr:              reserved / transfer networks
+policy:             open
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

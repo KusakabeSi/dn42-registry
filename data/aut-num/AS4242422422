@@ -1,0 +1,8 @@
+aut-num:            AS4242422422
+as-name:            ZOMBI-AS
+descr:              Zombi AS
+org:                ORG-ZOMBI
+admin-c:            LINURO-DN42
+tech-c:             LINURO-DN42
+mnt-by:             LINURO-MNT
+source:             DN42

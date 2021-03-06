@@ -1,0 +1,5 @@
+route6:             fd3b:1784:edbb::/48
+descr:              pztrn's Network
+origin:             AS4242423055
+mnt-by:             PZTRN-MNT
+source:             DN42

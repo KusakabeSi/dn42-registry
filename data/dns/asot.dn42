@@ -1,0 +1,7 @@
+domain:             asot.dn42
+descr:              A Series of Tubez Networks
+admin-c:            HEAVYMETAL-DN42
+tech-c:             HEAVYMETAL-DN42
+mnt-by:             ASOTNET-MNT
+nserver:            ns1.aseriesoftubez.dn42
+source:             DN42

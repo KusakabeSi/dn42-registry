@@ -1,0 +1,6 @@
+person:             raspberry
+contact:            a@rasp.sh
+nic-hdl:            RASP-DN42
+mnt-by:             RASP-MNT
+pgp-fingerprint:    CE748219CB93DEF1BBA3A1BD87B4FD6421C6E277
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.183.32/29
+descr:              RSDOHERTY-DMZ-NETWORK-ROUTE
+origin:             AS4242420234
+mnt-by:             RSDOHERTY-MNT
+source:             DN42

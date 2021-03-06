@@ -1,0 +1,10 @@
+inet6num:           fd7c:55ea:fd3b:0000:0000:0000:0000:0000 - fd7c:55ea:fd3b:ffff:ffff:ffff:ffff:ffff
+netname:            YF-IPV6
+descr:              YFsama IPV6
+country:            HK
+admin-c:            YF-DN42
+tech-c:             YF-DN42
+mnt-by:             YF-MNT
+status:             ASSIGNED
+cidr:               fd7c:55ea:fd3b::/48
+source:             DN42

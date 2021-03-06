@@ -1,0 +1,4 @@
+route:              172.20.188.0/24
+origin:             AS4242422369
+mnt-by:             BITCLOUD-MNT
+source:             DN42

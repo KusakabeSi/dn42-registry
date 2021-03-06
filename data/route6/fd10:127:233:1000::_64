@@ -1,0 +1,8 @@
+route6:             fd10:127:233:1000::/64
+max-length:         64
+origin:             AS4242421025
+admin-c:            ICECAT-NEONETWORK
+tech-c:             ICECAT-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,23 @@
+schema:             AUT-NUM-SCHEMA
+ref:                dn42.aut-num
+key:                aut-num    required  single   primary schema
+key:                as-name    required  single
+key:                descr      optional  single
+key:                mnt-by     required  multiple lookup=dn42.mntner
+key:                member-of  optional  multiple lookup=dn42.as-set,dn42.route-set
+key:                admin-c    optional  multiple lookup=dn42.person,dn42.role
+key:                tech-c     optional  multiple lookup=dn42.person,dn42.role
+key:                org        optional  single   lookup=dn42.organisation
+key:                import     deprecate multiple
+key:                export     deprecate multiple
+key:                default    deprecate multiple
+key:                mp-peer    deprecate multiple
+key:                mp-group   deprecate multiple
+key:                mp-import  optional  multiple
+key:                mp-export  optional  multiple
+key:                mp-default optional  multiple
+key:                geo-loc    optional  multiple > [lat-c] [long-c] [name]
+key:                remarks    optional  multiple
+key:                source     required  single    lookup=dn42.registry
+mnt-by:             DN42-MNT
+source:             DN42

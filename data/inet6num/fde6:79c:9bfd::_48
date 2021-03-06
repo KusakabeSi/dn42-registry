@@ -1,0 +1,11 @@
+inet6num:           fde6:079c:9bfd:0000:0000:0000:0000:0000 - fde6:079c:9bfd:ffff:ffff:ffff:ffff:ffff
+netname:            SCHRODINGER-ULA-IP6NET
+descr:              schrodinger's sixxs ULA net
+country:            IE
+admin-c:            SCHRODINGER-DN42
+tech-c:             SCHRODINGER-DN42
+status:             ASSIGNED
+mnt-by:             SCHRODINGER-MNT
+remarks:            1425938004 Will readvertise soon once new peerings are established
+cidr:               fde6:79c:9bfd::/48
+source:             DN42

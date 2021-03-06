@@ -1,0 +1,8 @@
+inet6num:           fdff:b87d:f5b0:0000:0000:0000:0000:0000 - fdff:b87d:f5b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fdff:b87d:f5b0::/48
+netname:            BUKN-NET-1
+admin-c:            BUKN-DN42
+tech-c:             BUKN-DN42
+mnt-by:             BUKN-MNT
+status:             ASSIGNED
+source:             DN42

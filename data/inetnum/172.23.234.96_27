@@ -1,0 +1,11 @@
+inetnum:            172.23.234.96 - 172.23.234.127
+netname:            PPPINGME-NET1
+nserver:            icmp.pppingme.dn42
+descr:              pppingme network1
+cidr:               172.23.234.96/27
+country:            US
+admin-c:            PPPINGME-DN42
+tech-c:             PPPINGME-DN42
+mnt-by:             PPPINGME-MNT
+status:             ASSIGNED
+source:             DN42

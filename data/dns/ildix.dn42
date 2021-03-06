@@ -1,0 +1,10 @@
+domain:             ildix.dn42
+admin-c:            CLERIE-DN42
+admin-c:            NEX-DN42
+tech-c:             CLERIE-DN42
+tech-c:             NEX-DN42
+org:                ORG-ILDIX
+mnt-by:             CLERIE-MNT
+mnt-by:             NEX-MNT
+nserver:            ns1.ildix.dn42 fd81:edb3:71d8::53
+source:             DN42

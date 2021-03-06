@@ -1,0 +1,12 @@
+inet6num:           fd2c:a1bb:5a16:0000:0000:0000:0000:0000 - fd2c:a1bb:5a16:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2c:a1bb:5a16::/48
+netname:            CHUANCHAN-NETWORK
+descr:              Network of chuanchan
+country:            TW
+admin-c:            CHUANCHAN-DN42
+tech-c:             CHUANCHAN-DN42
+mnt-by:             CHUANCHAN-MNT
+nserver:            ns1.chuanchan.dn42
+nserver:            ns2.chuanchan.dn42
+status:             ASSIGNED
+source:             DN42

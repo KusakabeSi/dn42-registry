@@ -1,0 +1,8 @@
+inetnum:            10.127.255.4 - 10.127.255.4
+cidr:               10.127.255.4/32
+netname:            fsnvax
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

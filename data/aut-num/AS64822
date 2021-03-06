@@ -1,0 +1,8 @@
+aut-num:            AS64822
+as-name:            ARCHCD-AS
+descr:              Arch.CD autonomous system
+remarks:            Feel free to ask for peering
+admin-c:            ARCHCD-DN42
+tech-c:             ARCHCD-DN42
+mnt-by:             PLUESCH-MNT
+source:             DN42

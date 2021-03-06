@@ -1,0 +1,4 @@
+route6:             fd3b:ac17:d710::/48
+origin:             AS4242423481
+mnt-by:             NCON-MNT
+source:             DN42

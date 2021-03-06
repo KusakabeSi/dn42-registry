@@ -1,0 +1,5 @@
+route6:             fdbc:5fef:2184::/48
+origin:             AS4242420281
+max-length:         48
+mnt-by:             GT-MNT
+source:             DN42

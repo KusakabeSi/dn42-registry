@@ -1,0 +1,8 @@
+domain:             wsfnk.dn42
+admin-c:            FNK-DN42
+tech-c:             FNK-DN42
+mnt-by:             FNK-MNT
+nserver:            ns1.wsfnk.dn42 172.20.58.198
+nserver:            ns1.wsfnk.dn42 fd91:7b3d:8d19::6
+remarks:            DNS hosted by wsfnk.dn42
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd3b:1ac0:dc97:ccd::/64
+descr:              Route for ADRA-NET6
+origin:             AS4242422379
+mnt-by:             ADRA-MNT
+source:             DN42

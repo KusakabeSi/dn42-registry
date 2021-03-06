@@ -1,0 +1,7 @@
+mntner:             SPLASH-MNT
+descr:              Splash
+admin-c:            SPLASH-DN42
+tech-c:             SPLASH-DN42
+mnt-by:             SPLASH-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBj8V2/3gd6tIUCS4ojIhRxnRdShQXdZ4RLnhPcu/CS63CTzolQornZ+yRTnv5NzFIceB3ZbISUfsbMBoniD/IYqxCS34raarKbgoe7KLUtMixJt34HJ1h6HDInSrnE4eXtIHijVa35/cIGFzwKPzIRYXOIQSqX1sugVSVnSN3WNPTMQH1lTZZcratmJnW+9yQVgac+sc708lhhDkrE0JB3xMYOKZdr5CVhbA6jpcMOL49tACz7Q7Xp8JpTRbQDlvJY8tsbegBR68XZt4T+EVD25GhlriIROJk0kAlMvSc0sWReFRKe5t29hj5IqKyz47DAb2Vq30Aet/yHHDDOlEv
+source:             DN42

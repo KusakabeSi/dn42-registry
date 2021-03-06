@@ -1,0 +1,7 @@
+mntner:             TOMBII-DN42-MNT
+descr:              TOMBII-DN42
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCmsyUv8chTTjPMtlQDP00AEf55n8ItgVYD9AO5n5szq1Kz9FDtTSvhCZDBRyKy/zZhmgh2EIooKAbw47GhrTIZEvZZsgCDTE1pfLevZeHUt36V0boyhgyfpwR3v8+Be9O806vHCxqrn6VPQfhKFGC97TihonEjyKcxJpanR/NjEegpLVYwgu1I97jerr93ZzfnbmuiuPkD8dSzp8rLInIDG3327x7dtIj84d84m5EDHPdEVLh35sAfuh3Sk8MllPho8gFRacudRU7RW7f/nTd1juTn5JYaCj8yJ5c/bueCghsoJHwcVU9i8If9BLQLWFyIDErBn9d06KfgJMRdgp4p root@par1
+source:             DN42

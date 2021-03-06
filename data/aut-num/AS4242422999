@@ -1,0 +1,14 @@
+aut-num:            AS4242422999
+as-name:            CONTROLPLANE-AS-HQ
+descr:              CONTROLPLANE-AS-HQ, Headquarter, part of ORG-CONTROLPLANE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+remarks:            ---------------------------------
+remarks:            Peering requests welcome !
+remarks:            - installed at home, 2 MBit uplink, no SLA
+remarks:            - preferring OpenVPN TAP (Layer2) tunnels, however TUN (L3) also possible
+remarks:            - IPv4 and IPv6
+remarks:            Peering request: Ingo@dot7.de
+remarks:            ---------------------------------
+source:             DN42

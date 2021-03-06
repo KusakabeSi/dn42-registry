@@ -1,0 +1,4 @@
+route:              172.20.55.64/27
+origin:             AS4242423311
+mnt-by:             NETOM-MNT
+source:             DN42

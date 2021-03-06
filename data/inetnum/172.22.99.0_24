@@ -1,0 +1,10 @@
+inetnum:            172.22.99.0 - 172.22.99.255
+nserver:            ns.c3d2.de
+netname:            C3D2-GCHQ
+country:            DE
+admin-c:            ASTRO-DN42
+tech-c:             ASTRO-DN42
+status:             ASSIGNED
+mnt-by:             ASTRO-MNT
+cidr:               172.22.99.0/24
+source:             DN42

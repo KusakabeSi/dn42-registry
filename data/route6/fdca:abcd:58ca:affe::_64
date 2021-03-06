@@ -1,0 +1,6 @@
+route6:             fdca:abcd:58ca:affe::/64
+origin:             AS64856
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenden
+mnt-by:             DN42-MNT
+source:             ICVPN

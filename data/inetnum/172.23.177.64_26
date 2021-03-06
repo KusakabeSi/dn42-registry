@@ -1,0 +1,11 @@
+inetnum:            172.23.177.64 - 172.23.177.127
+netname:            LINSERVERS-DC
+descr:              Linservers DBC
+country:            NL
+admin-c:            JIMMY-DN42
+tech-c:             JIMMY-DN42
+mnt-by:             LINSERVERS-MNT
+nserver:            ns1.linservers.dn42
+status:             ASSIGNED
+cidr:               172.23.177.64/26
+source:             DN42

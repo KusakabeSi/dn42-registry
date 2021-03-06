@@ -1,0 +1,4 @@
+route:              172.20.175.32/27
+origin:             AS4242420550
+mnt-by:             SLNX-MNT
+source:             DN42

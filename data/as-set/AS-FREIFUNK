@@ -1,0 +1,19 @@
+as-set:             AS-FREIFUNK
+descr:              Freifunk autonomous systems
+remarks:            Copied from http://wiki.freifunk.net/AS-Nummern
+remarks:            Copied from https://github.com/freifunk/icvpn-meta
+members:            AS65024
+members:            AS65026
+members:            AS65041
+members:            AS65042
+members:            AS65046
+members:            AS65051
+members:            AS65052
+members:            AS65053
+members:            AS65112
+members:            AS65513
+members:            AS65526
+members:            AS65529
+members:            AS65525
+mnt-by:             FREIFUNKDUMMY-MNT
+source:             DN42

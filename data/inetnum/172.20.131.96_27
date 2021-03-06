@@ -1,0 +1,8 @@
+inetnum:            172.20.131.96 - 172.20.131.127
+cidr:               172.20.131.96/27
+netname:            MVO-NETWORK
+admin-c:            MVO-DN42
+tech-c:             MVO-DN42
+mnt-by:             MVO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             corestorage.dn42
+admin-c:            CORESTORAGE-DN42
+tech-c:             CORESTORAGE-DN42
+mnt-by:             CORESTORAGE-MNT
+nserver:            ns1.corestorage.dn42 172.20.142.34
+nserver:            ns1.corestorage.dn42 fdea:2eb5:7420::3
+nserver:            ns2.corestorage.dn42 172.20.142.35
+nserver:            ns2.corestorage.dn42 fdea:2eb5:7420::4
+source:             DN42

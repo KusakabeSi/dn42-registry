@@ -1,0 +1,6 @@
+mntner:             ENP2S0-MNT
+admin-c:            ENP2S0-DN42
+tech-c:             ENP2S0-DN42
+mnt-by:             ENP2S0-MNT
+source:             DN42
+auth:               pgp-fingerprint C6C8E4808F04EBEAF773970299244FB9C0E86ED0

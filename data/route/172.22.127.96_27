@@ -1,0 +1,5 @@
+route:              172.22.127.96/27
+descr:              Route to IUT-BEZIERS-NET network
+origin:             AS4242420076
+mnt-by:             IUT-BEZIERS-MNT
+source:             DN42

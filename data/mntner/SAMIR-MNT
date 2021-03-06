@@ -1,0 +1,7 @@
+mntner:             SAMIR-MNT
+descr:              samir's test
+admin-c:            SAMIR-DN42
+tech-c:             SAMIR-DN42
+mnt-by:             SAMIR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJZ+cHXGgDuSc5uBO4KsdCyEkdBhVw2DeG+ec3YWDkVNgfuR2tINoFOYZVmQSowbWq2dMI/mZRPC9DzkgAuf/UYokq9KH7nkZImn3OCFY0QnDUIXn/+pbIBNIP6bkDxwfB1EdDn2m0xTVamG3HR9MQcrz9BDWd52S1umNLIB2y++x/TGxkbwog2NDqQi31NFYVt6aNNZ1nWNNVAiu44+hrwaQPMshd9ocrrqrZRDmCk2JpN7oVZqvgWcnQcLPbJ/WFrPZbqabHE95VgZl23W83s0PVCyXsofgvXyAlTL40tMOzkHOE8cAlt67044iuKLAT2omowPo0/rnfgiEFYo3/
+source:             DN42

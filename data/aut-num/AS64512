@@ -1,0 +1,9 @@
+aut-num:            AS64512
+org:                ORG-CCCHB
+as-name:            LABORTEC-AS
+descr:              Labortec's home AS
+remarks:            route information goes here
+admin-c:            LABORTEC-DN42
+tech-c:             LABORTEC-DN42
+mnt-by:             TEUFELCHEN-MNT
+source:             DN42

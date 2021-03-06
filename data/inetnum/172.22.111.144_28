@@ -1,0 +1,12 @@
+inetnum:            172.22.111.144 - 172.22.111.159
+cidr:               172.22.111.144/28
+netname:            MARKTELEPORT-NETWORK
+descr:              Network of Markteleport for Server
+country:            TH
+admin-c:            MARKTELEPORT-DN42
+tech-c:             MARKTELEPORT-DN42
+mnt-by:             MARKTELEPORT-MNT
+nserver:            ns1.markteleport.dn42
+nserver:            ns2.markteleport.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             moho.dn42
+descr:              dns for moho
+admin-c:            MOHO-DN42
+tech-c:             MOHO-DN42
+mnt-by:             MOHO-MNT
+nserver:            ns01.moho.dn42 172.20.18.65
+source:             DN42

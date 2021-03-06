@@ -1,0 +1,11 @@
+inetnum:            172.20.195.80 - 172.20.195.95
+netname:            LOSTSERVER-NET2
+descr:              ORG-LOSTSERVER
+country:            US
+admin-c:            LOSTNOC-DN42
+tech-c:             LOSTNOC-DN42
+mnt-by:             LOSTSERVER-MNT
+nserver:            spartan.lostserver.dn42
+status:             ALLOCATED
+cidr:               172.20.195.80/28
+source:             DN42

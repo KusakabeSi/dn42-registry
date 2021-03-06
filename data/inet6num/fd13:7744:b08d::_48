@@ -1,0 +1,10 @@
+inet6num:           fd13:7744:b08d:0000:0000:0000:0000:0000 - fd13:7744:b08d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd13:7744:b08d::/48
+netname:            LINUS-NET
+descr:              Linus ULA DN42 Network
+country:            US
+admin-c:            LINUS-DN42
+tech-c:             LINUS-DN42
+mnt-by:             LINUS-MNT
+status:             ASSIGNED
+source:             DN42

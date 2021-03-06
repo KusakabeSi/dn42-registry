@@ -1,0 +1,8 @@
+inetnum:            172.22.76.224 - 172.22.76.255
+netname:            JANFRED-NETWORK
+admin-c:            JANFRED-DN42
+tech-c:             JANFRED-DN42
+mnt-by:             JANFRED-MNT
+status:             ALLOCATED PA
+cidr:               172.22.76.224/27
+source:             DN42

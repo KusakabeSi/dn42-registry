@@ -1,0 +1,8 @@
+domain:             ffwdh
+nserver:            1.0.23.10.ipv4.registry-sync.dn42
+nserver:            2.0.23.10.ipv4.registry-sync.dn42
+nserver:            2.0.23.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: waldheim
+mnt-by:             DN42-MNT
+source:             ICVPN

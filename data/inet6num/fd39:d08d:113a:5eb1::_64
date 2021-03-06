@@ -1,0 +1,11 @@
+inet6num:           fd39:d08d:113a:5eb1:0000:0000:0000:0000 - fd39:d08d:113a:5eb1:ffff:ffff:ffff:ffff
+netname:            NET-NNVIXTR-IPV6-SEBI-DN42
+descr:              Virtual internet exchange members - sebi
+remarks:            AS76170
+country:            DE
+admin-c:            SEBI-DN42
+tech-c:             SEBI-DN42
+mnt-by:             SEBI-MNT
+status:             ASSIGNED
+cidr:               fd39:d08d:113a:5eb1::/64
+source:             DN42

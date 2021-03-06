@@ -1,0 +1,5 @@
+route6:             fd42:d42:2706::/48
+descr:              MAJOR-NET
+origin:             AS4242422600
+mnt-by:             MAJOR-MNT
+source:             DN42

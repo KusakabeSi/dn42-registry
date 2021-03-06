@@ -1,0 +1,8 @@
+inetnum:            172.20.148.80 - 172.20.148.95
+cidr:               172.20.148.80/28
+netname:            CYPHERPUNK-V4-NET-1
+admin-c:            CYPHERPUNK-DN42
+tech-c:             CYPHERPUNK-DN42
+mnt-by:             CYPHERPUNK-MNT
+status:             ASSIGNED
+source:             DN42

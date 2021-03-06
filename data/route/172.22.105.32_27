@@ -1,0 +1,4 @@
+route:              172.22.105.32/27
+origin:             AS4242420177
+mnt-by:             JHE-MNT
+source:             DN42

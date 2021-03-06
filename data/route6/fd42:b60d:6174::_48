@@ -1,0 +1,4 @@
+route6:             fd42:b60d:6174::/48
+origin:             AS4242422624
+mnt-by:             FFRGB-MNT
+source:             DN42

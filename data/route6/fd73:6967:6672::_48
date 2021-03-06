@@ -1,0 +1,4 @@
+route6:             fd73:6967:6672::/48
+origin:             AS4242421267
+mnt-by:             SIGFRIED-MNT
+source:             DN42

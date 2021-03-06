@@ -1,0 +1,13 @@
+inetnum:            172.20.240.0 - 172.20.240.127
+cidr:               172.20.240.0/25
+netname:            HEXA-TRANSFERNET
+remarks:            172.20.240.0/31 - cccda
+remarks:            172.20.240.2/31 - nurtic-vibe (sbg)
+remarks:            172.20.240.4/31 - andi
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
+status:             ASSIGNED
+source:             DN42

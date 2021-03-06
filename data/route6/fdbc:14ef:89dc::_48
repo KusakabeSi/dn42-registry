@@ -1,0 +1,4 @@
+route6:             fdbc:14ef:89dc::/48
+origin:             AS4242423423
+mnt-by:             FNORD-MNT
+source:             DN42

@@ -1,0 +1,36 @@
+aut-num:            AS4242420119
+as-name:            JRB0001
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+remarks:            
+remarks:            This AS is open for new peerings provided that the following requirements are met:
+remarks:            - At least two IPv6 or multiprotocol BGP sessions are required, IPv4 BGP sessions are optional.
+remarks:            - The contact informations in the registry must always be up to date. The tech-c and admin-c must respond within one week and must read the mailing list.
+remarks:            - The routing policy should be properly documented in the registry within one week after the peering is established.
+remarks:            - The peer AS must have at least one other transit and/or upstream peer.
+remarks:            - The peering must not be down for longer periods of time. Foreseeable downtime of more than one day should be coordinated.
+remarks:            - The round trip time between the border routers must be reasonable. This is not required for simple downstreams.
+remarks:            - Issues in the peer AS can result in the peering being disabled. If this is the case, the peer has to request the reactivation of the peering after all issues are resolved.
+remarks:            Please contact the admin-c for peering requests and the tech-c for technical issues.
+remarks:            
+remarks:            Well-known communities:
+remarks:            RFC1997, RFC3765, RFC7999 and RFC8326 are implemented as described in the RFC. Routes with the BLACKHOLE community are redistributed to peers only if they implement the RFC7999 as well.
+remarks:            Custom communities for traffic engineering:
+remarks:            - (4242420119, 0, p)       Do not announce to ASp.
+remarks:            - (4242420119, 1..16, p)   Prepend x times before announcing to ASp.
+remarks:            Custom communities for debugging assistance:
+remarks:            - (4242420119, 1000, n)    Route entered AS4242420119 on node n.
+remarks:            - (4242420119, 2000, n)    Route left AS4242420119 on node n.
+remarks:            
+remarks:            Please note that the registry data has to be up to date or your routes will fail the checks. Only strict ROA and basic path validation is performed at the moment but full path validation is planned for the future.
+remarks:            
+mp-import:          afi any.unicast from AS4242420119:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242420119:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242420119:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242420119:AS-PEER announce AS4242420119
+mp-import:          afi any.unicast from AS4242420119:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242420119:AS-DOWNSTREAM announce ANY
+mp-import:          afi any.unicast from AS4242420119:AS-UPSTREAM accept ANY
+mp-export:          afi any.unicast to AS4242420119:AS-UPSTREAM announce AS4242420119 AS4242420119:AS-DOWNSTREAM
+source:             DN42

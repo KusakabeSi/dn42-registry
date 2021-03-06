@@ -1,0 +1,8 @@
+inetnum:            172.23.4.0 - 172.23.4.31
+cidr:               172.23.4.0/27
+netname:            GPX-NETWORK
+admin-c:            GPX-DN42
+tech-c:             GPX-DN42
+mnt-by:             GPX-MNT
+status:             ASSIGNED
+source:             DN42

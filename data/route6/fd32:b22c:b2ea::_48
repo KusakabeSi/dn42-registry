@@ -1,0 +1,5 @@
+route6:             fd32:b22c:b2ea::/48
+origin:             AS4242422115
+max-length:         48
+mnt-by:             ALPACA-MNT
+source:             DN42

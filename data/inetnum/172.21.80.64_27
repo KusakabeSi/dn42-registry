@@ -1,0 +1,10 @@
+inetnum:            172.21.80.64 - 172.21.80.95
+cidr:               172.21.80.64/27
+netname:            JERRY-NETWORK
+admin-c:            JERRY-DN42
+tech-c:             JERRY-DN42
+mnt-by:             JERRY-MNT
+status:             ASSIGNED
+nserver:            ns1.jerry.dn42
+nserver:            ns2.jerry.dn42
+source:             DN42

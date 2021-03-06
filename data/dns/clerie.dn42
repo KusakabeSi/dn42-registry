@@ -1,0 +1,6 @@
+domain:             clerie.dn42
+admin-c:            CLERIE-DN42
+tech-c:             CLERIE-DN42
+mnt-by:             CLERIE-MNT
+nserver:            ns1.clerie.dn42 fd56:4902:eca0:1111::11
+source:             DN42

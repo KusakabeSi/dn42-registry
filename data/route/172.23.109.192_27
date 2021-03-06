@@ -1,0 +1,4 @@
+route:              172.23.109.192/27
+origin:             AS4242423228
+mnt-by:             SCHWZR-MNT
+source:             DN42

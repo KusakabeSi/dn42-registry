@@ -1,0 +1,9 @@
+domain:             andy.dn42
+admin-c:            ANDYNET-DN42
+tech-c:             ANDYNET-DN42
+mnt-by:             ANDYNET-MNT
+nserver:            ns1.andy.dn42 172.20.159.64
+nserver:            ns1.andy.dn42 fdf7:facd:9346::1
+nserver:            ns2.andy.dn42 172.20.159.65
+nserver:            ns2.andy.dn42 fdf7:facd:9346::2
+source:             DN42

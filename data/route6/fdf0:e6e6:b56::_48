@@ -1,0 +1,5 @@
+route6:             fdf0:e6e6:b56::/48
+origin:             AS4242420617
+max-length:         48
+mnt-by:             GPX-MNT
+source:             DN42

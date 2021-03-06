@@ -1,0 +1,9 @@
+inet6num:           fd4a:2e8b:78bb:ae6e:0000:0000:0000:0000 - fd4a:2e8b:78bb:ae6e:ffff:ffff:ffff:ffff
+cidr:               fd4a:2e8b:78bb:ae6e::/64
+netname:            NIRVANET-V6-NET-1
+country:            FR
+admin-c:            NIRVANET-DN42
+tech-c:             NIRVANET-DN42
+mnt-by:             NIRVANET-MNT
+status:             ASSIGNED
+source:             DN42

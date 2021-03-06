@@ -1,0 +1,5 @@
+route6:             fdbd:8dc9:3d2b::/48
+origin:             AS4242423952
+max-length:         48
+mnt-by:             GIMPYB-MNT
+source:             DN42

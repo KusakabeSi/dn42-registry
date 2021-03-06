@@ -1,0 +1,8 @@
+inetnum:            172.22.181.224 - 172.22.181.239
+cidr:               172.22.181.224/28
+netname:            ZSTEVA-NETWORK
+admin-c:            ZSTEVA-DN42
+tech-c:             ZSTEVA-DN42
+mnt-by:             ZSTEVA-MNT
+status:             ASSIGNED
+source:             DN42

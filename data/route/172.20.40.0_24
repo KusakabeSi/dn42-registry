@@ -1,0 +1,5 @@
+route:              172.20.40.0/24
+descr:              Jack's Home Network
+origin:             AS4242420124
+mnt-by:             HADRILL-MNT
+source:             DN42

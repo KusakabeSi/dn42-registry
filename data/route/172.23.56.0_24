@@ -1,0 +1,4 @@
+route:              172.23.56.0/24
+origin:             AS4242420018
+mnt-by:             BR-MNT
+source:             DN42

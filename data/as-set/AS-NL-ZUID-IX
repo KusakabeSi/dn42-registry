@@ -1,0 +1,11 @@
+as-set:             AS-NL-ZUID-IX
+descr:              NL Zuid Exchanges
+members:            AS4242420330
+members:            AS4242420324
+members:            AS4242420330
+members:            AS4242420120
+members:            AS4242421340
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+source:             DN42

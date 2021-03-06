@@ -1,0 +1,4 @@
+route:              172.22.98.0/28
+origin:             AS4242420019
+mnt-by:             ABBON-MNT
+source:             DN42

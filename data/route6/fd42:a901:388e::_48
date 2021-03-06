@@ -1,0 +1,4 @@
+route6:             fd42:a901:388e::/48
+origin:             AS4242420260
+mnt-by:             INTERACTIVELABS-MNT
+source:             DN42

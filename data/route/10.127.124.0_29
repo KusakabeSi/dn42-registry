@@ -1,0 +1,8 @@
+route:              10.127.124.0/29
+max-length:         29
+origin:             AS4242421214
+admin-c:            STEVEYI-NEONETWORK
+tech-c:             STEVEYI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

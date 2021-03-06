@@ -1,0 +1,7 @@
+mntner:             JUNJUN-MNT
+admin-c:            JUNJUN-DN42
+tech-c:             JUNJUN-DN42
+auth:               pgp-fingerprint 2AC4CFDB42972D38F105800BC0EB1AA4536A8318
+auth:               pgp-fingerprint 4A6D297E6F74638E4D5F8E99152AC7B5F7608B26
+mnt-by:             JUNJUN-MNT
+source:             DN42

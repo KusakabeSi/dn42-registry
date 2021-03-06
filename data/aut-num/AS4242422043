@@ -1,0 +1,7 @@
+aut-num:            AS4242422043
+as-name:            KLEEN-HOME-AS
+admin-c:            KLEEN-DN42
+tech-c:             KLEEN-DN42
+mnt-by:             KLEEN-MNT
+remarks:            Secondary ASN to as4242422042
+source:             DN42

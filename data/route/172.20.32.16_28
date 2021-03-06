@@ -1,0 +1,4 @@
+route:              172.20.32.16/28
+origin:             AS4242420798
+mnt-by:             SUAWEK-MNT
+source:             DN42

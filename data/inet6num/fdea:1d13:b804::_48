@@ -1,0 +1,9 @@
+inet6num:           fdea:1d13:b804:0000:0000:0000:0000:0000 - fdea:1d13:b804:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:1d13:b804::/48
+netname:            NIRF-NETWORK
+admin-c:            NIRF-DN42
+tech-c:             NIRF-DN42
+mnt-by:             NIRF-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.as4242420149.dn42

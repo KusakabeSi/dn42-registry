@@ -1,0 +1,7 @@
+aut-num:            AS4242423913
+as-name:            SOHA-AS
+descr:              Soha's Experimental Network @ DN42
+admin-c:            SOHA-DN42
+tech-c:             SOHA-DN42
+mnt-by:             SOHA-MNT
+source:             DN42

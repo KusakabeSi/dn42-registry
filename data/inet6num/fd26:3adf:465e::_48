@@ -1,0 +1,9 @@
+inet6num:           fd26:3adf:465e:0000:0000:0000:0000:0000 - fd26:3adf:465e:ffff:ffff:ffff:ffff:ffff
+netname:            VICTORROMAN-NET6
+cidr:               fd26:3adf:465e::/48
+country:            ES
+admin-c:            VICTORROMAN-DN42
+tech-c:             VICTORROMAN-DN42
+mnt-by:             VICTORROMAN-MNT
+status:             ASSIGNED
+source:             DN42

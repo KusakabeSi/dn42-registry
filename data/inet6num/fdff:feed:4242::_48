@@ -1,0 +1,10 @@
+inet6num:           fdff:feed:4242:0000:0000:0000:0000:0000 - fdff:feed:4242:ffff:ffff:ffff:ffff:ffff
+netname:            HEYLAX-IPV6
+descr:              Peer with me at telegram @dearroy
+country:            US
+admin-c:            ROY-DN42
+tech-c:             ROY-DN42
+mnt-by:             HEY-MNT
+status:             ASSIGNED
+cidr:               fdff:feed:4242::/48
+source:             DN42

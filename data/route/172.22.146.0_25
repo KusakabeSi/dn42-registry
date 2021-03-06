@@ -1,0 +1,4 @@
+route:              172.22.146.0/25
+origin:             AS4242423973
+mnt-by:             TECHNOPOINT-MNT
+source:             DN42

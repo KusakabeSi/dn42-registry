@@ -1,0 +1,7 @@
+domain:             off.dn42
+admin-c:            BAT-DN42
+tech-c:             BAT-DN42
+mnt-by:             BAT-MNT
+nserver:            ns1.off.dn42 172.22.114.125
+nserver:            ns1.off.dn42 fd0c:062d:08e7::53
+source:             DN42

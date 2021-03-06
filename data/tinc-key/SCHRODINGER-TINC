@@ -1,0 +1,16 @@
+tinc-key:           SCHRODINGER-TINC
+tinc-host:          crux
+tinc-file:          
+                    Compression=9
+                    Subnet=172.22.255.186/32
+                    Address=46.105.120.196
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAsYDo0tCVp/D5e9w8tmMv99vI1qroIL0GzDAuJfAgGDZLhE2mF+Q6
+                    LGAe4TrRwxFVfy/c0sHH1CZ9dmg6s9ZVl9xCsa0jxD1Itvb2EpRLsUGwI6WGsO7O
+                    tKj6MBV/n1OgE1jh4s103piI67iSlqZ4Jsy/+HZ0FhJf4T3b0WkmKBTkqNdiVl6n
+                    z3jkhx2AJ5G5PP/lnrs/5Cz+VFICFu64dalqEqgP6Kh0eL/A0Albx8cEbTzvMwwC
+                    DrhfXJguRMdCVWz5iQdRv++E5+Ln8oCmYUwyPeq2RruaJVUuf6COI3sUuiootXln
+                    oQ6lXxk7Pk+4I2BUnAJTQxCHHMsYuOQeKwIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

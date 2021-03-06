@@ -1,0 +1,9 @@
+inetnum:            172.20.41.0 - 172.20.41.31
+netname:            ODVIK-NET-2
+country:            GB
+admin-c:            TIMHAWES-DN42
+tech-c:             TIMHAWES-DN42
+mnt-by:             ODVIK-MNT
+status:             ASSIGNED
+cidr:               172.20.41.0/27
+source:             DN42

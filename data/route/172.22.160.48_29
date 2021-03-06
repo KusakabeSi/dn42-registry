@@ -1,0 +1,5 @@
+route:              172.22.160.48/29
+descr:              Peer with me at realducksoft@gmail.com
+origin:             AS4242420453
+mnt-by:             DUCKSOFT-MNT
+source:             DN42

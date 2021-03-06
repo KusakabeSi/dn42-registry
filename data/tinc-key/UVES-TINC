@@ -1,0 +1,26 @@
+tinc-key:           UVES-TINC
+tinc-host:          spline
+remarks:            * This object was generated based on info from legacy
+remarks:            * wiki and existing host files
+compression:        9
+subnet:             172.22.255.161/32
+subnet:             fd04:de02:7af9::161/128
+tinc-address:       130.133.110.158
+admin-c:            UVES-DN42
+port:               28903
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet = 172.22.255.161/32
+                    Subnet = fd04:de02:7af9::161/128
+                    Address = 130.133.110.158
+                    Compression = 9
+                    Port = 28903
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAzvgYeUgVeAz9OaMOSZLDctv98qSIGltAKwgTxaHt7sqouH7AUzwa
+                    bg/0iRjK1/nGSEMbAkLaoJpo9twpVHZwleCa4Hmp/FELYo1j8TKTYClVqcYh0HLE
+                    3Hf5xvLBQzoTPmYjbaZgh6/MtsIZB5ETiU6yj7ygHmRjRRcIS0c6ep5vdLX5fTNJ
+                    KV+G+fqBcDcDA9RRP4MA6WHITuy92/T+HBR7fXYFNsfm9r/LHvlF/8I0dvZQyF/R
+                    U+S4ecok6+/bJC4C1klMtNE9nZNoLYnnqAGhIbIE+PlrRP+ZnXEgG7z9g/h8jXBn
+                    VbwmHz08Sc9ulPtGghQAKbZQImWsGikasQIDAQAB
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

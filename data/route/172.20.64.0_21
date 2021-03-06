@@ -1,0 +1,4 @@
+route:              172.20.64.0/21
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+source:             DN42

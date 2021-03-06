@@ -1,0 +1,10 @@
+inet6num:           fd42:5ee3:c44b:0000:0000:0000:0000:0000 - fd42:5ee3:c44b:ffff:ffff:ffff:ffff:ffff
+netname:            COSNET-NETWORKS
+descr:              Cosmic's ipv6 network
+country:            DE
+admin-c:            COSMIC-DN42
+tech-c:             COSMIC-DN42
+mnt-by:             COSMIC-MNT
+status:             ASSIGNED
+cidr:               fd42:5ee3:c44b::/48
+source:             DN42

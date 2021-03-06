@@ -1,0 +1,8 @@
+domain:             ca.dn42
+descr:              DN42 Certificate Authority
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            rakta.fra.xuu.dn42
+source:             DN42

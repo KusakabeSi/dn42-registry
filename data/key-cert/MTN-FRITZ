@@ -1,0 +1,7 @@
+key-cert:           MTN-FRITZ
+method:             MTN
+owner:              fritz@grimpen.net
+fingerpr:           cc3a6dd807903ba70874848ad74f4c627bac3720
+certif:             MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGcchcJ4Id0PyPE6DnA2ShPgfkkhPuaPcQeTvobOpnO472VafcXZ2H1FdkIdYtdK+BMoGX7ndkcMzD91/QcOM5PkD+66BKQdL3WnUc1wRRPNA008qDjoqk1ddDPdG3uYtAsw0epZrRETLepYkNihhRDh/xmhqoPXo8Ax776rWV8QIDAQAB
+mnt-by:             FRITZ-MNT
+source:             DN42

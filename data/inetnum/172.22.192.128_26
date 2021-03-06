@@ -1,0 +1,10 @@
+inetnum:            172.22.192.128 - 172.22.192.191
+netname:            JPLITZA-NET
+country:            DE
+admin-c:            JPLITZA-DN42
+tech-c:             JPLITZA-DN42
+status:             ASSIGNED
+mnt-by:             JPLITZA-MNT
+nserver:            ns01.dn42.jplitza.de
+cidr:               172.22.192.128/26
+source:             DN42

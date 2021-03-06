@@ -1,0 +1,10 @@
+inet6num:           fd42:4999:6a6d:0000:0000:0000:0000:0000 - fd42:4999:6a6d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4999:6a6d::/48
+netname:            OO11-NETWORK
+descr:              Network of OO11
+country:            CN
+admin-c:            OO11-DN42
+tech-c:             OO11-DN42
+mnt-by:             OO11-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.163.128/28
+origin:             AS4242420224
+mnt-by:             LINKLER-MNT
+source:             DN42

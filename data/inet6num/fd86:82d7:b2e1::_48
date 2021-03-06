@@ -1,0 +1,10 @@
+inet6num:           fd86:82d7:b2e1:0000:0000:0000:0000:0000 - fd86:82d7:b2e1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:82d7:b2e1::/48
+netname:            SH-NETWORK
+descr:              Network of Stefan Haller
+country:            DE
+admin-c:            SH-DN42
+tech-c:             SH-DN42
+mnt-by:             SH-MNT
+status:             ASSIGNED
+source:             DN42

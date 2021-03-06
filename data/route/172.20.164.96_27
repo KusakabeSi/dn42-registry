@@ -1,0 +1,4 @@
+route:              172.20.164.96/27
+origin:             AS4242420092
+mnt-by:             ZYRADYL-MNT
+source:             DN42

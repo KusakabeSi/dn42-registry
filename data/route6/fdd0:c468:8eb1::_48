@@ -1,0 +1,5 @@
+route6:             fdd0:c468:8eb1::/48
+descr:              NET-MCBONE-001
+origin:             AS4242423843
+mnt-by:             MCBONE-MNT
+source:             DN42

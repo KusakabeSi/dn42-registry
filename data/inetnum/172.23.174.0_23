@@ -1,0 +1,10 @@
+inetnum:            172.23.174.0 - 172.23.175.255
+cidr:               172.23.174.0/23
+netname:            SMRSH-DN42-IP4NET
+descr:              smrsh IPv4 Network - DN42
+country:            US
+admin-c:            DRACOLING-DN42
+tech-c:             DRACOLING-DN42
+status:             ASSIGNED
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdc9:83c1:d0ce:0000:0000:0000:0000:0000 - fdc9:83c1:d0ce:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc9:83c1:d0ce::/48
+netname:            ANILLC-NETWORK
+descr:              Network of ANILLC
+country:            CN
+admin-c:            ANILLC-DN42
+tech-c:             ANILLC-DN42
+mnt-by:             ANILLC-MNT
+status:             ASSIGNED
+source:             DN42

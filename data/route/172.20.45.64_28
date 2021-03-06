@@ -1,0 +1,4 @@
+route:              172.20.45.64/28
+origin:             AS4242423667
+mnt-by:             XICON-MNT
+source:             DN42

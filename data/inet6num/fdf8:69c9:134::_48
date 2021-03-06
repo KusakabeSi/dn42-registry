@@ -1,0 +1,10 @@
+inet6num:           fdf8:69c9:0134:0000:0000:0000:0000:0000 - fdf8:69c9:0134:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:69c9:134::/48
+netname:            Y525-NETWORK
+descr:              Y525 Network
+country:            US
+admin-c:            Y525-DN42
+tech-c:             Y525-DN42
+mnt-by:             Y525-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdb4:acab:1312::/48
+origin:             AS4242422131
+max-length:         48
+mnt-by:             JULIA-MNT
+source:             DN42

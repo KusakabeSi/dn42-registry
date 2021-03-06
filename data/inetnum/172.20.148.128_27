@@ -1,0 +1,10 @@
+inetnum:            172.20.148.128 - 172.20.148.159
+cidr:               172.20.148.128/27
+netname:            CHUUNILAB4-NETWORK
+descr:              IPv4 network of Chuunilab
+country:            US
+admin-c:            R-DN42
+tech-c:             R-DN42
+mnt-by:             R-MNT
+status:             ASSIGNED
+source:             DN42

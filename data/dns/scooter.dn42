@@ -1,0 +1,6 @@
+domain:             scooter.dn42
+admin-c:            SCOOTERH928-DN42
+tech-c:             SCOOTERH928-DN42
+mnt-by:             SCOOTERH928-MNT
+nserver:            ns1.scooter.dn42 172.23.109.169
+source:             DN42

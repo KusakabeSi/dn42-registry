@@ -1,0 +1,9 @@
+inetnum:            172.20.245.200 - 172.20.245.207
+netname:            NET-ROTHEUK-000
+country:            GB
+admin-c:            MROTHE-DN42
+tech-c:             MROTHE-DN42
+mnt-by:             ROTHEUK-MNT
+status:             ASSIGNED
+cidr:               172.20.245.200/29
+source:             DN42

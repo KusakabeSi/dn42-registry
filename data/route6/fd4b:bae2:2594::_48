@@ -1,0 +1,5 @@
+route6:             fd4b:bae2:2594::/48
+origin:             AS4242423059
+max-length:         48
+mnt-by:             WP140Z-MNT
+source:             DN42

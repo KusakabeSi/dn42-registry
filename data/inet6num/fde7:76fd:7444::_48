@@ -1,0 +1,8 @@
+inet6num:           fde7:76fd:7444:0000:0000:0000:0000:0000 - fde7:76fd:7444:ffff:ffff:ffff:ffff:ffff
+cidr:               fde7:76fd:7444::/48
+netname:            IBJ-NET-2
+admin-c:            IBJ-DN42
+tech-c:             IBJ-DN42
+mnt-by:             IBJ-MNT
+status:             ASSIGNED
+source:             DN42

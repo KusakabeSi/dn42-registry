@@ -1,0 +1,9 @@
+domain:             fabrateria.dn42
+admin-c:            M4OC-DN42
+tech-c:             DESMOND-DN42
+mnt-by:             FABRATERIA-MNT
+nserver:            ns1.fabrateria.dn42 172.22.110.225
+nserver:            ns1.fabrateria.dn42 fd10:fcac:b8f2:4d4c::1
+nserver:            ns2.fabrateria.dn42 172.22.110.226
+nserver:            ns2.fabrateria.dn42 fd10:fcac:b8f2:4d4c::2
+source:             DN42

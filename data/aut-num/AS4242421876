@@ -1,0 +1,35 @@
+aut-num:            AS4242421876
+as-name:            FIXMIX-AS-42
+descr:              fixmix Network on DN42
+org:                ORG-FIXMIX
+mp-import:          afi any.unicast from AS-FIXMIX-42:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS-FIXMIX-42:AS-TRANSIT announce ANY
+remarks:            +----------------------------------------------+
+remarks:            |            fixmix Network on DN42            |
+remarks:            +----------------------------------------------+
+remarks:            | * Tier 3 Operator certified by info.nia.dn42 |
+remarks:            | * Open Peering Policy                        |
+remarks:            | * Nodes Available for Peering:               |
+remarks:            |   - New York City, United States             |
+remarks:            |   - Los Angeles, United States               |
+remarks:            |   - Chicago, United States                   |
+remarks:            |   - Nuremberg, Germany                       |
+remarks:            |   - Amsterdam, Netherlands                   |
+remarks:            |   - Moscow, Russia                           |
+remarks:            |   - Tokyo, Japan                             |
+remarks:            |   - Singapore                                |
+remarks:            |   - Hong Kong, China                         |
+remarks:            |   - Shanghai, China                          |
+remarks:            | * Info Page: https://dn42.fixmix.tech        |
+remarks:            |              https://fixmix.dn42             |
+remarks:            | * Looking Glass: https://lg42.fixmix.tech    |
+remarks:            |                  https://lg.fixmix.dn42      |
+remarks:            | * Contact:                                   |
+remarks:            |   - Email: network@fixmix.tech               |
+remarks:            |   - IRC: p0tat05 @ hackint                   |
+remarks:            |   - Telegram: @p0tat05                       |
+remarks:            +----------------------------------------------+
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+source:             DN42

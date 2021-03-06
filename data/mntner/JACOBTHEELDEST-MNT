@@ -1,0 +1,7 @@
+mntner:             JACOBTHEELDEST-MNT
+auth:               pgp-fingerprint C6BA8ACDC0DB47156D6BFE838B53FEECB537AED2
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCkM0Nd2wBCQ3EiSc63CjxTWq5jA2ISFF9IMyQ7c0P86usmR+o2ns8nED8Or9DLeVYUzkCltaM5rpp0L4+4HM2gGalYl3No+pWFdwBwEbXNJg6RN/tzdxlU8rIO3t+gpLS+mA5+dSWk0SwnSuBervX1IcUw8wa+fAHso4MDfUVJxLOTJd9IWzd/l9KeKIwLycd7Eu6WRJunbyviPvOqOVgktGkCbLDid6Y/xntFCO986jrs5sEosHw5lkahURLBhPhpc9FiCnDRP+rNGh3+61BXfcB4UaGQiW0vOFLmX98vTtzl1hva9hVS0AJJ4LTJ4xgQeMKArYpbx6t5gHIp6Koj root@Jacob-Workstation
+admin-c:            JACOBTHEELDEST-DN42
+tech-c:             JACOBTHEELDEST-DN42
+mnt-by:             JACOBTHEELDEST-MNT
+source:             DN42

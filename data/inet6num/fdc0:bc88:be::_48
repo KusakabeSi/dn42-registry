@@ -1,0 +1,10 @@
+inet6num:           fdc0:bc88:00be:0000:0000:0000:0000:0000 - fdc0:bc88:00be:ffff:ffff:ffff:ffff:ffff
+netname:            LEMOER-PRIV-IP6-1
+descr:              lemoer
+country:            DE
+admin-c:            LEMOER-DN42
+tech-c:             LEMOER-DN42
+mnt-by:             LEMOER-MNT
+status:             ALLOCATED
+cidr:               fdc0:bc88:be::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.110.216/29
+origin:             AS46997
+mnt-by:             NATO-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:0042:0042:0000:0000:0000:0000:0000 - fd42:0042:0042:ffff:ffff:ffff:ffff:ffff
+netname:            CONTROLPLANE-NET6
+descr:              Controlplane-DN42 ipv6
+country:            DE
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+status:             ASSIGNED
+cidr:               fd42:42:42::/48
+source:             DN42

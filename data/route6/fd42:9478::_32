@@ -1,0 +1,4 @@
+route6:             fd42:9478::/32
+origin:             AS4242422548
+mnt-by:             SAPINET-MNT
+source:             DN42

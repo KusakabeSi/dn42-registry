@@ -1,0 +1,7 @@
+aut-num:            AS4242420908
+as-name:            TONY-AS
+descr:              Tony's AS
+admin-c:            TONY-DN42
+tech-c:             TONY-DN42
+mnt-by:             TONY-MNT
+source:             DN42

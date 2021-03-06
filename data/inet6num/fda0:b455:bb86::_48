@@ -1,0 +1,8 @@
+inet6num:           fda0:b455:bb86:0000:0000:0000:0000:0000 - fda0:b455:bb86:ffff:ffff:ffff:ffff:ffff
+cidr:               fda0:b455:bb86::/48
+netname:            NEUTRINET-NET-1
+admin-c:            THARYROK-DN42
+tech-c:             THARYROK-DN42
+mnt-by:             THARYROK-MNT
+status:             ASSIGNED
+source:             DN42

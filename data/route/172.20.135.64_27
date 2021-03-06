@@ -1,0 +1,5 @@
+route:              172.20.135.64/27
+descr:              VAGUE Route
+origin:             AS4242420810
+mnt-by:             JAMESR-MNT
+source:             DN42

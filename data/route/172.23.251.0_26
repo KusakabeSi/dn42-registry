@@ -1,0 +1,4 @@
+route:              172.23.251.0/26
+origin:             AS4242423853
+mnt-by:             CHENYAO2333-MNT
+source:             DN42

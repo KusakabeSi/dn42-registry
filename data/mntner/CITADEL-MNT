@@ -1,0 +1,6 @@
+mntner:             CITADEL-MNT
+admin-c:            CITADEL-DN42
+tech-c:             CITADEL-DN42
+mnt-by:             CITADEL-MNT
+source:             DN42
+auth:               pgp-fingerprint 34F1C13487F8EFA908CD314755D5BFEED8624DB4

@@ -1,0 +1,11 @@
+inet6num:           fd89:35db:0fc0:0000:0000:0000:0000:0000 - fd89:35db:0fc0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd89:35db:fc0::/48
+netname:            MOECAST-NET
+descr:              Moecast DN42 IPv6
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+nserver:            ns1.moecast.dn42
+ds-rdata:           31805 8 2 3CE796081C93DA283A4336A969DDEB0F5D2D76C90918F8F9F8D7E5D12F249398
+status:             ASSIGNED
+source:             DN42

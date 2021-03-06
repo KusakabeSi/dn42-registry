@@ -1,0 +1,12 @@
+inet6num:           fd5c:0f0f:39fc:0000:0000:0000:0000:0000 - fd5c:0f0f:39fc:ffff:ffff:ffff:ffff:ffff
+netname:            XIAOYU-NET
+descr:              peering to irc liuxyon
+country:            US
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+nserver:            ns.xiaoyu.dn42
+nserver:            ns.face.dn42
+status:             ASSIGNED
+cidr:               fd5c:f0f:39fc::/48
+source:             DN42

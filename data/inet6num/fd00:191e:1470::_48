@@ -1,0 +1,8 @@
+inet6num:           fd00:191e:1470:0000:0000:0000:0000:0000 - fd00:191e:1470:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:191e:1470::/48
+netname:            FSTAB-NETWORK
+admin-c:            FSTAB-DN42
+tech-c:             FSTAB-DN42
+mnt-by:             FSTAB-MNT
+status:             ASSIGNED
+source:             DN42

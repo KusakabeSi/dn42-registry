@@ -1,0 +1,10 @@
+domain:             rqz.dn42
+admin-c:            FREACH-DN42
+tech-c:             FREACH-DN42
+mnt-by:             FREACH-MNT
+org:                ORG-JICHI
+nserver:            a.dns.rqz.dn42 172.22.126.102
+nserver:            a.dns.rqz.dn42 fd00:67a2:7d02:1000:1000:1000:1000:1021
+nserver:            b.dns.rqz.dn42 172.22.126.103
+nserver:            b.dns.rqz.dn42 fd00:67a2:7d02:1000:1000:1000:1000:1031
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:0d42:0542:0000:0000:0000:0000:0000 - fd42:0d42:0542:ffff:ffff:ffff:ffff:ffff
+netname:            JO-JO-NET
+descr:              Jo-Jo's Main IPv6 Network
+country:            DE
+admin-c:            JOJO-DN42
+tech-c:             JOJO-DN42
+mnt-by:             JO-JO-MNT
+status:             ASSIGNED
+cidr:               fd42:d42:542::/48
+source:             DN42

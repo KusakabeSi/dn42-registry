@@ -1,0 +1,20 @@
+inet6num:           fd42:0d42:0d42:6667:0000:0000:0000:0000 - fd42:0d42:0d42:6667:ffff:ffff:ffff:ffff
+cidr:               fd42:d42:d42:6667::/64
+remarks:            __               __
+remarks:            / /_  ____ ______/ /__
+remarks:            / __ \/ __ `/ ___/ //_/
+remarks:            / / / / /_/ / /__/ ,<            __
+remarks:            /_/ /_/\__,_/\___/_/|_|  (*)___  / /_
+remarks:            / / __ \/ __/
+remarks:            irc.hackint.org   / / / / / /_
+remarks:            irc.hackint.eu  /_/_/ /_/\__/
+remarks:            irc.hackint.dn42
+remarks:            
+netname:            HACKINT-DN42
+country:            DE
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cccda.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd66:feed:beef:0000:0000:0000:0000:0000 - fd66:feed:beef:ffff:ffff:ffff:ffff:ffff
+netname:            ROBOTHAM-NETWORK
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+nserver:            ns1.robotham.dn42
+nserver:            ns2.robotham.dn42
+status:             ASSIGNED
+cidr:               fd66:feed:beef::/48
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             SHOGHI-MNT
+admin-c:            SHOGHI-DN42
+tech-c:             SHOGHI-DN42
+mnt-by:             SHOGHI-MNT
+auth:               pgp-fingerprint 7E6821B874F3325DD2CD2719BD68835433DABBE5
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK2d59u73eILji1PjOgzYL0HmVIPa+62SLVjQyI27raL
+source:             DN42

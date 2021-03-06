@@ -1,0 +1,6 @@
+route6:             fd7e:e43c:78d9::/48
+origin:             AS4242422144
+mnt-by:             TUX333-MNT
+admin-c:            TUX333-DN42
+tech-c:             TUX333-DN42
+source:             DN42

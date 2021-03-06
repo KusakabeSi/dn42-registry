@@ -1,0 +1,4 @@
+route:              172.20.184.208/28
+origin:             AS4242420078
+mnt-by:             JOSEPHB-MNT
+source:             DN42

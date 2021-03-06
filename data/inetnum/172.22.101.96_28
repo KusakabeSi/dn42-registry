@@ -1,0 +1,10 @@
+inetnum:            172.22.101.96 - 172.22.101.111
+netname:            BUKN-DN42-NET
+descr:              BUKN DN42 IPv4 Space
+country:            UK
+admin-c:            BUKN-DN42
+tech-c:             BUKN-DN42
+mnt-by:             BUKN-MNT
+status:             ASSIGNED
+cidr:               172.22.101.96/28
+source:             DN42

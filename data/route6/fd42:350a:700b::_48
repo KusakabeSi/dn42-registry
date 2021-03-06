@@ -1,0 +1,5 @@
+route6:             fd42:350a:700b::/48
+origin:             AS4242420642
+max-length:         48
+mnt-by:             DONDON-MNT
+source:             DN42

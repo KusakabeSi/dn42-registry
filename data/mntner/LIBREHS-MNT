@@ -1,0 +1,7 @@
+mntner:             LIBREHS-MNT
+descr:              LibreHouse
+admin-c:            LIBREHS-DN42
+tech-c:             LIBREHS-DN42
+mnt-by:             LIBREHS-MNT
+source:             DN42
+auth:               pgp-fingerprint 7A9543829E475D7D3826B08DA725CB57CA65CAFE

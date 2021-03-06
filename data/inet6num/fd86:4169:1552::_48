@@ -1,0 +1,12 @@
+inet6num:           fd86:4169:1552:0000:0000:0000:0000:0000 - fd86:4169:1552:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:4169:1552::/48
+netname:            N4N-NETWORK
+descr:              Network of N4N
+country:            CN
+admin-c:            N4N-DN42
+tech-c:             N4N-DN42
+mnt-by:             N4N-MNT
+status:             ASSIGNED
+nserver:            ns1.c0nnax.dn42
+nserver:            ns2.c0nnax.dn42
+source:             DN42

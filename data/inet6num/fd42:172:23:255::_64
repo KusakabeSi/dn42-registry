@@ -1,0 +1,12 @@
+inet6num:           fd42:0172:0023:0255:0000:0000:0000:0000 - fd42:0172:0023:0255:ffff:ffff:ffff:ffff
+cidr:               fd42:172:23:255::/64
+netname:            ORG-SHACK-V6-DN42
+country:            DE
+descr:              shack - IPv6 DN42 network
+status:             ASSIGNED
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+org:                ORG-SHACK
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd62:a393:3d91:0000:0000:0000:0000:0000 - fd62:a393:3d91:ffff:ffff:ffff:ffff:ffff
+netname:            LINUTUX-IPV6
+descr:              IPv6 Block of Linutux
+country:            DE
+admin-c:            LINUTUX-DN42
+tech-c:             LINUTUX-DN42
+mnt-by:             LINUTUX-MNT
+status:             ASSIGNED
+cidr:               fd62:a393:3d91::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd53:a37c:9438::/48
+origin:             AS4242429998
+mnt-by:             TOASTER-MNT
+source:             DN42

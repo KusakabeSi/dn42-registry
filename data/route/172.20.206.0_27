@@ -1,0 +1,5 @@
+route:              172.20.206.0/27
+descr:              SELLERIE-NETWORK
+origin:             AS4242423869
+mnt-by:             SELLERIE-MNT
+source:             DN42

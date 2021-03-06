@@ -1,0 +1,10 @@
+inet6num:           fd3c:99a3:21fb:0000:0000:0000:0000:0000 - fd3c:99a3:21fb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3c:99a3:21fb::/48
+netname:            CHUCKOGGY-NETWORK
+descr:              CHUCKOGGY Network
+country:            FR
+admin-c:            CHUCKOGGY-DN42
+tech-c:             CHUCKOGGY-DN42
+mnt-by:             CHUCKOGGY-MNT
+status:             ASSIGNED
+source:             DN42

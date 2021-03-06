@@ -1,0 +1,11 @@
+inet6num:           fd64:cafe:cafe:0000:0000:0000:0000:0000 - fd64:cafe:cafe:ffff:ffff:ffff:ffff:ffff
+cidr:               fd64:cafe:cafe::/48
+netname:            DAN-NETWORK
+descr:              DAN network
+country:            CZ
+admin-c:            DAN-DN42
+tech-c:             DAN-DN42
+mnt-by:             DAN-MNT
+nserver:            ns1.dan.dn42
+status:             ASSIGNED
+source:             DN42

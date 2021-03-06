@@ -1,0 +1,8 @@
+inet6num:           fd5f:bbf1:848a:0000:0000:0000:0000:0000 - fd5f:bbf1:848a:ffff:ffff:ffff:ffff:ffff
+netname:            XEINAL-NET
+admin-c:            XEINAL-DN42
+tech-c:             XEINAL-DN42
+mnt-by:             XEINAL-MNT
+status:             ASSIGNED
+cidr:               fd5f:bbf1:848a::/48
+source:             DN42

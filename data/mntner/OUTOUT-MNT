@@ -1,0 +1,6 @@
+mntner:             OUTOUT-MNT
+admin-c:            OUTOUT-DN42
+tech-c:             OUTOUT-DN42
+mnt-by:             OUTOUT-MNT
+source:             DN42
+auth:               pgp-fingerprint 19A1A1E6C1F9CC57E227C694D42591CDE168006A

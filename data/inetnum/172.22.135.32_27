@@ -1,0 +1,8 @@
+inetnum:            172.22.135.32 - 172.22.135.63
+cidr:               172.22.135.32/27
+netname:            JUMBLE-NETWORK
+admin-c:            JUMBLE-DN42
+tech-c:             JUMBLE-DN42
+mnt-by:             JUMBLE-MNT
+status:             ASSIGNED
+source:             DN42

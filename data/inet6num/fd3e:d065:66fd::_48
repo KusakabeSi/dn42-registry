@@ -1,0 +1,10 @@
+inet6num:           fd3e:d065:66fd:0000:0000:0000:0000:0000 - fd3e:d065:66fd:ffff:ffff:ffff:ffff:ffff
+netname:            SESHI-IPV6
+descr:              Peer with me at ywtzmc@qq.com | ywtzmc@gmail.com
+country:            CN
+admin-c:            SESHI-DN42
+tech-c:             SESHI-DN42
+mnt-by:             SESHI-MNT
+status:             ASSIGNED
+cidr:               fd3e:d065:66fd::/48
+source:             DN42

@@ -1,0 +1,16 @@
+aut-num:            AS76118
+as-name:            NAZCO-AS
+descr:              nazco's AS
+remarks:            +---------------------------------------------------+
+remarks:            | * Open peering policy, OpenVPN preferred.         |
+remarks:            | * For peering contact me at mail@nazco.de         |
+remarks:            |   or via IRC nazco @ hackint                      |
+remarks:            +-----------+---------------------------------------+
+remarks:            | Server    | Location                              |
+remarks:            +-----------+---------------------------------------+
+remarks:            + DE01      | Falkenstein, Germany (Hetzner RZ10)
+remarks:            +-----------+---------------------------------------+
+admin-c:            NAZCO-DN42
+tech-c:             NAZCO-DN42
+mnt-by:             NAZCO-MNT
+source:             DN42

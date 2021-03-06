@@ -1,0 +1,12 @@
+inet6num:           fd5b:a2c5:fe5c:0000:0000:0000:0000:0000 - fd5b:a2c5:fe5c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5b:a2c5:fe5c::/48
+netname:            MARKTELEPORT-NETWORK
+descr:              Network of Markteleport
+country:            TH
+admin-c:            MARKTELEPORT-DN42
+tech-c:             MARKTELEPORT-DN42
+mnt-by:             MARKTELEPORT-MNT
+nserver:            ns1.markteleport.dn42
+nserver:            ns2.markteleport.dn42
+status:             ASSIGNED
+source:             DN42

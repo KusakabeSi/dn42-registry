@@ -1,0 +1,4 @@
+route6:             fddf:2460:2460::/48
+origin:             AS4242422460
+mnt-by:             RFC2460-MNT
+source:             DN42

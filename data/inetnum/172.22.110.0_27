@@ -1,0 +1,11 @@
+inetnum:            172.22.110.0 - 172.22.110.31
+netname:            GERGER-NET1
+descr:              Gerger's Space
+country:            DE
+nserver:            tirpitz.gergernet.dn42
+admin-c:            GERGER-DN42
+tech-c:             GERGER-DN42
+mnt-by:             GERGERNET-MNT
+status:             ASSIGNED
+cidr:               172.22.110.0/27
+source:             DN42

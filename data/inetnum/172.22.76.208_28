@@ -1,0 +1,9 @@
+inetnum:            172.22.76.208 - 172.22.76.223
+netname:            XNG-INET4-DN42
+country:            US
+admin-c:            XNG-DN42
+tech-c:             XNG-DN42
+mnt-by:             XNG-MNT
+status:             ASSIGNED
+cidr:               172.22.76.208/28
+source:             DN42

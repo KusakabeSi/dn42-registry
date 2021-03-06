@@ -1,0 +1,10 @@
+inetnum:            172.20.131.88 - 172.20.131.95
+cidr:               172.20.131.88/29
+netname:            TOINUX-NET4-1
+admin-c:            TOINUX-DN42
+tech-c:             TOINUX-DN42
+mnt-by:             TOINUX-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.toinux.dn42
+nserver:            ns2.toinux.dn42

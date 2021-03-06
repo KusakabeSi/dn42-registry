@@ -1,0 +1,7 @@
+inetnum:            172.20.0.53 - 172.20.0.53
+cidr:               172.20.0.53/32
+netname:            RECURSORS
+descr:              Anycast of *.recursive-servers.dn42.
+mnt-by:             DN42-MNT
+status:             ASSIGNED PI
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:fe56:7891::/48
+origin:             AS4242420191
+mnt-by:             TCDUE-MNT
+source:             DN42

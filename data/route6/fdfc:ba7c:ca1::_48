@@ -1,0 +1,6 @@
+route6:             fdfc:ba7c:ca1::/48
+origin:             AS64871
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligenhaus
+mnt-by:             DN42-MNT
+source:             ICVPN

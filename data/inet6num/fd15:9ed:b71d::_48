@@ -1,0 +1,8 @@
+inet6num:           fd15:09ed:b71d:0000:0000:0000:0000:0000 - fd15:09ed:b71d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd15:9ed:b71d::/48
+netname:            CKL-NET-1
+admin-c:            CKL-DN42
+tech-c:             CKL-DN42
+mnt-by:             CKL-MNT
+status:             ASSIGNED
+source:             DN42

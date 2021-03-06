@@ -1,0 +1,7 @@
+mntner:             WORX-MNT
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+auth:               pgp-fingerprint 7AF4E6C8B22D5622983CB6CF487874592BBE9C98
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJaQDOp+2+HdUSaoAajNudyH6iyFdR/Js56+h5WdsHFaKRkP6g+bOBBGc3zQmFEQmqj+viZU8/sCSum9LyrwPDP2kFesoGo5eKARTvG623T9j4g7sdVgrkcuq2BsUSc2eW6gv8cXig0NcDe4FUbVMV0+FwKiefP36fYRXpYEO2sXXxA7kqTuYl3ZDt4E0dh6O+iJRi16vojeXkBULRN4owRF0Hjh9vbc7nTr/ttGNVo2oxBIirN/Ng0CnREuEQeYklSWAgoVGTwsHii/lD8vgvVTuwpUUIqtv++2KxxfQbZmiO+xBATqZ04NNrfUsLZ2UAaFX1mbfuhJvUbfZSAlgB
+source:             DN42

@@ -1,0 +1,9 @@
+organisation:       ORG-EDDYNETWEB
+org-name:           eddynetweb NIC (eddynetweb.net)
+descr:              eddynetweb NIC (eddynetweb.net)
+e-mail:             me@eddynetweb.net
+www:                http://eddynetweb.net
+admin-c:            EDDYNETWEB-DN42
+tech-c:             EDDYNETWEB-DN42
+mnt-by:             EDDYNETWEB-MNT
+source:             DN42

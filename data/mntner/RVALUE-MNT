@@ -1,0 +1,8 @@
+mntner:             RVALUE-MNT
+admin-c:            RVALUE-DN42
+tech-c:             RVALUE-DN42
+mnt-by:             RVALUE-MNT
+source:             DN42
+auth:               pgp-fingerprint 567C9C06132B1586BD4E6EBED842AFBEB0D66387
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDMdZxymWKJqegdWnJ7RJLskHxW/Rt0H8+BEw135mBfov4MYIzyJ1FZf+W9IctqKVHq+FSwChP9GiPr7cgihHIECUqujyfjaiKIe/LURLJbIomKT+7GOHwPM5ZK/ou558NWhbIWMIAlKbYRGGspTh86ZtKIlNZ9VKPouVsqr/RMFJN2axRukxTyH2fU7VJIV9O6Q3lQslFgYkw4GItMQ1t2Y2/4YRuR1kQST2Udl+EkNFwjc6Gh3Pe45g1IU0/xmxYU8/iScVqcs+CIvfnvHBcFawPUFlLa85jQ+cPMLlDq84WkBvYVL/zoEy8DgkkPVNznwwORNiDbXWHPnP3RBabFQFvnLCP6gGHSejG3obauJl5VMmFAnMnBfAZQlXhNj1+M1NejWDJnjoasV3fNCrlKF60X8+Brcysz/grZOoKoZ928OZfo1XD0lpC6JRPGwapz249mmdwm65O0ccFg2nNsAWfGRkmhjSCPL7E8teu3NceQXctnrJmg4r+u/fvuwCs=
+remarks:            None

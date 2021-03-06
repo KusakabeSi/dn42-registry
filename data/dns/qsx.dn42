@@ -1,0 +1,10 @@
+domain:             qsx.dn42
+admin-c:            QSX-DN42
+tech-c:             QSX-DN42
+mnt-by:             QSX-MNT
+nserver:            blackhole.qsx.dn42 172.20.175.65
+nserver:            blackhole.qsx.dn42 fd42:7173:7800:41::1
+nserver:            deimos.qsx.dn42 172.20.175.70
+nserver:            deimos.qsx.dn42 fd42:7173:7800:46::1
+nserver:            daemon.gruetzkopf.dn42
+source:             DN42

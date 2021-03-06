@@ -1,0 +1,5 @@
+route6:             fdbc:fddc:67ad::/48
+origin:             AS4242423393
+max-length:         48
+mnt-by:             VICTORY-MNT
+source:             DN42

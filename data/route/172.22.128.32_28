@@ -1,0 +1,4 @@
+route:              172.22.128.32/28
+origin:             AS4242423266
+mnt-by:             DANN-MNT
+source:             DN42

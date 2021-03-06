@@ -1,0 +1,10 @@
+inet6num:           fdd3:aff7:633e:0000:0000:0000:0000:0000 - fdd3:aff7:633e:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd3:aff7:633e::/48
+netname:            NYANOTECH-NETWORK
+descr:              Network of NYANOTECH
+country:            US
+admin-c:            NYANOTECH-DN42
+tech-c:             NYANOTECH-DN42
+mnt-by:             NYANOTECH-MNT
+status:             ASSIGNED
+source:             DN42

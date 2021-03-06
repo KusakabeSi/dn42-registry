@@ -1,0 +1,5 @@
+route:              172.21.65.96/27
+origin:             AS4242421690
+mnt-by:             NEV-MNT
+mnt-by:             WILL-MNT
+source:             DN42

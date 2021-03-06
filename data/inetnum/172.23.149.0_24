@@ -1,0 +1,18 @@
+inetnum:            172.23.149.0 - 172.23.149.255
+netname:            GRMML-DN42-V4
+descr:              GRMML Network
+country:            DE
+country:            FR
+country:            NL
+country:            CZ
+country:            GB
+country:            IT
+nserver:            ns1.grmml.dn42
+nserver:            ns2.grmml.dn42
+nserver:            ns3.grmml.dn42
+admin-c:            GRMML-DN42
+tech-c:             GRMML-DN42
+mnt-by:             GRMML-MNT
+status:             ASSIGNED
+cidr:               172.23.149.0/24
+source:             DN42

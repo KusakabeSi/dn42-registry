@@ -1,0 +1,4 @@
+route:              172.23.222.128/28
+origin:             AS4242420822
+mnt-by:             AFTBIT-MNT
+source:             DN42

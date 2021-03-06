@@ -1,0 +1,4 @@
+route6:             fd42:5aaf:9fe8::/48
+origin:             AS4242420666
+mnt-by:             SZF-MNT
+source:             DN42

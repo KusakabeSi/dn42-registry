@@ -1,0 +1,10 @@
+inetnum:            172.20.5.128 - 172.20.5.159
+netname:            ZZZ-HOME
+descr:              IP Block for home usage
+country:            GB
+admin-c:            ZZZ-DN42
+tech-c:             ZZZ-DN42
+mnt-by:             ZZZ-MNT
+status:             ASSIGNED
+cidr:               172.20.5.128/27
+source:             DN42

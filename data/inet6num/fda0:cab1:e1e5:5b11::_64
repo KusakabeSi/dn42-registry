@@ -1,0 +1,8 @@
+inet6num:           fda0:cab1:e1e5:5b11:0000:0000:0000:0000 - fda0:cab1:e1e5:5b11:ffff:ffff:ffff:ffff
+cidr:               fda0:cab1:e1e5:5b11::/64
+netname:            ICVPN-BITBURG
+nserver:            0.0.0.0.0.0.0.0.e.e.0.0.f.f.0.c.1.1.b.5.5.e.1.e.1.b.a.c.0.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bitburg
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+domain:             fflw
+nserver:            10.0.66.10.ipv4.registry-sync.dn42
+nserver:            6.6.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.d.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: langweid
+mnt-by:             DN42-MNT
+source:             ICVPN

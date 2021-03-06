@@ -1,0 +1,8 @@
+mntner:             CAESIA-MNT
+admin-c:            INRIN-DN42
+tech-c:             INRIN-DN42
+mnt-by:             CAESIA-MNT
+auth:               pgp-fingerprint CB0012410C3B0B592773CA9F7D86782DD863CE10
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFrttt3G1qK5MAkRXPlB2Gr9vIfAceJTrjq/dxJJOxX
+abuse-mailbox:      abuse@caesia.net
+source:             DN42

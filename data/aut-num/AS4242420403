@@ -1,0 +1,7 @@
+aut-num:            AS4242420403
+as-name:            SOLITUDE-AS
+descr:              Solitude AS
+admin-c:            DEVANS-DN42
+tech-c:             DEVANS-DN42
+mnt-by:             SOLITUDE-MNT
+source:             DN42

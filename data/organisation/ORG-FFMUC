@@ -1,0 +1,9 @@
+organisation:       ORG-FFMUC
+org-name:           Freifunk München
+descr:              Freifunk Munich Wireless Mesh Community
+www:                http://www.freifunk-muenchen.de/
+e-mail:             muenchen@freifunk.net
+admin-c:            FPLETZ-DN42
+tech-c:             FPLETZ-DN42
+mnt-by:             FPLETZ-MNT
+source:             DN42

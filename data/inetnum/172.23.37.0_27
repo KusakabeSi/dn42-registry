@@ -1,0 +1,8 @@
+inetnum:            172.23.37.0 - 172.23.37.31
+cidr:               172.23.37.0/27
+netname:            NOCTIS-NETWORK
+admin-c:            NOCTIS-DN42
+tech-c:             NOCTIS-DN42
+mnt-by:             NOCTIS-MNT
+status:             ASSIGNED
+source:             DN42

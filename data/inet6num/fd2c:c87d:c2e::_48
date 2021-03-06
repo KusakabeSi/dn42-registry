@@ -1,0 +1,11 @@
+inet6num:           fd2c:c87d:0c2e:0000:0000:0000:0000:0000 - fd2c:c87d:0c2e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2c:c87d:c2e::/48
+netname:            NIVEL4-NETWORK
+descr:              Nivel4 Network 
+country:            CL
+admin-c:            PONS-DN42
+tech-c:             PONS-DN42
+mnt-by:             PONS-MNT
+org:                ORG-NIVEL4
+status:             ASSIGNED
+source:             DN42

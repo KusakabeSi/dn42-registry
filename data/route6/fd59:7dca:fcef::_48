@@ -1,0 +1,5 @@
+route6:             fd59:7dca:fcef::/48
+origin:             AS4242420946
+max-length:         48
+mnt-by:             IOANGOGO-MNT
+source:             DN42

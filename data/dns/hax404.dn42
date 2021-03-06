@@ -1,0 +1,7 @@
+domain:             hax404.dn42
+admin-c:            HAX404-DN42
+tech-c:             HAX404-DN42
+mnt-by:             HAX404-MNT
+nserver:            chero.hax404.dn42 172.23.136.65
+nserver:            froschschenkel.hax404.dn42 172.23.136.33
+source:             DN42

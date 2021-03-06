@@ -1,0 +1,4 @@
+route:              172.20.128.0/27
+origin:             AS4242423424
+mnt-by:             COMPUGLOBAL-MNT
+source:             DN42

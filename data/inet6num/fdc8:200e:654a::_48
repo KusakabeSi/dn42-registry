@@ -1,0 +1,10 @@
+inet6num:           fdc8:200e:654a:0000:0000:0000:0000:0000 - fdc8:200e:654a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:200e:654a::/48
+netname:            MITORAJ-NET-1
+admin-c:            MITORAJ-DN42
+tech-c:             MITORAJ-DN42
+mnt-by:             MITORAJ-MNT
+nserver:            ns1.mitoraj.dn42
+nserver:            ns2.mitoraj.dn42
+status:             ASSIGNED
+source:             DN42

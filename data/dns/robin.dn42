@@ -1,0 +1,8 @@
+domain:             robin.dn42
+descr:              Robin DNS
+admin-c:            ZEYPHROS-DN42
+tech-c:             ZEYPHROS-DN42
+mnt-by:             ZEYPHROS-MNT
+nserver:            ns1.robin.dn42 172.22.67.1
+nserver:            ns1.robin.dn42 fd71:3840:a60a::1
+source:             DN42

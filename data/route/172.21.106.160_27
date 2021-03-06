@@ -1,0 +1,4 @@
+route:              172.21.106.160/27
+origin:             AS4242420657
+mnt-by:             CONSOMA-MNT
+source:             DN42

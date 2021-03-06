@@ -1,0 +1,7 @@
+route:              172.22.51.0/24
+descr:              AIRGAPPED DN42 v4 Seg 2
+origin:             AS4242420656
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+source:             DN42

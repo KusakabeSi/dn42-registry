@@ -1,0 +1,9 @@
+inetnum:            172.22.73.16 - 172.22.73.31
+netname:            HPP-NET
+country:            DE
+admin-c:            DHAPP-DN42
+tech-c:             DHAPP-DN42
+mnt-by:             HPP-MNT
+status:             ASSIGNED
+cidr:               172.22.73.16/28
+source:             DN42

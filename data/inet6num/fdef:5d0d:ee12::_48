@@ -1,0 +1,10 @@
+inet6num:           fdef:5d0d:ee12:0000:0000:0000:0000:0000 - fdef:5d0d:ee12:ffff:ffff:ffff:ffff:ffff
+netname:            WELTERDE-ULA-INFRASTRUCTURE-IP6NET
+descr:              welterde's infrastructure ULA net
+admin-c:            WELTERDE-DN42
+tech-c:             WELTERDE-DN42
+status:             ASSIGNED
+nserver:            ns1.any.welterde.dn42
+cidr:               fdef:5d0d:ee12::/48
+mnt-by:             WELTERDE-MNT
+source:             DN42

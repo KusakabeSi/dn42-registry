@@ -1,0 +1,5 @@
+route6:             fdde:c0de:925::/48
+origin:             AS4242420925
+max-length:         48
+mnt-by:             YUETAU-MNT
+source:             DN42

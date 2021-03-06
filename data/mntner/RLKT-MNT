@@ -1,0 +1,7 @@
+mntner:             RLKT-MNT
+descr:              ralukat.eu
+admin-c:            RLKT-DN42
+tech-c:             RLKT-DN42
+auth:               pgp-fingerprint C4E88337005AF2E9F5AABB7CA3DFB9B48AA1B865
+mnt-by:             RLKT-MNT
+source:             DN42

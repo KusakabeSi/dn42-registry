@@ -1,0 +1,8 @@
+domain:             citadel.dn42
+descr:              CITADEL Domain
+admin-c:            CITADEL-DN42
+tech-c:             CITADEL-DN42
+mnt-by:             CITADEL-MNT
+nserver:            ns1.citadel.dn42 172.20.51.91
+nserver:            ns2.citadel.dn42 172.20.51.92
+source:             DN42

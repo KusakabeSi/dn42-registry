@@ -1,0 +1,17 @@
+route-set:          RS-DN42
+descr:              extended dn42 networks
+remarks:            contains the native dn42 network and ICANN assigned PI/PA space
+members:            RS-DN42-NATIVE
+mp-members:         RS-DN42-NATIVE
+members:            195.16.84.40/29
+mp-members:         195.16.84.40/29
+members:            37.1.89.160/29
+mp-members:         37.1.89.160/29
+members:            46.19.90.48/28
+mp-members:         46.19.90.48/28
+members:            46.19.90.96/28
+mp-members:         46.19.90.96/28
+members:            46.4.248.192/27
+mp-members:         46.4.248.192/27
+mnt-by:             DN42-MNT
+source:             DN42

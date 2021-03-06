@@ -1,0 +1,11 @@
+inetnum:            172.20.138.128 - 172.20.138.191
+netname:            LFNET-1
+nserver:            ns1.lf-net.dn42
+descr:              LittleFox' server (those in datacenters) and VPN network
+country:            DE
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+status:             ASSIGNED
+cidr:               172.20.138.128/26
+source:             DN42

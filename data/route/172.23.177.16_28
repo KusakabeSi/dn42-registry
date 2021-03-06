@@ -1,0 +1,5 @@
+route:              172.23.177.16/28
+descr:              GIN42-PEER3 Rootserver
+origin:             AS4242423002
+mnt-by:             GIN42-MNT
+source:             DN42

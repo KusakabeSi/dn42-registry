@@ -1,0 +1,4 @@
+route:              172.22.125.192/27
+origin:             AS4242422848
+mnt-by:             DUMERGURH-MNT
+source:             DN42

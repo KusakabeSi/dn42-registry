@@ -1,0 +1,8 @@
+inetnum:            172.20.164.192 - 172.20.164.223
+cidr:               172.20.164.192/27
+netname:            TSYMQ00-NETWORK
+admin-c:            TSYMQ00-DN42
+tech-c:             TSYMQ00-DN42
+mnt-by:             TSYMQ00-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd67:24bd:a1ea::/48
+origin:             AS4242421220
+max-length:         48
+mnt-by:             LITSCHI-MNT
+source:             DN42

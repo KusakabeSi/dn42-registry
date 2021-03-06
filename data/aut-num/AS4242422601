@@ -1,0 +1,20 @@
+aut-num:            AS4242422601
+as-name:            BURBLE-AS
+descr:              burble.dn42 https://dn42.burble.com/
+remarks:            --------------------------------------------------------
+                    New peers are welcome however a few restrictions apply
+                    Please check https://dn42.burble.com/peering for details
+                    --------------------------------------------------------
+                    https://dn42.burble.com/  (peering details)
+                    https://lg.burble.com/    (looking glass)
+                    --------------------------------------------------------
++
+remarks:            Routing Policies:
+mp-import:          afi any.unicast from AS4242422601:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242422601:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242422601:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS4242422601:AS-DOWNSTREAM announce ANY
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+source:             DN42

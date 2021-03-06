@@ -1,0 +1,4 @@
+route:              172.21.93.96/27
+origin:             AS4242421789
+mnt-by:             GERG-MNT
+source:             DN42

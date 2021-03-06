@@ -1,0 +1,8 @@
+mntner:             TAILSNET-MNT
+descr:              Tails Network Maintenance Object
+admin-c:            TAILSNET-DN42
+tech-c:             TAILSNET-DN42
+mnt-by:             TAILSNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF90b+fmGrIs9T0Ax7e0XI64lvPODuc23SaYrQHzTS4y
+auth:               pgp-fingerprint 337BBED7052979F31917319AFDE753BBF811730D
+source:             DN42

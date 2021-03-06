@@ -1,0 +1,12 @@
+inetnum:            172.22.6.0 - 172.22.7.255
+netname:            NET-RIPPERFOX-DN42
+descr:              Ripperfox
+remarks:            * last update: 2019-08-16
+country:            DE
+admin-c:            RIPPERFOX-DN42
+tech-c:             RIPPERFOX-DN42
+mnt-by:             RIPPERFOX-MNT
+nserver:            ns1.proxity.dn42
+status:             ASSIGNED
+cidr:               172.22.6.0/23
+source:             DN42

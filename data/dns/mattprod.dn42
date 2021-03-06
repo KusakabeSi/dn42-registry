@@ -1,0 +1,8 @@
+domain:             mattprod.dn42
+descr:              MattProd
+admin-c:            MATTPROD-DN42
+tech-c:             MATTPROD-DN42
+mnt-by:             MATTPROD-MNT
+nserver:            ns1.mattprod.dn42 172.21.106.129
+nserver:            ns1.mattprod.dn42 fd0e:3d8c:2dd6:8e6e::2
+source:             DN42

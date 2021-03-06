@@ -1,0 +1,4 @@
+route:              172.21.79.96/27
+origin:             AS4242422773
+mnt-by:             FICO-MNT
+source:             DN42

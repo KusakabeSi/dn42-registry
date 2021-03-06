@@ -1,0 +1,8 @@
+inetnum:            172.20.132.0 - 172.20.132.31
+cidr:               172.20.132.0/27
+netname:            FANTASQUEX-NETWORK
+admin-c:            FANTASQUEX-DN42
+tech-c:             FANTASQUEX-DN42
+mnt-by:             FANTASQUEX-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             YANG-MNT
+descr:              YANG mntner object
+admin-c:            YANG-DN42
+tech-c:             YANG-DN42
+mnt-by:             YANG-MNT
+source:             DN42

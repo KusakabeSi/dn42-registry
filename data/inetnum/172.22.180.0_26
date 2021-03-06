@@ -1,0 +1,11 @@
+inetnum:            172.22.180.0 - 172.22.180.63
+netname:            YUYAN-DN42-IPV4
+remarks:            Peer with me at sakura@alleysakura.com
+descr:              Peer with me at sakura@alleysakura.com
+country:            CN
+admin-c:            YUYAN-DN42
+tech-c:             YUYAN-DN42
+mnt-by:             YUYAN-MNT
+status:             ASSIGNED
+cidr:               172.22.180.0/26
+source:             DN42

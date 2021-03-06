@@ -1,0 +1,9 @@
+domain:             ffhal
+nserver:            1.1.62.10.ipv4.registry-sync.dn42
+nserver:            1.0.62.10.ipv4.registry-sync.dn42
+nserver:            2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.5.d.3.b.d.8.f.0.d.f.ipv6.registry-sync.dn42
+nserver:            0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.5.d.3.b.d.8.f.0.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: halle
+mnt-by:             DN42-MNT
+source:             ICVPN

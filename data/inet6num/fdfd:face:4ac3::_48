@@ -1,0 +1,10 @@
+inet6num:           fdfd:face:4ac3:0000:0000:0000:0000:0000 - fdfd:face:4ac3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:face:4ac3::/48
+netname:            GULCGFO-NETWORK
+descr:              Network of GULCGFO
+country:            US
+admin-c:            GULCGFO-DN42
+tech-c:             GULCGFO-DN42
+mnt-by:             GULCGFO-MNT
+status:             ASSIGNED
+source:             DN42

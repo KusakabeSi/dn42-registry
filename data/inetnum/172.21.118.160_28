@@ -1,0 +1,8 @@
+inetnum:            172.21.118.160 - 172.21.118.175
+cidr:               172.21.118.160/28
+netname:            RB67-NET4-1
+admin-c:            RB67-DN42
+tech-c:             RB67-DN42
+mnt-by:             RB67-MNT
+status:             ASSIGNED
+source:             DN42

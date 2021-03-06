@@ -1,0 +1,4 @@
+route6:             fd42:c01d:beef::/48
+origin:             AS4242421191
+mnt-by:             YAMAKAJA-MNT
+source:             DN42

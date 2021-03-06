@@ -1,0 +1,10 @@
+inet6num:           fdfa:454b:e441:0000:0000:0000:0000:0000 - fdfa:454b:e441:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfa:454b:e441::/48
+netname:            AM_601-NETWORK
+descr:              Network of AM (FZETAFS)
+country:            BE
+admin-c:            AM-DN42
+tech-c:             AM-DN42
+mnt-by:             AM-MNT
+status:             ASSIGNED
+source:             DN42

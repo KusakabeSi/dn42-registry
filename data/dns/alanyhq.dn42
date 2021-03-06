@@ -1,0 +1,7 @@
+domain:             alanyhq.dn42
+admin-c:            ALANYHQ-DN42
+tech-c:             ALANYHQ-DN42
+mnt-by:             ALANYHQ-MNT
+nserver:            ns.alanyhq.dn42 172.20.158.129
+nserver:            ns.alanyhq.dn42 fd00:1926:817:53::1
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             yamakaja.dn42
+admin-c:            YAMAKAJA-DN42
+tech-c:             YAMAKAJA-DN42
+mnt-by:             YAMAKAJA-MNT
+nserver:            ns1.yamakaja.dn42 172.20.20.64
+nserver:            ns1.yamakaja.dn42 fd42:c01d:beef::1
+source:             DN42

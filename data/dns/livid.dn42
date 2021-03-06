@@ -1,0 +1,7 @@
+domain:             livid.dn42
+admin-c:            ALWAYSLIVID-DN42
+tech-c:             ALWAYSLIVID-DN42
+mnt-by:             ALWAYSLIVID-MNT
+nserver:            ns1.livid.dn42 172.20.34.161
+nserver:            ns1.livid.dn42 fdf3:ff62:1c72::1
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.141.128 - 172.22.141.143
+cidr:               172.22.141.128/28
+netname:            XUU-US-DN42
+descr:              Xuu US Network
+country:            US
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+status:             ASSIGNED
+source:             DN42

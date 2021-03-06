@@ -1,0 +1,6 @@
+mntner:             LAPISBLUE27-MNT
+admin-c:            LAPISBLUE27-DN42
+tech-c:             LAPISBLUE27-DN42
+mnt-by:             LAPISBLUE27-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPErxGFDg7zTv4/Z7RLvZPVOxeY+pz69rDBjc4udM9Qg
+source:             DN42

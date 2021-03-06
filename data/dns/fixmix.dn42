@@ -1,0 +1,12 @@
+domain:             fixmix.dn42
+org:                ORG-FIXMIX
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+nserver:            ns1.fixmix.dn42 172.22.66.51
+nserver:            ns1.fixmix.dn42 fda1:ae59:6dd0::b1
+nserver:            ns2.fixmix.dn42 172.22.66.59
+nserver:            ns2.fixmix.dn42 fda1:ae59:6dd0::b9
+nserver:            ns3.fixmix.dn42 172.22.66.54
+nserver:            ns3.fixmix.dn42 fda1:ae59:6dd0::b4
+mnt-by:             DL-MNT
+source:             DN42

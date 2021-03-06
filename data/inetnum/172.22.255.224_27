@@ -1,0 +1,9 @@
+inetnum:            172.22.255.224 - 172.22.255.255
+netname:            LUC-TRANSFER-1-DN42
+country:            DE
+admin-c:            LUC-DN42
+tech-c:             LUC-DN42
+mnt-by:             LUC-MNT
+status:             ASSIGNED
+cidr:               172.22.255.224/27
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.93.0.0 - 10.93.3.255
+cidr:               10.93.0.0/22
+netname:            ICVPN-WAHLSDORF
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wahlsdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

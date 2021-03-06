@@ -1,0 +1,10 @@
+inet6num:           fd42:c0de:ba5e:0000:0000:0000:0000:0000 - fd42:c0de:ba5e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:c0de:ba5e::/48
+netname:            JAKOB-NETWORK
+descr:              Network of Jakob
+country:            DE
+admin-c:            JAKOB-DN42
+tech-c:             JAKOB-DN42
+mnt-by:             JAKOB-MNT
+status:             ASSIGNED
+source:             DN42

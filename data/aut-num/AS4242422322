@@ -1,0 +1,7 @@
+aut-num:            AS4242422322
+as-name:            PLASMATRIX-AS
+descr:              Plasmatrix Autonomous System
+admin-c:            PLASMA-DN42
+tech-c:             PLASMA-DN42
+mnt-by:             PLASMATRIX-MNT
+source:             DN42

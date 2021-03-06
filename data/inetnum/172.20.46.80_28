@@ -1,0 +1,10 @@
+inetnum:            172.20.46.80 - 172.20.46.95
+cidr:               172.20.46.80/28
+netname:            BL4CKOUT-INET4
+country:            FR
+admin-c:            BL4CKOUT-DN42
+tech-c:             BL4CKOUT-DN42
+mnt-by:             BL4CKOUT-MNT
+nserver:            ns1.bl4kout.dn42
+status:             ASSIGNED
+source:             DN42

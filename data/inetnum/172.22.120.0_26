@@ -1,0 +1,14 @@
+inetnum:            172.22.120.0 - 172.22.120.63
+netname:            PRAUSCHER-VPN-IP4NET
+descr:              Servernetwork - includes some VPNs
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+nserver:            nameserver.prauscher.dn42
+cidr:               172.22.120.0/26
+source:             DN42
+ds-rdata:           6917 13 1 5299b22a1b781e20a664f7159a5ecc7395b3e328
+ds-rdata:           6917 13 2 b9231fd9e9ec8dee663c7e575627350beb543acf592cf293b5f2c12aa5a988d0
+ds-rdata:           6917 13 4 80760f97518baa51be84521d8d6a8537681966c8ceb7ce3025d4cc0f970f0534eabfd61a646d0792d541546580d83337

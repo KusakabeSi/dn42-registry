@@ -1,0 +1,5 @@
+route6:             fd00:114:514::/48
+descr:              Alanyhq Networks IPv6
+origin:             AS4242420916
+mnt-by:             ALANYHQ-MNT
+source:             DN42

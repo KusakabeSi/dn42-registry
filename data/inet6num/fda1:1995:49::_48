@@ -1,0 +1,10 @@
+inet6num:           fda1:1995:0049:0000:0000:0000:0000:0000 - fda1:1995:0049:ffff:ffff:ffff:ffff:ffff
+netname:            ALEX-NET6
+descr:              IPv6
+country:            SG
+admin-c:            ALEX-DN42
+tech-c:             ALEX-DN42
+mnt-by:             ALEX-MNT
+status:             ALLOCATED
+cidr:               fda1:1995:49::/48
+source:             DN42

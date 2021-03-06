@@ -1,0 +1,11 @@
+inetnum:            172.20.46.0 - 172.20.46.63
+netname:            MAJOR-NET
+descr:              Major
+country:            DE
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+nserver:            ns1.major.dn42
+status:             ASSIGNED
+cidr:               172.20.46.0/26
+source:             DN42

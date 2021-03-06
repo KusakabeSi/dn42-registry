@@ -1,0 +1,23 @@
+schema:             INET6NUM-SCHEMA
+ref:                dn42.inet6num
+key:                inet6num    required   single    schema
+key:                cidr        required   single    primary
+key:                netname     required   single
+key:                nserver     optional   multiple  > [domain-name]
+key:                country     optional   multiple
+key:                descr       optional   single
+key:                status      optional   single    > {ALLOCATED|ASSIGNED} {PI|PA|}
+key:                policy      optional   single    > {open|closed|ask|reserved}
+key:                admin-c     optional   multiple  lookup=dn42.person,dn42.role
+key:                tech-c      optional   multiple  lookup=dn42.person,dn42.role
+key:                zone-c      optional   multiple  lookup=dn42.person,dn42.role
+key:                ds-rdata    optional   multiple
+key:                mnt-by      optional   multiple  lookup=dn42.mntner
+key:                mnt-lower   optional   multiple  lookup=dn42.mntner
+key:                mnt-routes  optional   multiple  lookup=dn42.mntner
+key:                org         optional   single    lookup=dn42.organisation
+key:                remarks     optional   multiple
+key:                source      required   single    lookup=dn42.registry
+network-owner:      inet6num
+mnt-by:             DN42-MNT
+source:             DN42

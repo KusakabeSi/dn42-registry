@@ -1,0 +1,14 @@
+inetnum:            172.21.66.192 - 172.21.66.223
+netname:            BITBAKERS-SERVICES-POOL
+descr:              BitBakers Services
+country:            NO
+admin-c:            JASTRUP-DN42
+tech-c:             JASTRUP-DN42
+remarks:            #BITBAKERS#
+mnt-by:             BITBAKERS-MNT
+nserver:            ns1.bit.dn42
+nserver:            ns2.bit.dn42
+org:                ORG-BITBAKERS
+status:             ASSIGNED
+cidr:               172.21.66.192/27
+source:             DN42

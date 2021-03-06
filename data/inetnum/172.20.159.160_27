@@ -1,0 +1,10 @@
+inetnum:            172.20.159.160 - 172.20.159.191
+cidr:               172.20.159.160/27
+netname:            MIKI-NETWORK
+admin-c:            MIKI-DN42
+tech-c:             MIKI-DN42
+mnt-by:             MIKI-MNT
+nserver:            ns1.miki.dn42
+nserver:            ns2.miki.dn42
+status:             ASSIGNED
+source:             DN42

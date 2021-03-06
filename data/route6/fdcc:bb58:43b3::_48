@@ -1,0 +1,5 @@
+route6:             fdcc:bb58:43b3::/48
+origin:             AS4242423626
+max-length:         64
+mnt-by:             SPACE24-MNT
+source:             DN42

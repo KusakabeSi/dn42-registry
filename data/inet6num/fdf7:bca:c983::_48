@@ -1,0 +1,10 @@
+inet6num:           fdf7:0bca:c983:0000:0000:0000:0000:0000 - fdf7:0bca:c983:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf7:bca:c983::/48
+netname:            DRCAI-NETWORK
+descr:              Drcai Shanghai BGP Test
+country:            CN
+admin-c:            DRCAI-DN42
+tech-c:             DRCAI-DN42
+mnt-by:             DRCAI-MNT
+status:             ASSIGNED
+source:             DN42

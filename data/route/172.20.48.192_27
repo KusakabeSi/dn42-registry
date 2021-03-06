@@ -1,0 +1,4 @@
+route:              172.20.48.192/27
+origin:             AS4242423774
+mnt-by:             LRINQVQ-MNT
+source:             DN42

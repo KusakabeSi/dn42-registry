@@ -1,0 +1,8 @@
+domain:             worx.dn42
+descr:              WORX primary domain
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+nserver:            ns1.worx.dn42 172.20.129.129
+nserver:            ns1.worx.dn42 fdef:1337:b00b::53
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.22.148.128/27
+origin:             AS4242423811
+mnt-by:             LLEVI-MNT
+admin-c:            LLEVI-DN42
+tech-c:             LLEVI-DN42
+source:             DN42

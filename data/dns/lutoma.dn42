@@ -1,0 +1,6 @@
+domain:             lutoma.dn42
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+nserver:            ns1.lutoma.dn42 172.22.119.53
+source:             DN42

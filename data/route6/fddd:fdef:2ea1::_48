@@ -1,0 +1,5 @@
+route6:             fddd:fdef:2ea1::/48
+pingable:           fddd:fdef:2ea1::1
+origin:             AS4242421198
+mnt-by:             TOMKEP-MNT
+source:             DN42

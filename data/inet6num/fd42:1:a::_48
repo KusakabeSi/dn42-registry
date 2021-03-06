@@ -1,0 +1,10 @@
+inet6num:           fd42:0001:000a:0000:0000:0000:0000:0000 - fd42:0001:000a:ffff:ffff:ffff:ffff:ffff
+netname:            SHEPPY-NETWORK6
+descr:              SHEPPY IPv6
+country:            DE
+admin-c:            SHEPPY-DN42
+tech-c:             SHEPPY-DN42
+mnt-by:             SHEPPY-MNT
+status:             ASSIGNED
+cidr:               fd42:1:a::/48
+source:             DN42

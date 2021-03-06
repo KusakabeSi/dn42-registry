@@ -1,0 +1,8 @@
+inetnum:            172.22.111.120 - 172.22.111.127
+cidr:               172.22.111.120/29
+netname:            N4N-NETWORK
+admin-c:            N4N-DN42
+tech-c:             N4N-DN42
+mnt-by:             N4N-MNT
+status:             ASSIGNED
+source:             DN42

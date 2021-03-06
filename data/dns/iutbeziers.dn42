@@ -1,0 +1,7 @@
+domain:             iutbeziers.dn42
+descr:              IUT Béziers DN42 nameserver
+admin-c:            QUENTIN-DN42
+tech-c:             QUENTIN-DN42
+mnt-by:             IUT-BEZIERS-MNT
+nserver:            ns.iutbeziers.dn42 172.22.127.99
+source:             DN42

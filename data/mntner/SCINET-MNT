@@ -1,0 +1,6 @@
+mntner:             SCINET-MNT
+admin-c:            SCINET-DN42
+tech-c:             SCINET-DN42
+mnt-by:             SCINET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOiOmjS9nbzSfpRtLM8Xz175nz1Tbnic6Z63L3M0/1cEX07U98oCmwURuHxZWZQ0zCKHs+Cl2JnQ1TmcXVcua8Ujl/Zt+2RuNmb2dhLFEuwW92lT9WnXb3aXpwNz1yjTIZ7sJcku+mvx39AZwCPRXDWtJ4IFXMzD5o8g3Zg97T0stoL0nhd8R5Dhv/cIUkR1QK8botVfxJyKVlkVnq+lVMNxc/qdVdzKutauIHxwocPY7FU8hrZaK2R/A5AkRKEp9kc039eKYOci65VNH5utb0kcZsr1uOaRzzzT5Ymc2WaiEojppzRQhOzacLyRqlrveFusMcHBw/UH9njRRjJm9N scinet@dev01
+source:             DN42

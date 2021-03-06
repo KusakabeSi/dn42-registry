@@ -1,0 +1,10 @@
+inet6num:           fd42:0007:0007:0000:0000:0000:0000:0000 - fd42:0007:0007:ffff:ffff:ffff:ffff:ffff
+netname:            SPREITZER-V6-2-DN42-NET
+country:            CH
+admin-c:            SPREITZER-DN42
+tech-c:             SPREITZER-DN42
+mnt-by:             SPREITZER-MNT
+nserver:            ns1.spreitzer.dn42
+status:             ASSIGNED
+cidr:               fd42:7:7::/48
+source:             DN42

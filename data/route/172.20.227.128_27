@@ -1,0 +1,4 @@
+route:              172.20.227.128/27
+origin:             AS4242422543
+mnt-by:             RESETTRAP-MNT
+source:             DN42

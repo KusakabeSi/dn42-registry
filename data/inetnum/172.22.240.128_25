@@ -1,0 +1,12 @@
+inetnum:            172.22.240.128 - 172.22.240.255
+netname:            NET-JONATHAN-FERGUSON-DN42
+cidr:               172.22.240.128/25
+descr:              Jonathan Ferguson's IPv4 Tunnel Allocations
+remarks:            172.22.240.130/30 AS76136 GREinIPv6 2001:470:35:42b::2
+remarks:            172.22.240.134/30 AS4242420022 GREinIPv6 2001:19f0:7000:8ac5::64
+status:             ASSIGNED PA
+country:            SG
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

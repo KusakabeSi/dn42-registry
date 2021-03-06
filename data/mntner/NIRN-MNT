@@ -1,0 +1,6 @@
+mntner:             NIRN-MNT
+admin-c:            NIRN-DN42
+tech-c:             NIRN-DN42
+mnt-by:             NIRN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAwSRkxdg4uZ9uqz6TxiFjigPnkwNfEwB06sR2obn/TXbG+qNXDmBqgdQh8M7aT1Vrxt3eSgTJOHeKQMwN2Ezo80C4fZpH9t0jNCZFf5Q9QIa8DeJKXInGdr8U9a7Xh984GsetyxFxE2Lo9Twx045VkWtKthy2KQ9PiptTByDCe49FKxT3TO0YGjwOojvoltMmcjWAsE8keByW1f1RyiFyV5f+7BBDHTU9W9Xh+nwXiOHf8FDDdQvPfRvb6Zz9TonTgcphDxkyidOGwDCY/Z+3Gee45TzFItmSlSmqa5AGSudCh/OCM8wz1Zt58Pk/pbT5shLxt1Sgtmgn62leRBCcEQ== nirn@rt
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242421093
+as-name:            AS-FLAT
+admin-c:            ANA-DN42
+tech-c:             ANA-DN42
+mnt-by:             ANA-MNT
+mnt-by:             IRL-MNT
+source:             DN42

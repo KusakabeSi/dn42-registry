@@ -1,0 +1,10 @@
+inetnum:            172.22.181.128 - 172.22.181.143
+netname:            NET-SACHDE-01
+descr:              Sachde Networks IPV4
+country:            US
+admin-c:            ASACHDE-DN42
+tech-c:             ASACHDE-DN42
+mnt-by:             SACHDE-MNT
+status:             ASSIGNED
+cidr:               172.22.181.128/28
+source:             DN42

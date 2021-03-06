@@ -1,0 +1,7 @@
+domain:             tchadelicard.dn42
+nserver:            alpha.ns.tchadelicard.dn42 172.20.34.1
+nserver:            beta.ns.tchadelicard.dn42 fd42:abc0:1::1
+admin-c:            TI-DN42
+tech-c:             TI-DN42
+mnt-by:             TI-MNT
+source:             DN42

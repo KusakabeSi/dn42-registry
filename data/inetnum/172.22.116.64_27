@@ -1,0 +1,8 @@
+inetnum:            172.22.116.64 - 172.22.116.95
+cidr:               172.22.116.64/27
+netname:            W4XZR-1-NETWORK
+admin-c:            W4XZR-DN42
+tech-c:             W4XZR-DN42
+mnt-by:             W4XZR-MNT
+status:             ASSIGNED
+source:             DN42

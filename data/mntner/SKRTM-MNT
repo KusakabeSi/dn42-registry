@@ -1,0 +1,6 @@
+mntner:             SKRTM-MNT
+admin-c:            SKRTM-DN42
+tech-c:             SKRTM-DN42
+mnt-by:             SKRTM-MNT
+source:             DN42
+auth:               gpg-fingerprint 0160327819117B93E08469555FC3E3AD21BECDBF

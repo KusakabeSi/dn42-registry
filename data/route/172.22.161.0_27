@@ -1,0 +1,5 @@
+route:              172.22.161.0/27
+descr:              AXD-RTE
+origin:             AS4242423601
+mnt-by:             AXD-MNT
+source:             DN42

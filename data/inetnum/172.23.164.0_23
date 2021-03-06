@@ -1,0 +1,9 @@
+inetnum:            172.23.164.0 - 172.23.165.255
+netname:            NICODUCK-DN42-v4
+descr:              nicos network
+admin-c:            NICODUCK-DN42
+tech-c:             NICODUCK-DN42
+mnt-by:             NICODUCK-MNT
+status:             ASSIGNED
+cidr:               172.23.164.0/23
+source:             DN42

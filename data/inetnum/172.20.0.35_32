@@ -1,0 +1,8 @@
+inetnum:            172.20.0.35 - 172.20.0.35
+cidr:               172.20.0.35/32
+descr:              NET-AIRGAPPED-ANYCAST
+country:            US
+netname:            AIRGAPPED-172-20-0-35
+mnt-by:             AIRGAPPED-MNT
+status:             ASSIGNED
+source:             DN42

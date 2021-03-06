@@ -1,0 +1,8 @@
+inetnum:            172.20.170.224 - 172.20.170.255
+cidr:               172.20.170.224/27
+netname:            IBJ-NET-1
+admin-c:            IBJ-DN42
+tech-c:             IBJ-DN42
+mnt-by:             IBJ-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd01:5e19:11e1::/48
+descr:              ROUTE
+origin:             AS4242422506
+mnt-by:             KAI-MNT
+source:             DN42

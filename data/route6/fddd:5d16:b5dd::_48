@@ -1,0 +1,6 @@
+route6:             fddd:5d16:b5dd::/48
+origin:             AS65026
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankfurt
+mnt-by:             DN42-MNT
+source:             ICVPN

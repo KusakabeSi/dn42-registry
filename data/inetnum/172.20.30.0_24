@@ -1,0 +1,8 @@
+inetnum:            172.20.30.0 - 172.20.30.255
+cidr:               172.20.30.0/24
+netname:            SK9-NETWORK-IPv4
+admin-c:            SK9-DN42
+tech-c:             SK9-DN42
+mnt-by:             SK9-MNT
+status:             ASSIGNED
+source:             DN42

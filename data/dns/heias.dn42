@@ -1,0 +1,9 @@
+domain:             heias.dn42
+admin-c:            HEIAS-DN42
+tech-c:             HEIAS-DN42
+mnt-by:             HEIAS-MNT
+nserver:            ns1.heias.dn42 172.21.92.34
+nserver:            ns2.heias.dn42 172.21.92.35
+nserver:            ns1.heias.dn42 fdec:9e13:da5d::34
+nserver:            ns2.heias.dn42 fdec:9e13:da5d::35
+source:             DN42

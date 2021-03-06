@@ -1,0 +1,6 @@
+mntner:             PSM-MNT
+admin-c:            PSM-DN42
+tech-c:             PSM-DN42
+mnt-by:             PSM-MNT
+auth:               pgp-fingerprint 55B3116A35DB2CA844A536FD0A1C8F9FA3092045
+source:             DN42

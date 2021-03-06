@@ -1,0 +1,4 @@
+route6:             fd42:465:1337::/48
+origin:             AS4242420131
+mnt-by:             AGS-MNT
+source:             DN42

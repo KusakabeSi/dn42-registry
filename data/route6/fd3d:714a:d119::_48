@@ -1,0 +1,6 @@
+route6:             fd3d:714a:d119::/48
+origin:             AS4242423113
+admin-c:            PACKETFRAME-DN42
+tech-c:             PACKETFRAME-DN42
+mnt-by:             PACKETFRAME-MNT
+source:             DN42

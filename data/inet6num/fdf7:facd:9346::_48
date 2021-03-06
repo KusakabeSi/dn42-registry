@@ -1,0 +1,12 @@
+inet6num:           fdf7:facd:9346:0000:0000:0000:0000:0000 - fdf7:facd:9346:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf7:facd:9346::/48
+netname:            ANDY-NETWORK
+descr:              Andy Anycast Network
+country:            CN
+admin-c:            ANDYNET-DN42
+tech-c:             ANDYNET-DN42
+mnt-by:             ANDYNET-MNT
+status:             ASSIGNED
+nserver:            ns1.andy.dn42
+nserver:            ns2.andy.dn42
+source:             DN42

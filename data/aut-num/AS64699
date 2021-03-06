@@ -1,0 +1,8 @@
+aut-num:            AS64699
+as-name:            C3D2HQ-AS
+descr:              CCC Dresden Headquarters
+mnt-by:             ASTRO-MNT
+org:                ORG-C3D2
+admin-c:            ASTRO-DN42
+tech-c:             ASTRO-DN42
+source:             DN42

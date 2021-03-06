@@ -1,0 +1,9 @@
+domain:             yuetau.dn42
+admin-c:            YUETAU-DN42
+tech-c:             YUETAU-DN42
+mnt-by:             YUETAU-MNT
+nserver:            ns1.yuetau.dn42 172.21.68.32
+nserver:            ns1.yuetau.dn42 fdde:c0de:925::1
+nserver:            ns2.yuetau.dn42 172.21.68.33
+nserver:            ns2.yuetau.dn42 fdde:c0de:925::3
+source:             DN42

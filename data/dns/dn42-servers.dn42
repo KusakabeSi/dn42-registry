@@ -1,0 +1,10 @@
+domain:             dn42-servers.dn42
+nserver:            x.dn42-servers.dn42       172.22.141.3
+nserver:            x.dn42-servers.dn42       fdea:a15a:77b9:4444::3
+nserver:            g.dn42-servers.dn42       172.23.149.38
+nserver:            g.dn42-servers.dn42       fd42:23:149:2::38
+admin-c:            DUMMY-DN42
+tech-c:             GRMML-DN42
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+source:             DN42

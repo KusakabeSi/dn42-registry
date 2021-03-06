@@ -1,0 +1,9 @@
+inetnum:            172.20.184.208 - 172.20.184.223
+netname:            JOSEPHB-NET
+country:            AU
+admin-c:            JOSEPHB-DN42
+tech-c:             JOSEPHB-DN42
+mnt-by:             JOSEPHB-MNT
+status:             ASSIGNED
+cidr:               172.20.184.208/28
+source:             DN42

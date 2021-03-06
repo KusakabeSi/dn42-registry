@@ -1,0 +1,4 @@
+route:              172.23.119.192/27
+origin:             AS4242420987
+mnt-by:             AWESOMESITES-MNT
+source:             DN42

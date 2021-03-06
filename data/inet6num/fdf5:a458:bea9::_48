@@ -1,0 +1,10 @@
+inet6num:           fdf5:a458:bea9:0000:0000:0000:0000:0000 - fdf5:a458:bea9:ffff:ffff:ffff:ffff:ffff
+netname:            HERZOG-NET
+country:            DE
+admin-c:            HERZOG-DN42
+tech-c:             HERZOG-DN42
+mnt-by:             KAESEKUCHENPW-MNT
+nserver:            ns1.herzog.dn42
+status:             ASSIGNED
+cidr:               fdf5:a458:bea9::/48
+source:             DN42

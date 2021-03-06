@@ -1,0 +1,10 @@
+inet6num:           fd12:ac4a:1e71:0000:0000:0000:0000:0000 - fd12:ac4a:1e71:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:ac4a:1e71::/48
+netname:            ZEROCEAN-NETWORK
+descr:              Network for ZerOcean
+country:            CN
+admin-c:            SENAO-DN42
+tech-c:             SENAO-DN42
+mnt-by:             SENAO-MNT
+status:             ASSIGNED
+source:             DN42

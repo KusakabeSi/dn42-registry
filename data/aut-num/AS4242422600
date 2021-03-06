@@ -1,0 +1,7 @@
+aut-num:            AS4242422600
+as-name:            MAJOR-AS
+descr:              Major AS
+admin-c:            MAJOR-DN42
+tech-c:             MAJOR-DN42
+mnt-by:             MAJOR-MNT
+source:             DN42

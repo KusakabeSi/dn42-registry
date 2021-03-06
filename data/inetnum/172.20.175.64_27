@@ -1,0 +1,12 @@
+inetnum:            172.20.175.64 - 172.20.175.95
+netname:            QSX-NET
+nserver:            deimos.qsx.dn42
+nserver:            blackhole.qsx.dn42
+descr:              qsx’ network
+country:            DE
+admin-c:            QSX-DN42
+tech-c:             QSX-DN42
+mnt-by:             QSX-MNT
+status:             ASSIGNED
+cidr:               172.20.175.64/27
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdd9:00be:0a2a:0000:0000:0000:0000:0000 - fdd9:00be:0a2a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd9:be:a2a::/48
+netname:            A2X-NET-IPV6
+admin-c:            A2X-DN42
+tech-c:             A2X-DN42
+mnt-by:             A2X-MNT
+status:             ASSIGNED
+source:             DN42

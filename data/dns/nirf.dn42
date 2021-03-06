@@ -1,0 +1,6 @@
+domain:             nirf.dn42
+admin-c:            NIRF-DN42
+tech-c:             NIRF-DN42
+mnt-by:             NIRF-MNT
+nserver:            ns1.as4242420149.dn42
+source:             DN42

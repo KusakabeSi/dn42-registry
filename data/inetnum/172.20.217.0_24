@@ -1,0 +1,11 @@
+inetnum:            172.20.217.0 - 172.20.217.255
+cidr:               172.20.217.0/24
+netname:            NoyesNet
+descr:              Noyes Experimental Network
+country:            US
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+status:             ASSIGNED
+nserver:            ns1.nw.dn42
+source:             DN42

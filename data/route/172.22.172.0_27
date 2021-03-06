@@ -1,0 +1,5 @@
+route:              172.22.172.0/27
+descr:              Pavel Dostal's DNHOME 172.22.172.0/27 route
+origin:             AS4242420339
+mnt-by:             PDOSTAL-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS64771
+as-name:            DOCSTEEL-HOME-AS
+descr:              Docsteel's dn42 Home Network
+admin-c:            DOCSTEEL-DN42
+tech-c:             DOCSTEEL-DN42
+mnt-by:             DOCSTEEL-MNT
+source:             DN42

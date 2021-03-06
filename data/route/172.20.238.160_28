@@ -1,0 +1,4 @@
+route:              172.20.238.160/28
+origin:             AS4242421530
+mnt-by:             ZODDO-MNT
+source:             DN42

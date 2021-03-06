@@ -1,0 +1,6 @@
+route:              10.11.184.0/22
+origin:             AS65520
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ebersdorf
+mnt-by:             DN42-MNT
+source:             ICVPN

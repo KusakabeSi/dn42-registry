@@ -1,0 +1,9 @@
+inetnum:            10.32.0.0 - 10.32.255.255
+cidr:               10.32.0.0/16
+netname:            ICVPN-CHAOSVPN
+nserver:            5.0.31.172.ipv4.registry-sync.dn42
+nserver:            53.255.31.172.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: chaosvpn
+mnt-by:             DN42-MNT
+source:             ICVPN

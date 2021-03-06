@@ -1,0 +1,10 @@
+inet6num:           fd00:b709:0000:0000:0000:0000:0000:0000 - fd00:b709:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:b709::/48
+netname:            BT709-NET
+descr:              BT709 Communications
+country:            GB
+admin-c:            BT709-DN42
+tech-c:             BT709-DN42
+mnt-by:             BT709-MNT
+status:             ASSIGNED
+source:             DN42

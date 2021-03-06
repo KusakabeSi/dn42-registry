@@ -1,0 +1,5 @@
+route6:             fdcd:a61d:f378::/48
+origin:             AS4242423402
+max-length:         48
+mnt-by:             NABOUNO-MNT
+source:             DN42

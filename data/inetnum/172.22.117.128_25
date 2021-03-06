@@ -1,0 +1,10 @@
+inetnum:            172.22.117.128 - 172.22.117.255
+netname:            NET-FELICIA-HOME
+descr:              Felicia Home Network
+country:            DE
+admin-c:            FELICIA-DN42
+tech-c:             FELICIA-DN42
+mnt-by:             FELICIA-MNT
+status:             ASSIGNED
+cidr:               172.22.117.128/25
+source:             DN42

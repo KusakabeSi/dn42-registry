@@ -1,0 +1,4 @@
+route:              172.20.33.128/25
+origin:             AS4242421501
+mnt-by:             ADAMYI-MNT
+source:             DN42

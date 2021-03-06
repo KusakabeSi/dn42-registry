@@ -1,0 +1,4 @@
+route:              172.23.50.0/26
+origin:             AS4242423925
+mnt-by:             RHINE-MNT
+source:             DN42

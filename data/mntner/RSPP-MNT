@@ -1,0 +1,8 @@
+mntner:             RSPP-MNT
+descr:              Maintainer for RSPP
+admin-c:            RSPP-DN42
+tech-c:             RSPP-DN42
+mnt-by:             RSPP-MNT
+mnt-by:             TWI-MNT
+mnt-by:             PMENKE-MNT
+source:             DN42

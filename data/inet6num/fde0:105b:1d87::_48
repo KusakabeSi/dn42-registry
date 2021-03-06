@@ -1,0 +1,7 @@
+inet6num:           fde0:105b:1d87:0000:0000:0000:0000:0000 - fde0:105b:1d87:ffff:ffff:ffff:ffff:ffff
+cidr:               fde0:105b:1d87::/48
+netname:            ICVPN-RATINGEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ratingen
+mnt-by:             DN42-MNT
+source:             ICVPN

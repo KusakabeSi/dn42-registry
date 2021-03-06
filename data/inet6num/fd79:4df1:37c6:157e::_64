@@ -1,0 +1,11 @@
+inet6num:           fd79:4df1:37c6:157e:0000:0000:0000:0000 - fd79:4df1:37c6:157e:ffff:ffff:ffff:ffff
+netname:            LL-DN42-ULA-IP6NET
+nserver:            ns2.ll.dn42
+descr:              LL's IPv6 network
+country:            LT
+admin-c:            LL-DN42
+tech-c:             LL-DN42
+status:             ASSIGNED
+cidr:               fd79:4df1:37c6:157e::/64
+mnt-by:             LL-MNT
+source:             DN42

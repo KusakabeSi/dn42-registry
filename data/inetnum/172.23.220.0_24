@@ -1,0 +1,11 @@
+inetnum:            172.23.220.0 - 172.23.220.255
+netname:            NET-TECH9-002
+country:            US
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+status:             ASSIGNED
+nserver:            ns1.tech9computers.dn42
+nserver:            ns2.tech9computers.dn42
+cidr:               172.23.220.0/24
+source:             DN42

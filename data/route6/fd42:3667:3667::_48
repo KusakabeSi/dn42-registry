@@ -1,0 +1,4 @@
+route6:             fd42:3667:3667::/48
+origin:             AS4242423667
+mnt-by:             XICON-MNT
+source:             DN42

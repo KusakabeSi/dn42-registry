@@ -1,0 +1,4 @@
+route6:             fdf8:adff:47b9::/48
+origin:             AS4242422005
+mnt-by:             HCROSS-MNT
+source:             DN42

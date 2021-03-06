@@ -1,0 +1,4 @@
+route6:             fdef:6fb6:592d::/48
+origin:             AS4242423189
+mnt-by:             MARLIN-MNT
+source:             DN42

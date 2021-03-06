@@ -1,0 +1,12 @@
+inet6num:           fd42:6c6d:616f:0000:0000:0000:0000:0000 - fd42:6c6d:616f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6c6d:616f::/48
+netname:            RIPNET
+descr:              RIPnet, home of LMAO.RIP
+country:            US
+admin-c:            RIPNET-DN42
+tech-c:             RIPNET-DN42
+mnt-by:             RIPNET-MNT
+nserver:            nsa.ripnet.dn42
+nserver:            nsb.ripnet.dn42
+status:             ASSIGNED
+source:             DN42

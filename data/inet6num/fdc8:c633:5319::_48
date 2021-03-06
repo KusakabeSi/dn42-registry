@@ -1,0 +1,12 @@
+inet6num:           fdc8:c633:5319:0000:0000:0000:0000:0000 - fdc8:c633:5319:ffff:ffff:ffff:ffff:ffff
+netname:            NET-TECH9-001
+descr:              TECH9 IPv6
+country:            US
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+nserver:            ns1.tech9computers.dn42
+nserver:            ns2.tech9computers.dn42
+status:             ASSIGNED
+cidr:               fdc8:c633:5319::/48
+source:             DN42

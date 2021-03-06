@@ -1,0 +1,9 @@
+inetnum:            172.22.186.64 - 172.22.186.79
+cidr:               172.22.186.64/28
+netname:            TRIS-NET-2
+admin-c:            TRIS-DN42
+tech-c:             TRIS-DN42
+mnt-by:             TRIS-MNT
+nserver:            ns1.tris.dn42
+status:             ASSIGNED
+source:             DN42

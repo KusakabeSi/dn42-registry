@@ -1,0 +1,7 @@
+domain:             amnet.dn42
+nserver:            ns1.amnet.dn42 172.23.239.30
+nserver:            ns2.amnet.dn42 172.23.239.62
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
+source:             DN42

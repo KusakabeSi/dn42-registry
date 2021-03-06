@@ -1,0 +1,11 @@
+inetnum:            172.23.100.128 - 172.23.100.159
+netname:            TRAE32566-NETWORK
+country:            US
+admin-c:            TRAE32566-DN42
+tech-c:             TRAE32566-DN42
+mnt-by:             TRAE32566-MNT
+nserver:            ns01.trae32566.org
+nserver:            ns02.trae32566.org
+status:             ASSIGNED
+cidr:               172.23.100.128/27
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.50.128/26
+origin:             AS4242423512
+mnt-by:             SHEOGORATH-MNT
+source:             DN42

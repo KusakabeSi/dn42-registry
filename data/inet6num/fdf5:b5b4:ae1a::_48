@@ -1,0 +1,11 @@
+inet6num:           fdf5:b5b4:ae1a:0000:0000:0000:0000:0000 - fdf5:b5b4:ae1a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf5:b5b4:ae1a::/48
+netname:            ZHIYUAN-NETWORK
+descr:              Zhiyuan Network
+country:            CN
+admin-c:            ZHIYUAN-DN42
+tech-c:             ZHIYUAN-DN42
+org:                ORG-MIMI
+mnt-by:             ZHIYUAN-MNT
+status:             ASSIGNED
+source:             DN42

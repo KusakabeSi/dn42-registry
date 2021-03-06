@@ -1,0 +1,7 @@
+aut-num:            AS64738
+as-name:            WELTERDE-AS
+descr:              welterde's AS
+admin-c:            WELTERDE-DN42
+tech-c:             WELTERDE-DN42
+mnt-by:             WELTERDE-MNT
+source:             DN42

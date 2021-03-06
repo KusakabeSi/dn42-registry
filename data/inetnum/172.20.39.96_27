@@ -1,0 +1,10 @@
+inetnum:            172.20.39.96 - 172.20.39.127
+netname:            FUDNET-INET
+descr:              FUDNET INET
+country:            US
+admin-c:            FUDNET-DN42
+tech-c:             FUDNET-DN42
+mnt-by:             FUDNET-MNT
+status:             ASSIGNED
+cidr:               172.20.39.96/27
+source:             DN42

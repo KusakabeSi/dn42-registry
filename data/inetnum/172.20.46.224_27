@@ -1,0 +1,11 @@
+inetnum:            172.20.46.224 - 172.20.46.255
+netname:            HYHIX-NETWORK
+descr:              hyhIX WORK
+country:            CN
+admin-c:            HYHIX-DN42
+tech-c:             HYHIX-DN42
+mnt-by:             HYHIX-MNT
+nserver:            ns1.hyhix.dn42
+status:             ALLOCATED
+cidr:               172.20.46.224/27
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.6.128 - 172.20.6.143
+cidr:               172.20.6.128/28
+netname:            MENTHA-NET4
+admin-c:            MENTHA-DN42
+tech-c:             MENTHA-DN42
+mnt-by:             MENTHA-MNT
+status:             ASSIGNED
+source:             DN42

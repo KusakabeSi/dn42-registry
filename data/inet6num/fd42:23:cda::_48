@@ -1,0 +1,13 @@
+inet6num:           fd42:0023:0cda:0000:0000:0000:0000:0000 - fd42:0023:0cda:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:23:cda::/48
+netname:            CCC-DARMSTADT-IP6-0
+descr:              infrastructure, hackspace, hgh
+remarks:            http://darmstadt.ccc.de
+country:            DE
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cda.dn42
+status:             ASSIGNED
+source:             DN42

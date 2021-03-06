@@ -1,0 +1,9 @@
+inet6num:           fd42:667c:6ad2:0000:0000:0000:0000:0000 - fd42:667c:6ad2:ffff:ffff:ffff:ffff:ffff
+netname:            UA-NETV6-1
+country:            UA
+admin-c:            SAMODID-DN42
+tech-c:             SAMODID-DN42
+mnt-by:             SAMODID-MNT
+status:             ASSIGNED
+cidr:               fd42:667c:6ad2::/48
+source:             DN42

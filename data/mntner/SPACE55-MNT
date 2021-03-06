@@ -1,0 +1,6 @@
+mntner:             SPACE55-MNT
+admin-c:            SPACE55-DN42
+tech-c:             SPACE55-DN42
+mnt-by:             SPACE55-MNT
+auth:               pgp-fingerprint 81CEDF3F9F0F8DB96DCDD8895EEC7036EED00475
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd2c:3214:3214:1::/64
+origin:             AS4242423214
+mnt-by:             TSYS-MNT
+source:             DN42

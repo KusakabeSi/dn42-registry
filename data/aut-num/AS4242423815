@@ -1,0 +1,15 @@
+aut-num:            AS4242423815
+as-name:            SENSENET-AS
+descr:              wusel's DN42 playground
+admin-c:            WUSEL-DN42
+tech-c:             WUSEL-DN42
+mnt-by:             WUSEL-MNT
+remarks:            - Peerings welcome -
+remarks:            Open peering policy (L2TP/GRE preferred).
+remarks:            irc: wusel@hackint
+remarks:            - Locations -
+remarks:            de0.dn42.uu.org (Guetersloh)
+remarks:            de3.dn42.uu.org (Falkenstein)
+remarks:            at1.dn42.uu.org (Graz)
+remarks:            us1.dn42.uu.org (Atlanta)
+source:             DN42

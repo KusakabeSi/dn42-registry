@@ -1,0 +1,6 @@
+mntner:             SKORPY-MNT
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFYg8XGNMkfUGISdaFm3JTVzLMywX893qkn/I3AA1Fvr
+source:             DN42

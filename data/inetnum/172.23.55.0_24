@@ -1,0 +1,7 @@
+inetnum:            172.23.55.0 - 172.23.55.255
+netname:            LEEPS-NET
+admin-c:            LEEPS-DN42
+mnt-by:             LEEPS-MNT
+status:             ALLOCATED
+cidr:               172.23.55.0/24
+source:             DN42

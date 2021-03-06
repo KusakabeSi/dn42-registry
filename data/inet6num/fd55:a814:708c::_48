@@ -1,0 +1,9 @@
+inet6num:           fd55:a814:708c:0000:0000:0000:0000:0000 - fd55:a814:708c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd55:a814:708c::/48
+netname:            AZIMUTH-NET
+descr:              Network of AZIMUTH
+admin-c:            ZENITHAL-DN42
+tech-c:             ZENITHAL-DN42
+mnt-by:             ZENITHAL-MNT
+status:             ASSIGNED
+source:             DN42

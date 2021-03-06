@@ -1,0 +1,10 @@
+inetnum:            172.20.10.96 - 172.20.10.127
+cidr:               172.20.10.96/27
+netname:            NXTHOST-172-20-10-96_27
+admin-c:            NXTHOST-DN42
+tech-c:             NXTHOST-DN42
+mnt-by:             NXTHOST-MNT
+nserver:            ns1.nxthost.dn42
+nserver:            ns2.nxthost.dn42
+status:             ASSIGNED
+source:             DN42

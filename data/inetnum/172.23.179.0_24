@@ -1,0 +1,9 @@
+inetnum:            172.23.179.0 - 172.23.179.255
+netname:            ASIX-2
+descr:              Second allocation for asix (because it ran out)
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+status:             ALLOCATED PI
+cidr:               172.23.179.0/24
+source:             DN42

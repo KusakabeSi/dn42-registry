@@ -1,0 +1,4 @@
+route:              172.21.113.224/27
+origin:             AS4242422410
+mnt-by:             ZENITHAL-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdf4:83f1:6f4f::/48
+origin:             AS4242420515
+max-length:         48
+mnt-by:             QLEAN-MNT
+source:             DN42

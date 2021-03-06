@@ -1,0 +1,10 @@
+inetnum:            172.22.230.128 - 172.22.230.255
+netname:            UNBEDENKLICH-NET1
+country:            DE
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+nserver:            ns.unbedenklich.dn42
+status:             ASSIGNED
+cidr:               172.22.230.128/25
+source:             DN42

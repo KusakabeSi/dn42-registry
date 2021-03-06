@@ -1,0 +1,7 @@
+domain:             phiivo.dn42
+admin-c:            CRSHMAN-DN42
+tech-c:             CRSHMAN-DN42
+mnt-by:             PHIIVO-MNT
+nserver:            dns.phiivo.dn42 172.21.101.5
+nserver:            dns.phiivo.dn42 fd8f:fcd6:b5b3::5
+source:             DN42

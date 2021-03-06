@@ -1,0 +1,9 @@
+inetnum:            172.22.137.64 - 172.22.137.95
+cidr:               172.22.137.64/27
+netname:            PCO-NETWORK
+org:                ORG-PCO
+admin-c:            FP-DN42
+tech-c:             FP-DN42
+mnt-by:             FP-MNT
+status:             ASSIGNED
+source:             DN42

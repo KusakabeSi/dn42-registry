@@ -1,0 +1,7 @@
+inetnum:            172.31.0.34 - 172.31.0.34
+cidr:               172.31.0.34/32
+netname:            CHAOSVPN-JAMALAKA
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,8 @@
+inetnum:            172.23.162.0 - 172.23.162.31
+cidr:               172.23.162.0/27
+netname:            FEINU-NETWORK
+admin-c:            FEINU-DN42
+tech-c:             FEINU-DN42
+mnt-by:             FEINU-MNT
+status:             ASSIGNED
+source:             DN42

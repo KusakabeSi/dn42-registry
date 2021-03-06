@@ -1,0 +1,16 @@
+tinc-key:           UFO-TINC
+tinc-host:          ufoathome
+tinc-file:          
+                    Subnet = 172.22.255.183
+                    Address = AnoRtr.UFO-Net.nl
+                    Port = 659
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAq2cggqGKw8nX8dg07/XejASCHZkjL81reFjRF5Y7wWDh+9T8upyX
+                    t/+VAnylr8vvXyVSZ2J0an1nva3OWh8tzRanDGR2grrXJcrpZeVSRJhzyHqkAMJb
+                    DBEn6xTCbRs4tS7btl+Hnra3UhhWgYyOsJaedu9AR5SBXldwzkjouAZLsy7Z1guN
+                    nTCwAc1lNbBEModniQ/5BltSU9uVuXfao16s5qGOPlbYQIbujz+m1HSfZNFXrsHP
+                    Cn6hGnKDWlXfm3xaOzd4Tua5xN7FZMinLPa9CgvbMOCVO89r7F0u3rePKAlFp6vQ
+                    qJDYE3LFROC/7A+so1Aab89eH955JffPVwIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

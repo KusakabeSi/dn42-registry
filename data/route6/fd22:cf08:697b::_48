@@ -1,0 +1,5 @@
+route6:             fd22:cf08:697b::/48
+origin:             AS4242421514
+max-length:         48
+mnt-by:             SFN-MNT
+source:             DN42

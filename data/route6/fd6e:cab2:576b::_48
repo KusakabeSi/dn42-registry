@@ -1,0 +1,5 @@
+route6:             fd6e:cab2:576b::/48
+origin:             AS4242421155
+max-length:         48
+mnt-by:             L4RS-MNT
+source:             DN42

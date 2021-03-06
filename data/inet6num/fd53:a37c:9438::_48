@@ -1,0 +1,8 @@
+inet6num:           fd53:a37c:9438:0000:0000:0000:0000:0000 - fd53:a37c:9438:ffff:ffff:ffff:ffff:ffff
+netname:            TOASTER-NET6
+admin-c:            TOASTER-DN42
+tech-c:             TOASTER-DN42
+mnt-by:             TOASTER-MNT
+status:             ASSIGNED
+cidr:               fd53:a37c:9438::/48
+source:             DN42

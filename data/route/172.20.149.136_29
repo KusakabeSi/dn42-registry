@@ -1,0 +1,5 @@
+route:              172.20.149.136/29
+descr:              RSDOHERTY-TEST-NETWORK
+origin:             AS4242420234
+mnt-by:             RSDOHERTY-MNT
+source:             DN42

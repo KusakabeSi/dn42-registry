@@ -1,0 +1,8 @@
+organisation:       ORG-CTWUG
+org-name:           CTWUG
+descr:              Cape Town Wireless User Group
+www:                https://ctwug.za.net
+admin-c:            SPIN-DN42
+tech-c:             SPIN-DN42
+mnt-by:             SPIN-MNT
+source:             DN42

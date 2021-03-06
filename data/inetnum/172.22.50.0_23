@@ -1,0 +1,13 @@
+inetnum:            172.22.50.0 - 172.22.51.255
+cidr:               172.22.50.0/23
+descr:              NET-AIRGAPPED-001v4
+country:            US
+netname:            AIRGAPPED-172-22-50-0
+org:                ORG-AIRGAPPED
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+nserver:            ns1.airgapped.dn42
+nserver:            ns2.airgapped.dn42
+status:             ALLOCATED
+source:             DN42

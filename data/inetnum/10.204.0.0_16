@@ -1,0 +1,7 @@
+inetnum:            10.204.0.0 - 10.204.255.255
+cidr:               10.204.0.0/16
+netname:            ICVPN-VOGTLAND
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: vogtland
+mnt-by:             DN42-MNT
+source:             ICVPN

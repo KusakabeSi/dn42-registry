@@ -1,0 +1,4 @@
+route:              172.21.67.160/28
+origin:             AS4242421091
+mnt-by:             MOZZNET-MNT
+source:             DN42

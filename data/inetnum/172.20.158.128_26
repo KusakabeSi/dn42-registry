@@ -1,0 +1,12 @@
+inetnum:            172.20.158.128 - 172.20.158.191
+cidr:               172.20.158.128/26
+netname:            NIA-NET-CORE
+descr:              Niantic Network Core
+country:            CN
+org:                ORG-NIA
+admin-c:            NIA-DN42
+tech-c:             NIA-DN42
+nserver:            ns.nia.dn42
+mnt-by:             NIA-MNT
+status:             ASSIGNED
+source:             DN42

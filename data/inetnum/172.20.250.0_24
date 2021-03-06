@@ -1,0 +1,11 @@
+inetnum:            172.20.250.0 - 172.20.250.255
+netname:            STR-ADDRESS4
+descr:              Str's IPv4
+country:            GB
+admin-c:            STR-DN42
+tech-c:             STR-DN42
+nserver:            ns1.rhine.dn42
+mnt-by:             STR-MNT
+status:             ASSIGNED
+cidr:               172.20.250.0/24
+source:             DN42

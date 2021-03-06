@@ -1,0 +1,5 @@
+route:              172.20.200.128/29
+descr:              jmt virt10
+origin:             AS4242422305
+mnt-by:             JOMAT-MNT
+source:             DN42

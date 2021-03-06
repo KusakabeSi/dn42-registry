@@ -1,0 +1,11 @@
+aut-num:            AS4242421181
+as-name:            AS from ne-vlezay80
+descr:              Main ASN from ne-vlezay80
+remarks:            ----------------------------------------------------
+remarks:            Peering policy open
+remarks:            Please contact from peering: ne-vlezay80@yandex.ru
+remarks:            ----------------------------------------------------
+admin-c:            NEVLEZAY-DN42
+tech-c:             NEVLEZAY-DN42
+mnt-by:             NEVLEZAY-MNT
+source:             DN42

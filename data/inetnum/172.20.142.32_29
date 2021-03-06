@@ -1,0 +1,10 @@
+inetnum:            172.20.142.32 - 172.20.142.39
+cidr:               172.20.142.32/29
+netname:            CORESTORAGE-NETWORK
+admin-c:            CORESTORAGE-DN42
+tech-c:             CORESTORAGE-DN42
+mnt-by:             CORESTORAGE-MNT
+nserver:            ns1.corestorage.dn42
+nserver:            ns2.corestorage.dn42
+status:             ASSIGNED
+source:             DN42

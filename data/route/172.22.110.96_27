@@ -1,0 +1,4 @@
+route:              172.22.110.96/27
+origin:             AS4242422010
+mnt-by:             ONVOX-MNT
+source:             DN42

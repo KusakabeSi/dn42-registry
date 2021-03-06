@@ -1,0 +1,7 @@
+aut-num:            AS64692
+as-name:            NIHILUS-AS64692
+descr:              nihilus' AS
+admin-c:            NIHILUS-DN42
+tech-c:             NIHILUS-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.46.224/27
+descr:              hyhIX WORK
+origin:             AS4242420991
+mnt-by:             HYHIX-MNT
+source:             DN42

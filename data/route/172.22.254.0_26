@@ -1,0 +1,5 @@
+route:              172.22.254.0/26
+descr:              Crest's dn42 transfer network
+origin:             AS64828
+mnt-by:             CREST-MNT
+source:             DN42

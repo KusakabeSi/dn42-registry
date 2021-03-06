@@ -1,0 +1,12 @@
+inet6num:           fd42:7173:7800:0000:0000:0000:0000:0000 - fd42:7173:7800:ffff:ffff:ffff:ffff:ffff
+netname:            QSX-NET
+descr:              qsx’ network
+country:            DE
+admin-c:            QSX-DN42
+tech-c:             QSX-DN42
+mnt-by:             QSX-MNT
+nserver:            deimos.qsx.dn42
+nserver:            blackhole.qsx.dn42
+status:             ALLOCATED
+cidr:               fd42:7173:7800::/48
+source:             DN42

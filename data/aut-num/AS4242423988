@@ -1,0 +1,14 @@
+aut-num:            AS4242423988
+as-name:            SIMPLX-AS
+descr:              SimplexLAB, LLC
+org:                ORG-SIMPLX
+remarks:            ----------------------------------------------
+remarks:            Looking Glass    --  http://lg.simplex.dn42/
+remarks:            Peering           --  peering@simplex.dn42
+remarks:            Abuse Department  --  abuse@simplex.dn42
+remarks:            NOC Department    --  noc@simplex.dn42
+remarks:            ----------------------------------------------
+admin-c:            YEGORG-DN42
+tech-c:             YEGORG-DN42
+mnt-by:             YEGORG-MNT
+source:             DN42

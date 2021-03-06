@@ -1,0 +1,4 @@
+route6:             fd83:d1d1:2690::/48
+origin:             AS4242422690
+mnt-by:             QINLONG-MNT
+source:             DN42

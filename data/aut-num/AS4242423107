@@ -1,0 +1,7 @@
+aut-num:            AS4242423107
+as-name:            KLEPH-AS
+descr:              kleph home AS
+admin-c:            KLEPH-DN42
+tech-c:             KLEPH-DN42
+mnt-by:             KLEPH-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             STR-MNT
+admin-c:            STR-DN42
+tech-c:             STR-DN42
+mnt-by:             STR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvWA9P4uExfKqwzPT+bx03OaRZLYCXIJJYQ0DMW27GxPah6sC3qM/BRSyMKqhjc2IMnS2BmOG+jLTs6nmcQC5Dl75ZVb4e9umRz4v+IzrqvMDzfwfQ3yB0ZtNhceI0F+3Gy0B0Eh4BtbKnUspzkAabg2ZJnoVauf8OKBwu/i8OK4ghEjrPBgr/PTslbsYWJNQ8BlON6NQDT+307Xm6ZolPqF0zuHvVrheQBURsvFErEsbM9NRrKjBvp28PtqZ+nmfm+63gMLSli3+ODZsBP/oG7hWrOMDFR4TBuNL6s3MZ1BViGBAhz6jZlazGrWQAiqABXD7l9Ltktsk+gh+VUM9j
+source:             DN42

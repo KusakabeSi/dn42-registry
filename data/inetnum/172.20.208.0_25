@@ -1,0 +1,9 @@
+inetnum:            172.20.208.0 - 172.20.208.127
+cidr:               172.20.208.0/25
+netname:            DIVISION-NET
+country:            HK
+admin-c:            LIFEHOME-DN42
+tech-c:             LIFEHOME-DN42
+mnt-by:             LIFEDIO-MNT
+status:             ASSIGNED PI
+source:             DN42

@@ -1,0 +1,6 @@
+route6:             fda1:ae59:6dd0::/48
+origin:             AS4242421876
+origin:             AS211876
+max-length:         48
+mnt-by:             DL-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route6:             fd00:58a8:7fb2::/48
+descr:              Morxi.net DN42 V6 Roa
+origin:             AS4242422214
+max-length:         48
+mnt-by:             MOXI-MNT
+source:             DN42

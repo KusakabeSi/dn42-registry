@@ -1,0 +1,5 @@
+route:              172.22.110.0/27
+descr:              GERGER-NET1-ROUTE
+origin:             AS4242420077
+mnt-by:             GERGERNET-MNT
+source:             DN42

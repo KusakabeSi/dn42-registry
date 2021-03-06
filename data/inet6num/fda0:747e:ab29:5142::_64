@@ -1,0 +1,8 @@
+inet6num:           fda0:747e:ab29:5142:0000:0000:0000:0000 - fda0:747e:ab29:5142:ffff:ffff:ffff:ffff
+cidr:               fda0:747e:ab29:5142::/64
+netname:            ICVPN-GLWUPPER
+nserver:            1.3.156.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: glwupper
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,5 @@
+route6:             fdff:0:fcd0::/48
+descr:              prauscher transfer
+origin:             AS0
+mnt-by:             PRAUSCHER-MNT
+source:             DN42

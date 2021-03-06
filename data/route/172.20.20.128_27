@@ -1,0 +1,4 @@
+route:              172.20.20.128/27
+origin:             AS4242421835
+mnt-by:             JAKOB-MNT
+source:             DN42

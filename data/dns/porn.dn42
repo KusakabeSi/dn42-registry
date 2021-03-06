@@ -1,0 +1,8 @@
+domain:             porn.dn42
+admin-c:            XINYUAN-DN42
+tech-c:             XINYUAN-DN42
+mnt-by:             XINYUAN-MNT
+org:                ORG-YZUCRC
+nserver:            ns.porn.dn42 172.20.198.1
+nserver:            ns.porn.dn42 fd19:d101:719a:a::1
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdb4:4911:ccf8::/48
+origin:             AS4242423506
+mnt-by:             MRXERMON-MNT
+source:             DN42

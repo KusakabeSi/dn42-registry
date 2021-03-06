@@ -1,0 +1,10 @@
+inet6num:           fd89:e30d:4035:0000:0000:0000:0000:0000 - fd89:e30d:4035:ffff:ffff:ffff:ffff:ffff
+cidr:               fd89:e30d:4035::/48
+netname:            BRUEGGUS-NET-1
+descr:              Brueggus IPv6 network
+country:            DE
+admin-c:            BRUEGGUS-DN42
+tech-c:             BRUEGGUS-DN42
+mnt-by:             BRUEGGUS-MNT
+status:             ASSIGNED
+source:             DN42

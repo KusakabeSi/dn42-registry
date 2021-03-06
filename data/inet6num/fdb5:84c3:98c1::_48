@@ -1,0 +1,10 @@
+inet6num:           fdb5:84c3:98c1:0000:0000:0000:0000:0000 - fdb5:84c3:98c1:ffff:ffff:ffff:ffff:ffff
+netname:            CREST-DN42-ULA-IP6NET
+descr:              Crest's native IPv6 network
+country:            DE
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+status:             ASSIGNED
+cidr:               fdb5:84c3:98c1::/48
+mnt-by:             CREST-MNT
+source:             DN42

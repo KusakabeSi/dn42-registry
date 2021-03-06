@@ -1,0 +1,9 @@
+inet6num:           fdf1:f170:b834:0000:0000:0000:0000:0000 - fdf1:f170:b834:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf1:f170:b834::/48
+netname:            CBS-NET-1
+country:            DE
+admin-c:            CBS-DN42
+tech-c:             CBS-DN42
+mnt-by:             CBS-MNT
+status:             ASSIGNED
+source:             DN42

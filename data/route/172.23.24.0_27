@@ -1,0 +1,4 @@
+route:              172.23.24.0/27
+origin:             AS4242420443
+mnt-by:             PATRYK-MNT
+source:             DN42

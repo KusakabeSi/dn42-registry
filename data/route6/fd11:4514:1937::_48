@@ -1,0 +1,5 @@
+route6:             fd11:4514:1937::/48
+origin:             AS4242421937
+max-length:         48
+mnt-by:             CAXAP-MNT
+source:             DN42

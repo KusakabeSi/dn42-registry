@@ -1,0 +1,4 @@
+route:              172.22.101.80/28
+origin:             AS4242427877
+mnt-by:             PHAUX-MNT
+source:             DN42

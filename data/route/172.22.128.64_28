@@ -1,0 +1,4 @@
+route:              172.22.128.64/28
+origin:             AS4242420553
+mnt-by:             LLRZ-MNT
+source:             DN42

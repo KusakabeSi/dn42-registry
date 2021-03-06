@@ -1,0 +1,5 @@
+route6:             fd42:23:139::/48
+descr:              lollo's ipv6 network
+origin:             AS64649
+mnt-by:             LOLLO-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.11.0.0/18
+origin:             AS65050
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: augsburg
+mnt-by:             DN42-MNT
+source:             ICVPN

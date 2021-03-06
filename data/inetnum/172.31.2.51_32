@@ -1,0 +1,7 @@
+inetnum:            172.31.2.51 - 172.31.2.51
+cidr:               172.31.2.51/32
+netname:            CHAOSVPN-DESC-R1
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

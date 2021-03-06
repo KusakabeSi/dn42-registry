@@ -1,0 +1,4 @@
+route6:             fd59:a9db:1a5e:670::/64
+origin:             AS4242420980
+mnt-by:             FOOBARS-MNT
+source:             DN42

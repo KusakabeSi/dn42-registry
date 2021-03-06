@@ -1,0 +1,11 @@
+inetnum:            172.23.156.128 - 172.23.156.159
+netname:            NET-NULLL-VMS-ACS-DN42
+descr:              VMs on acs
+country:            DE
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+nserver:            ns1.0l.dn42
+status:             ASSIGNED
+cidr:               172.23.156.128/27
+source:             DN42

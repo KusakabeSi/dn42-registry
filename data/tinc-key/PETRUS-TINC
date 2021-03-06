@@ -1,0 +1,18 @@
+tinc-key:           PETRUS-TINC
+tinc-host:          beta
+tinc-file:          
+                    Subnet = 172.22.255.162/32
+                    Subnet = fd04:de02:7af9::162/128
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEA3TdvMLn/LoOyOy9LJPwFVmpod3mpsQ/w2s2syhfyNBYzNIwbe0li
+                    B/G4KMashNL34epR5DX2bh9C9GLGhbDw4xG22w2vz09ikbfy99HFZesshyRnAPko
+                    CafZACjgzLnYj5qRneU2E/STQ1UnvE1YxxXUrciNC/GsNcmSm3nOi8mt0yv35iA7
+                    ywmMWNrcehazqF4xYm4ZDfg5N7dqefdfNkuDdDrzWJJlXJs7UwtIVREb5vZ4NZMa
+                    /h4kuUsIKaUMGw6lX0S6F4PYdgwWdRVQ0uBLTItsmahQRQfUb002RcKmgP4UYlVK
+                    r1eDcjVvUsadJYAlUDHyarks5fR4S591eQIDAQAB
+                    -----END RSA PUBLIC KEY-----
+                    ECDSAPublicKey = CAQ9URkmcVYW7pJ0yHIk83uv1hgH+4RPcdGvWKsIH2wTkRGgmy0mMm4i90K07g3M8pFL1MB6nEr94R8+4qyhg9VZDB
+                    Address = poum.tk
+                    Port = 23752
+mnt-by:             DUMMY-MNT
+source:             DN42

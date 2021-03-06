@@ -1,0 +1,4 @@
+route:              172.22.177.64/28
+origin:             AS4242421977
+mnt-by:             ITUNALI-MNT
+source:             DN42

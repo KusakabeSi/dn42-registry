@@ -1,0 +1,9 @@
+domain:             lorkep.dn42
+admin-c:            AASG-DN42
+tech-c:             AASG-DN42
+mnt-by:             AASG-MNT
+nserver:            ns1.lorkep.dn42 fde0:9750:6d9d:53::1
+nserver:            ns2.lorkep.dn42 fde0:9750:6d9d:53::2
+ds-rdata:           56730 15 2 1b4f9a8d1d2a14a48063ce49d30ad165dad13d0d42fff59cf3575e0cb279f479
+ds-rdata:           42378 15 2 e937ef3a5d962fa7a99316cc431859dbb83d4ec93500cb6ef9217a3c93c13b94
+source:             DN42

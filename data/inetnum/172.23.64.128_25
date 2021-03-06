@@ -1,0 +1,11 @@
+inetnum:            172.23.64.128 - 172.23.64.255
+netname:            ERI-NETWORK
+descr:              eri!'s home network
+country:            DE
+org:                ORG-CHELNOK
+admin-c:            ERI-DN42
+tech-c:             ERI-DN42
+mnt-by:             ERI-MNT
+status:             ASSIGNED
+cidr:               172.23.64.128/25
+source:             DN42

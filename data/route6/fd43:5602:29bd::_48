@@ -1,0 +1,6 @@
+route6:             fd43:5602:29bd::/48
+origin:             AS65024
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: franken
+mnt-by:             DN42-MNT
+source:             ICVPN

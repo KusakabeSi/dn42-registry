@@ -1,0 +1,4 @@
+route:              172.22.127.0/26
+origin:             AS4242420140
+mnt-by:             YANGFL-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.58.224 - 172.20.58.255
+netname:            LUGINBASH-NET
+admin-c:            LUGINBASH-DN42
+tech-c:             LUGINBASH-DN42
+mnt-by:             LUGINBASH-MNT
+status:             ASSIGNED
+cidr:               172.20.58.224/27
+source:             DN42

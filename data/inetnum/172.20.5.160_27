@@ -1,0 +1,8 @@
+inetnum:            172.20.5.160 - 172.20.5.191
+cidr:               172.20.5.160/27
+netname:            Ork-B-Primary
+admin-c:            MARKMCN-DN42
+tech-c:             MARKMCN-DN42
+mnt-by:             MARKMCN-MNT
+status:             ASSIGNED
+source:             DN42

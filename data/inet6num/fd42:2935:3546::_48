@@ -1,0 +1,10 @@
+inet6num:           fd42:2935:3546:0000:0000:0000:0000:0000 - fd42:2935:3546:ffff:ffff:ffff:ffff:ffff
+netname:            ALTF4-GATEWAY
+descr:              my gateway to the wooooorld
+country:            BE
+admin-c:            ALTF4-DN42
+tech-c:             ALTF4-DN42
+mnt-by:             ALTF4-MNT
+status:             ASSIGNED
+cidr:               fd42:2935:3546::/48
+source:             DN42

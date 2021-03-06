@@ -1,0 +1,10 @@
+inet6num:           fd42:0042:c0de:0000:0000:0000:0000:0000 - fd42:0042:c0de:ffff:ffff:ffff:ffff:ffff
+netname:            A3K-NET6
+descr:              A3K-DN42 ipv6
+country:            NZ
+admin-c:            A3K-DN42
+tech-c:             A3K-DN42
+mnt-by:             A3K-MNT
+status:             ASSIGNED
+cidr:               fd42:42:c0de::/48
+source:             DN42

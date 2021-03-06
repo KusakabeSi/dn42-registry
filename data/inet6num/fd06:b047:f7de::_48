@@ -1,0 +1,7 @@
+inet6num:           fd06:b047:f7de:0000:0000:0000:0000:0000 - fd06:b047:f7de:ffff:ffff:ffff:ffff:ffff
+cidr:               fd06:b047:f7de::/48
+netname:            ICVPN-HILDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hilden
+mnt-by:             DN42-MNT
+source:             ICVPN

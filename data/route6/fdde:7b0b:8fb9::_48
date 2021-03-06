@@ -1,0 +1,4 @@
+route6:             fdde:7b0b:8fb9::/48
+origin:             AS4242423111
+mnt-by:             CODEHACK-MNT
+source:             DN42

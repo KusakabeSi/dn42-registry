@@ -1,0 +1,7 @@
+aut-num:            AS4242422369
+as-name:            BITCLOUD-AS
+descr:              BITCLOUD AS
+admin-c:            BITCLOUD-DN42
+tech-c:             BITCLOUD-DN42
+mnt-by:             BITCLOUD-MNT
+source:             DN42

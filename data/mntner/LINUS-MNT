@@ -1,0 +1,6 @@
+mntner:             LINUS-MNT
+admin-c:            LINUS-DN42
+tech-c:             LINUS-DN42
+mnt-by:             LINUS-MNT
+source:             DN42
+auth:               PGPKEY-C15F9E2D

@@ -1,0 +1,4 @@
+route:              172.21.67.224/29
+origin:             AS4242423927
+mnt-by:             ALDRIC-MNT
+source:             DN42

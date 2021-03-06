@@ -1,0 +1,11 @@
+inet6num:           fdfc:3b71:d528:0000:0000:0000:0000:0000 - fdfc:3b71:d528:ffff:ffff:ffff:ffff:ffff
+netname:            DYNAMICT-IPV6
+descr:              DynamICT IPv6 ULA (fdfc:3b71:d528::/48)
+country:            SE
+admin-c:            KJT6-DN42
+tech-c:             KJT6-DN42
+mnt-by:             DYNAMICT-MNT
+nserver:            ns1.dynamict.local
+status:             ASSIGNED PI
+cidr:               fdfc:3b71:d528::/48
+source:             DN42

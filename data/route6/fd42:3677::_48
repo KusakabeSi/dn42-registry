@@ -1,0 +1,4 @@
+route6:             fd42:3677::/48
+origin:             AS4242423677
+mnt-by:             ADNIDOR-MNT
+source:             DN42

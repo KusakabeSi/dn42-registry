@@ -1,0 +1,10 @@
+inet6num:           fd61:64a7:ada8:0000:0000:0000:0000:0000 - fd61:64a7:ada8:ffff:ffff:ffff:ffff:ffff
+netname:            DEFEND-THE-PLANET
+descr:              defending the planet now on dn24
+country:            DE
+admin-c:            HORSTVANDEMEIKLOKJES-DN42
+tech-c:             HORSTVANDEMEIKLOKJES-DN42
+mnt-by:             DEFENDTHEPLANET-MNT
+status:             ASSIGNED
+cidr:               fd61:64a7:ada8::/48
+source:             DN42

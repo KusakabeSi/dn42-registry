@@ -1,0 +1,8 @@
+inetnum:            172.22.67.0 - 172.22.67.31
+cidr:               172.22.67.0/27
+netname:            ZEYPHROS-NETWORK
+admin-c:            ZEYPHROS-DN42
+tech-c:             ZEYPHROS-DN42
+mnt-by:             ZEYPHROS-MNT
+status:             ASSIGNED
+source:             DN42

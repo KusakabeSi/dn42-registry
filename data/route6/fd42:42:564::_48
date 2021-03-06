@@ -1,0 +1,4 @@
+route6:             fd42:42:564::/48
+origin:             AS4242421564
+mnt-by:             PROJECTMORI-MNT
+source:             DN42

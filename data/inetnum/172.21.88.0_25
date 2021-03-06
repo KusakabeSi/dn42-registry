@@ -1,0 +1,12 @@
+inetnum:            172.21.88.0 - 172.21.88.127
+cidr:               172.21.88.0/25
+netname:            DEKTHEP-NETWORK
+descr:              Network of DEKTHEP
+country:            TH
+admin-c:            DEKTHEP-DN42
+tech-c:             DEKTHEP-DN42
+mnt-by:             DEKTHEP-MNT
+nserver:            ns1.dekthep.dn42
+nserver:            ns2.dekthep.dn42
+status:             ASSIGNED
+source:             DN42

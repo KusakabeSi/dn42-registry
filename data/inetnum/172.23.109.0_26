@@ -1,0 +1,8 @@
+inetnum:            172.23.109.0 - 172.23.109.63
+cidr:               172.23.109.0/26
+netname:            WOCKEY
+admin-c:            WOCKEY-DN42
+tech-c:             WOCKEY-DN42
+mnt-by:             WOCKEY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             nirvanet.dn42
+descr:              Nirvanet
+admin-c:            NIRVANET-DN42
+tech-c:             NIRVANET-DN42
+mnt-by:             NIRVANET-MNT
+nserver:            ns1.nirvanet.dn42 172.22.188.225
+nserver:            ns1.nirvanet.dn42 fd4a:2e8b:78bb:ae6e::2
+source:             DN42

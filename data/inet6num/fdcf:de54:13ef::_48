@@ -1,0 +1,10 @@
+inet6num:           fdcf:de54:13ef:0000:0000:0000:0000:0000 - fdcf:de54:13ef:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:de54:13ef::/48
+netname:            SKID-NETWORK
+descr:              Network of Skid
+country:            FR
+admin-c:            SKID-DN42
+tech-c:             SKID-DN42
+mnt-by:             SKID-MNT
+status:             ASSIGNED
+source:             DN42

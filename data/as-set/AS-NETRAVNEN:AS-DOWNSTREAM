@@ -1,0 +1,8 @@
+as-set:             AS-NETRAVNEN:AS-DOWNSTREAM
+mbrs-by-ref:        NETRAVNEN-MNT
+members:            AS4242420144:AS-DOWNSTREAM
+members:            AS208391:AS-DOWNSTREAM
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

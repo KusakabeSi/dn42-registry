@@ -1,0 +1,4 @@
+route:              172.20.135.200/29
+origin:             AS4242420448
+mnt-by:             FRYGUY-MNT
+source:             DN42

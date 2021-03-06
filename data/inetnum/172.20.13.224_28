@@ -1,0 +1,10 @@
+inetnum:            172.20.13.224 - 172.20.13.239
+netname:            WXCAFE-TRANSFER-NET4
+descr:              Transfer net for intercos
+country:            FR
+admin-c:            WXCAFE-DN42
+tech-c:             WXCAFE-DN42
+mnt-by:             WXCAFE-MNT
+status:             ASSIGNED PI
+cidr:               172.20.13.224/28
+source:             DN42

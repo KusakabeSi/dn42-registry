@@ -1,0 +1,9 @@
+inetnum:            172.20.29.128 - 172.20.29.159
+cidr:               172.20.29.128/27
+netname:            UPEC-NETWORK
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+org:                ORG-UPEC
+status:             ASSIGNED
+source:             DN42

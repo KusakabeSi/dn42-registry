@@ -1,0 +1,5 @@
+route:              172.20.148.8/29
+descr:              Router for Network
+origin:             AS4242422506
+mnt-by:             KAI-MNT
+source:             DN42

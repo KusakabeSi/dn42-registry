@@ -1,0 +1,5 @@
+route6:             fd42:abcd:ef00::/48
+descr:              LERNET IPv6 Route
+origin:             AS4242421819
+mnt-by:             LERNET-MNT
+source:             DN42

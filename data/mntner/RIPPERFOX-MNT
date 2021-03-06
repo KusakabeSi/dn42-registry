@@ -1,0 +1,7 @@
+mntner:             RIPPERFOX-MNT
+descr:              Maintainer for RIPPERFOX-DN42
+admin-c:            RIPPERFOX-DN42
+tech-c:             RIPPERFOX-DN42
+mnt-by:             RIPPERFOX-MNT
+auth:               pgp-fingerprint 3476CF9D7D73A7241B7FB8B255FA26CCA5E76C8D
+source:             DN42

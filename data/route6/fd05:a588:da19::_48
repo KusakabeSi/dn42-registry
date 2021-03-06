@@ -1,0 +1,5 @@
+route6:             fd05:a588:da19::/48
+descr:              iLemonrain DN42 Network
+origin:             AS4242420226
+mnt-by:             ILEMONRAIN-MNT
+source:             DN42

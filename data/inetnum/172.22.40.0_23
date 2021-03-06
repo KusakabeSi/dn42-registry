@@ -1,0 +1,10 @@
+inetnum:            172.22.40.0 - 172.22.41.255
+netname:            FRITZ-EXT2-IP4NET
+country:            DE
+remarks:            This inetnum object has a suballocation: 172.22.41.240/28
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+status:             ALLOCATED
+cidr:               172.22.40.0/23
+source:             DN42

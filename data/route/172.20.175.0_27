@@ -1,0 +1,5 @@
+route:              172.20.175.0/27
+descr:              SickHekker's place
+origin:             AS4242422666
+mnt-by:             HEKKER-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             nicolas.dn42
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+nserver:            ns1.nicolas.dn42 172.23.99.1
+nserver:            ns1.nicolas.dn42 fd42:4242:2499:53::1
+source:             DN42

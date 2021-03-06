@@ -1,0 +1,10 @@
+inet6num:           fd42:0042:0564:0000:0000:0000:0000:0000 - fd42:0042:0564:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:42:564::/48
+netname:            PROJECTMORI-NET
+country:            US
+admin-c:            MORI-DN42
+tech-c:             MORI-DN42
+mnt-by:             PROJECTMORI-MNT
+nserver:            ns1.projectmori.dn42
+status:             ASSIGNED
+source:             DN42

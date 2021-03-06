@@ -1,0 +1,4 @@
+route6:             fd40:dead:beaf::/48
+origin:             AS4242420066
+mnt-by:             OGELPRE-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd42:0f61:0e13:0000:0000:0000:0000:0000 - fd42:0f61:0e13:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:f61:e13::/48
+netname:            CUBESKY-NETWORK
+descr:              Network of CUBESKY
+country:            CN
+admin-c:            CUBESKY-DN42
+tech-c:             CUBESKY-DN42
+mnt-by:             CUBESKY-MNT
+nserver:            ns.cubesky.dn42
+status:             ASSIGNED
+source:             DN42

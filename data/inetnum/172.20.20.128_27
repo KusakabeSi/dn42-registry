@@ -1,0 +1,8 @@
+inetnum:            172.20.20.128 - 172.20.20.159
+cidr:               172.20.20.128/27
+netname:            JAKOB-NETWORK
+admin-c:            JAKOB-DN42
+tech-c:             JAKOB-DN42
+mnt-by:             JAKOB-MNT
+status:             ASSIGNED
+source:             DN42

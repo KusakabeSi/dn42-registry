@@ -1,0 +1,10 @@
+inetnum:            172.23.249.0 - 172.23.249.255
+netname:            PSYKE-IP4
+country:            DE
+admin-c:            PSYKE-DN42
+tech-c:             PSYKE-DN42
+mnt-by:             PSYKE-MNT
+nserver:            ns1.psyke.dn42
+status:             ASSIGNED
+cidr:               172.23.249.0/24
+source:             DN42

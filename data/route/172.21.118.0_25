@@ -1,0 +1,5 @@
+route:              172.21.118.0/25
+descr:              Route to ZLD IPv4 Space
+origin:             AS4242420118
+mnt-by:             ZLD-MNT
+source:             DN42

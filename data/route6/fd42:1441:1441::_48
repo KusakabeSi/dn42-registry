@@ -1,0 +1,5 @@
+route6:             fd42:1441:1441::/48
+descr:              WXCAFE-ROUTE6
+origin:             AS4242421441
+mnt-by:             WXCAFE-MNT
+source:             DN42

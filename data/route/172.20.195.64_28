@@ -1,0 +1,4 @@
+route:              172.20.195.64/28
+origin:             AS4242421221
+mnt-by:             NEKO-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             crest.dn42
+nserver:            dns1.crest.dn42 172.22.228.6
+nserver:            dns2.crest.dn42 172.22.228.8
+admin-c:            CREST-DN42
+tech-c:             CREST-DN42
+mnt-by:             CREST-MNT
+source:             DN42

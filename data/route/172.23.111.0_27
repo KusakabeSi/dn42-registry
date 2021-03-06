@@ -1,0 +1,4 @@
+route:              172.23.111.0/27
+origin:             AS4242423231
+mnt-by:             QPLI920501-MNT
+source:             DN42

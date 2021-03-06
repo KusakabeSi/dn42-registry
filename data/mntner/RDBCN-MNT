@@ -1,0 +1,6 @@
+mntner:             RDBCN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXG9a3kEQd9RlMONEJUm/jCFWiftBXf3hdbknmb7AZ7
+admin-c:            RDBCN-DN42
+tech-c:             RDBCN-DN42
+mnt-by:             RDBCN-MNT
+source:             DN42

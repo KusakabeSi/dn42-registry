@@ -1,0 +1,8 @@
+route:              10.127.14.0/23
+max-length:         29
+origin:             AS134098
+admin-c:            LICSON-NEONETWORK
+tech-c:             LICSON-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

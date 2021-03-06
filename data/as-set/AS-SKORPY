@@ -1,0 +1,8 @@
+as-set:             AS-SKORPY
+descr:              Skorpys ASs
+members:            AS4242422180
+members:            AS4242422181
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+source:             DN42

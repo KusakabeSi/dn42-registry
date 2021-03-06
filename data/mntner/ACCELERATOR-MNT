@@ -1,0 +1,6 @@
+mntner:             ACCELERATOR-MNT
+admin-c:            ACCELERATOR-DN42
+tech-c:             ACCELERATOR-DN42
+mnt-by:             ACCELERATOR-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPs8alqMEAONBfMgxZROZ4bz69c1Z+E7J2TjOfegBnzq

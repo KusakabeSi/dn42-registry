@@ -1,0 +1,10 @@
+inetnum:            172.20.20.192 - 172.20.20.223
+netname:            ALIBABA-HOME
+descr:              IP Block for home usage
+country:            CN
+admin-c:            ALIBABA-DN42
+tech-c:             ALIBABA-DN42
+mnt-by:             ALIBABA-MNT
+status:             ASSIGNED
+cidr:               172.20.20.192/27
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd67:86ac:41f5::/48
+descr:              Gmachine
+origin:             AS4242423507
+mnt-by:             GMACHINE-MNT
+source:             DN42

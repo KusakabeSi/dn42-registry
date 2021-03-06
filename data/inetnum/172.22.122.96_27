@@ -1,0 +1,10 @@
+inetnum:            172.22.122.96 - 172.22.122.127
+cidr:               172.22.122.96/27
+netname:            TAN-IPV4
+admin-c:            TAN-DN42
+tech-c:             TAN-DN42
+mnt-by:             TAN-MNT
+nserver:            ns1.tan.dn42
+nserver:            ns2.tan.dn42
+status:             ASSIGNED
+source:             DN42

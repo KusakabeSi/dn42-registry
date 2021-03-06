@@ -1,0 +1,10 @@
+inetnum:            172.21.125.64 - 172.21.125.95
+netname:            UNGNT-NET
+descr:              UNGNT Network
+country:            AU
+admin-c:            UNGNT-DN42
+tech-c:             UNGNT-DN42
+mnt-by:             UNGNT-MNT
+status:             ASSIGNED
+cidr:               172.21.125.64/27
+source:             DN42

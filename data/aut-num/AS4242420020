@@ -1,0 +1,11 @@
+aut-num:            AS4242420020
+as-name:            UNBEDENKLICH-AS
+remarks:            Peering via OpenVPN and IPSec/GRE
+remarks:            Server location: Hamburg
+remarks:            (connected via Telia, Level 3, E-CIX, DE-CIX, ...)
+remarks:            Looking Glass: http://hamburg.de.unbedenklich.dn42/lg.php
+descr:              completely UNBEDENKLICH AS
+admin-c:            UNBEDENKLICH-DN42
+tech-c:             UNBEDENKLICH-DN42
+mnt-by:             UNBEDENKLICH-MNT
+source:             DN42

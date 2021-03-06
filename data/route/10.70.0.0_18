@@ -1,0 +1,6 @@
+route:              10.70.0.0/18
+origin:             AS65065
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: zollernalb
+mnt-by:             DN42-MNT
+source:             ICVPN

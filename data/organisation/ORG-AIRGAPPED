@@ -1,0 +1,10 @@
+organisation:       ORG-AIRGAPPED
+org-name:           ORG-AIRGAPPED
+descr:              Airgapped Organization
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+abuse-mailbox:      abuse@airgapped.io
+www:                airgapped.io / airgapped.dn42
+language:           English
+mnt-by:             AIRGAPPED-MNT
+source:             DN42

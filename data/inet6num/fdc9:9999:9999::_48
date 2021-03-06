@@ -1,0 +1,13 @@
+inet6num:           fdc9:9999:9999:0000:0000:0000:0000:0000 - fdc9:9999:9999:ffff:ffff:ffff:ffff:ffff
+netname:            IXNET-MAIN-V6
+descr:              IX Network Studio Main IPv6 Network
+country:            SG
+org:                ORG-IXNET
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+nserver:            ns1.ixnet.dn42
+nserver:            ns1.ixnet.dn42
+status:             ALLOCATED
+cidr:               fdc9:9999:9999::/48
+source:             DN42

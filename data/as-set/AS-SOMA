@@ -1,0 +1,7 @@
+as-set:             AS-SOMA
+descr:              Soma ASNs
+members:            AS4242421299
+admin-c:            NOC-DN42
+tech-c:             NOC-DN42
+mnt-by:             S-MNT
+source:             DN42

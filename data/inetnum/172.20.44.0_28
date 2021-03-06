@@ -1,0 +1,11 @@
+inetnum:            172.20.44.0 - 172.20.44.15
+cidr:               172.20.44.0/28
+netname:            FRALINSKY-NETWORK
+descr:              Fralinsky Network
+country:            DE
+admin-c:            FRALINSKY-DN42
+tech-c:             FRALINSKY-DN42
+mnt-by:             FRALINSKY-MNT
+status:             ASSIGNED
+nserver:            ns.fralinsky.dn42
+source:             DN42

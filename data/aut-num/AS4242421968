@@ -1,0 +1,7 @@
+aut-num:            AS4242421968
+as-name:            DILIGENT-AS
+descr:              Primary AS
+admin-c:            AHLBERG-DN42
+tech-c:             AHLBERG-DN42
+mnt-by:             DILIGENT-NETWORKS-MNT
+source:             DN42

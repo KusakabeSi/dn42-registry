@@ -1,0 +1,9 @@
+inetnum:            172.23.100.0 - 172.23.100.127
+cidr:               172.23.100.0/25
+netname:            FOOBARS-NET
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ALLOCATED
+nserver:            ns1.foobars.dn42
+source:             DN42

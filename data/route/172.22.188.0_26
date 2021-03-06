@@ -1,0 +1,4 @@
+route:              172.22.188.0/26
+origin:             AS4242422681
+mnt-by:             WORTTIR-MNT
+source:             DN42

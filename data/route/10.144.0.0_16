@@ -1,0 +1,6 @@
+route:              10.144.0.0/16
+origin:             AS64859
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: badoldesloe
+mnt-by:             DN42-MNT
+source:             ICVPN

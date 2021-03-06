@@ -1,0 +1,9 @@
+mntner:             ICEZ-MNT
+descr:              icez network
+admin-c:            ICEZ-DN42
+tech-c:             ICEZ-DN42
+mnt-by:             ICEZ-MNT
+source:             DN42
+auth:               pgp-fingerprint 8400D5D8EC338938E0DBE2D9439715C4A4C2A219
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEA9MKrpgeeyxuwT7XCnCFxLNdqkX4h/Lkt4nwY9qwhqTRiBYRDK3sAf442TCUBZ5JmpJHWhx50ELBSu68YYe4qEbMIk7iMmx75YKpca+dkf5kRx/bTSyVnQ2NWzEhJMBQ1poqgHArjZFkh4tX7go7GEiZSbmlXgP2bMdIQ+aTQqveeqI8PU6xG8dMItIFWN5cqbgq0LISSUODffhylBIq/5e6jrHSkg/P9ut4fDQgzoxXGC28XcDodC6gtOmGXK3Yr6zv/LW5qZHSixMy+uELy7sSK/Xfk7NzKM3+iygqZi0JdPBqIhVldygTKR5epyQ9PYUNjCiSc61T3u7kIqpQvUPEDBhlfs5mk8PeV+YWNf5pB5oif4AiGqSVIBwfRljxS5wg5zEH8kmyUiMib/FhoJi9rQk3Z4hlJIE63ZpwvUTVRtlNUydl7r88l0X7y/X7MgrKWuFF5VQQdB5oVqhekYlsALsOe/cQhKQAn63VHy0u8BOd0zU31CnsLtm279oivHvYacjYZqW0IoAoDqxlxAfoN/JyLj+p17HntMv3GeWUImKlwAGu2rmfYS2QRYyu4ss6Qbn1jL7+2F/AUTDipTGCSIOkObSEf/uIgPm0+T0ZYs8nxF9vfOjfkKhOrrXy/B/bHhtDgwzfX7VLvwnzbUrkLKjpTC9DO8VJlv/flV+E=
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILOC6Fq2vR52InZyfOeVlQ1BS1M0a8PtpsuAjOGagb2/

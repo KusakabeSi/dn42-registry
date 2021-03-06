@@ -1,0 +1,5 @@
+route:              172.22.6.0/23
+descr:              RipperFox
+origin:             AS64606
+mnt-by:             RIPPERFOX-MNT
+source:             DN42

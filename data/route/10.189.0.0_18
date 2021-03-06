@@ -1,0 +1,6 @@
+route:              10.189.0.0/18
+origin:             AS65189
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: helgoland
+mnt-by:             DN42-MNT
+source:             ICVPN

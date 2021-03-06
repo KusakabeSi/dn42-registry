@@ -1,0 +1,10 @@
+inet6num:           fd31:dfc3:e7d9:0000:0000:0000:0000:0000 - fd31:dfc3:e7d9:ffff:ffff:ffff:ffff:ffff
+netname:            LBOT-NETWORK
+descr:              LBOT NET
+country:            DE
+admin-c:            LBOT-DN42
+tech-c:             LBOT-DN42
+mnt-by:             LBOT-MNT
+status:             ALLOCATED
+cidr:               fd31:dfc3:e7d9::/48
+source:             DN42

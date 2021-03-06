@@ -1,0 +1,4 @@
+route:              172.20.143.0/28
+origin:             AS4242423120
+mnt-by:             RIPNET-MNT
+source:             DN42

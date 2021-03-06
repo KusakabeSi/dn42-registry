@@ -1,0 +1,4 @@
+route:              172.20.131.80/29
+origin:             AS4242420789
+mnt-by:             JOSENG-MNT
+source:             DN42

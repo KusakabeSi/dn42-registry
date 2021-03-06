@@ -1,0 +1,9 @@
+inetnum:            172.20.6.16 - 172.20.6.23
+cidr:               172.20.6.16/29
+netname:            JOSENG-GO1-NETWORK
+country:            US
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

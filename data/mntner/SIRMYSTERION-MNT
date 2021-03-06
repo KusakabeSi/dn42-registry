@@ -1,0 +1,6 @@
+mntner:             SIRMYSTERION-MNT
+admin-c:            SIRMYSTERION-DN42
+tech-c:             SIRMYSTERION-DN42
+mnt-by:             SIRMYSTERION-MNT
+auth:               pgp-fingerprint 4A8BF9CF734A4385C7984C0DC3583F7663A3C384
+source:             DN42

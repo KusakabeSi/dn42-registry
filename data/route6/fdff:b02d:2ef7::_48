@@ -1,0 +1,5 @@
+route6:             fdff:b02d:2ef7::/48
+origin:             AS4242422341
+max-length:         48
+mnt-by:             ZOTAN-MNT
+source:             DN42

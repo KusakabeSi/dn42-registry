@@ -1,0 +1,4 @@
+route:              172.20.6.160/27
+origin:             AS4242421860
+mnt-by:             COOKIEFACTORY-MNT
+source:             DN42

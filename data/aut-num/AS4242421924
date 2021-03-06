@@ -1,0 +1,8 @@
+aut-num:            AS4242421924
+as-name:            THUNDER-AS-DAVID
+org:                ORG-THUNDERVM
+descr:              THUNDERVM DAVID NETWORK
+admin-c:            DAVIDB-DN42
+tech-c:             DAVIDB-DN42
+mnt-by:             THUNDERDAVID-MNT
+source:             DN42

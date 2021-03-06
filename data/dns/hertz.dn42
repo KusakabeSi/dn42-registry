@@ -1,0 +1,6 @@
+domain:             hertz.dn42
+admin-c:            HERTZ-DN42
+tech-c:             HERTZ-DN42
+mnt-by:             HERTZ-MNT
+nserver:            ns.hertz.dn42 172.20.29.78
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             tony.dn42
+admin-c:            TONYZHAO-DN42
+tech-c:             TONYZHAO-DN42
+nserver:            ns1.tonyzhao.dn42
+nserver:            ns2.tonyzhao.dn42
+mnt-by:             TONYZHAO-MNT
+source:             DN42

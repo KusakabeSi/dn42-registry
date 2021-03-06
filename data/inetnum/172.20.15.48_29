@@ -1,0 +1,10 @@
+inetnum:            172.20.15.48 - 172.20.15.55
+cidr:               172.20.15.48/29
+netname:            BT709-NET
+descr:              BT709 Communications
+country:            GB
+admin-c:            BT709-DN42
+tech-c:             BT709-DN42
+mnt-by:             BT709-MNT
+status:             ASSIGNED
+source:             DN42

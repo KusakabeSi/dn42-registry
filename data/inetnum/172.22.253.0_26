@@ -1,0 +1,12 @@
+inetnum:            172.22.253.0 - 172.22.253.63
+netname:            SCHRODINGER-TRANSFER-1-IP4NET
+descr:              schrodinger dn42 transfer netblock
+admin-c:            SCHRODINGER-DN42
+tech-c:             SCHRODINGER-DN42
+status:             ASSIGNED
+nserver:            ns1.schrodinger.dn42
+mnt-by:             SCHRODINGER-MNT
+remarks:            1425938004 Will readvertise soon once new peerings are established
+remarks:            1432424317 Reactivated.
+cidr:               172.22.253.0/26
+source:             DN42

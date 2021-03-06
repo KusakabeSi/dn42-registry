@@ -1,0 +1,4 @@
+route:              172.20.168.128/25
+origin:             AS4242421332
+mnt-by:             NIA-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd72:0020:0185:0000:0000:0000:0000:0000 - fd72:0020:0185:0000:ffff:ffff:ffff:ffff
+netname:            IX-V6
+descr:              IX v6 network
+country:            US
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+status:             ALLOCATED
+cidr:               fd72:20:185::/64
+source:             DN42

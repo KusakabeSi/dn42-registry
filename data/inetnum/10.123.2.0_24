@@ -1,0 +1,7 @@
+inetnum:            10.123.2.0 - 10.123.2.255
+cidr:               10.123.2.0/24
+netname:            ICVPN-NEUENDETTELSAU
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neuendettelsau
+mnt-by:             DN42-MNT
+source:             ICVPN

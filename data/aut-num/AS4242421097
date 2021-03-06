@@ -1,0 +1,12 @@
+aut-num:            AS4242421097
+as-name:            GFA NETWORK
+admin-c:            GFA-DN42
+tech-c:             GFA-DN42
+mnt-by:             GFA-MNT
+source:             DN42
+remarks:            +--------------------------------+
+remarks:            | Peering over Wireguard         |
+remarks:            | Open policy                    |
+remarks:            +--------------------------------+
+remarks:            | mail: gfa@zumbi.com.ar         |
+remarks:            +--------------------------------+

@@ -1,0 +1,5 @@
+route:              172.20.160.0/27
+descr:              Primary
+origin:             AS4242429999
+mnt-by:             LINE-MNT
+source:             DN42

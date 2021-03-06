@@ -1,0 +1,7 @@
+mntner:             IMOTO-MNT
+descr:              IMOTO NETWORK
+admin-c:            KINO-DN42
+tech-c:             KINO-DN42
+mnt-by:             IMOTO-MNT
+auth:               pgp-fingerprint 0524FC290396D6CB0F73064DBEC0B15F411666E5
+source:             DN42

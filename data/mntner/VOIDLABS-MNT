@@ -1,0 +1,8 @@
+mntner:             VOIDLABS-MNT
+descr:              Void Labs DN42
+admin-c:            DEVNULL-DN42
+tech-c:             DEVNULL-DN42
+mnt-by:             VOIDLABS-MNT
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7cxu6cuO3pnfpbRvvJGbJN45BF7Fi2me0d+ZPyE8qiRkEqMcywPo/usjJjNz+g2kJsUnUdwCNNC/tmpkJagtcIDfkS7+V4IBphr4L27Bo9smnefJjhKI7L/Tog5WUbG/2Qf3lyCKhWNqNPdDTr97CMgHK4tKLvOYEhxLfVf9SljivtDr5dxoExypAShFuyX4FXH6x34twkBulpArGBONhuZ9KQWJldqijEtZxnSqehiwujdakYSiFNMDUaFBbbkS5TPQPZ2BYWnnQiU+3LRKjnBjQE8Z94884V6cm1jaPJBABFXLZ+TPhscB4cEGpmG8g5h2coWIZkWbxbrTGRPKb
+auth:               pgp-fingerprint E3A65987349F1B07922E148DAAEBE92DA9C1C38A
+source:             DN42

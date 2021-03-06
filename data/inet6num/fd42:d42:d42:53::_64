@@ -1,0 +1,7 @@
+inet6num:           fd42:0d42:0d42:0053:0000:0000:0000:0000 - fd42:0d42:0d42:0053:ffff:ffff:ffff:ffff
+cidr:               fd42:d42:d42:53::/64
+netname:            RECURSORS
+descr:              Anycast of *.recursive-servers.dn42.
+mnt-by:             DN42-MNT
+status:             ASSIGNED PI
+source:             DN42

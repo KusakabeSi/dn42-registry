@@ -1,0 +1,9 @@
+inetnum:            172.21.93.64 - 172.21.93.95
+cidr:               172.21.93.64/27
+netname:            DELTADELTA-NETWORK
+admin-c:            DELTADELTA-DN42
+tech-c:             DELTADELTA-DN42
+mnt-by:             DELTADELTA-MNT
+status:             ASSIGNED
+nserver:            ns1.libellules.dn42
+source:             DN42

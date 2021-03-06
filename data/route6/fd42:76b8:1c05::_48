@@ -1,0 +1,4 @@
+route6:             fd42:76b8:1c05::/48
+origin:             AS4242420947
+mnt-by:             WISP-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.186.32 - 172.23.186.63
+cidr:               172.23.186.32/27
+netname:            ANDROW4-NETWORK
+descr:              ipv4 Network of ANDROW
+country:            FR
+nserver:            ns2.androw.dn42
+admin-c:            ANDROW-DN42
+tech-c:             ANDROW-DN42
+mnt-by:             ANDROW-MNT
+status:             ASSIGNED
+source:             DN42

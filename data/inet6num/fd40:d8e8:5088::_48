@@ -1,0 +1,9 @@
+inet6num:           fd40:d8e8:5088:0000:0000:0000:0000:0000 - fd40:d8e8:5088:ffff:ffff:ffff:ffff:ffff
+cidr:               fd40:d8e8:5088::/48
+netname:            FOXO-NETWORK
+country:            IT
+admin-c:            ED-DN42
+tech-c:             ED-DN42
+mnt-by:             FOXO-MNT
+status:             ASSIGNED
+source:             DN42

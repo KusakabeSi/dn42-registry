@@ -1,0 +1,10 @@
+inet6num:           fd42:1234:1997:0000:0000:0000:0000:0000 - fd42:1234:1997:ffff:ffff:ffff:ffff:ffff
+netname:            CALLUM-NETWORK
+descr:              Callum's Network
+country:            GB
+admin-c:            CALLUM-DN42
+tech-c:             CALLUM-DN42
+mnt-by:             CALLUM-MNT
+status:             ASSIGNED
+cidr:               fd42:1234:1997::/48
+source:             DN42

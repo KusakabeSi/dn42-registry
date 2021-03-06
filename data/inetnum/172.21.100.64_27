@@ -1,0 +1,11 @@
+inetnum:            172.21.100.64 - 172.21.100.95
+netname:            NSNW-NETWORK
+descr:              NSNW
+country:            CA
+admin-c:            ANDYS-DN42
+tech-c:             ANDYS-DN42
+mnt-by:             NSNW-MNT
+nserver:            ns1.nsnw.dn42
+status:             ASSIGNED
+cidr:               172.21.100.64/27
+source:             DN42

@@ -1,0 +1,15 @@
+inet6num:           fd42:2950:0101:0000:0000:0000:0000:0000 - fd42:2950:0101:ffff:ffff:ffff:ffff:ffff
+netname:            SIS-DN42-INET6-LAB1
+descr:              laboratory network
+remarks:            please consider the following:
+remarks:            - this network is not always online
+remarks:            - might also be used for demonstration purposes on events or in public
+remarks:            - clients are assigned by dhcpv6 and/or using slaac
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               fd42:2950:101::/48
+nserver:            lab1.sis.dn42
+source:             DN42

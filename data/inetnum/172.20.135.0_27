@@ -1,0 +1,9 @@
+inetnum:            172.20.135.0 - 172.20.135.31
+netname:            SPIDERBYTE-NETWORK
+org:                ORG-SPIDERBYTE
+admin-c:            SPIDERBYTE-DN42
+tech-c:             SPIDERBYTE-DN42
+mnt-by:             SPIDERBYTE-MNT
+status:             ASSIGNED
+cidr:               172.20.135.0/27
+source:             DN42

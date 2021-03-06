@@ -1,0 +1,9 @@
+inet6num:           fd42:8700:0090:0000:0000:0000:0000:0000 - fd42:8700:0090:ffff:ffff:ffff:ffff:ffff
+netname:            VOIDPTR-NET6
+nserver:            algi.voidptr.dn42
+admin-c:            VOIDPTR-DN42
+tech-c:             VOIDPTR-DN42
+mnt-by:             VOIDPTR-MNT
+status:             ALLOCATED
+cidr:               fd42:8700:90::/48
+source:             DN42

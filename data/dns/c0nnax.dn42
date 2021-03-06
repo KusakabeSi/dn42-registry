@@ -1,0 +1,7 @@
+domain:             c0nnax.dn42
+admin-c:            N4N-DN42
+tech-c:             N4N-DN42
+mnt-by:             N4N-MNT
+nserver:            ns1.c0nnax.dn42 fd86:4169:1552:53::1
+nserver:            ns2.c0nnax.dn42 fd86:4169:1552:53::2
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242423981
+as-name:            LIITO-AS
+descr:              Finland, liitokone@protonmail.ch for peering
+admin-c:            MIKVA-DN42
+tech-c:             MIKVA-DN42
+mnt-by:             LIITO-MNT
+source:             DN42

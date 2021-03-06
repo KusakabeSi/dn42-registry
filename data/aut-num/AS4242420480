@@ -1,0 +1,7 @@
+aut-num:            AS4242420480
+as-name:            htcNet-AS
+descr:              AS for htcNet
+admin-c:            HTC-DN42
+tech-c:             HTC-DN42
+mnt-by:             HTCNET-MNT
+source:             DN42

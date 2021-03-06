@@ -1,0 +1,8 @@
+mntner:             PF-MNT
+auth:               pgp-fingerprint 897ED6526E7F952EB213DC63BB87EEB366B4688B
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC21qC9BeMOJJMQBw922mxGoMFxJ5IQlJwuemHwSjPP9ffMLngXTezCq8uxEVva+pxXEgEYD7m+u31iSNpnnPreZpv8zCDm6yyY8HbYkxEPHas4JmntwJUawNFC2LaZX+7Pubu8SV+1++BtOKkVQQ+dLxa1+/ndDjSCeE6n/hgT8vGPtaO9Hle1BwbYTXLgAMSm/6MY9QyGlfz1fZxErLQKhDF8YHs2+K/tgG9WvVffyY6camfmLmZY8WFWdsF7Wzs9+ga5A8zggrG49QwvF2JAjqVo6Zvg8dQ/cH1YGmCBpXltSRe28Sa4GmQtNkKATn29DP3NBXZ1H7YWx266KSbr
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKMqLz2LxJRvVrlUJNyGBNyLX5SsLYbobkAMkz5LWXfoBG016IaqnbVX9tvt7cfprwXT+TD5AH9pnGexZ/yITwA=
+admin-c:            PF-DN42
+tech-c:             PF-DN42
+mnt-by:             PF-MNT
+source:             DN42

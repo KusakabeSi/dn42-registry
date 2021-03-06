@@ -1,0 +1,10 @@
+inet6num:           fd42:2882:2882:0000:0000:0000:0000:0000 - fd42:2882:2882:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:2882:2882::/48
+netname:            MISKA-NETWORK
+descr:              Home network of Miska
+country:            CZ
+admin-c:            MISKA-DN42
+tech-c:             MISKA-DN42
+mnt-by:             MISKA-MNT
+status:             ASSIGNED
+source:             DN42

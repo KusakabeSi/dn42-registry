@@ -1,0 +1,4 @@
+route:              172.20.15.224/29
+origin:             AS4242423506
+mnt-by:             MRXERMON-MNT
+source:             DN42

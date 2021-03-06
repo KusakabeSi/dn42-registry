@@ -1,0 +1,6 @@
+mntner:             ZEROHEATH-MNT
+admin-c:            ZEROHEATH-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC0nrxWk37wQQIG2KcjNmofYlqMdRFiqXLTtAPO3PUAa
+tech-c:             ZEROHEATH-DN42
+mnt-by:             ZEROHEATH-MNT
+source:             DN42

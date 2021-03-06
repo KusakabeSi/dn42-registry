@@ -1,0 +1,10 @@
+inetnum:            172.20.48.32 - 172.20.48.63
+netname:            NET-PHUZION
+descr:              phuzion
+country:            US
+admin-c:            PHUZION-DN42
+tech-c:             PHUZION-DN42
+mnt-by:             PHUZION-MNT
+status:             ASSIGNED
+cidr:               172.20.48.32/27
+source:             DN42

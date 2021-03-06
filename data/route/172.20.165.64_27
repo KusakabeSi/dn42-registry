@@ -1,0 +1,4 @@
+route:              172.20.165.64/27
+origin:             AS4242421719
+mnt-by:             GOFORCEX-MNT
+source:             DN42

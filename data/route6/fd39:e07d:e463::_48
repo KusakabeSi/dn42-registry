@@ -1,0 +1,4 @@
+route6:             fd39:e07d:e463::/48
+origin:             AS4242421165
+mnt-by:             TRACE-MNT
+source:             DN42

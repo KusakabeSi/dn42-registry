@@ -1,0 +1,4 @@
+route:              172.20.35.0/24
+origin:             AS4242423623
+mnt-by:             BGPTRACE-MNT
+source:             DN42

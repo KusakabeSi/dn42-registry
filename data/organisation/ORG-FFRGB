@@ -1,0 +1,9 @@
+organisation:       ORG-FFRGB
+org-name:           Freifunk Regensburg
+descr:              Freifunk Regensburg Wireless Mesh Community
+www:                https://ffrgb.net/
+e-mail:             helpdesk@ffrgb.net
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+source:             DN42

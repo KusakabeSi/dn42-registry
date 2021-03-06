@@ -1,0 +1,7 @@
+domain:             welterde.dn42
+descr:              welterde.dn42
+admin-c:            WELTERDE-DN42
+tech-c:             WELTERDE-DN42
+mnt-by:             WELTERDE-MNT
+nserver:            ns1.any.welterde.dn42 fdef:5d0d:ee12:0:100:53:42:1
+source:             DN42

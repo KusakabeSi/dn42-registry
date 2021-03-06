@@ -1,0 +1,10 @@
+inet6num:           fd70:632d:1bcd:0000:0000:0000:0000:0000 - fd70:632d:1bcd:ffff:ffff:ffff:ffff:ffff
+netname:            KD7IKE-DN42-V6
+descr:              KD7IKE's IPV6
+country:            US
+admin-c:            KD7IKE-DN42
+tech-c:             KD7IKE-DN42
+mnt-by:             KD7IKE-MNT
+status:             ASSIGNED
+cidr:               fd70:632d:1bcd::/48
+source:             DN42

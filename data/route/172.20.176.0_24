@@ -1,0 +1,5 @@
+route:              172.20.176.0/24
+descr:              Route to NL-Zuid FFM IXP Space
+origin:             AS4242421340
+mnt-by:             TWINK0R-MNT
+source:             DN42

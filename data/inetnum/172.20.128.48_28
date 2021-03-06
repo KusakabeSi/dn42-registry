@@ -1,0 +1,9 @@
+inetnum:            172.20.128.48 - 172.20.128.63
+cidr:               172.20.128.48/28
+netname:            KUIPER-NETWORK
+descr:              rot13 lab network
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+status:             ASSIGNED
+source:             DN42

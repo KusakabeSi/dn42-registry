@@ -1,0 +1,9 @@
+inet6num:           fdbf:6d9c:4e2d:0000:0000:0000:0000:0000 - fdbf:6d9c:4e2d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbf:6d9c:4e2d::/48
+netname:            TOHU-NETWORK
+country:            JA
+admin-c:            TOHUTOHU-DN42
+tech-c:             TOHUTOHU-DN42
+mnt-by:             TOHUTOHU-MNT
+status:             ASSIGNED
+source:             DN42

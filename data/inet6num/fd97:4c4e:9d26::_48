@@ -1,0 +1,11 @@
+inet6num:           fd97:4c4e:9d26:0000:0000:0000:0000:0000 - fd97:4c4e:9d26:ffff:ffff:ffff:ffff:ffff
+netname:            LEX-NETWORK
+nserver:            ns.lynx.dn42
+descr:              lex's network
+country:            GB
+admin-c:            LEX-DN42
+tech-c:             LEX-DN42
+status:             ASSIGNED
+mnt-by:             LEX-MNT
+cidr:               fd97:4c4e:9d26::/48
+source:             DN42

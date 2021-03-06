@@ -1,0 +1,5 @@
+route6:             fd36:92df:6a62:9df2::/64
+origin:             AS4242422575
+max-length:         64
+mnt-by:             ECOR-MNT
+source:             DN42

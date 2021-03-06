@@ -1,0 +1,7 @@
+inetnum:            172.31.2.224 - 172.31.2.231
+cidr:               172.31.2.224/29
+netname:            CHAOSVPN-WAEHRING
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

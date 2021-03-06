@@ -1,0 +1,10 @@
+inet6num:           fdfd:25fe:c901:0000:0000:0000:0000:0000 - fdfd:25fe:c901:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:25fe:c901::/48
+netname:            X84-ULA-1-NET6
+descr:              Main IPv6 ULA allocation for X84
+country:            CA
+admin-c:            X84-NOC-DN42
+tech-c:             X84-NOC-DN42
+mnt-by:             X84-MNT
+status:             ASSIGNED
+source:             DN42

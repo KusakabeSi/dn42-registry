@@ -1,0 +1,9 @@
+inetnum:            172.20.155.88 - 172.20.155.95
+cidr:               172.20.155.88/29
+netname:            ACCELERATOR-NET-1
+country:            NL
+admin-c:            ACCELERATOR-DN42
+tech-c:             ACCELERATOR-DN42
+mnt-by:             ACCELERATOR-MNT
+status:             ASSIGNED
+source:             DN42

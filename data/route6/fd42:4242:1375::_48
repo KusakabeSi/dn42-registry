@@ -1,0 +1,4 @@
+route6:             fd42:4242:1375::/48
+origin:             AS4242421375
+mnt-by:             ERI-MNT
+source:             DN42

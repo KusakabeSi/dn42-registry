@@ -1,0 +1,4 @@
+route:              172.23.32.0/27
+origin:             AS4242422330
+mnt-by:             TELECOMADMIN-MNT
+source:             DN42

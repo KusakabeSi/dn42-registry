@@ -1,0 +1,4 @@
+route6:             fd64:f233:8964::/48
+origin:             AS4242422911
+mnt-by:             JUNJUN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.60.0/23
+descr:              peering to irc liuxyon
+origin:             AS4242423158
+mnt-by:             XIAOYU-MNT
+source:             DN42

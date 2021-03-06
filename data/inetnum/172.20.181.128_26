@@ -1,0 +1,10 @@
+inetnum:            172.20.181.128 - 172.20.181.191
+netname:            EXILE-TECH-SERVICES
+country:            RO
+admin-c:            EXILE-DN42
+tech-c:             EXILE-DN42
+mnt-by:             EXILE-MNT
+nserver:            ns1.exile-tech.dn42
+status:             ASSIGNED
+cidr:               172.20.181.128/26
+source:             DN42

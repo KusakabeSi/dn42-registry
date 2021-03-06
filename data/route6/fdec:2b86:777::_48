@@ -1,0 +1,4 @@
+route6:             fdec:2b86:777::/48
+origin:             AS4242423816
+mnt-by:             BEEFSTEAK-MNT
+source:             DN42

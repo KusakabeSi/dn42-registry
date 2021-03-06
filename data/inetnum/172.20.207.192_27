@@ -1,0 +1,10 @@
+inetnum:            172.20.207.192 - 172.20.207.223
+cidr:               172.20.207.192/27
+netname:            TRUEWINTER-NETWORK
+admin-c:            TRUEWINTER-DN42
+tech-c:             TRUEWINTER-DN42
+mnt-by:             TRUEWINTER-MNT
+status:             ASSIGNED
+nserver:            ns1.truewinter.dn42
+nserver:            ns2.truewinter.dn42
+source:             DN42

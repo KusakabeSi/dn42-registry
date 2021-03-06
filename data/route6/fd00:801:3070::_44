@@ -1,0 +1,6 @@
+route6:             fd00:801:3070::/44
+descr:              AIRGAPPED DN42 v6 Seg 8
+origin:             AS4242420656
+max-length:         64
+mnt-by:             AIRGAPPED-MNT
+source:             DN42

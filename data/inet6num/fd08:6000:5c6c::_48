@@ -1,0 +1,10 @@
+inet6num:           fd08:6000:5c6c:0000:0000:0000:0000:0000 - fd08:6000:5c6c:ffff:ffff:ffff:ffff:ffff
+netname:            CS1972-V6-NET
+descr:              CS1972-V6-Space
+country:            DE
+admin-c:            CS1972-DN42
+tech-c:             CS1972-DN42
+mnt-by:             CS1972-MNT
+status:             ASSIGNED
+cidr:               fd08:6000:5c6c::/48
+source:             DN42

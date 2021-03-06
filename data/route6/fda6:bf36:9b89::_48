@@ -1,0 +1,5 @@
+route6:             fda6:bf36:9b89::/48
+origin:             AS4242421510
+max-length:         48
+mnt-by:             XAOTIC-MNT
+source:             DN42

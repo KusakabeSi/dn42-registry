@@ -1,0 +1,4 @@
+route:              172.23.100.0/25
+origin:             AS4242420980
+mnt-by:             FOOBARS-MNT
+source:             DN42

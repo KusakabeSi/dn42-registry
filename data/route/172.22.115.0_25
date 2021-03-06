@@ -1,0 +1,5 @@
+route:              172.22.115.0/25
+descr:              Dalun DN42 Server Network
+origin:             AS4242421256
+mnt-by:             DALUN-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             nesquiikhost.dn42
+descr:              Nesquiik WEB
+admin-c:            NESQUIIKHOST-DN42
+tech-c:             NESQUIIKHOST-DN42
+mnt-by:             NESQUIIKHOST-MNT
+nserver:            ns1.nesquiikhost.dn42 172.20.238.33
+nserver:            ns1.nesquiikhost.dn42 fd8f:7f6d:be92:8716::2
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd22:e95b:9938::/48
+descr:              CloudySkies6
+origin:             AS4242423581
+mnt-by:             CLOUDYSKIES-MNT
+source:             DN42

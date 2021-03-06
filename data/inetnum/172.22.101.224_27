@@ -1,0 +1,10 @@
+inetnum:            172.22.101.224 - 172.22.101.255
+netname:            MODE-NET
+country:            DE
+admin-c:            MODE-DN42
+tech-c:             MODE-DN42
+mnt-by:             MODE-MNT
+nserver:            ns.modenet.dn42
+status:             ASSIGNED
+cidr:               172.22.101.224/27
+source:             DN42

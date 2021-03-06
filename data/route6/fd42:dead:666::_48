@@ -1,0 +1,6 @@
+route6:             fd42:dead:666::/48
+origin:             AS4242422304
+admin-c:            NETLAB-DN42
+tech-c:             NETLAB-DN42
+mnt-by:             NETLAB-MNT
+source:             DN42

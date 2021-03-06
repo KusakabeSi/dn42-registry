@@ -1,0 +1,4 @@
+route6:             fdbd:8259:fe95::/48
+origin:             AS4242423890
+mnt-by:             VIRCOSNET-MNT
+source:             DN42

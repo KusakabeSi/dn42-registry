@@ -1,0 +1,10 @@
+inet6num:           fdc3:10cd:ae9d:0000:0000:0000:0000:0000 - fdc3:10cd:ae9d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc3:10cd:ae9d::/48
+netname:            JOSENG_8TREE-NETWORK
+descr:              Network of joseng
+country:            DE
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

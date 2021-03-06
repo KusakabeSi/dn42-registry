@@ -1,0 +1,9 @@
+domain:             cybertinus.dn42
+admin-c:            CYBERTINUS-DN42
+tech-c:             CYBERTINUS-DN42
+mnt-by:             CYBERTINUS-MNT
+nserver:            ns1.cybertinus.dn42 172.20.48.1
+nserver:            ns1.cybertinus.dn42 fd42:4242:2707::1
+nserver:            ns2.cybertinus.dn42 172.20.48.2
+nserver:            ns2.cybertinus.dn42 fd42:4242:2707::2
+source:             DN42

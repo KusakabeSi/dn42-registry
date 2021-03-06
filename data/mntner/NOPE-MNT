@@ -1,0 +1,8 @@
+mntner:             NOPE-MNT
+auth:               pgp-fingerprint: EB47C664CE1465BD6649FAE6199AA56EFEAF1764
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGHL8pyX5F2OuwwvD2ja81xzSWVcK4YVvHAhRzs5dafC nope@nope
+descr:              nope
+admin-c:            NOPE-DN42
+tech-c:             NOPE-DN42
+mnt-by:             NOPE-MNT
+source:             DN42

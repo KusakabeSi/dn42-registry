@@ -1,0 +1,6 @@
+route6:             fdec:c6a:4002::/48
+descr:              Moerail Network NG
+origin:             AS4242420977
+max-length:         48
+mnt-by:             ARNIE97-MNT
+source:             DN42

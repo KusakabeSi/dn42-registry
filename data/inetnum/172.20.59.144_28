@@ -1,0 +1,8 @@
+inetnum:            172.20.59.144 - 172.20.59.159
+cidr:               172.20.59.144/28
+netname:            DK6H05T-NETWORK
+admin-c:            DK6H05T-DN42
+tech-c:             DK6H05T-DN42
+mnt-by:             DK6H05T-MNT
+status:             ASSIGNED
+source:             DN42

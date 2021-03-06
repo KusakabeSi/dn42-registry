@@ -1,0 +1,21 @@
+aut-num:            AS4242421588
+as-name:            TECH9 CORE NETWORK
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+remarks:            +---------------------------------------------------------------+
+remarks:            TECH9 CORE NETWORK, OPEN PEERING
+remarks:            +---------------------------------------------------------------+
+remarks:            Mail: chris@tech9computers.com
+remarks:            Peering Info: https://www.chrismoos.com/dn42-peering
+remarks:            Automated Peering System: ssh cli@cli.dn42.tech9.io
+remarks:            IRC: chrismoos
+remarks:            Looking Glass: https://lg.tech9computers.dn42
+remarks:            -----------------------------------------------------------------
+remarks:            Peering Locations:
+remarks:            -----------------------------------------------------------------
+remarks:            USA - Phoenix, Chicago, Dallas, New York
+remarks:            EU - London, Budapest, Frankfurt, Paris
+remarks:            ASIA - Singapore, Tokyo
+remarks:            -----------------------------------------------------------------
+source:             DN42

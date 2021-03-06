@@ -1,0 +1,5 @@
+route6:             fd9e:b565:def3::/48
+origin:             AS4242423565
+max-length:         48
+mnt-by:             BAUDLORD-MNT
+source:             DN42

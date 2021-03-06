@@ -1,0 +1,4 @@
+route6:             fd00:6666::/48
+origin:             AS4242420803
+mnt-by:             BILL-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.5.160/27
+origin:             AS4242421065
+mnt-by:             MARKMCN-MNT
+source:             DN42

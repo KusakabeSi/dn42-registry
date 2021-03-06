@@ -1,0 +1,10 @@
+inetnum:            172.23.124.0 - 172.23.124.31
+netname:            TMIT-NETWORK
+descr:              TMIT NETWORK
+country:            IT
+admin-c:            TMIT-DN42
+tech-c:             TMIT-DN42
+mnt-by:             TMIT-MNT
+status:             ASSIGNED
+cidr:               172.23.124.0/27
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.105.96/28
+origin:             AS4242421913
+mnt-by:             SHOGHI-MNT
+source:             DN42

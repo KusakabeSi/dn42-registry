@@ -1,0 +1,4 @@
+route:              172.20.232.96/27
+origin:             AS4242421415
+mnt-by:             BENJI-MNT
+source:             DN42

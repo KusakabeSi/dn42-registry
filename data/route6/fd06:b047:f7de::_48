@@ -1,0 +1,6 @@
+route6:             fd06:b047:f7de::/48
+origin:             AS64872
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: hilden
+mnt-by:             DN42-MNT
+source:             ICVPN

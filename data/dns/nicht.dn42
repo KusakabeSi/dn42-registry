@@ -1,0 +1,6 @@
+domain:             nicht.dn42
+admin-c:            GIGA-DN42
+tech-c:             GIGA-DN42
+mnt-by:             GIGA-MNT
+nserver:            ns1.giga.dn42
+source:             DN42

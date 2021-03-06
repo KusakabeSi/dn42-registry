@@ -1,0 +1,7 @@
+domain:             lossy-network.dn42
+nserver:            ns2.lossy-network.dn42 172.23.42.2
+nserver:            ns2.lossy-network.dn42 fd42:23:42:b200::1
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+source:             DN42

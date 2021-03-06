@@ -1,0 +1,5 @@
+route6:             fdf7:17d5:de49:f::/64
+descr:              WEITI-SERVICE-NETWORK-01
+origin:             AS4242423907
+mnt-by:             WEITI-MNT
+source:             DN42

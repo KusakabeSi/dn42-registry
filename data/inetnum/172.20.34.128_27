@@ -1,0 +1,8 @@
+inetnum:            172.20.34.128 - 172.20.34.159
+cidr:               172.20.34.128/27
+netname:            ESCAMBEAU-NETWORK
+admin-c:            ESCAMBEAU-DN42
+tech-c:             ESCAMBEAU-DN42
+mnt-by:             ESCAMBEAU-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdea:1d13:b804::/48
+origin:             AS4242420149
+mnt-by:             NIRF-MNT
+source:             DN42

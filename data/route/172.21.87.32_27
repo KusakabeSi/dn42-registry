@@ -1,0 +1,5 @@
+route:              172.21.87.32/27
+descr:              Locodog-Route-1st
+origin:             AS4242420190
+mnt-by:             LDG1-MNT
+source:             DN42

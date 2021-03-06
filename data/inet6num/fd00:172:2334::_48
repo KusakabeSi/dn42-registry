@@ -1,0 +1,10 @@
+inet6num:           fd00:0172:2334:0000:0000:0000:0000:0000 - fd00:0172:2334:ffff:ffff:ffff:ffff:ffff
+netname:            SOSG-IPV6-A
+descr:              SOSG IPv6 Region A
+country:            DE
+admin-c:            KYON-DN42
+tech-c:             KYON-DN42
+mnt-by:             KYON-MNT
+status:             ASSIGNED
+cidr:               fd00:172:2334::/48
+source:             DN42

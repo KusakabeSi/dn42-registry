@@ -1,0 +1,9 @@
+inet6num:           fd71:2bc7:20dc:0000:0000:0000:0000:0000 - fd71:2bc7:20dc:ffff:ffff:ffff:ffff:ffff
+cidr:               fd71:2bc7:20dc::/48
+netname:            ARCH-NET-1
+descr:              ARCH inc. (not really) main network
+admin-c:            ARCH-DN42
+tech-c:             ARCH-DN42
+mnt-by:             ARCH-MNT
+status:             ASSIGNED
+source:             DN42

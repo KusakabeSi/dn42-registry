@@ -1,0 +1,9 @@
+inetnum:            172.23.230.64 - 172.23.230.127
+cidr:               172.23.230.64/26
+netname:            NETSPEEDY-NET
+descr:              DN42 Netspeedy CORE
+admin-c:            MAJESTIC-DN42
+tech-c:             MAJESTIC-DN42
+mnt-by:             NETSPEEDY-MNT
+status:             ASSIGNED
+source:             DN42

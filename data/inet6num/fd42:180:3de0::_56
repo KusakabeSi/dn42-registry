@@ -1,0 +1,7 @@
+inet6num:           fd42:0180:3de0:0000:0000:0000:0000:0000 - fd42:0180:3de0:00ff:ffff:ffff:ffff:ffff
+netname:            NET-DNSMASTERS6-DN42
+descr:              DN42 DNS Masters
+mnt-by:             DN42-MNT
+status:             ALLOCATED PI
+cidr:               fd42:180:3de0::/56
+source:             DN42

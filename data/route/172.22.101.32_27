@@ -1,0 +1,4 @@
+route:              172.22.101.32/27
+origin:             AS4242421717
+mnt-by:             DGHUBBLE-MNT
+source:             DN42

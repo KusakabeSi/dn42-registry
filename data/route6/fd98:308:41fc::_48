@@ -1,0 +1,5 @@
+route6:             fd98:308:41fc::/48
+origin:             AS4242420308
+max-length:         48
+mnt-by:             VILLISEK-MNT
+source:             DN42

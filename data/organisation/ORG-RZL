@@ -1,0 +1,15 @@
+organisation:       ORG-RZL
+org-name:           RaumZeitLabor e.V.
+e-mail:             info@raumzeitlabor.de
+abuse-mailbox:      netzwerk@raumzeitlabor.de
+www:                https://raumzeitlabor.de
+phone:              +49 621 7623 1370
+phone:              sip:4795@hg.eventphone.de
+address:            Boveristraße 22-24
+address:            68309 Mannheim
+address:            Germany
+geoloc:             49.508104 8.499421
+mnt-by:             LUTOMA-MNT
+mnt-by:             DOCSTEEL-MNT
+mnt-by:             HAX404-MNT
+source:             DN42

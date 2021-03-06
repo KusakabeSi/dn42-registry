@@ -1,0 +1,17 @@
+organisation:       ORG-IIIDEFIX
+org-name:           iiidefix
+language:           DE
+remarks:            +- Welcome to ----------------------------------------+
+remarks:            |             _ _ _     _       __ _                  |
+remarks:            |            (_)_)_)   | |     / _)_)                 |
+remarks:            |             _ _ _  __| | ___| |_ _ _  _             |
+remarks:            |            | | | |/ _` |/ _ \  _) | \/ )            |
+remarks:            |            | | | | (_| |  __/ | | |)  (             |
+remarks:            |            |_|_|_|\__,_|\___)_| |_|_/\_)            |
+remarks:            |                                                     |
+remarks:            |     the independent intelligent interconnected      |
+remarks:            +- distribution environment for information eXchange -+
+admin-c:            IIIDEFIX-DN42
+tech-c:             IIIDEFIX-DN42
+mnt-by:             IIIDEFIX-MNT
+source:             DN42

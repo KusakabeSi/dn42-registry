@@ -1,0 +1,13 @@
+inet6num:           fda6:2474:15a4:0000:0000:0000:0000:0000 - fda6:2474:15a4:ffff:ffff:ffff:ffff:ffff
+cidr:               fda6:2474:15a4::/48
+netname:            HEXANET-NETWORK
+descr:              HEXANET Network
+admin-c:            HEXAWOLF-DN42
+tech-c:             FOXCPP-DN42
+org:                ORG-HEXANET
+country:            UA
+nserver:            ns1.hex.dn42
+ds-rdata:           47871 15 2 0e57df94f53f8f7e904bcb71543833b74ed90993367c80b2b39f6090a570c8b5
+mnt-by:             HEXANET-MNT
+status:             ASSIGNED
+source:             DN42

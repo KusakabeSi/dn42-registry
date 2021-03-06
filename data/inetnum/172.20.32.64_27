@@ -1,0 +1,8 @@
+inetnum:            172.20.32.64 - 172.20.32.95
+cidr:               172.20.32.64/27
+netname:            CKL-NETWORK
+admin-c:            CKL-DN42
+tech-c:             CKL-DN42
+mnt-by:             CKL-MNT
+status:             ASSIGNED
+source:             DN42

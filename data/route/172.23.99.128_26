@@ -1,0 +1,4 @@
+route:              172.23.99.128/26
+origin:             AS4242420731
+mnt-by:             BECKFAN-MNT
+source:             DN42

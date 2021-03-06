@@ -1,0 +1,10 @@
+inetnum:            172.23.120.0 - 172.23.120.15
+netname:            BYLUKE-NETWORK
+descr:              Network of byLuke
+country:            NL
+admin-c:            LUKEREIJ-DN42
+tech-c:             LUKEREIJ-DN42
+mnt-by:             BYLUKE-MNT
+status:             ASSIGNED
+cidr:               172.23.120.0/28
+source:             DN42

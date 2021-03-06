@@ -1,0 +1,4 @@
+route:              172.20.34.160/28
+origin:             AS4242420799
+mnt-by:             ALWAYSLIVID-MNT
+source:             DN42

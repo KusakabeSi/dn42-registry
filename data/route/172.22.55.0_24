@@ -1,0 +1,5 @@
+route:              172.22.55.0/24
+descr:              downhill's dn42 network
+origin:             AS64655
+mnt-by:             DUMMY-MNT
+source:             DN42

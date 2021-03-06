@@ -1,0 +1,4 @@
+route:              172.20.42.128/29
+origin:             AS4242421958
+mnt-by:             FLAMESRUNNER-MNT
+source:             DN42

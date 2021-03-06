@@ -1,0 +1,4 @@
+route:              172.22.114.112/28
+origin:             AS4242423371
+mnt-by:             BAT-MNT
+source:             DN42

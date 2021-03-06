@@ -1,0 +1,10 @@
+inetnum:            172.20.18.64 - 172.20.18.95
+netname:            MOHO-NETWORK
+descr:              moho's first network
+country:            DE
+admin-c:            MOHO-DN42
+tech-c:             MOHO-DN42
+mnt-by:             MOHO-MNT
+status:             ASSIGNED
+cidr:               172.20.18.64/27
+source:             DN42

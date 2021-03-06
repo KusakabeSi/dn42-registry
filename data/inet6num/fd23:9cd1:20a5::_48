@@ -1,0 +1,10 @@
+inet6num:           fd23:9cd1:20a5:0000:0000:0000:0000:0000 - fd23:9cd1:20a5:ffff:ffff:ffff:ffff:ffff
+netname:            RAPID-NINJA-000-NETWORK6
+descr:              RAPID NINJA NETWORK6 000
+country:            US
+admin-c:            ALJAMA-DN42
+tech-c:             ALJAMA-DN42
+mnt-by:             RAPID-NINJA-MNT
+status:             ASSIGNED PA
+cidr:               fd23:9cd1:20a5::/48
+source:             DN42

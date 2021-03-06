@@ -1,0 +1,4 @@
+route:              172.23.37.0/27
+origin:             AS4242422339
+mnt-by:             NOCTIS-MNT
+source:             DN42

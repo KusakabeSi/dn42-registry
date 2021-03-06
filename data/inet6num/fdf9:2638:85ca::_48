@@ -1,0 +1,12 @@
+inet6num:           fdf9:2638:85ca:0000:0000:0000:0000:0000 - fdf9:2638:85ca:ffff:ffff:ffff:ffff:ffff
+netname:            BULLYCAMPER-IP6-NET
+descr:              besser
+country:            DE
+admin-c:            BULLYCAMPER-DN42
+tech-c:             BULLYCAMPER-DN42
+mnt-by:             BULLYCAMPER-MNT
+nserver:            ns1.event.dn42
+nserver:            ns2.event.dn42
+status:             ASSIGNED
+cidr:               fdf9:2638:85ca::/48
+source:             DN42

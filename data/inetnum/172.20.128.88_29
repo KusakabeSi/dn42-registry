@@ -1,0 +1,9 @@
+inetnum:            172.20.128.88 - 172.20.128.95
+netname:            JULEZ-XFER
+country:            DE
+admin-c:            JULEZ-DN42
+tech-c:             JULEZ-DN42
+mnt-by:             JULEZ-MNT
+status:             ASSIGNED
+cidr:               172.20.128.88/29
+source:             DN42

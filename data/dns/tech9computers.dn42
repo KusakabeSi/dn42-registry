@@ -1,0 +1,9 @@
+domain:             tech9computers.dn42
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+nserver:            ns1.tech9computers.dn42 172.20.16.130
+nserver:            ns1.tech9computers.dn42 fdc8:c633:5319:800::1
+nserver:            ns2.tech9computers.dn42 172.20.16.131
+nserver:            ns2.tech9computers.dn42 fdc8:c633:5319:800::1
+source:             DN42

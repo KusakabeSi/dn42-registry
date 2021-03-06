@@ -1,0 +1,10 @@
+inetnum:            172.20.183.32 - 172.20.183.39
+netname:            RSDOHERTY-DMZ-NETWORK
+descr:              RSDOHERTY-DMZ-NETWORK
+country:            GB
+admin-c:            RSDOHERTY-DN42
+tech-c:             RSDOHERTY-DN42
+mnt-by:             RSDOHERTY-MNT
+status:             ASSIGNED
+cidr:               172.20.183.32/29
+source:             DN42

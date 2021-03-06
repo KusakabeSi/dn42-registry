@@ -1,0 +1,8 @@
+inet6num:           fdfc:44e4:146e:8f69:0000:0000:0000:0000 - fdfc:44e4:146e:8f69:ffff:ffff:ffff:ffff
+cidr:               fdfc:44e4:146e:8f69::/64
+netname:            HATO-NETWORK
+admin-c:            HATO-DN42
+tech-c:             HATO-DN42
+mnt-by:             HATO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.224.128 - 172.20.224.191
+cidr:               172.20.224.128/26
+netname:            OCEANLY-NETWORK
+admin-c:            SEAN-DN42
+tech-c:             SEAN-DN42
+mnt-by:             OCEANLY-MNT
+status:             ASSIGNED
+nserver:            ns1.oceanly.dn42
+nserver:            ns2.oceanly.dn42
+source:             DN42

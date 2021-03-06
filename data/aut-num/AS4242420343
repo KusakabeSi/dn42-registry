@@ -1,0 +1,7 @@
+aut-num:            AS4242420343
+as-name:            PEER-AS
+descr:              peer-as
+admin-c:            PEER-DN42
+tech-c:             PEER-DN42
+mnt-by:             PEER-MNT
+source:             DN42

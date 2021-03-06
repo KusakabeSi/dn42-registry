@@ -1,0 +1,12 @@
+inetnum:            172.20.190.128 - 172.20.190.255
+netname:            DRATHIR-DN42-EU-INET
+descr:              DRATHIR-DN42-EU-INET
+country:            EU
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+nserver:            ns1.drathir.dn42
+nserver:            ns2.drathir.dn42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.190.128/25
+source:             DN42

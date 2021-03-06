@@ -1,0 +1,11 @@
+inet6num:           fdbb:baba:2468:0000:0000:0000:0000:0000 - fdbb:baba:2468:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbb:baba:2468::/48
+netname:            BAUEN1-NETWORK-IPV6
+descr:              bauen1 network ipv6
+country:            DE
+admin-c:            BAUEN1-DN42
+tech-c:             BAUEN1-DN42
+mnt-by:             BAUEN1-MNT
+nserver:            ns1.bnet.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+as-set:             AS-SNOW-IX
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+members:            AS4242420230
+members:            AS4242420231
+members:            AS4242420232
+source:             DN42

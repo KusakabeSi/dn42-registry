@@ -1,0 +1,6 @@
+route:              172.20.239.192/27
+origin:             AS4242422439
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MNT
+source:             DN42

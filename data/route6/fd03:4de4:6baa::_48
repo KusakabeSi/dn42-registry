@@ -1,0 +1,4 @@
+route6:             fd03:4de4:6baa::/48
+origin:             AS4242420309
+mnt-by:             HIGHER-MNT
+source:             DN42

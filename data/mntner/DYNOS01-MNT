@@ -1,0 +1,6 @@
+mntner:             DYNOS01-MNT
+admin-c:            DYNOS01-DN42
+tech-c:             DYNOS01-DN42
+mnt-by:             DYNOS01-MNT
+auth:               pgp-fingerprint C9868FF182D7480DC43F6CB35C20291110F05188
+source:             DN42

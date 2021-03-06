@@ -1,0 +1,9 @@
+inetnum:            172.21.113.192 - 172.21.113.223
+netname:            JUNJUN-NET
+descr:              JUNJUN NET
+admin-c:            JUNJUN-DN42
+tech-c:             JUNJUN-DN42
+mnt-by:             JUNJUN-MNT
+status:             ASSIGNED
+cidr:               172.21.113.192/27
+source:             DN42

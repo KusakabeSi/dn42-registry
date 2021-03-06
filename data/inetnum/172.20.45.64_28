@@ -1,0 +1,10 @@
+inetnum:            172.20.45.64 - 172.20.45.79
+netname:            XICON-NET
+descr:              xicon test network
+country:            DE
+admin-c:            XICONFJS-DN42
+tech-c:             XICONFJS-DN42
+mnt-by:             XICON-MNT
+status:             ASSIGNED
+cidr:               172.20.45.64/28
+source:             DN42

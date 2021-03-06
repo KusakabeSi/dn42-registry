@@ -1,0 +1,12 @@
+inet6num:           fd01:5e19:11e1:0000:0000:0000:0000:0000 - fd01:5e19:11e1:ffff:ffff:ffff:ffff:ffff
+netname:            KAI-NET
+descr:              IPv6 NETWORK
+country:            HK
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.as4242422506.dn42
+nserver:            ns1.fastnameserver.eu
+status:             ASSIGNED
+cidr:               fd01:5e19:11e1::/48
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            172.31.1.71 - 172.31.1.71
+cidr:               172.31.1.71/32
+netname:            CHAOSVPN-ILMBEAT
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

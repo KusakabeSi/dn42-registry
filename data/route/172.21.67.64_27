@@ -1,0 +1,4 @@
+route:              172.21.67.64/27
+origin:             AS4242420807
+mnt-by:             RHM-MNT
+source:             DN42

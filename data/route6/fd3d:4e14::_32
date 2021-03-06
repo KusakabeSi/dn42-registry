@@ -1,0 +1,5 @@
+route6:             fd3d:4e14::/32
+descr:              Route to own IPv6
+origin:             AS4242421339
+mnt-by:             TWINK0R-MNT
+source:             DN42

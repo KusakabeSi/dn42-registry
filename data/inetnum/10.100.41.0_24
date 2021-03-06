@@ -1,0 +1,7 @@
+inetnum:            10.100.41.0 - 10.100.41.255
+cidr:               10.100.41.0/24
+netname:            CHAOSVPN-ARMITAGE
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

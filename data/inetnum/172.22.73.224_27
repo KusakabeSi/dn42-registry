@@ -1,0 +1,10 @@
+inetnum:            172.22.73.224 - 172.22.73.255
+netname:            FUSL-DN42-IPV4-IT-MIL-A
+descr:              FUSL-DN42-IPV4-IT-MIL-A
+country:            IT
+admin-c:            FUSL-DN42
+tech-c:             FUSL-DN42
+mnt-by:             FUSL-MNT
+status:             ASSIGNED
+cidr:               172.22.73.224/27
+source:             DN42

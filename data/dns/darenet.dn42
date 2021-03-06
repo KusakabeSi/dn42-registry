@@ -1,0 +1,10 @@
+domain:             darenet.dn42
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+nserver:            ns1.darenet.dn42 172.23.101.200
+nserver:            ns1.darenet.dn42 fdc7:d436:6765:53::1
+nserver:            ns2.darenet.dn42 172.23.101.201
+nserver:            ns2.darenet.dn42 fdc7:d436:6765:53::2
+org:                ORG-DARENET
+source:             DN42

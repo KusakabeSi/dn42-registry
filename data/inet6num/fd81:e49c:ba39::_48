@@ -1,0 +1,10 @@
+inet6num:           fd81:e49c:ba39:0000:0000:0000:0000:0000 - fd81:e49c:ba39:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:e49c:ba39::/48
+netname:            TW-NETWORK
+descr:              Network of gene396302
+country:            TW
+admin-c:            GK-DN42
+tech-c:             GK-DN42
+mnt-by:             TW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.20.131.128 - 172.20.131.255
+netname:            LISUX-NETWORK
+descr:              Network of LISUX
+country:            TW
+admin-c:            LISUX-DN42
+tech-c:             LISUX-DN42
+mnt-by:             LISUX-MNT
+nserver:            ns1.liusx.dn42
+nserver:            ns1.lisux.dn42
+status:             ASSIGNED
+cidr:               172.20.131.128/25
+source:             DN42

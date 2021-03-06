@@ -1,0 +1,6 @@
+domain:             szf.dn42
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+nserver:            ns1.szf.dn42 172.20.161.130
+source:             DN42

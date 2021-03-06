@@ -1,0 +1,10 @@
+inet6num:           fd07:0369:6502:0000:0000:0000:0000:0000 - fd07:0369:6502:ffff:ffff:ffff:ffff:ffff
+cidr:               fd07:369:6502::/48
+netname:            C0GT3N-NETWORK
+descr:              Network of c0g1tat10_tenebr1s
+country:            RO
+admin-c:            C0GT3N-DN42
+tech-c:             C0GT3N-DN42
+mnt-by:             C0GT3N-MNT
+status:             ASSIGNED
+source:             DN42

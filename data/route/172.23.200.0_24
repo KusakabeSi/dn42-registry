@@ -1,0 +1,4 @@
+route:              172.23.200.0/24
+origin:             AS4242421271
+mnt-by:             FOOKER-MNT
+source:             DN42

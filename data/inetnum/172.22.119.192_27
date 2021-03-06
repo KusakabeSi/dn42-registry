@@ -1,0 +1,9 @@
+inetnum:            172.22.119.192 - 172.22.119.223
+cidr:               172.22.119.192/27
+netname:            CLUTTERBOX-NETWORK
+descr:              clutterbox IPv4 Net
+admin-c:            CLUTTERBOX-DN42
+tech-c:             CLUTTERBOX-DN42
+mnt-by:             CLUTTERBOX-MNT
+status:             ASSIGNED
+source:             DN42

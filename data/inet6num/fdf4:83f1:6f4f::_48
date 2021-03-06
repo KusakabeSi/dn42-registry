@@ -1,0 +1,10 @@
+inet6num:           fdf4:83f1:6f4f:0000:0000:0000:0000:0000 - fdf4:83f1:6f4f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf4:83f1:6f4f::/48
+country:            CY
+descr:              QLEAN-NETWORK
+netname:            QLEAN-NET
+admin-c:            QLEAN-DN42
+tech-c:             QLEAN-DN42
+mnt-by:             QLEAN-MNT
+status:             ASSIGNED
+source:             DN42

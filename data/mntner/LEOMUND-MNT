@@ -1,0 +1,6 @@
+mntner:             LEOMUND-MNT
+admin-c:            LEOMUND-DN42
+tech-c:             LEOMUND-DN42
+mnt-by:             LEOMUND-MNT
+source:             DN42
+auth:               pgp-fingerprint 66A24995355BC21C31B4ED58E28CFC52BCB61934

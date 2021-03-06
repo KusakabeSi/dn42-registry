@@ -1,0 +1,10 @@
+mntner:             KLARA-MNT
+admin-c:            KLARA-DN42
+tech-c:             KLARA-DN42
+mnt-by:             KLARA-MNT
+source:             DN42
+auth:               pgp-fingerprint 2FA78EF1B31530EEF95A71A3936EF822625DD9EF
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID12lJ6ZTJwF83EzvhfYBzZM/xrdLe3+2vl96qeh2Gwz
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGWHA/R2JEDtT5mdq8xebthlir7FvdTlezsqA0YRSfKU
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID12lJ6ZTJwF83EzvhfYBzZM/xrdLe3+2vl96qeh2Gwz
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGWHA/R2JEDtT5mdq8xebthlir7FvdTlezsqA0YRSfKU

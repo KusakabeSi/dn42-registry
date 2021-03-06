@@ -1,0 +1,10 @@
+inet6num:           fd25:af2d:1f51:0000:0000:0000:0000:0000 - fd25:af2d:1f51:ffff:ffff:ffff:ffff:ffff
+cidr:               fd25:af2d:1f51::/48
+netname:            W1KL4S-V6-NET
+admin-c:            W1KL4S-DN42
+tech-c:             W1KL4S-DN42
+mnt-by:             W1KL4S-MNT
+status:             ASSIGNED
+nserver:            ns1.w1kl4s.dn42
+nserver:            ns2.w1kl4s.dn42
+source:             DN42

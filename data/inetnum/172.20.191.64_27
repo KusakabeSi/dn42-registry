@@ -1,0 +1,11 @@
+inetnum:            172.20.191.64 - 172.20.191.95
+cidr:               172.20.191.64/27
+netname:            TCDUE-NET4-01
+descr:              Network of TCDUE
+country:            DE
+admin-c:            TCDUE-DN42
+tech-c:             TCDUE-DN42
+mnt-by:             TCDUE-MNT
+nserver:            dns.tcdue.dn42
+status:             ASSIGNED
+source:             DN42

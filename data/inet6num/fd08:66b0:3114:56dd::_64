@@ -1,0 +1,10 @@
+inet6num:           fd08:66b0:3114:56dd:0000:0000:0000:0000 - fd08:66b0:3114:56dd:ffff:ffff:ffff:ffff
+cidr:               fd08:66b0:3114:56dd::/64
+netname:            CLEMENTD-NETWORK
+descr:              Network of CLEMENTD
+country:            FR
+admin-c:            CLEMENTD-DN42
+tech-c:             CLEMENTD-DN42
+mnt-by:             CLEMENTD-MNT
+status:             ASSIGNED
+source:             DN42

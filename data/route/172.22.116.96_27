@@ -1,0 +1,4 @@
+route:              172.22.116.96/27
+origin:             AS4242421324
+mnt-by:             BRADLEYCLAUS-MNT
+source:             DN42

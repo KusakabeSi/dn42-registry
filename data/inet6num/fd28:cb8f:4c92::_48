@@ -1,0 +1,12 @@
+inet6num:           fd28:cb8f:4c92:0000:0000:0000:0000:0000 - fd28:cb8f:4c92:ffff:ffff:ffff:ffff:ffff
+netname:            KSKB-IPV6
+descr:              Peer with me at mailto:dn42@kskb.eu.org or https://t.me/KusakabeSi
+country:            TW
+admin-c:            KSKB-DN42
+tech-c:             KSKB-DN42
+mnt-by:             KSKB-MNT
+nserver:            ns1.kskb.dn42
+nserver:            ns2.kskb.dn42
+status:             ASSIGNED
+cidr:               fd28:cb8f:4c92::/48
+source:             DN42

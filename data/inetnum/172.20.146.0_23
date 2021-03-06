@@ -1,0 +1,11 @@
+inetnum:            172.20.146.0 - 172.20.147.255
+netname:            SKORPY-23-2
+descr:              ..k
+country:            DE
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-lower:          SKORPY-MNT
+mnt-by:             SKORPY-MNT
+status:             ALLOCATED PA
+cidr:               172.20.146.0/23
+source:             DN42

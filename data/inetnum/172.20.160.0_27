@@ -1,0 +1,11 @@
+inetnum:            172.20.160.0 - 172.20.160.31
+netname:            LINE-NETWORK
+descr:              Primary
+country:            NZ
+admin-c:            LINE-DN42
+tech-c:             LINE-DN42
+mnt-by:             LINE-MNT
+nserver:            line.nz
+status:             ASSIGNED
+cidr:               172.20.160.0/27
+source:             DN42

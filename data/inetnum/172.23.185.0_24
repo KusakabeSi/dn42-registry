@@ -1,0 +1,12 @@
+inetnum:            172.23.185.0 - 172.23.185.255
+netname:            POLYNOME-SERVICES-DN42
+descr:              polynome's address space for services
+nserver:            topeka.polynome.dn42
+nserver:            chateau.polynome.dn42
+nserver:            beta.synhacx.dn42
+admin-c:            POLYNOME-DN42
+tech-c:             POLYNOME-DN42
+mnt-by:             POLYNOME-MNT
+status:             ASSIGNED
+cidr:               172.23.185.0/24
+source:             DN42

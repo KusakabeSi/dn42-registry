@@ -1,0 +1,11 @@
+inetnum:            172.20.4.112 - 172.20.4.127
+netname:            LEOMUND-IPV4
+remarks:            Peer with me at leomundspedoske@gmail.com
+descr:              Peer with me at leomundspedoske@gmail.com
+country:            CN
+admin-c:            LEOMUND-DN42
+tech-c:             LEOMUND-DN42
+mnt-by:             LEOMUND-MNT
+status:             ASSIGNED
+cidr:               172.20.4.112/28
+source:             DN42

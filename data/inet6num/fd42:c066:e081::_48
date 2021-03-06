@@ -1,0 +1,10 @@
+inet6num:           fd42:c066:e081:0000:0000:0000:0000:0000 - fd42:c066:e081:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:c066:e081::/48
+netname:            ZYRA-NETWORK
+descr:              Zyradyl's Network's IPv6 Allocation
+country:            US
+admin-c:            ZYRADYL-DN42
+tech-c:             ZYRADYL-DN42
+mnt-by:             ZYRADYL-MNT
+status:             ASSIGNED
+source:             DN42

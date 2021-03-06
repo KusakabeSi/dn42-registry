@@ -1,0 +1,11 @@
+inet6num:           fdf8:7e7f:d097:0000:0000:0000:0000:0000 - fdf8:7e7f:d097:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:7e7f:d097::/48
+netname:            N0EMIS-NETWORK-CCCGOE
+descr:              Network of N0EMIS; used by CCCGoe
+country:            DE
+admin-c:            N0EMIS-DN42
+tech-c:             N0EMIS-DN42
+mnt-by:             N0EMIS-MNT
+status:             ASSIGNED
+nserver:            ns1.n0emis.dn42
+source:             DN42

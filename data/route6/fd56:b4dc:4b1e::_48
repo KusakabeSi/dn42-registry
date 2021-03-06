@@ -1,0 +1,6 @@
+route6:             fd56:b4dc:4b1e::/48
+origin:             AS65037
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: mwu
+mnt-by:             DN42-MNT
+source:             ICVPN

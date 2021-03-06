@@ -1,0 +1,8 @@
+domain:             aftbit.dn42
+descr:              aftbit
+admin-c:            AFTBIT-DN42
+tech-c:             AFTBIT-DN42
+mnt-by:             AFTBIT-MNT
+nserver:            ns1.aftbit.dn42 172.23.222.130
+nserver:            ns1.aftbit.dn42 fd42:ab17:ab17:1::1
+source:             DN42

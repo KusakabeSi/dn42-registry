@@ -1,0 +1,9 @@
+inet6num:           fd9d:5e08:b9f9:0000:0000:0000:0000:0000 - fd9d:5e08:b9f9:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IPV6-IRL
+country:            DE
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             IRL-MNT
+status:             ALLOCATED
+cidr:               fd9d:5e08:b9f9::/48
+source:             DN42

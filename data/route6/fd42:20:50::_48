@@ -1,0 +1,4 @@
+route6:             fd42:20:50::/48
+origin:             AS4242423723
+mnt-by:             KRSTN-MNT
+source:             DN42

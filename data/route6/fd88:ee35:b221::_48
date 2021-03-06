@@ -1,0 +1,5 @@
+route6:             fd88:ee35:b221::/48
+origin:             AS4242423679
+max-length:         48
+mnt-by:             SHEEPBREW-MNT
+source:             DN42

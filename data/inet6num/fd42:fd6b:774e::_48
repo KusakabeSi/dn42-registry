@@ -1,0 +1,8 @@
+inet6num:           fd42:fd6b:774e:0000:0000:0000:0000:0000 - fd42:fd6b:774e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:fd6b:774e::/48
+netname:            TIMK-NET-1
+admin-c:            TIMK-DN42
+tech-c:             TIMK-DN42
+mnt-by:             TIMK-MNT
+status:             ASSIGNED
+source:             DN42

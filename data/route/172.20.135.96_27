@@ -1,0 +1,4 @@
+route:              172.20.135.96/27
+origin:             AS4242420165
+mnt-by:             ZAICA-MNT
+source:             DN42

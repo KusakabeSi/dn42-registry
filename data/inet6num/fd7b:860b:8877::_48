@@ -1,0 +1,12 @@
+inet6num:           fd7b:860b:8877:0000:0000:0000:0000:0000 - fd7b:860b:8877:ffff:ffff:ffff:ffff:ffff
+netname:            S3ROOT-NETWORK
+descr:              Network of S3ROOT
+country:            FR
+admin-c:            BENLUE-DN42
+tech-c:             BENLUE-DN42
+mnt-by:             BENLUE-MNT
+nserver:            ns1.s3root.dn42
+nserver:            ns2.s3root.dn42
+status:             ASSIGNED
+cidr:               fd7b:860b:8877::/48
+source:             DN42

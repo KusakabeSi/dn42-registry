@@ -1,0 +1,4 @@
+route:              172.22.127.64/27
+origin:             AS4242422227
+mnt-by:             WXMN-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             aotoki.dn42
+admin-c:            AOTOKI-DN42
+tech-c:             AOTOKI-DN42
+mnt-by:             AOTOKI-MNT
+nserver:            ns.aotoki.dn42 172.20.160.64
+nserver:            ns.aotoki.dn42 fd42:0568:127c::1
+source:             DN42

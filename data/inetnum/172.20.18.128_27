@@ -1,0 +1,10 @@
+inetnum:            172.20.18.128 - 172.20.18.159
+netname:            NET-WHSINTH
+nserver:            ns1.whs.dn42
+country:            TH
+admin-c:            WHS-DN42
+tech-c:             WHS-DN42
+mnt-by:             WHS-MNT
+status:             ASSIGNED
+cidr:               172.20.18.128/27
+source:             DN42

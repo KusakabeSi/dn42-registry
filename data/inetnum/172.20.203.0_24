@@ -1,0 +1,11 @@
+inetnum:            172.20.203.0 - 172.20.203.255
+netname:            FLAT-CLOUD-NET
+country:            GB
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             ANA-MNT
+mnt-by:             IRL-MNT
+nserver:            ns1.flat.dn42
+status:             ASSIGNED
+cidr:               172.20.203.0/24
+source:             DN42

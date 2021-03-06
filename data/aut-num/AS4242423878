@@ -1,0 +1,7 @@
+aut-num:            AS4242423878
+as-name:            JELLYCHOU-AS
+descr:              Jelly Chou's Main network, open to peering.
+admin-c:            JELLYCHOU-DN42
+tech-c:             JELLYCHOU-DN42
+mnt-by:             JELLYCHOU-MNT
+source:             DN42

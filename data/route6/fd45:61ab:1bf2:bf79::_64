@@ -1,0 +1,6 @@
+route6:             fd45:61ab:1bf2:bf79::/64
+mnt-by:             SEEK42-MNT
+origin:             AS4242423642
+admin-c:            SEEK42-DN42
+tech-c:             SEEK42-DN42
+source:             DN42

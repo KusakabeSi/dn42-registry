@@ -1,0 +1,10 @@
+inetnum:            172.22.255.176 - 172.22.255.191
+netname:            TINC-IX-2-NET
+descr:              Tinc-IX-2 network
+remarks:            tinc-hosts:        SET-2-DN42-TINC
+admin-c:            DOWNHILL-DN42
+tech-c:             DOWNHILL-DN42
+mnt-by:             DUMMY-MNT
+status:             ASSIGNED
+cidr:               172.22.255.176/28
+source:             DN42

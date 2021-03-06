@@ -1,0 +1,11 @@
+inetnum:            172.22.158.192 - 172.22.158.223
+netname:            LOSTSERVER-NET1
+org:                ORG-LOSTSERVER
+country:            US
+admin-c:            LOSTNOC-DN42
+tech-c:             LOSTNOC-DN42
+mnt-by:             LOSTSERVER-MNT
+nserver:            spartan.lostserver.dn42
+status:             ASSIGNED
+cidr:               172.22.158.192/27
+source:             DN42

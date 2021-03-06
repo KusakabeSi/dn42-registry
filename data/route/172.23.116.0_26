@@ -1,0 +1,5 @@
+route:              172.23.116.0/26
+descr:              VL Main Network
+origin:             AS4242420905
+mnt-by:             VOIDLABS-MNT
+source:             DN42

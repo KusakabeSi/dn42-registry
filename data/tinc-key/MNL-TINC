@@ -1,0 +1,15 @@
+tinc-key:           MNL-TINC
+tinc-host:          aphrodite
+compression:        9
+tinc-file:          
+                    Compression=9    -- optional
+                    Subnet=172.22.255.182/32
+                    Address=80.244.247.134
+                    Port=655
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIGJAoGBAMsweu9/G5jfPnVVAJ6sRvgE/A59UGMylwlXvBVPYWxZqdyXkGT/aRj2
+                    Z72puZHbv0dhlgNmJYKmp2bhiHCS1YziKretnPedeK0XRFC/O8bccNKzwcG27lwK
+                    umnknTN93qyuSjAv1EoDJSHenY6Gm9E7Tgysn4mSLcK3l5yeA1/JAgMBAAE=
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

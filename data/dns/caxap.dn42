@@ -1,0 +1,9 @@
+domain:             caxap.dn42
+admin-c:            CAXAP-DN42
+tech-c:             CAXAP-DN42
+mnt-by:             CAXAP-MNT
+nserver:            ns1.caxap.dn42 172.20.132.33
+nserver:            ns1.caxap.dn42 fd95:bfa8:a5e2:2f28::1
+nserver:            ns2.caxap.dn42 172.20.132.34
+nserver:            ns2.caxap.dn42 fd95:bfa8:a5e2:2f28::2
+source:             DN42

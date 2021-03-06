@@ -1,0 +1,12 @@
+inet6num:           fd69:5293:27d3:0000:0000:0000:0000:0000 - fd69:5293:27d3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:5293:27d3::/48
+netname:            NFEED-NETWORK
+descr:              Network of nfeed
+country:            DE
+admin-c:            NFEED-DN42
+tech-c:             NFEED-DN42
+mnt-by:             NFEED-MNT
+nserver:            ns1.nfeed.dn42
+nserver:            ns2.nfeed.dn42
+status:             ASSIGNED
+source:             DN42

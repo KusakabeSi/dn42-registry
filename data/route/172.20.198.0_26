@@ -1,0 +1,7 @@
+route:              172.20.198.0/26
+descr:              Yuan Ze University Communications Research Center Network
+origin:             AS4242423850
+admin-c:            XINYUAN-DN42
+tech-c:             XINYUAN-DN42
+mnt-by:             XINYUAN-MNT
+source:             DN42

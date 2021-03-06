@@ -1,0 +1,9 @@
+inetnum:            172.20.227.192 - 172.20.227.223
+cidr:               172.20.227.192/27
+netname:            ILL-NETWORK
+admin-c:            ILL-DN42
+tech-c:             ILL-DN42
+mnt-by:             ILL-MNT
+nserver:            ns.illallangi.dn42
+status:             ASSIGNED
+source:             DN42

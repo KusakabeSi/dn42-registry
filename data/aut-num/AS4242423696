@@ -1,0 +1,7 @@
+aut-num:            AS4242423696
+as-name:            BISCUIT-AS
+descr:              AS Number for Biscuit
+admin-c:            BISCUIT-DN42
+tech-c:             BISCUIT-DN42
+mnt-by:             BISCUIT-MNT
+source:             DN42

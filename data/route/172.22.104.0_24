@@ -1,0 +1,4 @@
+route:              172.22.104.0/24
+origin:             AS4242422044
+mnt-by:             F4ZER-MNT
+source:             DN42

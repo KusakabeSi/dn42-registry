@@ -1,0 +1,11 @@
+inet6num:           fd59:54c0:0fab:0000:0000:0000:0000:0000 - fd59:54c0:0fab:ffff:ffff:ffff:ffff:ffff
+netname:            DARKIT-SPACE-IP6
+nserver:            ns1.dark-it.dn42
+descr:              DarkIT Space IPv6
+country:            DE
+admin-c:            DARKIT-DN42
+tech-c:             DARKIT-DN42
+mnt-by:             DARKIT-MNT
+status:             ASSIGNED
+cidr:               fd59:54c0:fab::/48
+source:             DN42

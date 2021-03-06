@@ -1,0 +1,5 @@
+route:              172.23.11.0/24
+descr:              Epoch's IPv4 route
+origin:             AS64526
+mnt-by:             EPOCH-MNT
+source:             DN42

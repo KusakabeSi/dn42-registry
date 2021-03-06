@@ -1,0 +1,5 @@
+route6:             fd89:e30d:4035::/48
+origin:             AS4242420710
+max-length:         48
+mnt-by:             BRUEGGUS-MNT
+source:             DN42

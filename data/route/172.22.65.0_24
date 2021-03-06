@@ -1,0 +1,7 @@
+route:              172.22.65.0/24
+descr:              Schrodinger's home network
+origin:             AS64665
+mnt-by:             SCHRODINGER-MNT
+remarks:            1425938004 Will readvertise soon once new peerings are established
+remarks:            1432424317 Reactivated.
+source:             DN42

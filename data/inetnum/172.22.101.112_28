@@ -1,0 +1,8 @@
+inetnum:            172.22.101.112 - 172.22.101.127
+cidr:               172.22.101.112/28
+netname:            ELISE-NETWORK
+admin-c:            ELISE-DN42
+tech-c:             ELISE-DN42
+mnt-by:             ELISE-MNT
+status:             ASSIGNED
+source:             DN42

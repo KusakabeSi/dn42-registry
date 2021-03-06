@@ -1,0 +1,4 @@
+route6:             fdd8:da7b:92f5::/48
+origin:             AS4242423621
+mnt-by:             TAILSNET-MNT
+source:             DN42

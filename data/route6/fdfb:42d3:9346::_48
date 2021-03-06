@@ -1,0 +1,5 @@
+route6:             fdfb:42d3:9346::/48
+origin:             AS4242421608
+max-length:         48
+mnt-by:             LEAH2-MNT
+source:             DN42

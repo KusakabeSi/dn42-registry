@@ -1,0 +1,4 @@
+route:              172.22.159.32/27
+origin:             AS4242422904
+mnt-by:             DOXZ-MNT
+source:             DN42

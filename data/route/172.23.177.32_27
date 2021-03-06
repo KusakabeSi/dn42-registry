@@ -1,0 +1,4 @@
+route:              172.23.177.32/27
+origin:             AS4242423236
+mnt-by:             CRUTH-MNT
+source:             DN42

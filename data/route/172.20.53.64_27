@@ -1,0 +1,4 @@
+route:              172.20.53.64/27
+origin:             AS4242422914
+mnt-by:             JSANDERS-MNT
+source:             DN42

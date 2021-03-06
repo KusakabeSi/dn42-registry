@@ -1,0 +1,5 @@
+route:              172.23.146.0/24
+descr:              Bodems IPv4
+origin:             AS76124
+mnt-by:             BODEMS-MNT
+source:             DN42

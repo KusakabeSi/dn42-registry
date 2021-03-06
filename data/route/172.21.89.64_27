@@ -1,0 +1,4 @@
+route:              172.21.89.64/27
+origin:             AS4242420828
+mnt-by:             R8-MNT
+source:             DN42

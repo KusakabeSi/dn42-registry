@@ -1,0 +1,6 @@
+route:              172.20.178.0/27
+origin:             AS4242423238
+admin-c:            NORNET-DN42
+tech-c:             NORNET-DN42
+mnt-by:             NORNET-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             PANKY-MNT
+admin-c:            PANKY-DN42
+tech-c:             PANKY-DN42
+mnt-by:             PANKY-MNT
+auth:               pgp-fingerprint 0C67200E6931DB82991DEEC7ED75524583046BF4
+source:             DN42

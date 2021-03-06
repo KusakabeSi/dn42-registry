@@ -1,0 +1,8 @@
+aut-num:            AS64636
+as-name:            RaumZeitLabor
+descr:              RaumZeitLabor hackerspace in Mannheim, Germany
+org:                ORG-RZL
+mnt-by:             LUTOMA-MNT
+mnt-by:             DOCSTEEL-MNT
+mnt-by:             HAX404-MNT
+source:             DN42

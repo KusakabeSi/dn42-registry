@@ -1,0 +1,4 @@
+route:              172.21.74.96/27
+origin:             AS4242422389
+mnt-by:             KYLE-MNT
+source:             DN42

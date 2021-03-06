@@ -1,0 +1,8 @@
+domain:             bold.dn42
+admin-c:            BOLD-DN42
+tech-c:             BOLD-DN42
+mnt-by:             BOLD-MNT
+nserver:            ns1.bold.dn42 172.22.118.62
+nserver:            ns1.bold.dn42 fd00:1996:726::712
+remarks:            DNS hosted by BOLD.dn42
+source:             DN42

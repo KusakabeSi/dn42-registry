@@ -1,0 +1,10 @@
+inetnum:            172.23.81.0 - 172.23.81.255
+netname:            DRAHTI-DN42-V4
+descr:              network of the Drahtigelgriller
+country:            DE
+admin-c:            DRAHTI-DN42
+tech-c:             DRAHTI-DN42
+mnt-by:             DRAHTI-MNT
+status:             ASSIGNED
+cidr:               172.23.81.0/24
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd5d:7bc7:ed1b:0000:0000:0000:0000:0000 - fd5d:7bc7:ed1b:ffff:ffff:ffff:ffff:ffff
+netname:            FML-NET-6
+descr:              FML-NET-6
+country:            DE
+admin-c:            FML1-DN42
+tech-c:             FML1-DN42
+mnt-by:             FML-MNT
+status:             ASSIGNED
+cidr:               fd5d:7bc7:ed1b::/48
+source:             DN42

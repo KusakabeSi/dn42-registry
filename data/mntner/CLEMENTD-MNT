@@ -1,0 +1,6 @@
+mntner:             CLEMENTD-MNT
+admin-c:            CLEMENTD-DN42
+tech-c:             CLEMENTD-DN42
+mnt-by:             CLEMENTD-MNT
+auth:               pgp-fingerprint 2E2DD7FF164D339E2BA3CDB60BB210F162813B16
+source:             DN42

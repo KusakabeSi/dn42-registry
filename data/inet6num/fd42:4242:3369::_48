@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:3369:0000:0000:0000:0000:0000 - fd42:4242:3369:ffff:ffff:ffff:ffff:ffff
+netname:            HARUKA-NET6BLK1
+descr:              Haruka Network IPv6 Block
+country:            CN
+admin-c:            HARUKA-DN42
+tech-c:             HARUKA-DN42
+mnt-by:             HARUKA-MNT
+nserver:            ns.haruka.dn42
+status:             ASSIGNED
+cidr:               fd42:4242:3369::/48
+source:             DN42

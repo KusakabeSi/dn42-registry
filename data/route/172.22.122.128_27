@@ -1,0 +1,4 @@
+route:              172.22.122.128/27
+origin:             AS4242421668
+mnt-by:             MALINDEX-MNT
+source:             DN42

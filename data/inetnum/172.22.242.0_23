@@ -1,0 +1,9 @@
+inetnum:            172.22.242.0 - 172.22.243.255
+netname:            JTROYBAILEY-NETWORKS-INET4
+country:            AU
+admin-c:            JTROYBAILEY-DN42
+tech-c:             JTROYBAILEY-DN42
+mnt-by:             JTROYBAILEY-MNT
+status:             ASSIGNED
+cidr:               172.22.242.0/23
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             tsys.dn42
+admin-c:            TSYS-DN42
+tech-c:             TSYS-DN42
+mnt-by:             TSYS-MNT
+nserver:            ns1.loaderror.de
+source:             DN42

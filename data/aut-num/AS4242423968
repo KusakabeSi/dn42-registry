@@ -1,0 +1,7 @@
+aut-num:            AS4242423968
+as-name:            ZEBMCCORKLE-NL-ASN
+descr:              This is (zebMcCorkle@hackint | keybase.io/zebmccorkle)'s Amsterdam server. 200Mbps up/down. Open to peering, send me an email or message me on IRC!
+admin-c:            ZEBMCCORKLE-DN42
+tech-c:             ZEBMCCORKLE-DN42
+mnt-by:             ZEBMCCORKLE-MNT
+source:             DN42

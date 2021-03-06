@@ -1,0 +1,10 @@
+inet6num:           fdbd:8e82:8b88:0000:0000:0000:0000:0000 - fdbd:8e82:8b88:ffff:ffff:ffff:ffff:ffff
+netname:            RADIONOISE-IPV6
+descr:              KANOJOWATOTEMOKAWAI OKANEOAGETE
+country:            JP
+admin-c:            RADIONOISE-DN42
+tech-c:             RADIONOISE-DN42
+mnt-by:             RADIONOISE-MNT
+status:             ASSIGNED
+cidr:               fdbd:8e82:8b88::/48
+source:             DN42

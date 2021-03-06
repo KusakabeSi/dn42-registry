@@ -1,0 +1,8 @@
+inetnum:            172.22.132.96 - 172.22.132.127
+cidr:               172.22.132.96/27
+netname:            bZZ-NETWORK
+admin-c:            BZZ-DN42
+tech-c:             BZZ-DN42
+mnt-by:             BZZ-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.20.158.64/27
+descr:              Oxygen233 Network
+origin:             AS4242422541
+origin:             AS4242422545
+mnt-by:             OXYGEN233-MNT
+source:             DN42

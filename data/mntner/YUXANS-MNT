@@ -1,0 +1,7 @@
+mntner:             YUXANS-MNT
+descr:              Yuxans Maintenance Object
+auth:               pgp-fingerprint FE8EBA9585BF3230A44140D82B255361F3ECB728
+admin-c:            YUXANS-DN42
+tech-c:             YUXANS-DN42
+mnt-by:             YUXANS-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.36.0 - 172.23.36.31
+cidr:               172.23.36.0/27
+netname:            XAOTIC-NETWORK
+admin-c:            XAOTIC-DN42
+tech-c:             XAOTIC-DN42
+mnt-by:             XAOTIC-MNT
+status:             ASSIGNED
+source:             DN42

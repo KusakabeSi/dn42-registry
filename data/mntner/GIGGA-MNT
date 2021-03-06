@@ -1,0 +1,7 @@
+mntner:             GIGGA-MNT
+admin-c:            GIGGA-DN42
+tech-c:             GIGGA-DN42
+mnt-by:             GIGGA-MNT
+auth:               pgp-fingerprint 97784C3207D9A7B33CAC9B8FDA394C8C9274147B
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCfG2/E+t+fT7UJfIUKP3sO07oSVG0rNRJIMbIkgziHoS1AiPUlbzzQpCggTHZV6wRHzjajk3wLY1WA2hG52+bGZlsZJCuv9foeJrZfJf6yAaGfO0sTwO98+XSeD2gybr2scLVzsc4KCQgl6QtsO6lcNrCSp/MUJq0n2KeV56trID/1HufEDw3WS7qSZjvKor6+HUobTjizFso0rjZQ5hgrFSvFcDsJW42JhOgj5S/bG4AyDUbcNa0ZS9ph7F/hlO2nZSuiEStlear6deKFu0yuMqYzKMyMLug4daoWht6riXlz5oowwyG42/cz8hZrD2nubZzx/Iiqx7cfqcRTvJnilnD6aChVV/b4NSLDyXu+ZJuwF1iSti68u4Yu9cbTtuYXYqdZEir70QejZDDye3p10vSmcGImlwGefDNzzEADxGWj0y8Oephykud0fXidJY1yQ+2Wuz2LN5r+8UqWFjulIy6WdNSierTDJK795TwEXbjMxSOIq4i0gUuZKjD6hJqh/IjxDktu1Do+cJlPKFHc8IPjPKLYFL9KbBrQ1X8n+bhdalV74BhDoXm60mmhAw40CupEN+W12arXvjGF8QOTXabBODH9vIoaZxLSRZSHuYzhlxRR7/7+2GwziaxuENNUU6vsQlkmUpcNBUTyGqk2CzYYJgRwq6llW//7CJ7Wuw== gigga
+source:             DN42

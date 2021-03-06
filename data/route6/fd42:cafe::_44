@@ -1,0 +1,4 @@
+route6:             fd42:cafe::/44
+origin:             AS4242423389
+mnt-by:             STARCLOUD-MNT
+source:             DN42

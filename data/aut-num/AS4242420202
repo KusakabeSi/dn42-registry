@@ -1,0 +1,7 @@
+aut-num:            AS4242420202
+as-name:            MEPH-ASN
+descr:              mepholic's ASN
+admin-c:            MEPH-DN42
+tech-c:             MEPH-DN42
+mnt-by:             MEPH-MNT
+source:             DN42

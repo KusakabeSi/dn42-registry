@@ -1,0 +1,7 @@
+domain:             basilfillan.dn42
+descr:              Basil Fillan
+admin-c:            BASIL-DN42
+tech-c:             BASIL-DN42
+mnt-by:             BASIL-MNT
+nserver:            ns1.basilfillan.uk
+source:             DN42

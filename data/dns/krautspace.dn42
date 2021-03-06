@@ -1,0 +1,6 @@
+domain:             krautspace.dn42
+nserver:            vm.krautspace.dn42 172.22.239.1
+admin-c:            MARTIN89-DN42
+tech-c:             MARTIN89-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

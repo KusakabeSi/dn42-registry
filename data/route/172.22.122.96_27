@@ -1,0 +1,4 @@
+route:              172.22.122.96/27
+origin:             AS4242422995
+mnt-by:             TAN-MNT
+source:             DN42

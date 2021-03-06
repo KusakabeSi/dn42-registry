@@ -1,0 +1,7 @@
+mntner:             INL-MNT
+descr:              INL Network Lab
+admin-c:            INL-DN42
+tech-c:             INL-DN42
+mnt-by:             INL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDlg8wY9qylYupogY15Q7SOZVDUiI4oB/h7mxLyQWItyfpDm6CboMouadpJB8sMeRSaBrelO2P2dJezeEG4pmT5P1k9eKnj9Wfghjd/AKUZCUK6SGnaz7iijguflViJdn2Ib/kYv2ckf9X+MsmrZHKWZRt0TtstsC0oAhVRYWSkTdwD6AU5Ct81Ek21ZNbSmXeUHeWwEqUZW8qofH+KiqsMLNdiAsFV/87ITwl1b/vIGAH3P/ZPQNdCv+0YumRId8IJfcLovq495uoY8LQqxoddXxQwm3ESxOttaN/i766n8PN/AnCnUzYezZ/OV+bjR/RTnaqSDcBEiXA2+eY3/3d
+source:             DN42

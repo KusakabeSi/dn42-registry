@@ -1,0 +1,11 @@
+inet6num:           fdbb:35ff:aa4e:0000:0000:0000:0000:0000 - fdbb:35ff:aa4e:ffff:ffff:ffff:ffff:ffff
+netname:            TIMWEB-NETWORK
+descr:              Tim's Web
+country:            CA
+admin-c:            TIMWEB-DN42
+tech-c:             TIMWEB-DN42
+mnt-by:             TIMWEB-MNT
+nserver:            ns4.timweb.ca
+status:             ALLOCATED
+cidr:               fdbb:35ff:aa4e::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.148.128/27
+origin:             AS17080
+mnt-by:             R-MNT
+source:             DN42

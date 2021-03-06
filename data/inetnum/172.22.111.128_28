@@ -1,0 +1,11 @@
+inetnum:            172.22.111.128 - 172.22.111.143
+netname:            HOME-SERVER-PLACE-ORG-NET
+country:            DE
+admin-c:            PAPAYAWHIP-DN42
+tech-c:             PAPAYAWHIP-DN42
+mnt-by:             PAPAYAWHIP-MNT
+nserver:            dns1.server-place.org
+nserver:            dns2.server-place.org
+status:             ASSIGNED
+cidr:               172.22.111.128/28
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdb4:acab:1312:0000:0000:0000:0000:0000 - fdb4:acab:1312:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb4:acab:1312::/48
+netname:            JULIA-NETWORK
+descr:              Julia's network
+admin-c:            JULIA-DN42
+tech-c:             JULIA-DN42
+mnt-by:             JULIA-MNT
+status:             ASSIGNED
+nserver:            ns1.julia.dn42
+source:             DN42

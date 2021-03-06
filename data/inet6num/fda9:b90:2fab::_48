@@ -1,0 +1,11 @@
+inet6num:           fda9:0b90:2fab:0000:0000:0000:0000:0000 - fda9:0b90:2fab:ffff:ffff:ffff:ffff:ffff
+cidr:               fda9:b90:2fab::/48
+netname:            FRAINZ-NETWORK
+descr:              frainz' network
+country:            DE
+admin-c:            FRAINZ-DN42
+tech-c:             FRAINZ-DN42
+mnt-by:             FRAINZ-MNT
+status:             ASSIGNED
+nserver:            ns1.frainz.dn42
+source:             DN42

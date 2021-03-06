@@ -1,0 +1,9 @@
+inetnum:            172.22.186.80 - 172.22.186.95
+cidr:               172.22.186.80/28
+netname:            NETENS-NETWORK
+admin-c:            RAITO-DN42
+tech-c:             RAITO-DN42
+org:                ORG-NETENS
+mnt-by:             RAITO-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.12.128/28
+descr:              LL-NET-1
+origin:             AS4242420178
+mnt-by:             LL-MNT
+source:             DN42

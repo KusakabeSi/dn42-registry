@@ -1,0 +1,10 @@
+inetnum:            172.20.160.64 - 172.20.160.127
+cidr:               172.20.160.64/26
+netname:            AOTOKI-NETWORK
+admin-c:            AOTOKI-DN42
+tech-c:             AOTOKI-DN42
+mnt-by:             AOTOKI-MNT
+nserver:            ns1.aotoki.dn42
+nserver:            ns2.aotoki.dn42
+status:             ASSIGNED
+source:             DN42

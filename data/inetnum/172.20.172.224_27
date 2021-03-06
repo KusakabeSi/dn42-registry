@@ -1,0 +1,8 @@
+inetnum:            172.20.172.224 - 172.20.172.255
+netname:            ARCHON-NET
+admin-c:            ARCHON-DN42
+tech-c:             ARCHON-DN42
+mnt-by:             ARCHON-MNT
+status:             ASSIGNED
+cidr:               172.20.172.224/27
+source:             DN42

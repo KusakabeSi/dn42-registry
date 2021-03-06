@@ -1,0 +1,6 @@
+mntner:             PIGGY-MNT
+admin-c:            PIGGY-DN42
+tech-c:             PIGGY-DN42
+mnt-by:             PIGGY-MNT
+auth:               pgp-fingerprint 2AF061CA67AB9E63254A552193A2530ACDB33DE7
+source:             DN42

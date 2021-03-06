@@ -1,0 +1,8 @@
+domain:             place.dn42
+descr:              A place to idle away the time
+admin-c:            XUU-DN42
+tech-c:             XUU-DN42
+mnt-by:             XUU-MNT
+nserver:            lavana.sjc.xuu.dn42
+nserver:            rakta.fra.xuu.dn42
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.205.0.0/16
+origin:             AS65205
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: amsterdam
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+mntner:             310-MNT
+descr:              310 Networks
+admin-c:            310-DN42
+tech-c:             310-DN42
+mnt-by:             310-MNT
+auth:               pgp-fingerprint 158DA3ECABDEC1D527E0498D71300A8D1071764C
+source:             DN42

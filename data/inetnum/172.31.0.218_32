@@ -1,0 +1,7 @@
+inetnum:            172.31.0.218 - 172.31.0.218
+cidr:               172.31.0.218/32
+netname:            CHAOSVPN-FANGFUFUGABRIEL
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

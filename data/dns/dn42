@@ -1,0 +1,9 @@
+domain:             dn42
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 6dadda00f5986bd26fe4f162669742cf7eba07d212b525acac9840ee06cb2799
+ds-rdata:           3096 10 2 b7c687a99bee60e172ea439bd2d3087b1d970916575db9c1cb591b7ee15d8cb1
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

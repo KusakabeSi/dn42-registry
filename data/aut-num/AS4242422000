@@ -1,0 +1,7 @@
+aut-num:            AS4242422000
+as-name:            ANATOMICAL-AS
+descr:              Anatomical Networks DN42 AS
+admin-c:            JACOBHENNER-DN42
+tech-c:             JACOBHENNER-DN42
+mnt-by:             JACOBHENNER-MNT
+source:             DN42

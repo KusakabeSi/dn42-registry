@@ -1,0 +1,11 @@
+inetnum:            172.20.175.192 - 172.20.175.255
+netname:            NET-WEITI-01
+country:            DE
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+status:             ALLOCATED
+nserver:            ns1.weiti.dn42
+nserver:            ns2.weiti.dn42
+cidr:               172.20.175.192/26
+source:             DN42

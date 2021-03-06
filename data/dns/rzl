@@ -1,0 +1,7 @@
+domain:             rzl
+org:                ORG-RZL
+nserver:            ns1.rzl.g.nic.dn42
+mnt-by:             LUTOMA-MNT
+mnt-by:             DOCSTEEL-MNT
+mnt-by:             HAX404-MNT
+source:             DN42

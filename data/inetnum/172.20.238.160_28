@@ -1,0 +1,11 @@
+inetnum:            172.20.238.160 - 172.20.238.175
+cidr:               172.20.238.160/28
+netname:            ZODDO-NET
+descr:              Network of Zoddo
+country:            FR
+admin-c:            ZODDO-DN42
+tech-c:             ZODDO-DN42
+mnt-by:             ZODDO-MNT
+status:             ASSIGNED
+nserver:            ns1.zoddo.dn42
+source:             DN42

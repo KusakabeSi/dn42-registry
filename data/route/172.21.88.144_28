@@ -1,0 +1,4 @@
+route:              172.21.88.144/28
+origin:             AS4242420199
+mnt-by:             IXNET-MNT
+source:             DN42

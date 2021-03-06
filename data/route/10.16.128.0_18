@@ -1,0 +1,6 @@
+route:              10.16.128.0/18
+origin:             AS64881
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: winterberg
+mnt-by:             DN42-MNT
+source:             ICVPN

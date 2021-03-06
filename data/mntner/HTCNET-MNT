@@ -1,0 +1,7 @@
+mntner:             HTCNET-MNT
+descr:              htc from China
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC00GwKBG1sIYsuiKEXFA30/yry2GGbZiQ2Q5onaP2KT9B9QJoTNYwvMtDPTwQ+4GOXt/l0Rnri/5+EaXyAm3zxnUDWbGAm7d4u3KY6GQRFJXnSHBo0zCJMi8m1dMRlFTmSTZHqr0o8KI4mrMjq8sNRaamqWpaJZnUQCV5fnDV5hQXHs03AT4y3AltqECofmPw34N+MUb6D6llrtago6S4OQP3JitAvZpc8fLnfoqAevM4Dgz06Lmctg6YvWowbQpfkUiY3aCaBFZcYwRkWPsMzZxPswjmb1WBjmL1MRd26CL/7LndfyZ4EhrQRgbkJc243YPHCag0tCx390USTr6Sv htc
+admin-c:            HTC-DN42
+tech-c:             HTC-DN42
+mnt-by:             HTCNET-MNT
+source:             DN42

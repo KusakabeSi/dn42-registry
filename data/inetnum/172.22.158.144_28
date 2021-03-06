@@ -1,0 +1,10 @@
+inetnum:            172.22.158.144 - 172.22.158.159
+netname:            SERXOZ-NETWORK2
+descr:              Serxoz Testing Network 2
+country:            ES
+admin-c:            SERXOZ-DN42
+tech-c:             SERXOZ-DN42
+mnt-by:             SERXOZ-MNT
+status:             ASSIGNED
+cidr:               172.22.158.144/28
+source:             DN42

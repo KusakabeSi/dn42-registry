@@ -1,0 +1,8 @@
+inetnum:            172.22.189.128 - 172.22.189.159
+cidr:               172.22.189.128/27
+netname:            GISCHELEMAN-NETWORK
+admin-c:            GISCHELEMAN-DN42
+tech-c:             GISCHELEMAN-DN42
+mnt-by:             GISCHELEMAN-MNT
+status:             ASSIGNED
+source:             DN42

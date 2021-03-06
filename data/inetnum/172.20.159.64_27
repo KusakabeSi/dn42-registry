@@ -1,0 +1,12 @@
+inetnum:            172.20.159.64 - 172.20.159.95
+cidr:               172.20.159.64/27
+netname:            ANDY-NETWORK
+descr:              Andy Anycast Network
+country:            CN
+admin-c:            ANDYNET-DN42
+tech-c:             ANDYNET-DN42
+mnt-by:             ANDYNET-MNT
+nserver:            ns1.andy.dn42
+nserver:            ns2.andy.dn42
+status:             ASSIGNED
+source:             DN42

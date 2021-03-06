@@ -1,0 +1,8 @@
+inetnum:            172.22.134.0 - 172.22.134.31
+cidr:               172.22.134.0/27
+netname:            Jo-Jo_Network
+admin-c:            JOJO-DN42
+tech-c:             JOJO-DN42
+mnt-by:             JO-JO-MNT
+status:             ASSIGNED
+source:             DN42

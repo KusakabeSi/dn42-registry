@@ -1,0 +1,5 @@
+route:              172.23.164.0/23
+descr:              Nicoduck Network
+origin:             AS76160
+mnt-by:             NICODUCK-MNT
+source:             DN42

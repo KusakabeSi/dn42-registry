@@ -1,0 +1,11 @@
+inetnum:            172.22.184.0 - 172.22.184.255
+netname:            NEORAIDER-DN42-IP4NET
+descr:              CCC-HL & other foo
+country:            DE
+admin-c:            NEORAIDER-DN42
+tech-c:             NEORAIDER-DN42
+status:             ASSIGNED
+nserver:            ns0.neoraider.dn42
+cidr:               172.22.184.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

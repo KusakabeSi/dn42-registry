@@ -1,0 +1,13 @@
+aut-num:            AS4242421220
+as-name:            litschi's AS
+remarks:            --------------------------------------------------------
+remarks:            <> peering with litschi.dn42 <>
+remarks:            Please check https://dn42.litschi.xyz/post/peering/ for details
+remarks:            --------------------------------------------------------
+remarks:            https://dn42.litschi.xyz/
+remarks:            https://litschi.dn42/
+remarks:            --------------------------------------------------------
+admin-c:            LITSCHI-DN42
+tech-c:             LITSCHI-DN42
+mnt-by:             LITSCHI-MNT
+source:             DN42

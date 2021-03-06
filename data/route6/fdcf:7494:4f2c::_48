@@ -1,0 +1,4 @@
+route6:             fdcf:7494:4f2c::/48
+origin:             AS4242420813
+mnt-by:             NEXUS-MNT
+source:             DN42

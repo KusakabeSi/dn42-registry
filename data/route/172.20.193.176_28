@@ -1,0 +1,4 @@
+route:              172.20.193.176/28
+origin:             AS4242423335
+mnt-by:             SERXOZ-MNT
+source:             DN42

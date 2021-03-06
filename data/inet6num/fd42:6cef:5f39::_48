@@ -1,0 +1,10 @@
+inet6num:           fd42:6cef:5f39:0000:0000:0000:0000:0000 - fd42:6cef:5f39:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6cef:5f39::/48
+netname:            KUIPER-NETWORK
+descr:              KUIPER lab network
+country:            DE
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdaa:ff59:eb66:0000:0000:0000:0000:0000 - fdaa:ff59:eb66:ffff:ffff:ffff:ffff:ffff
+cidr:               fdaa:ff59:eb66::/48
+netname:            FNS-NET
+country:            DE
+admin-c:            FNS-DN42
+tech-c:             FNS-DN42
+mnt-by:             FNS-MNT
+nserver:            ns1.fns.dn42
+nserver:            ns2.fns.dn42
+source:             DN42

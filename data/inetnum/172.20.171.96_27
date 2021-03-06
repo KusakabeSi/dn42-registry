@@ -1,0 +1,12 @@
+inetnum:            172.20.171.96 - 172.20.171.127
+cidr:               172.20.171.96/27
+netname:            FUERO-NET
+descr:              Network of fuero
+country:            AT
+admin-c:            FUERO-ADM-DN42
+tech-c:             FUERO-TEC-DN42
+mnt-by:             FUERO-MNT
+nserver:            ns1.fuero.dn42
+nserver:            ns2.fuero.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             BLAZING-MNT
+descr:              Maintainer for Blazing
+abuse-mailbox:      abuse@xcv.vc
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAlCYxvptyDSuS0cnOTfpPLn5LJ5FG7cFHWHA/Ib1Z8nO7MWQLAgUHIORy57gC/dt1pELtZBjF69FQm7CWHdFfzdYL+FAk9EV72ZRsaVa/6MIz8TezBuYwARilqiNF+0JU5UAQQRAAnf7CqoG4ye8lIuyyx4Q333l6x0COd3lz1FM= Blazing
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT
+source:             DN42

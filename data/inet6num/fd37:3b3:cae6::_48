@@ -1,0 +1,10 @@
+inet6num:           fd37:03b3:cae6:0000:0000:0000:0000:0000 - fd37:03b3:cae6:ffff:ffff:ffff:ffff:ffff
+netname:            ZHYZ-IPV6
+descr:              Peer with me at zhihuiyuze@qq.com
+country:            CN
+admin-c:            ZHYZ-DN42
+tech-c:             ZHYZ-DN42
+mnt-by:             ZHYZ-MNT
+status:             ASSIGNED
+cidr:               fd37:3b3:cae6::/48
+source:             DN42

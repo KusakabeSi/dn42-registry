@@ -1,0 +1,11 @@
+inet6num:           fd00:1337:cafe:0000:0000:0000:0000:0000 - fd00:1337:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            CHAOSDORF-DN42-V6-ULA
+descr:              feuerrot's ula ipv6 network
+country:            DE
+mnt-by:             FEUERROT-MNT
+mnt-by:             NOMASTER-MNT
+admin-c:            CHAOSDORF-DN42
+tech-c:             FEUERROT-DN42
+status:             ASSIGNED
+cidr:               fd00:1337:cafe::/48
+source:             DN42

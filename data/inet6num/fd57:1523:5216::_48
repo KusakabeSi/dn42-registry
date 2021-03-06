@@ -1,0 +1,8 @@
+inet6num:           fd57:1523:5216:0000:0000:0000:0000:0000 - fd57:1523:5216:ffff:ffff:ffff:ffff:ffff
+cidr:               fd57:1523:5216::/48
+netname:            CHENYAO2333-NET-1
+admin-c:            CHENYAO2333-DN42
+tech-c:             CHENYAO2333-DN42
+mnt-by:             CHENYAO2333-MNT
+status:             ASSIGNED
+source:             DN42

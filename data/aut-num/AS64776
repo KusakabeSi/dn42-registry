@@ -1,0 +1,7 @@
+aut-num:            AS64776
+as-name:            ZGILES-DC-AS
+descr:              ZGILES HOSTED SERVERS NETWORK
+admin-c:            ZGILES-DN42
+tech-c:             ZGILES-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

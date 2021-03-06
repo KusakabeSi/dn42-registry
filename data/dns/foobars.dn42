@@ -1,0 +1,7 @@
+domain:             foobars.dn42
+descr:              Foobars DN42 object
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+nserver:            ns1.foobars.dn42 172.23.100.10
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.56.128 - 172.20.56.255
+cidr:               172.20.56.128/25
+netname:            IMOTO-NET
+descr:              IMOTO NETWORK
+country:            CN
+admin-c:            KINO-DN42
+tech-c:             KINO-DN42
+mnt-by:             IMOTO-MNT
+status:             ASSIGNED
+source:             DN42

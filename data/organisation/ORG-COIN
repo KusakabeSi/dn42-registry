@@ -1,0 +1,14 @@
+organisation:       ORG-COIN
+org-name:           ORG-COIN
+address:            DN42 Coin
+address:            Suite 0841-5121
+address:            13C Por Mee Factory Building
+address:            500 Castle Peak Road
+address:            Cheung Sha Wan
+address:            Hongkong
+abuse-mailbox:      abuse@coin.dn42
+descr:              DN42-Coin
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+source:             DN42

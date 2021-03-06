@@ -1,0 +1,13 @@
+domain:             ffhl
+nserver:            1.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            1.0.e.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7.d.d.3.0.c.f.f.f.e.d.f.ipv6.registry-sync.dn42
+nserver:            252.0.130.10.ipv4.registry-sync.dn42
+nserver:            253.0.130.10.ipv4.registry-sync.dn42
+nserver:            254.0.130.10.ipv4.registry-sync.dn42
+nserver:            255.0.130.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

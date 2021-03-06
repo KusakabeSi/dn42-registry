@@ -1,0 +1,7 @@
+domain:             uu.dn42
+admin-c:            WUSEL-DN42
+tech-c:             WUSEL-DN42
+mnt-by:             WUSEL-MNT
+nserver:            dns.dn42.uu.org
+nserver:            librarian.uu.org
+source:             DN42

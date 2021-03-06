@@ -1,0 +1,10 @@
+inetnum:            172.20.175.0 - 172.20.175.31
+netname:            HEKKER-NET
+descr:              SickHekker's place
+country:            NL
+admin-c:            SICKHEKKER-DN42
+tech-c:             SICKHEKKER-DN42
+mnt-by:             HEKKER-MNT
+status:             ASSIGNED
+cidr:               172.20.175.0/27
+source:             DN42

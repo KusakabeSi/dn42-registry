@@ -1,0 +1,10 @@
+inet6num:           fdf8:adff:47b9:0000:0000:0000:0000:0000 - fdf8:adff:47b9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:adff:47b9::/48
+netname:            CROSS-NETWORK
+descr:              Cross NETWORK
+country:            GB
+admin-c:            HCROSS-DN42
+tech-c:             HCROSS-DN42
+mnt-by:             HCROSS-MNT
+status:             ASSIGNED
+source:             DN42

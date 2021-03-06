@@ -1,0 +1,5 @@
+route6:             fd9e:e609:dde2::/48
+origin:             AS4242422251
+max-length:         48
+mnt-by:             SKRTM-MNT
+source:             DN42

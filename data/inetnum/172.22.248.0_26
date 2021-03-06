@@ -1,0 +1,26 @@
+inetnum:            172.22.248.0 - 172.22.248.63
+netname:            CCCDA-TRANSFER-20150501
+remarks:            172.22.248.0/30 - toBee
+remarks:            172.22.248.4/30 - Leroy
+remarks:            172.22.248.8/30 - jomat
+remarks:            172.22.248.12/30 - major
+remarks:            172.22.248.16/30 - andi
+remarks:            172.22.248.20/30 - flokli
+remarks:            172.22.248.24/30 - fleaz
+remarks:            172.22.248.28/30 - manawyrm
+remarks:            172.22.248.32/30 - grawity
+remarks:            172.22.248.36/30 - chrismoos
+remarks:            172.22.248.40/30 - nurticvibe
+remarks:            172.22.248.44/30 - dirks
+remarks:            172.22.248.48/30 - w0h
+remarks:            172.22.248.52/30 - chaostreff.at
+remarks:            172.22.248.56/30 - w17 uplink
+remarks:            172.22.248.60/30 - weiti
+org:                ORG-CCCDA
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+nserver:            ns1.cccda.dn42
+status:             ASSIGNED
+cidr:               172.22.248.0/26
+source:             DN42

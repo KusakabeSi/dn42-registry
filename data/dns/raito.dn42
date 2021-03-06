@@ -1,0 +1,7 @@
+domain:             raito.dn42
+admin-c:            RAITO-DN42
+tech-c:             RAITO-DN42
+mnt-by:             RAITO-MNT
+nserver:            ns1.raito.dn42 fd4d:ce73:68f9:9a60::1
+nserver:            ns2.raito.dn42 fd4d:ce73:68f9:9a60::2
+source:             DN42

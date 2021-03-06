@@ -1,0 +1,8 @@
+mntner:             ILEMONRAIN-MNT
+admin-c:            ILEMONRAIN-DN42
+tech-c:             ILEMONRAIN-DN42
+mnt-by:             ILEMONRAIN-MNT
+source:             DN42
+auth:               pgp-fingerprint A1C2302F917342229C4EBB789A0B83B4066AFB9C
+auth:               PGPKEY-066AFB9C
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1vrdKcfZFTM8xMbxRVzjA0nBLQXHQkJVELCn879rYhKD86tGVI4YnWsnc4Iw6mH1rN94Io6OuBYrTLJXxsUBB8tdjenHUS+lWXtsmqEibCJb+0F0GGsmjZ1IWqZmHeMlzHhPjjwAJlzR8HGatFpcMeygXvnSiTvQxs2qe3fGkDdBrNDAvJchzX0p8hxSuBgOUzaep5A0dIL8oHybC1Lr3U9WOXX3T92P5ksEzLsdfkOmGslT+eUEV/DQ99kGsEebVoCXD3HrTKXwNDN8XF6iOBROvqkJNWBWYr3pPh8/wjCK1NQ+i4lvBpCrhqlJ/rcNXpQntObEOnNfBPoLCArYn

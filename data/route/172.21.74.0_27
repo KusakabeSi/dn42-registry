@@ -1,0 +1,6 @@
+route:              172.21.74.0/27
+origin:             AS4242423454
+admin-c:            PF-DN42
+tech-c:             PF-DN42
+mnt-by:             PF-MNT
+source:             DN42

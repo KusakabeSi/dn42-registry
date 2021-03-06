@@ -1,0 +1,6 @@
+mntner:             SIAL-MNT
+descr:              sial's maintainer object for home AS
+admin-c:            SIAL-DN42
+tech-c:             SIAL-DN42
+mnt-by:             SIAL-MNT
+source:             DN42

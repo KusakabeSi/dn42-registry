@@ -1,0 +1,8 @@
+inetnum:            172.20.13.128 - 172.20.13.159
+netname:            ASTR0BOY-NET
+admin-c:            ASTR0BOY-DN42
+tech-c:             ASTR0BOY-DN42
+mnt-by:             ASTR0BOY-MNT
+status:             ASSIGNED
+cidr:               172.20.13.128/27
+source:             DN42

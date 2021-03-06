@@ -1,0 +1,8 @@
+aut-num:            AS4242420985
+as-name:            HITLUG-DEMO-ASN
+descr:              This ASN is maintained by HITLUG and is only for demonstration use.
+org:                ORG-HITLUG
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+source:             DN42

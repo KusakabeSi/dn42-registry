@@ -1,0 +1,4 @@
+route:              172.22.111.144/28
+origin:             AS4242423321
+mnt-by:             MARKTELEPORT-MNT
+source:             DN42

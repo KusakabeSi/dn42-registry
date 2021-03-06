@@ -1,0 +1,8 @@
+route:              10.100.0.0/14
+max-length:         32
+origin:             AS64654
+origin:             AS4242422718
+origin:             AS4242422480
+remarks:            Manual ROA to allow the chaosvpn interconnects to announce anything.
+mnt-by:             DN42-MNT
+source:             DN42

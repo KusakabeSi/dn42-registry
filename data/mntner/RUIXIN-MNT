@@ -1,0 +1,6 @@
+mntner:             RUIXIN-MNT
+admin-c:            RUIXIN-DN42
+tech-c:             RUIXIN-DN42
+mnt-by:             RUIXIN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA0WJYMEiVl2EKw1MCcc31O9se/yJjoYShebWQ6YdGyksIR0pp7QtSLXMwTc/YeGgyB/eh5rg/9FW2/rbG5DglUjs/8NO59AYk5H93V952ygv35ATlOq+CHSRVHyU9pWGg98MQ94G5Apli4fb2VLyYsy8OIHhDEN5sWkymc0Ns8sg3hhjVzBBPqQDFT6YeYvarI2yRx50IuwabNIubGWfv62dSJITnNBePpVydBbsSdR1qT0VdaS8TsswJfHHtfRGd24rag5NyfGcyboGVlPNNP/8tPoi7hFFmDGvPP+/T91/IzpyTKA6KfxBN8PLdgE2yH4qsTu9L/X0xd7vZk8PsZw==
+source:             DN42

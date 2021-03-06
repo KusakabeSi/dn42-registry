@@ -1,0 +1,8 @@
+aut-num:            AS4242423158
+as-name:            XIAOYU-AS
+remarks:            peering email dn42@ongod.org
+descr:              SINYU NETWORK
+admin-c:            XIAOYU-DN42
+tech-c:             XIAOYU-DN42
+mnt-by:             XIAOYU-MNT
+source:             DN42

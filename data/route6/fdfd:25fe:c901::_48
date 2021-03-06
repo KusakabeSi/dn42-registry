@@ -1,0 +1,4 @@
+route6:             fdfd:25fe:c901::/48
+origin:             AS4242422284
+mnt-by:             X84-MNT
+source:             DN42

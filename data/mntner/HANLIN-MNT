@@ -1,0 +1,7 @@
+mntner:             HANLIN-MNT
+descr:              Hanlin DN42 Network
+admin-c:            HANLIN-DN42
+tech-c:             HANLIN-DN42
+mnt-by:             HANLIN-MNT
+auth:               pgp-fingerprint c6548dd7b48d70246e515532e77b759111a7333c
+source:             DN42

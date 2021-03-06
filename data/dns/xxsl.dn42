@@ -1,0 +1,8 @@
+domain:             xxsl.dn42
+descr:              XXSL Domain in dn42
+admin-c:            XXSL-DN42
+tech-c:             XXSL-DN42
+mnt-by:             XXSLDN-MNT
+nserver:            ns.xxsl.dn42 172.20.33.77
+nserver:            ns.xxsl.dn42 fd70:3377::1
+source:             DN42

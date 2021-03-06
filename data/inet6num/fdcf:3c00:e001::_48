@@ -1,0 +1,12 @@
+inet6num:           fdcf:3c00:e001:0000:0000:0000:0000:0000 - fdcf:3c00:e001:ffff:ffff:ffff:ffff:ffff
+netname:            NET-PURRDETA-DN42
+descr:              Purrdeta - IPv6
+country:            US
+admin-c:            PURRDETA-DN42
+tech-c:             PURRDETA-DN42
+mnt-by:             PURRDETA-MNT
+nserver:            ns1.darkdna.net
+nserver:            ns2.darkdna.net
+status:             ASSIGNED
+cidr:               fdcf:3c00:e001::/48
+source:             DN42

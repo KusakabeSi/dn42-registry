@@ -1,0 +1,5 @@
+route6:             fdc0:bc88:be::/48
+descr:              lemoer gatrobe
+origin:             AS4242421811
+mnt-by:             LEMOER-MNT
+source:             DN42

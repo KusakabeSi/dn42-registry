@@ -1,0 +1,6 @@
+route6:             fd07:96ae:572e::/48
+origin:             AS64901
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: slfl
+mnt-by:             DN42-MNT
+source:             ICVPN

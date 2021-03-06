@@ -1,0 +1,8 @@
+domain:             tcc.dn42
+descr:              The Computer Crowd
+admin-c:            CONNOR-DN42
+tech-c:             CONNOR-DN42
+mnt-by:             VPSSOLUTIONS-MNT
+nserver:            ns.tcc.dn42 172.22.181.53
+nserver:            ns.tcc.dn42 fd68:fdcc:7a1a::53
+source:             DN42

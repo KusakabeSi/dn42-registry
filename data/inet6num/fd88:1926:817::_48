@@ -1,0 +1,10 @@
+inet6num:           fd88:1926:0817:0000:0000:0000:0000:0000 - fd88:1926:0817:ffff:ffff:ffff:ffff:ffff
+netname:            HANLIN-NETWORK
+descr:              Hanlin DN42 Network
+country:            CN
+admin-c:            HANLIN-DN42
+tech-c:             HANLIN-DN42
+mnt-by:             HANLIN-MNT
+status:             ASSIGNED
+cidr:               fd88:1926:817::/48
+source:             DN42

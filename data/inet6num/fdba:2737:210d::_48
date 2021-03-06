@@ -1,0 +1,11 @@
+inet6num:           fdba:2737:210d:0000:0000:0000:0000:0000 - fdba:2737:210d:ffff:ffff:ffff:ffff:ffff
+netname:            SAMMKO-NET
+nserver:            ns1.sammko.dn42
+descr:              sammko's network
+country:            SK
+admin-c:            SAMMKO-DN42
+tech-c:             SAMMKO-DN42
+mnt-by:             SAMMKO-MNT
+status:             ASSIGNED
+cidr:               fdba:2737:210d::/48
+source:             DN42

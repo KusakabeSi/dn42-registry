@@ -1,0 +1,9 @@
+inetnum:            172.20.187.128 - 172.20.187.191
+cidr:               172.20.187.128/26
+netname:            B3L-V4-NET-1
+country:            PL
+admin-c:            B3L-DN42
+tech-c:             B3L-DN42
+mnt-by:             B3L-MNT
+status:             ASSIGNED
+source:             DN42

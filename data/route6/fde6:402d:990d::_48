@@ -1,0 +1,4 @@
+route6:             fde6:402d:990d::/48
+origin:             AS4242420576
+mnt-by:             JFRED-MNT
+source:             DN42

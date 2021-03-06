@@ -1,0 +1,5 @@
+route:              172.20.197.184/29
+descr:              ATR Trasit & Virtualization Addresses
+origin:             AS4242421233
+mnt-by:             ATR-MNT
+source:             DN42

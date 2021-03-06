@@ -1,0 +1,7 @@
+aut-num:            AS4242423907
+as-name:            WEITI-SVC-AS
+descr:              Service AS
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+source:             DN42

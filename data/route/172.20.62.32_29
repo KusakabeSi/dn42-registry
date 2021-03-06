@@ -1,0 +1,4 @@
+route:              172.20.62.32/29
+origin:             AS4242422019
+mnt-by:             HENOKV-MNT
+source:             DN42

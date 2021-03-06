@@ -1,0 +1,13 @@
+inet6num:           fde0:93fa:07a0:0001:0000:0000:0000:0000 - fde0:93fa:07a0:0001:ffff:ffff:ffff:ffff
+netname:            IXP-DEFRA-NET-IPV6
+descr:              Frankfurt DN42 IXP Networks
+remarks:            Address Assignment policy: fde0:93fa:7a0:1:0:<asn32|high16|hex>:<asn32|low16|hex>:1/64
+remarks:            
+remarks:            ====[ Points of Presence ]===
+remarks:            Accelerated Datacenter, Frankfurt Germany
+remarks:            
+remarks:            In case you are interested in joining this IXP please contact welterde@hackint
+mnt-by:             WELTERDE-MNT
+source:             DN42
+cidr:               fde0:93fa:7a0:1::/64
+status:             ASSIGNED

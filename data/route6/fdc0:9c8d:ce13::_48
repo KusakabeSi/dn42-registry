@@ -1,0 +1,5 @@
+route6:             fdc0:9c8d:ce13::/48
+origin:             AS4242422551
+max-length:         48
+mnt-by:             VLCTY-MNT
+source:             DN42

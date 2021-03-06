@@ -1,0 +1,7 @@
+domain:             bl4ckout.dn42
+nserver:            ns1.bl4ckout.dn42 172.20.46.82
+nserver:            ns1.bl4ckout.dn42 fd42:53fb:543a::2
+admin-c:            BL4CKOUT-DN42
+tech-c:             BL4CKOUT-DN42
+mnt-by:             BL4CKOUT-MNT
+source:             DN42

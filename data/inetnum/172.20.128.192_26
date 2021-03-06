@@ -1,0 +1,13 @@
+inetnum:            172.20.128.192 - 172.20.128.255
+cidr:               172.20.128.192/26
+netname:            MOERAIL
+descr:              Moerail Network
+country:            CN
+admin-c:            ARNIE97-DN42
+tech-c:             ARNIE97-DN42
+mnt-by:             ARNIE97-MNT
+status:             ASSIGNED
+nserver:            ns1.moerail.dn42
+nserver:            ns2.moerail.dn42
+nserver:            ns3.moerail.dn42
+source:             DN42

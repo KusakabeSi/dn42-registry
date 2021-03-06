@@ -1,0 +1,9 @@
+aut-num:            AS4242420235
+as-name:            FPLETZ-AS
+descr:              fpletz's AS
+remarks:            New peerings welcome! tinc 1.1, OpenVPN, IPSec+GRE
+remarks:            IRC: fpletz, or eMail: fpletz@fnordicwalking.de
+admin-c:            FPLETZ-DN42
+tech-c:             FPLETZ-DN42
+mnt-by:             FPLETZ-MNT
+source:             DN42

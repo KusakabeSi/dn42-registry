@@ -1,0 +1,10 @@
+inetnum:            172.21.89.32 - 172.21.89.63
+netname:            NET-RLKT
+descr:              RLKT assigned addresses
+country:            DE
+admin-c:            RLKT-DN42
+tech-c:             RLKT-DN42
+mnt-by:             RLKT-MNT
+status:             ASSIGNED
+cidr:               172.21.89.32/27
+source:             DN42

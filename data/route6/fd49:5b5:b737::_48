@@ -1,0 +1,5 @@
+route6:             fd49:5b5:b737::/48
+origin:             AS4242420737
+max-length:         48
+mnt-by:             TRUEWINTER-MNT
+source:             DN42

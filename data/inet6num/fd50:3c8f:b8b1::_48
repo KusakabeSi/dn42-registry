@@ -1,0 +1,9 @@
+inet6num:           fd50:3c8f:b8b1:0000:0000:0000:0000:0000 - fd50:3c8f:b8b1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd50:3c8f:b8b1::/48
+netname:            SZB86-NET-1
+country:            HU
+admin-c:            SZB86-DN42
+tech-c:             SZB86-DN42
+mnt-by:             SZB86-MNT
+status:             ASSIGNED
+source:             DN42

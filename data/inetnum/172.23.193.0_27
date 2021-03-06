@@ -1,0 +1,10 @@
+inetnum:            172.23.193.0 - 172.23.193.31
+cidr:               172.23.193.0/27
+netname:            W1KL4S-V4-NET
+admin-c:            W1KL4S-DN42
+tech-c:             W1KL4S-DN42
+mnt-by:             W1KL4S-MNT
+status:             ASSIGNED
+nserver:            ns1.w1kl4s.dn42
+nserver:            ns2.w1kl4s.dn42
+source:             DN42

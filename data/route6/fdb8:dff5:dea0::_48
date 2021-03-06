@@ -1,0 +1,5 @@
+route6:             fdb8:dff5:dea0::/48
+origin:             AS4242421098
+max-length:         48
+mnt-by:             MNAGEL-MNT
+source:             DN42

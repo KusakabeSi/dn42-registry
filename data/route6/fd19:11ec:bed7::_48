@@ -1,0 +1,5 @@
+route6:             fd19:11ec:bed7::/48
+origin:             AS4242421550
+max-length:         48
+mnt-by:             BISCUITTIN-MNT
+source:             DN42

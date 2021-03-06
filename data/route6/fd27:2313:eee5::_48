@@ -1,0 +1,4 @@
+route6:             fd27:2313:eee5::/48
+origin:             AS4242420342
+mnt-by:             MOJO-MNT
+source:             DN42

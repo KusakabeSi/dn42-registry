@@ -1,0 +1,10 @@
+inet6num:           fd28:4a00:7533:0000:0000:0000:0000:0000 - fd28:4a00:7533:ffff:ffff:ffff:ffff:ffff
+cidr:               fd28:4a00:7533::/48
+netname:            BABBLE-V6-NET-1
+descr:              Babble Network
+country:            GB
+admin-c:            BABBLE-DN42
+tech-c:             BABBLE-DN42
+mnt-by:             BABBLE-MNT
+status:             ASSIGNED
+source:             DN42

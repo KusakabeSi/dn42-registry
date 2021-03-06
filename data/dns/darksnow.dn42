@@ -1,0 +1,8 @@
+domain:             darksnow.dn42
+descr:              darksnow
+admin-c:            CLEMATIS-DN42
+tech-c:             CLEMATIS-DN42
+mnt-by:             CLEMATIS-MNT
+nserver:            ns1.darksnow.dn42 172.22.182.160
+nserver:            ns1.darksnow.dn42 fd6c:3444:4e30:2118::1
+source:             DN42

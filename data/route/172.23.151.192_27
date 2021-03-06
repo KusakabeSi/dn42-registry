@@ -1,0 +1,4 @@
+route:              172.23.151.192/27
+origin:             AS4242420415
+mnt-by:             TYLER-MNT
+source:             DN42

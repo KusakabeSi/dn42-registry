@@ -1,0 +1,10 @@
+inet6num:           fd42:0f61:0e12:0000:0000:0000:0000:0000 - fd42:0f61:0e12:ffff:ffff:ffff:ffff:ffff
+netname:            FPLETZ-INET6
+descr:              fpletz's dn42 network
+admin-c:            FPLETZ-DN42
+tech-c:             FPLETZ-DN42
+mnt-by:             FPLETZ-MNT
+nserver:            ns0.fpletz.dn42
+status:             ASSIGNED PI
+cidr:               fd42:f61:e12::/48
+source:             DN42

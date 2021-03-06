@@ -1,0 +1,5 @@
+route6:             fd42:c:a::/48
+descr:              CHAOSTREFF-AT-0
+origin:             AS4242421420
+mnt-by:             JOMAT-MNT
+source:             DN42

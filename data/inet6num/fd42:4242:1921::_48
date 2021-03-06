@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:1921:0000:0000:0000:0000:0000 - fd42:4242:1921:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1921::/48
+netname:            ANDATCHE-NET
+descr:              andatche
+country:            GB
+admin-c:            ANDATCHE-DN42
+tech-c:             ANDATCHE-DN42
+mnt-by:             ANDATCHE-MNT
+status:             ASSIGNED
+source:             DN42

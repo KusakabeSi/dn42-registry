@@ -1,0 +1,10 @@
+inet6num:           fdfd:face:4ace:0000:0000:0000:0000:0000 - fdfd:face:4ace:ffff:ffff:ffff:ffff:ffff
+netname:            BYLUKE-V6NET
+descr:              IPv6 Network byLuke
+country:            NL
+admin-c:            LUKEREIJ-DN42
+tech-c:             LUKEREIJ-DN42
+mnt-by:             BYLUKE-MNT
+status:             ASSIGNED
+cidr:               fdfd:face:4ace::/48
+source:             DN42

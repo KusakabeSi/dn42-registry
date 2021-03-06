@@ -1,0 +1,10 @@
+inet6num:           fdde:7b0b:8fb9:0000:0000:0000:0000:0000 - fdde:7b0b:8fb9:ffff:ffff:ffff:ffff:ffff
+netname:            CODE4HACK-NET
+descr:              ipv6
+country:            CN
+admin-c:            CODEHACK-DN42
+tech-c:             CODEHACK-DN42
+mnt-by:             CODEHACK-MNT
+status:             ALLOCATED
+cidr:               fdde:7b0b:8fb9::/48
+source:             DN42

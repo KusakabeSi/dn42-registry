@@ -1,0 +1,8 @@
+domain:             spreitzer.dn42
+descr:              Spreitzer
+admin-c:            SPREITZER-DN42
+tech-c:             SPREITZER-DN42
+mnt-by:             SPREITZER-MNT
+nserver:            ns1.spreitzer.dn42 fd42:7:7::1
+nserver:            ns1.spreitzer.dn42 172.20.12.130
+source:             DN42

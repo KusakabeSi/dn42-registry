@@ -1,0 +1,4 @@
+route:              172.20.232.80/28
+origin:             AS4242420710
+mnt-by:             BRUEGGUS-MNT
+source:             DN42

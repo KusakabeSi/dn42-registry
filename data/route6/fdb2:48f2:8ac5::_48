@@ -1,0 +1,5 @@
+route6:             fdb2:48f2:8ac5::/48
+origin:             AS4242422848
+max-length:         48
+mnt-by:             DUMERGURH-MNT
+source:             DN42

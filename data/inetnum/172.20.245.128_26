@@ -1,0 +1,10 @@
+inetnum:            172.20.245.128 - 172.20.245.191
+netname:            NET-RAAW-001
+descr:              raaw.eu netblock 1
+country:            NL
+admin-c:            CDR-DN42
+tech-c:             CDR-DN42
+mnt-by:             RAAW-MNT
+status:             ASSIGNED
+cidr:               172.20.245.128/26
+source:             DN42

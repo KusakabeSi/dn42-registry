@@ -1,0 +1,6 @@
+mntner:             PERKSCO-MNT
+admin-c:            JPERKS-DN42
+tech-c:             JPERKS-DN42
+mnt-by:             PERKSCO-MNT
+auth:               pgp-fingerprint 82E9A41FC763519FA31B149628CA1F3272F0904B
+source:             DN42

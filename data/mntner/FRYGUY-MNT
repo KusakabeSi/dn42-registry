@@ -1,0 +1,7 @@
+mntner:             FRYGUY-MNT
+admin-c:            FRYGUY-DN42
+tech-c:             FRYGUY-DN42
+mnt-by:             FRYGUY-MNT
+auth:               pgp-fingerprint DF7AB2FE4E2290BDFBFE0AB2A9806FD1E6309118
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDh8CALnTnzVozKNpwzDyKNhq126g6Mi1py3sbUe/Ulo2SNiMUOvJKwRkyty3TFcfS9NLgjdwVUsrmbtkQNeq3sOZO3bsiHaBpwr5aVLlC3faGDPH+LQwIG6r093VH4ujZ0T5ENxqUfj6wial4gDWcSBS/sZjYdOBgthOc3vLG5j9G+iOQY8WqvZGifWF8JXCVN+rUTy7BqEeBPwS9Hm64ic2JCEzXdcnlWqGYcM4BXLZbVbIzcrWTvlYwWg/pq8bVGtVazQoP5EvADq01IyK7GO7Sjxg+X/xeVgLD0OQiHJHI3rUS6pbglao8R+pNvlDptAilthloxZ/4eL41N7kJp
+source:             DN42

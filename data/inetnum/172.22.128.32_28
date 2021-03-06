@@ -1,0 +1,8 @@
+inetnum:            172.22.128.32 - 172.22.128.47
+cidr:               172.22.128.32/28
+netname:            DANN-NETWORK
+admin-c:            DANN-DN42
+tech-c:             DANN-DN42
+mnt-by:             DANN-MNT
+status:             ASSIGNED
+source:             DN42

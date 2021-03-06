@@ -1,0 +1,5 @@
+route:              172.23.201.0/24
+descr:              purrdeta CORE
+mnt-by:             PURRDETA-MNT
+origin:             AS4242422287
+source:             DN42

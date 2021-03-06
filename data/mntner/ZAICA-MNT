@@ -1,0 +1,7 @@
+mntner:             ZAICA-MNT
+auth:               pgp-fingerprint EC0A9AFCD109989C2557B7BEC723DD15ADD25D04
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqGzPw037zTLOhlFHuAme9NDiN2AUHt/BpJVE15NRsreiQW9O+mlfUWOd2W8XCNbG/pysvZlUxVBCQjqBsmbDIsVf2jQtwnJrX+sQ9R7MTC/l+sOMoSP86QutxdeUfm5L9tjrKZd6CetrOCiAyvW2khKXixdZZ9r8IH4twbMTCaAxCLQVqfBEXjiyDx6HbkOc2Nl3oMTcuqZdDg044joA+9TrVGihrh00cl1vORY/cq10CStTHWRZKuf6QXAt0sBWLjxbPwWnrpx8uBjZSMH3jQppAg59bWLwuF9CFN76CzJ1heaDN9YkxqhwF9cc6FG1oVuPTomSeR45cqFfodRz/ root@kubuntu
+admin-c:            ASANYI-DN42
+tech-c:             ASANYI-DN42
+mnt-by:             ZAICA-MNT
+source:             DN42

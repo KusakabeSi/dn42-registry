@@ -1,0 +1,9 @@
+inetnum:            172.20.2.32 - 172.20.2.63
+netname:            LABRIQUE-NET
+country:            FR
+admin-c:            LABRIQUE-DN42
+tech-c:             LABRIQUE-DN42
+mnt-by:             LABRIQUE-MNT
+status:             ASSIGNED
+cidr:               172.20.2.32/27
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.7.0/27
+origin:             AS4242421225
+mnt-by:             MORIARTY-MNT
+source:             DN42

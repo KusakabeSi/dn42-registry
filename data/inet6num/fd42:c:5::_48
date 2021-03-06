@@ -1,0 +1,11 @@
+inet6num:           fd42:000c:0005:0000:0000:0000:0000:0000 - fd42:000c:0005:ffff:ffff:ffff:ffff:ffff
+netname:            CHAOSTREFF-SBG-0
+descr:              Chaostreff Salzburg
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.at.dn42
+status:             ALLOCATED
+cidr:               fd42:c:5::/48
+source:             DN42

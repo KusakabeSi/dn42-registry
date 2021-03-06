@@ -1,0 +1,7 @@
+aut-num:            AS4242423754
+as-name:            MOHO-AS
+descr:              moho1 AS
+admin-c:            MOHO-DN42
+tech-c:             MOHO-DN42
+mnt-by:             MOHO-MNT
+source:             DN42

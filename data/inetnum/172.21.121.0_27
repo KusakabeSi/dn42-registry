@@ -1,0 +1,12 @@
+inetnum:            172.21.121.0 - 172.21.121.31
+netname:            FELIX-NET
+descr:              Felix Core Network
+country:            US
+admin-c:            FELIX-DN42
+tech-c:             FELIX-DN42
+mnt-by:             FELIX-MNT
+nserver:            ns1.felix.dn42
+nserver:            ns2.felix.dn42
+status:             ASSIGNED
+cidr:               172.21.121.0/27
+source:             DN42

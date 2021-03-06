@@ -1,0 +1,7 @@
+inetnum:            172.31.1.8 - 172.31.1.8
+cidr:               172.31.1.8/32
+netname:            CHAOSVPN-ASTR0BOY
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,5 @@
+route6:             fda4:be8c:4fd1::/48
+origin:             AS4242423761
+max-length:         48
+mnt-by:             L3IBI-MNT
+source:             DN42

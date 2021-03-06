@@ -1,0 +1,6 @@
+route:              10.202.0.0/18
+origin:             AS65522
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: altmuehltal
+mnt-by:             DN42-MNT
+source:             ICVPN

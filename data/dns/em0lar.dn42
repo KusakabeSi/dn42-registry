@@ -1,0 +1,7 @@
+domain:             em0lar.dn42
+admin-c:            EM0LAR-DN42
+tech-c:             EM0LAR-DN42
+mnt-by:             EM0LAR-MNT
+nserver:            ns1.em0lar.dn42 fdf3:bd28:d90b::1
+nserver:            ns1.em0lar.dn42 172.20.209.0
+source:             DN42

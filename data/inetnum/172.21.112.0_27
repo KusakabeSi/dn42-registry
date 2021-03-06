@@ -1,0 +1,9 @@
+inetnum:            172.21.112.0 - 172.21.112.31
+cidr:               172.21.112.0/27
+netname:            SEEK42-NETWORK
+country:            US
+admin-c:            SEEK42-DN42
+tech-c:             SEEK42-DN42
+mnt-by:             SEEK42-MNT
+status:             ASSIGNED
+source:             DN42

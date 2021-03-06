@@ -1,0 +1,8 @@
+mntner:             JAMESR-MNT
+descr:              Maintainer for VAGUE
+admin-c:            JAMESR-DN42
+auth:               pgp-fingerprint EA3AE26B1D050E4F4D688ED77061CAB7E030AED8
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCz4EB2sABDclp9q3zF5QMeViyCixCgK9KOU7W67yAJEfVo1z6MMWvK+Idqvx75cFFDBmkQuSlueAF8K/gkvRt92RH+gfApSJDzRd6dZVFaSmc97tN08/inO8DoEz0jTdciL2w+MJokTFX5yl7dHQ5jHONy260QsCAcY1TBn++BlFjV/9tO77jcNmAf+jFw6yoTC0xWOI7AoFbnKVbXO/4ykoxD6QMdFjniDqTOSkKf9qSrxZFHeO9H/1iDraPTpYwM7DRj75q207iemwVBu3jxE6eUafGkeux41MeQImCsLaBIOHTaEM72Dbxetmad8gQPRF2Wj2hdKDlqKkh98Tb9 jamesr+dn42@vague.org.uk
+tech-c:             JAMESR-DN42
+mnt-by:             JAMESR-MNT
+source:             DN42

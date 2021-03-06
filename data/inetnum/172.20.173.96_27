@@ -1,0 +1,8 @@
+inetnum:            172.20.173.96 - 172.20.173.127
+cidr:               172.20.173.96/27
+netname:            LZ1OPS-NETWORK
+admin-c:            LZ1OPS-DN42
+tech-c:             LZ1OPS-DN42
+mnt-by:             LZ1OPS-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdc5:a4a8:96d9:0000:0000:0000:0000:0000 - fdc5:a4a8:96d9:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:a4a8:96d9::/48
+netname:            HAHA-NETWORK
+descr:              Network of haha
+country:            CA
+admin-c:            HAHA-DN42
+tech-c:             HAHA-DN42
+mnt-by:             HAHA-MNT
+status:             ASSIGNED
+source:             DN42

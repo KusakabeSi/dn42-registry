@@ -1,0 +1,10 @@
+inetnum:            172.23.250.0 - 172.23.250.31
+netname:            PDOSTAL-IP4CARAMBOLA
+descr:              Pavel Dostal's CARAMBOLA 172.23.250.0/27 block
+country:            CZ
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+status:             ASSIGNED
+cidr:               172.23.250.0/27
+source:             DN42

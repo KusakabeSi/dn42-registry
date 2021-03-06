@@ -1,0 +1,5 @@
+route:              172.20.130.128/28
+descr:              Route to own ASN ( 4242423759 )
+origin:             AS4242423759
+mnt-by:             DRATHIR-MNT
+source:             DN42

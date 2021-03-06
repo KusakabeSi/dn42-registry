@@ -1,0 +1,11 @@
+route6:             fd42:d42:d42:80::/64
+descr:              Distributed Wiki
+origin:             AS64737
+origin:             AS4242420123
+origin:             AS64719
+origin:             AS4242422601
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+mnt-by:             LUTOMA-MNT
+mnt-by:             BURBLE-MNT
+source:             DN42

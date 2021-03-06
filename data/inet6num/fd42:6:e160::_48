@@ -1,0 +1,10 @@
+inet6num:           fd42:0006:e160:0000:0000:0000:0000:0000 - fd42:0006:e160:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:6:e160::/48
+netname:            ENS160-IPv6
+descr:              ENS160's IPv6 network
+country:            US
+admin-c:            ENS160-DN42
+tech-c:             ENS160-DN42
+mnt-by:             ENS160-MNT
+status:             ASSIGNED
+source:             DN42

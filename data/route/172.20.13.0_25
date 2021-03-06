@@ -1,0 +1,4 @@
+route:              172.20.13.0/25
+origin:             AS4242420240
+mnt-by:             MOEU-MNT
+source:             DN42

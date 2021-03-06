@@ -1,0 +1,7 @@
+domain:             gibbons.dn42
+admin-c:            GDEV-DN42
+tech-c:             GDEV-DN42
+mnt-by:             GDEV-MNT
+nserver:            1.ns.gibbons.dn42 172.20.184.65
+nserver:            1.ns.gibbons.dn42 fd12:9554:7f59::beef
+source:             DN42

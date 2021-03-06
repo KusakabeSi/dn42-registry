@@ -1,0 +1,4 @@
+route:              172.20.46.112/29
+origin:             AS4242421461
+mnt-by:             NETKOLIK-MNT
+source:             DN42

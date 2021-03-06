@@ -1,0 +1,5 @@
+route:              172.20.214.0/26
+descr:              Morxi's V4 ROA
+origin:             AS4242422214
+mnt-by:             MOXI-MNT
+source:             DN42

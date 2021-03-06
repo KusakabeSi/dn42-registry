@@ -1,0 +1,7 @@
+mntner:             YUYUKO-MNT
+descr:              yuyuko network maintainer
+admin-c:            YUYUKO-DN42
+tech-c:             YUYUKO-DN42
+mnt-by:             YUYUKO-MNT
+source:             DN42
+auth:               pgp-fingerprint E915ADD98C1C47B2B1AB47CC536BAAD91989BC3C

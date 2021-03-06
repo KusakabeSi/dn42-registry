@@ -1,0 +1,6 @@
+mntner:             ENS160-MNT
+admin-c:            ENS160-DN42
+tech-c:             ENS160-DN42
+mnt-by:             ENS160-MNT
+auth:               pgp-fingerprint 4DC2A9E52C6947C049C5B453EDCCD4120A0052D9
+source:             DN42

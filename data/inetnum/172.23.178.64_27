@@ -1,0 +1,8 @@
+inetnum:            172.23.178.64 - 172.23.178.95
+cidr:               172.23.178.64/27
+netname:            CHILLONETWORK-NETWORK
+admin-c:            CHILLONETWORK-DN42
+tech-c:             CHILLONETWORK-DN42
+mnt-by:             CHILLONETWORK-MNT
+status:             ASSIGNED
+source:             DN42

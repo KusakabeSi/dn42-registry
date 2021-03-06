@@ -1,0 +1,6 @@
+person:             codec
+contact:            xmpp:codec@fnord.cx
+contact:            mailto:codec@fnord.cx
+nic-hdl:            CODEC-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

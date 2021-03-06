@@ -1,0 +1,10 @@
+inet6num:           fd34:afbb:3200:0000:0000:0000:0000:0000 - fd34:afbb:3200:ffff:ffff:ffff:ffff:ffff
+cidr:               fd34:afbb:3200::/48
+netname:            SECRETMINE-NETWORK
+descr:              Network of SECRETMINE
+country:            DE
+admin-c:            SECRETMINE-DN42
+tech-c:             SECRETMINE-DN42
+mnt-by:             SECRETMINE-MNT
+status:             ASSIGNED
+source:             DN42

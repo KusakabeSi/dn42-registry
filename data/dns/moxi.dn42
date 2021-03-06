@@ -1,0 +1,7 @@
+domain:             moxi.dn42
+admin-c:            MORXI-DN42
+tech-c:             MORXI-DN42
+mnt-by:             MOXI-MNT
+nserver:            ns1.moxi.dn42 172.20.214.1
+nserver:            ns1.moxi.dn42 fd00:58a8:7fb2::1
+source:             DN42

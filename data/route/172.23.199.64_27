@@ -1,0 +1,4 @@
+route:              172.23.199.64/27
+origin:             AS4242422016
+mnt-by:             SIDEREAL-MNT
+source:             DN42

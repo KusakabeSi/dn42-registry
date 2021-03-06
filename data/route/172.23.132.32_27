@@ -1,0 +1,5 @@
+route:              172.23.132.32/27
+descr:              Byteraven IPv4 route
+origin:             AS4242422772
+mnt-by:             BYTERAVEN-MNT
+source:             DN42

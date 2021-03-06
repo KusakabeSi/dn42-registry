@@ -1,0 +1,4 @@
+route:              172.20.39.32/27
+origin:             AS4242423537
+mnt-by:             NFEED-MNT
+source:             DN42

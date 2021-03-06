@@ -1,0 +1,6 @@
+mntner:             CONTROLPLANE-MNT
+descr:              maintainer of controlplane on dn42
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+source:             DN42

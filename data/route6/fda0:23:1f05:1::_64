@@ -1,0 +1,4 @@
+route6:             fda0:23:1f05:1::/64
+origin:             AS4242423514
+mnt-by:             LFNET-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:53fb:543a:0000:0000:0000:0000:0000 - fd42:53fb:543a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:53fb:543a::/48
+netname:            BL4CKOUT-INET6
+country:            FR
+admin-c:            BL4CKOUT-DN42
+tech-c:             BL4CKOUT-DN42
+mnt-by:             BL4CKOUT-MNT
+nserver:            ns1.bl4kout.dn42
+status:             ASSIGNED
+source:             DN42

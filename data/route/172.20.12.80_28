@@ -1,0 +1,4 @@
+route:              172.20.12.80/28
+origin:             AS4242423610
+mnt-by:             SHASHWAT-MNT
+source:             DN42

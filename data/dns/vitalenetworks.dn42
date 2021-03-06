@@ -1,0 +1,9 @@
+domain:             vitalenetworks.dn42
+descr:              Vitale Networks
+org:                ORG-VITALE
+admin-c:            SCARLET-DN42
+tech-c:             SCARLET-DN42
+mnt-by:             VITALE-MNT
+nserver:            ns1.vitalenetworks.dn42 172.21.125.163
+nserver:            ns2.vitalenetworks.dn42 172.21.125.164
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.158.128/26
+origin:             AS4242421331
+mnt-by:             NIA-MNT
+source:             DN42

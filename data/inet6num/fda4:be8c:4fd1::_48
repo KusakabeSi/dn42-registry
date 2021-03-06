@@ -1,0 +1,10 @@
+inet6num:           fda4:be8c:4fd1:0000:0000:0000:0000:0000 - fda4:be8c:4fd1:ffff:ffff:ffff:ffff:ffff
+cidr:               fda4:be8c:4fd1::/48
+netname:            L3IBI-NETWORK
+descr:              Network of l3ibi
+country:            FR
+admin-c:            L3IBI-DN42
+tech-c:             L3IBI-DN42
+mnt-by:             L3IBI-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.34.96/27
+descr:              Client area
+origin:             AS4242423214
+mnt-by:             TSYS-MNT
+source:             DN42

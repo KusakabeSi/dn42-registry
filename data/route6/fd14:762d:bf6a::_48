@@ -1,0 +1,5 @@
+route6:             fd14:762d:bf6a::/48
+origin:             AS4242422432
+max-length:         48
+mnt-by:             CARLOTRONICS-MNT
+source:             DN42

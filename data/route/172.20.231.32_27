@@ -1,0 +1,4 @@
+route:              172.20.231.32/27
+origin:             AS4242423859
+mnt-by:             SVINSON-MNT
+source:             DN42

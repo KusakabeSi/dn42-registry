@@ -1,0 +1,10 @@
+inetnum:            172.21.99.32 - 172.21.99.63
+cidr:               172.21.99.32/27
+netname:            YAIX-AMS
+descr:              Yet Another Internet Exchange
+country:            NL
+admin-c:            IMLONGHAO-DN42
+tech-c:             IMLONGHAO-DN42
+mnt-by:             IMLONGHAO-MNT
+status:             ASSIGNED
+source:             DN42

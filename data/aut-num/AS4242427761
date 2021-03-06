@@ -1,0 +1,9 @@
+aut-num:            AS4242427761
+as-name:            QSX
+remarks:            Peering by gre, gif, vxlan, OpenVPN
+remarks:            New peerings only with IPv6 inside
+descr:              qsx’ network
+admin-c:            QSX-DN42
+tech-c:             QSX-DN42
+mnt-by:             QSX-MNT
+source:             DN42

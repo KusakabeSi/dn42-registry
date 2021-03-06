@@ -1,0 +1,8 @@
+domain:             nuxis.dn42
+descr:              nuxis.dn42
+admin-c:            MBG18-DN42
+tech-c:             MBG18-DN42
+mnt-by:             NUXIS-MNT
+nserver:            ns.nuxis.dn42 172.22.128.232
+nserver:            ns.nuxis.dn42 fd5d:ff5f:269f:53::53
+source:             DN42

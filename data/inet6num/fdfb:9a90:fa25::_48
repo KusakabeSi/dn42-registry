@@ -1,0 +1,9 @@
+inet6num:           fdfb:9a90:fa25:0000:0000:0000:0000:0000 - fdfb:9a90:fa25:ffff:ffff:ffff:ffff:ffff
+netname:            FABIAN-V6-NETWORK
+country:            DE
+admin-c:            FC-DN42
+tech-c:             FC-DN42
+mnt-by:             FC-MNT
+status:             ASSIGNED
+cidr:               fdfb:9a90:fa25::/48
+source:             DN42

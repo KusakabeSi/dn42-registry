@@ -1,0 +1,4 @@
+route:              172.23.100.128/27
+origin:             AS4242420696
+mnt-by:             TRAE32566-MNT
+source:             DN42

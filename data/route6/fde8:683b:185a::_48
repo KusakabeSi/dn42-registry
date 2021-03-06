@@ -1,0 +1,5 @@
+route6:             fde8:683b:185a::/48
+origin:             AS4242423802
+max-length:         48
+mnt-by:             VO-MNT
+source:             DN42

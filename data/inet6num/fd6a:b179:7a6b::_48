@@ -1,0 +1,10 @@
+inet6num:           fd6a:b179:7a6b:0000:0000:0000:0000:0000 - fd6a:b179:7a6b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6a:b179:7a6b::/48
+netname:            ALDRIC-NETWORK
+descr:              Network of ALDRIC
+country:            US
+admin-c:            ALDRIC-DN42
+tech-c:             ALDRIC-DN42
+mnt-by:             ALDRIC-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             LZ1OPS-MNT
+admin-c:            LZ1OPS-DN42
+tech-c:             LZ1OPS-DN42
+mnt-by:             LZ1OPS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDQS+IWywnYW//IbAGjorf2WM5d2ZXVxUXaNh3ehoAic8fPCS+Ix08+X2lcyt4O87zwdsVxcFpJNcSTV06yoI6b9tvGf3RFUUTLp3QkC5lKdE6Kha3XQB+UC/7U0xjY1YzIsh4Heur4SpM6CBtM/D5JTpMHjAFHikGGJ+NlxeUjMN73PBSU+NlQvw4lqIOTszXBkMn8iwUrcaTWdgNHBycP7iQ02dgYBYXTx9vnbPKJQAJR+Yree+gVtiGPisHX1YK1zgwh3OOcMLYlrzGxbktfdkP5CMjS7hCfbz45gKotLybxma+OL7Kg4Atd0k53vgp/KghAB9FijWB7qbWfp5fgwvBAT/IMW3UXFg9NelfuEH9KQYpUSLqPVxW662AhCsXMu/QKVswz3HLiETAjf8os2NbdST7nFmbvSLGeQs5Rcd+A3MrKT57srKHf5ypa318fowsXKe5fchFIQgXnoTSeHj/dfg36WUMP+kl9gQInXnwQoHnWIABAvTWtRUKeXQ1ob8UeAYYElQ6Vm8ETBl5kgcJT+wkaRoYOfV3X+ga69+hSseaUCAxHNRm8o6d64DIeScOhyF+3KNaRPyVPKZndlVdxbv+Y339jn+8LdmByqhDwBAJydGIdVvrrCe5G8peoOT2wdC3pFbdFKEfqqjs5CtlAaL7YvjC4EjznL+0OZw== lz1ops@dn42
+source:             DN42

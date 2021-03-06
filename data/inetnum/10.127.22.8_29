@@ -1,0 +1,8 @@
+inetnum:            10.127.22.8 - 10.127.22.15
+cidr:               10.127.22.8/29
+netname:            LINE-NZ
+admin-c:            LINE-NZ-NEONETWORK
+tech-c:             LINE-NZ-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

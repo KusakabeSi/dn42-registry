@@ -1,0 +1,10 @@
+inetnum:            172.23.150.0 - 172.23.150.127
+cidr:               172.23.150.0/25
+netname:            ABCDE-NETWORK
+admin-c:            ABCDE-DN42
+tech-c:             ABCDE-DN42
+mnt-by:             ABCDE-MNT
+nserver:            ns1.abcde.dn42
+nserver:            ns2.abcde.dn42
+status:             ALLOCATED
+source:             DN42

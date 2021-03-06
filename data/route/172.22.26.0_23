@@ -1,0 +1,5 @@
+route:              172.22.26.0/23
+origin:             AS64626
+mnt-by:             FEUERROT-MNT
+mnt-by:             NOMASTER-MNT
+source:             DN42

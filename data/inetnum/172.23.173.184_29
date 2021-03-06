@@ -1,0 +1,9 @@
+inetnum:            172.23.173.184 - 172.23.173.191
+netname:            VOIDPTR-NET
+nserver:            algi.voidptr.dn42
+admin-c:            VOIDPTR-DN42
+tech-c:             VOIDPTR-DN42
+mnt-by:             VOIDPTR-MNT
+status:             ALLOCATED
+cidr:               172.23.173.184/29
+source:             DN42

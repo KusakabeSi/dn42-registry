@@ -1,0 +1,4 @@
+route6:             fd2c:2fa3:62f1::/48
+origin:             AS4242423918
+mnt-by:             SNOC-MNT
+source:             DN42

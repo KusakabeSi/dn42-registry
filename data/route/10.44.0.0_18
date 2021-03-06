@@ -1,0 +1,6 @@
+route:              10.44.0.0/18
+origin:             AS64882
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: limburg
+mnt-by:             DN42-MNT
+source:             ICVPN

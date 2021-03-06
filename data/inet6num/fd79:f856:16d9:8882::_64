@@ -1,0 +1,11 @@
+inet6num:           fd79:f856:16d9:8882:0000:0000:0000:0000 - fd79:f856:16d9:8882:ffff:ffff:ffff:ffff
+netname:            NET-JONATHAN-FERGUSON-DN42
+cidr:               fd79:f856:16d9:8882::/64
+descr:              Matryoshka bridge0
+status:             ASSIGNED PA
+country:            AU
+remarks:            AS4242420017
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

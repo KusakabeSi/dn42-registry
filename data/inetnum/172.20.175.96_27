@@ -1,0 +1,8 @@
+inetnum:            172.20.175.96 - 172.20.175.127
+cidr:               172.20.175.96/27
+netname:            SKID-NETWORK
+admin-c:            SKID-DN42
+tech-c:             SKID-DN42
+mnt-by:             SKID-MNT
+status:             ASSIGNED
+source:             DN42

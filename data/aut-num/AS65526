@@ -1,0 +1,9 @@
+aut-num:            AS65526
+as-name:            FFGRONAU-AS
+descr:              Freifunk Gronau
+remarks:            http://wiki.freifunk.net/GronauFreifunkNet
+remarks:            * This resource was generated based on data from http://wiki.freifunk.net/AS-Nummern
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             FREIFUNKDUMMY-MNT
+source:             DN42

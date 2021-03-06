@@ -1,0 +1,7 @@
+inetnum:            10.128.0.0 - 10.128.63.255
+cidr:               10.128.0.0/18
+netname:            ICVPN-MARBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: marburg
+mnt-by:             DN42-MNT
+source:             ICVPN

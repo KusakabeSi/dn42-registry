@@ -1,0 +1,6 @@
+mntner:             ALICE-DN42-MNT
+descr:              alice_wl
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             ALICE-DN42-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             HEXCHEN-MNT
+admin-c:            HEXCHEN-DN42
+tech-c:             HEXCHEN-DN42
+mnt-by:             HEXCHEN-MNT
+auth:               pgp-fingerprint 0B0D6F50C824CB7B90CE23A186E5857EB62F78EF
+auth:               ssh-ed25519 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG7v9OIKWzXJZsrkHudCbEZNlVSGsmLhrggl50mvfuR+
+source:             DN42

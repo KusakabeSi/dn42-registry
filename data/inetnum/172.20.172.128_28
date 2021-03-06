@@ -1,0 +1,8 @@
+inetnum:            172.20.172.128 - 172.20.172.143
+netname:            ZHSJ-N1
+admin-c:            ZHSJ-DN42
+tech-c:             ZHSJ-DN42
+mnt-by:             ZHSJ-MNT
+status:             ASSIGNED
+cidr:               172.20.172.128/28
+source:             DN42

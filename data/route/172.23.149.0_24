@@ -1,0 +1,5 @@
+route:              172.23.149.0/24
+descr:              GRMML Network
+origin:             AS4242420123
+mnt-by:             GRMML-MNT
+source:             DN42

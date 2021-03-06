@@ -1,0 +1,9 @@
+inet6num:           fd42:dead:d00d:0000:0000:0000:0000:0000 - fd42:dead:d00d:ffff:ffff:ffff:ffff:ffff
+netname:            XERA-NET
+country:            RO
+admin-c:            WALLE256-DN42
+tech-c:             WALLE256-DN42
+mnt-by:             WALLE256-MNT
+status:             ASSIGNED
+cidr:               fd42:dead:d00d::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd45:2e33:411e::/48
+origin:             AS4242421149
+max-length:         48
+mnt-by:             DEPACH-MNT
+source:             DN42

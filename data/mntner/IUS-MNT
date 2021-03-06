@@ -1,0 +1,6 @@
+mntner:             IUS-MNT
+admin-c:            IUS-DN42
+tech-c:             IUS-DN42
+mnt-by:             IUS-MNT
+auth:               pgp-fingerprint 41F4F690FC6A706031E4892E31F35ACB91C0860B
+source:             DN42

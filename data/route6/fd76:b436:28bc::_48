@@ -1,0 +1,5 @@
+route6:             fd76:b436:28bc::/48
+descr:              Gigadoc2 homenetwork
+origin:             AS4242420003
+mnt-by:             GIGA-MNT
+source:             DN42

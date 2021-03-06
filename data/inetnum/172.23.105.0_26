@@ -1,0 +1,13 @@
+inetnum:            172.23.105.0 - 172.23.105.63
+netname:            YUUTAW-IPV4
+remarks:            Peer with me at peering.yuuta.moe
+descr:              Peer with me at peering.yuuta.moe
+country:            CA
+admin-c:            YUUTAW-DN42
+tech-c:             YUUTAW-DN42
+mnt-by:             YUUTAW-MNT
+nserver:            ns1.yuuta.dn42
+nserver:            ns2.yuuta.dn42
+status:             ASSIGNED
+cidr:               172.23.105.0/26
+source:             DN42

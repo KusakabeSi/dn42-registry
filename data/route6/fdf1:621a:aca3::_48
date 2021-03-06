@@ -1,0 +1,6 @@
+route6:             fdf1:621a:aca3::/48
+origin:             AS64895
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: wetzlar
+mnt-by:             DN42-MNT
+source:             ICVPN

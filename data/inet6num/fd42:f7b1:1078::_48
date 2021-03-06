@@ -1,0 +1,11 @@
+inet6num:           fd42:f7b1:1078:0000:0000:0000:0000:0000 - fd42:f7b1:1078:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:f7b1:1078::/48
+netname:            WHMCR-NETWORK
+descr:              WHMCR - Home Network
+country:            GB
+admin-c:            WHMCR-DN42
+tech-c:             WHMCR-DN42
+mnt-by:             WHMCR-MNT
+nserver:            ns1.whmcr.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.20.200.0 - 172.20.200.255
+netname:            NET-JMT-VIRT10
+descr:              jmt
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.j.dn42
+nserver:            ns1.j.dn42
+status:             ALLOCATED
+cidr:               172.20.200.0/24
+source:             DN42

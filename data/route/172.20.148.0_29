@@ -1,0 +1,4 @@
+route:              172.20.148.0/29
+origin:             AS4242422043
+mnt-by:             KLEEN-MNT
+source:             DN42

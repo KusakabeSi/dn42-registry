@@ -1,0 +1,13 @@
+inet6num:           fd5e:86a9:f675:0000:0000:0000:0000:0000 - fd5e:86a9:f675:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5e:86a9:f675::/48
+netname:            ZIIS-NET-001
+descr:              Network of ZIIS
+country:            GB
+admin-c:            ZIIS-DN42
+tech-c:             ZIIS-DN42
+mnt-by:             ZIIS-MNT
+nserver:            ns1.ziis.dn42
+ds-rdata:           18551 13 1 6abc80690f8a86e94d8a37a4bb07af3b5da4c6aa
+ds-rdata:           18551 13 2 546a5ca5c3f31e278d6ea51f33f1e0422e5e8ee5b268e80534135bb93c6c5eb3
+status:             ASSIGNED
+source:             DN42

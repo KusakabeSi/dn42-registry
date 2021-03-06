@@ -1,0 +1,13 @@
+inetnum:            172.22.66.32 - 172.22.66.63
+cidr:               172.22.66.32/27
+netname:            FIXMIX-NET-42V4A
+descr:              fixmix Network on DN42 - IPv4 Address Block A
+org:                ORG-FIXMIX
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+status:             ASSIGNED
+nserver:            ns1.fixmix.dn42
+nserver:            ns2.fixmix.dn42
+nserver:            ns3.fixmix.dn42
+source:             DN42

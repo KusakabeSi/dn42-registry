@@ -1,0 +1,10 @@
+domain:             erinn.dn42
+admin-c:            ERINN-DN42
+tech-c:             ERINN-DN42
+org:                ORG-ERINN
+mnt-by:             ERINN-MNT
+nserver:            uladh.ns.erinn.dn42 172.21.89.129
+nserver:            uladh.ns.erinn.dn42 fdfd:468b:bab6:554c::1
+nserver:            iria.ns.erinn.dn42 172.21.89.131
+nserver:            iria.ns.erinn.dn42 fdfd:468b:bab6:4952::2
+source:             DN42

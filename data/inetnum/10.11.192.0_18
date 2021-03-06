@@ -1,0 +1,7 @@
+inetnum:            10.11.192.0 - 10.11.255.255
+cidr:               10.11.192.0/18
+netname:            ICVPN-OBERHAUSEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: oberhausen
+mnt-by:             DN42-MNT
+source:             ICVPN

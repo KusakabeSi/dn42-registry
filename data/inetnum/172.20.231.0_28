@@ -1,0 +1,10 @@
+inetnum:            172.20.231.0 - 172.20.231.15
+cidr:               172.20.231.0/28
+netname:            PEER-NET-1
+admin-c:            PEER-DN42
+tech-c:             PEER-DN42
+mnt-by:             PEER-MNT
+nserver:            ns1.darenet.dn42
+nserver:            ns2.darenet.dn42
+status:             ASSIGNED
+source:             DN42

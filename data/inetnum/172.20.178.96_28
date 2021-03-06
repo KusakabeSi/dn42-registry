@@ -1,0 +1,9 @@
+inetnum:            172.20.178.96 - 172.20.178.111
+cidr:               172.20.178.96/28
+netname:            MRXERMON-NETWORK-INTERNAL
+country:            DE
+admin-c:            MRXERMON-DN42
+tech-c:             MRXERMON-DN42
+mnt-by:             MRXERMON-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.22.156.0 - 172.22.156.127
+cidr:               172.22.156.0/25
+netname:            BIVABORI-CORE-DN42
+admin-c:            BIVABORI-DN42
+tech-c:             BIVABORI-DN42
+mnt-by:             BIVABORI-MNT
+status:             ASSIGNED
+source:             DN42

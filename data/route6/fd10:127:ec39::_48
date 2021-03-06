@@ -1,0 +1,8 @@
+route6:             fd10:127:ec39::/48
+max-length:         64
+origin:             AS4201270009
+admin-c:            TYLER-NEONETWORK
+tech-c:             TYLER-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

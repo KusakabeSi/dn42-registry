@@ -1,0 +1,7 @@
+mntner:             HATO-MNT
+descr:              HATONET
+admin-c:            HATO-DN42
+tech-c:             HATO-DN42
+mnt-by:             HATO-MNT
+auth:               pgp-fingerprint 3E497C80A0C1F155FD83058BC5FE049CAF59D609
+source:             DN42

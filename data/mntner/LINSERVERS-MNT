@@ -1,0 +1,7 @@
+mntner:             LINSERVERS-MNT
+descr:              Linservers Network
+admin-c:            JIMMY-DN42
+tech-c:             JIMMY-DN42
+auth:               PGPKEY-5D015393
+mnt-by:             LINSERVERS-MNT
+source:             DN42

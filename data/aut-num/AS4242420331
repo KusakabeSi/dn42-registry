@@ -1,0 +1,7 @@
+aut-num:            AS4242420331
+as-name:            YANE01-AS
+descr:              YANE's DN42 Network
+admin-c:            ORG-YANE-DN42
+tech-c:             ORG-YANE-DN42
+mnt-by:             YANE-MNT
+source:             DN42

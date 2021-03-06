@@ -1,0 +1,4 @@
+route6:             fd7b:9886:1c8c::/48
+origin:             AS4242423404
+mnt-by:             CSG-MNT
+source:             DN42

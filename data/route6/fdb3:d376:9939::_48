@@ -1,0 +1,4 @@
+route6:             fdb3:d376:9939::/48
+origin:             AS64712
+mnt-by:             DUMMY-MNT
+source:             DN42

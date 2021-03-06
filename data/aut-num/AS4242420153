@@ -1,0 +1,7 @@
+aut-num:            AS4242420153
+as-name:            NXTHOST-AS
+descr:              NxtHost AS
+admin-c:            NXTHOST-DN42
+tech-c:             NXTHOST-DN42
+mnt-by:             NXTHOST-MNT
+source:             DN42

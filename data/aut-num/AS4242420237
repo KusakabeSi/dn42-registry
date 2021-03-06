@@ -1,0 +1,13 @@
+aut-num:            AS4242420237
+as-name:            COLNET
+descr:              Red Colombiana de DN42
+admin-c:            CARLOSJS-DN42
+tech-c:             CARLOSJS-DN42
+remarks:            -------------------------------------
+remarks:            - Open Peering -
+remarks:            contact: mrescobarandres@gmail.com
+remarks:            irc: colnet
+remarks:            Latin American Peers pref.
+remarks:            -------------------------------------
+mnt-by:             CARLOSJS-MNT
+source:             DN42

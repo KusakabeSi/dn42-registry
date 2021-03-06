@@ -1,0 +1,7 @@
+inet6num:           fdc4:d762:2143:0000:0000:0000:0000:0000 - fdc4:d762:2143:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc4:d762:2143::/48
+netname:            ICVPN-DONAU-RIES
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: donau-ries
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+mntner:             KYON-MNT
+descr:              Kyonnet
+admin-c:            KYON-DN42
+tech-c:             KYON-DN42
+mnt-by:             KYON-MNT
+auth:               pgp-fingerprint E722ABDC4E912657A246BF7E792D4FCC8E0CEC22
+source:             DN42

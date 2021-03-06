@@ -1,0 +1,4 @@
+route:              172.20.29.192/27
+origin:             AS4242422248
+mnt-by:             SUDOPARADISE-MNT
+source:             DN42

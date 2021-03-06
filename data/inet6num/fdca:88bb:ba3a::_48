@@ -1,0 +1,8 @@
+inet6num:           fdca:88bb:ba3a:0000:0000:0000:0000:0000 - fdca:88bb:ba3a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdca:88bb:ba3a::/48
+netname:            NEVERLOCATE-NET-1
+admin-c:            BGLOPEZ-DN42
+tech-c:             BGLOPEZ-DN42
+mnt-by:             NEVERLOCATE-MNT
+status:             ASSIGNED
+source:             DN42

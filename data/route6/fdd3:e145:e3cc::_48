@@ -1,0 +1,5 @@
+route6:             fdd3:e145:e3cc::/48
+descr:              ipv6
+origin:             AS4242420193
+mnt-by:             ZZ-MNT
+source:             DN42

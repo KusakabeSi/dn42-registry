@@ -1,0 +1,5 @@
+route6:             fd22:7135:7c82::/48
+origin:             AS4242421017
+max-length:         48
+mnt-by:             DRMESSANO-MNT
+source:             DN42

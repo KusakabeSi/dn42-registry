@@ -1,0 +1,8 @@
+aut-num:            AS64703
+as-name:            DIEMACO-AS
+descr:              diemaco dn42 ASN
+remarks:            nothing
+admin-c:            DIEMACO-DN42
+tech-c:             DIEMACO-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd80:9527::/48
+origin:             AS4242421010
+mnt-by:             DRIVERSP-MNT
+source:             DN42

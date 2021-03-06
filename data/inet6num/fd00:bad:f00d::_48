@@ -1,0 +1,9 @@
+inet6num:           fd00:0bad:f00d:0000:0000:0000:0000:0000 - fd00:0bad:f00d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:bad:f00d::/48
+netname:            LOSER-NETWORK
+country:            TR
+admin-c:            LOSER-DN42
+tech-c:             LOSER-DN42
+mnt-by:             LOSER-MNT
+status:             ASSIGNED
+source:             DN42

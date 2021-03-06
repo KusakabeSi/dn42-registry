@@ -1,0 +1,5 @@
+route6:             fd23:2333:2333::/48
+descr:              Magical Circle TestNet V6
+origin:             AS4242420741
+mnt-by:             FUTURSOLO-MNT
+source:             DN42

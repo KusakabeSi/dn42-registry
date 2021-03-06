@@ -1,0 +1,10 @@
+inetnum:            172.22.133.0 - 172.22.133.63
+netname:            NET-B-4-1
+descr:              The DN42 Brewing Co.
+country:            US
+admin-c:            D-DN42
+tech-c:             D-DN42
+mnt-by:             B-MNT
+status:             ALLOCATED PI
+cidr:               172.22.133.0/26
+source:             DN42

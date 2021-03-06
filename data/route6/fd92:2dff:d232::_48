@@ -1,0 +1,6 @@
+route6:             fd92:2dff:d232::/48
+origin:             AS64861
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: celle
+mnt-by:             DN42-MNT
+source:             ICVPN

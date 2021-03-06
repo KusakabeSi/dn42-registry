@@ -1,0 +1,12 @@
+inet6num:           fdcb:f420:d408:0000:0000:0000:0000:0000 - fdcb:f420:d408:ffff:ffff:ffff:ffff:ffff
+netname:            ZALEDIA-NET
+nserver:            jupiter.zaledia.dn42
+nserver:            zaledia.dn42
+descr:              zaledia IPv6 adresses
+country:            CH
+admin-c:            ZALEDIA-DN42
+tech-c:             ZALEDIA-DN42
+mnt-by:             ZALEDIA-MNT
+status:             ASSIGNED
+cidr:               fdcb:f420:d408::/48
+source:             DN42

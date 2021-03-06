@@ -1,0 +1,9 @@
+organisation:       ORG-ILDIX
+org-name:           Ilmenau dn42 Internet Exchange
+admin-c:            CLERIE-DN42
+admin-c:            NEX-DN42
+tech-c:             CLERIE-DN42
+tech-c:             NEX-DN42
+mnt-by:             CLERIE-MNT
+mnt-by:             NEX-MNT
+source:             DN42

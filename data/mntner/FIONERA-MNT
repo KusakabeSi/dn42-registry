@@ -1,0 +1,7 @@
+mntner:             FIONERA-MNT
+admin-c:            FIONERA-DN42
+tech-c:             FIONERA-DN42
+mnt-by:             FIONERA-MNT
+auth:               pgp-fingerprint DD9D123140C5BAE576F7E84DD20DD43ACC6681F5
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/x54I/8iUCMZBpZZc3dn10c6MUYE8W2LL5MKS1yrPEdPOGgEB4fH3gVKIpocfoHY9qJTUCG80iH1Gh1mLHey7DsY5xcVLxH5962xvZUIWWoXMvfXl0V4sZLvSuIxRokKx5c5ynz+50uUb32+Mhsj1GQWYdhc48Iuj5pkfrS4vbwsYlwoI03twLpblIO9meiqIuTQgzf304NcU7/mu2y4IMsZDH0AA6Uz8xoIFzDWyML07SlhgY2Dv7Qs3D/H0gvFHK10v6pJzNDH8fWHhusKosZ0564xHDYQn6OQSJCS49LwgmkZT6bmJO1dFRzwKF+RewCcOTnrX8AKYjqLc47RJ
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.163.112 - 172.20.163.127
+cidr:               172.20.163.112/28
+netname:            JANITH-NETWORK
+admin-c:            JANITH-DN42
+tech-c:             JANITH-DN42
+mnt-by:             JANITH-MNT
+descr:              MY HOME NETWORK
+country:            LK
+status:             ASSIGNED
+source:             DN42

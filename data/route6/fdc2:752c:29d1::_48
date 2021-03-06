@@ -1,0 +1,5 @@
+route6:             fdc2:752c:29d1::/48
+origin:             AS4242423636
+max-length:         48
+mnt-by:             SHIKI-MNT
+source:             DN42

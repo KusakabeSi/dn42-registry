@@ -1,0 +1,5 @@
+route6:             fdcf:205f:3b98::/48
+origin:             AS4242423399
+max-length:         48
+mnt-by:             BYTEREALM-MNT
+source:             DN42

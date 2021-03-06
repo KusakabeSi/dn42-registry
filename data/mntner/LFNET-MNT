@@ -1,0 +1,8 @@
+mntner:             LFNET-MNT
+descr:              lf-net.org and related
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+remarks:            pin-sha256:bkoMBSc4KlTp5vuVYt8RWwdTtNgoYqa2/3CR9OgEhZs=
+auth:               pgp-fingerprint F3341495C52DB93B9B5122432760DA90FF81FD74
+source:             DN42

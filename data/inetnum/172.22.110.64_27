@@ -1,0 +1,8 @@
+inetnum:            172.22.110.64 - 172.22.110.95
+cidr:               172.22.110.64/27
+netname:            FIONERA-NET
+admin-c:            FIONERA-DN42
+tech-c:             FIONERA-DN42
+mnt-by:             FIONERA-MNT
+status:             ASSIGNED
+source:             DN42

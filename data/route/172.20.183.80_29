@@ -1,0 +1,5 @@
+route:              172.20.183.80/29
+descr:              GEDIX-TRANSFER-NET
+origin:             AS4242420156
+mnt-by:             DDEV-MNT
+source:             DN42

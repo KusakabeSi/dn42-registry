@@ -1,0 +1,10 @@
+inet6num:           fd00:dead:beef:0000:0000:0000:0000:0000 - fd00:dead:beef:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:dead:beef::/48
+netname:            JACOBTHEELDEST-NETWORK
+descr:              JACOBTHEELDEST IPv6
+country:            US
+admin-c:            JACOBTHEELDEST-DN42
+tech-c:             JACOBTHEELDEST-DN42
+mnt-by:             JACOBTHEELDEST-MNT
+status:             ASSIGNED
+source:             DN42

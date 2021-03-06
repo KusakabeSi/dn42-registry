@@ -1,0 +1,11 @@
+inetnum:            172.20.136.0 - 172.20.136.127
+netname:            SPLIT-NET
+descr:              Internal Testing Range #1
+country:            AU
+admin-c:            SPLITICE-DN42
+tech-c:             SPLITICE-DN42
+mnt-by:             SPLITICE-MNT
+nserver:            ns1.spliticenet.dn42
+status:             ALLOCATED PI
+cidr:               172.20.136.0/25
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             chillo.dn42
+admin-c:            CHILLONETWORK-DN42
+tech-c:             CHILLONETWORK-DN42
+mnt-by:             CHILLONETWORK-MNT
+nserver:            ns1.chillo.dn42 172.23.178.93
+nserver:            ns2.chillo.dn42 172.23.178.94
+source:             DN42

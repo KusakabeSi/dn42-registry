@@ -1,0 +1,11 @@
+inet6num:           fd1c:f73c:a945:0000:0000:0000:0000:0000 - fd1c:f73c:a945:ffff:ffff:ffff:ffff:ffff
+netname:            GOTROOT-INT-V6
+nserver:            ns1.gotroot.dn42
+descr:              Got root? Internal IPv6
+country:            CA
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+status:             ALLOCATED
+cidr:               fd1c:f73c:a945::/48
+source:             DN42

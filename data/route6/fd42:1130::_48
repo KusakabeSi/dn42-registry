@@ -1,0 +1,5 @@
+route6:             fd42:1130::/48
+descr:              Peer with me at bonjou2333@gmail.com
+origin:             AS4242421130
+mnt-by:             BONJOU2333-MNT
+source:             DN42

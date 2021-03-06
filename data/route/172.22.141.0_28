@@ -1,0 +1,5 @@
+route:              172.22.141.0/28
+descr:              Xuu Network 0
+origin:             AS64737
+mnt-by:             XUU-MNT
+source:             DN42

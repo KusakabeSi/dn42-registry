@@ -1,0 +1,4 @@
+route:              172.22.118.96/27
+origin:             AS4242423217
+mnt-by:             KANGAROONET-MNT
+source:             DN42

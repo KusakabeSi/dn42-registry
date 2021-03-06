@@ -1,0 +1,4 @@
+route:              172.20.19.96/27
+origin:             AS4242423518
+mnt-by:             MOON-MNT
+source:             DN42

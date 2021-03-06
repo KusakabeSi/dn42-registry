@@ -1,0 +1,6 @@
+route:              10.219.0.0/18
+origin:             AS64888
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rhein-erft-kreis
+mnt-by:             DN42-MNT
+source:             ICVPN

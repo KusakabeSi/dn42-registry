@@ -1,0 +1,12 @@
+inetnum:            172.20.198.0 - 172.20.198.63
+netname:            YZUCRC-NET
+remarks:            Peer with me at s1030361@mail.yzu.edu.tw
+descr:              Yuan Ze University Communications Research Center Network
+country:            TW
+admin-c:            XINYUAN-DN42
+tech-c:             XINYUAN-DN42
+org:                ORG-YZUCRC
+mnt-by:             XINYUAN-MNT
+status:             ASSIGNED
+cidr:               172.20.198.0/26
+source:             DN42

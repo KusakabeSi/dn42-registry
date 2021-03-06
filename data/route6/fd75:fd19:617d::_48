@@ -1,0 +1,5 @@
+route6:             fd75:fd19:617d::/48
+origin:             AS4242423740
+max-length:         48
+mnt-by:             ROBOBO-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:d42:d42::/48
+descr:              DN42 Infrastructure
+origin:             AS64737
+mnt-by:             XUU-MNT
+source:             DN42

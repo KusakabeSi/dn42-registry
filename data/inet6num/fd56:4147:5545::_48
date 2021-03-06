@@ -1,0 +1,10 @@
+inet6num:           fd56:4147:5545:0000:0000:0000:0000:0000 - fd56:4147:5545:ffff:ffff:ffff:ffff:ffff
+netname:            VAGUE-NETWORK
+admin-c:            JAMESR-DN42
+tech-c:             JAMESR-DN42
+mnt-by:             JAMESR-MNT
+status:             ASSIGNED
+cidr:               fd56:4147:5545::/48
+country:            GB
+descr:              VAGUE Network Allocation
+source:             DN42

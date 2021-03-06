@@ -1,0 +1,7 @@
+domain:             mozzarella.dn42
+admin-c:            MOZZNET-DN42
+tech-c:             MOZZNET-DN42
+mnt-by:             MOZZNET-MNT
+nserver:            helium.ns.mozzarella.dn42	172.21.67.161
+nserver:            helium.ns.mozzarella.dn42	fd12:f590:c38c::1
+source:             DN42

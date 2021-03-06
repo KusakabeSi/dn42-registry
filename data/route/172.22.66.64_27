@@ -1,0 +1,5 @@
+route:              172.22.66.64/27
+descr:              Peer with me at dn42@hujk.eu.org
+origin:             AS4242422717
+mnt-by:             HUJK-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.6.128/28
+origin:             AS4242422299
+mnt-by:             MENTHA-MNT
+source:             DN42

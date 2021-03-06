@@ -1,0 +1,6 @@
+route6:             fd42:39:7da::/56
+origin:             AS4242421905
+admin-c:            ALEXSHPILKIN-DN42
+tech-c:             ALEXSHPILKIN-DN42
+mnt-by:             LOINTAIN-MNT
+source:             DN42

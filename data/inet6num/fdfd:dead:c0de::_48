@@ -1,0 +1,11 @@
+inet6num:           fdfd:dead:c0de:0000:0000:0000:0000:0000 - fdfd:dead:c0de:ffff:ffff:ffff:ffff:ffff
+netname:            NET-REWBYSOFT
+nserver:            ns1.aperture-laboratories.dn42
+descr:              Main allocation.
+country:            NL
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+status:             ASSIGNED
+cidr:               fdfd:dead:c0de::/48
+source:             DN42

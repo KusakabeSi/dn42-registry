@@ -1,0 +1,10 @@
+inet6num:           fda3:7863:2204:0000:0000:0000:0000:0000 - fda3:7863:2204:ffff:ffff:ffff:ffff:ffff
+netname:            KAWEX-NET
+descr:              Kawex-net
+country:            PL
+admin-c:            KAWEX-DN42
+tech-c:             KAWEX-DN42
+mnt-by:             KAWEX-MNT
+status:             ASSIGNED PI
+cidr:               fda3:7863:2204::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdc9:83c1:d0ce::/48
+origin:             AS4242422526
+max-length:         48
+mnt-by:             ANILLC-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+domain:             internal.dn42
+nserver:            lavana.sjc.xuu.dn42
+nserver:            rakta.fra.xuu.dn42
+nserver:            ns1.grmml.dn42
+nserver:            ns2.grmml.dn42
+nserver:            ns3.grmml.dn42
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+mnt-by:             GRMML-MNT
+source:             DN42

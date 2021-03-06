@@ -1,0 +1,8 @@
+inetnum:            10.57.0.0 - 10.57.255.255
+cidr:               10.57.0.0/16
+netname:            ICVPN-RADEVORMWALD
+nserver:            247.0.27.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: radevormwald
+mnt-by:             DN42-MNT
+source:             ICVPN

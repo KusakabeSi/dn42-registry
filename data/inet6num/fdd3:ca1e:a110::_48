@@ -1,0 +1,9 @@
+inet6num:           fdd3:ca1e:a110:0000:0000:0000:0000:0000 - fdd3:ca1e:a110:ffff:ffff:ffff:ffff:ffff
+netname:            CALEANO-FOO
+country:            DE
+admin-c:            MYIGEL-DN42
+tech-c:             MYIGEL-DN42
+mnt-by:             CALEANO-MNT
+status:             ASSIGNED
+cidr:               fdd3:ca1e:a110::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd70:336f:17f6:3465:0000:0000:0000:0000 - fd70:336f:17f6:3465:ffff:ffff:ffff:ffff
+netname:            NET-JONATHAN-FERGUSON-DN42
+cidr:               fd70:336f:17f6:3465::/64
+descr:              Raspberry Pi wlan0
+status:             ASSIGNED PA
+country:            AU
+remarks:            AS4242420017
+admin-c:            FERGUSON-DN42
+tech-c:             FERGUSON-DN42
+mnt-by:             JONATHAN-FERGUSON-MNT
+source:             DN42

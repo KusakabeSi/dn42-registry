@@ -1,0 +1,11 @@
+inet6num:           fd45:1b93:dddf:0000:0000:0000:0000:0000 - fd45:1b93:dddf:ffff:ffff:ffff:ffff:ffff
+cidr:               fd45:1b93:dddf::/48
+netname:            ANDROW6-NETWORK
+descr:              ipv6 Network of ANDROW
+country:            FR
+nserver:            ns2.androw.dn42
+admin-c:            ANDROW-DN42
+tech-c:             ANDROW-DN42
+mnt-by:             ANDROW-MNT
+status:             ASSIGNED
+source:             DN42

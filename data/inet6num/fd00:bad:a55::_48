@@ -1,0 +1,8 @@
+inet6num:           fd00:0bad:0a55:0000:0000:0000:0000:0000 - fd00:0bad:0a55:ffff:ffff:ffff:ffff:ffff
+netname:            SNT-NET
+admin-c:            SNT-DN42
+tech-c:             SNT-DN42
+mnt-by:             SNT-MNT
+status:             ASSIGNED
+cidr:               fd00:bad:a55::/48
+source:             DN42

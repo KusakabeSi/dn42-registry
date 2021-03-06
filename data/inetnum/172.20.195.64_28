@@ -1,0 +1,9 @@
+inetnum:            172.20.195.64 - 172.20.195.79
+netname:            YGGDRASIL-NET
+descr:              Personal usage
+admin-c:            NEKO-DN42
+tech-c:             NEKO-DN42
+mnt-by:             NEKO-MNT
+status:             ASSIGNED
+cidr:               172.20.195.64/28
+source:             DN42

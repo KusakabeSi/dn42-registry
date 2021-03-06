@@ -1,0 +1,6 @@
+route:              10.190.0.0/15
+origin:             AS65019
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: stuttgart
+mnt-by:             DN42-MNT
+source:             ICVPN

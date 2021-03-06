@@ -1,0 +1,4 @@
+route:              172.22.126.0/25
+origin:             AS4242422462
+mnt-by:             FREACH-MNT
+source:             DN42

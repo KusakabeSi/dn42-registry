@@ -1,0 +1,8 @@
+inetnum:            172.20.12.152 - 172.20.12.159
+cidr:               172.20.12.152/29
+netname:            AM-NETWORK
+admin-c:            AM-DN42
+tech-c:             AM-DN42
+mnt-by:             AM-MNT
+status:             ASSIGNED
+source:             DN42

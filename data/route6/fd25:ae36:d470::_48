@@ -1,0 +1,4 @@
+route6:             fd25:ae36:d470::/48
+origin:             AS4242420751
+mnt-by:             DLIT-MNT
+source:             DN42

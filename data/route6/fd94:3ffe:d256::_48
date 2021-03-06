@@ -1,0 +1,4 @@
+route6:             fd94:3ffe:d256::/48
+origin:             AS4242421299
+mnt-by:             S-MNT
+source:             DN42

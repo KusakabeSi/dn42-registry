@@ -1,0 +1,10 @@
+inetnum:            172.23.183.224 - 172.23.183.239
+netname:            DPN-NET
+descr:              DPN Network
+country:            CZ
+admin-c:            DPN-DN42
+tech-c:             DPN-DN42
+mnt-by:             DPN-MNT
+status:             ALLOCATED
+cidr:               172.23.183.224/28
+source:             DN42

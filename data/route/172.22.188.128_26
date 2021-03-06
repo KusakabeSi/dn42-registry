@@ -1,0 +1,5 @@
+route:              172.22.188.128/26
+descr:              Home network
+origin:             AS4242420045
+mnt-by:             DELTAMAN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdfd:face:4ac3::/48
+origin:             AS4242421850
+max-length:         48
+mnt-by:             GULCGFO-MNT
+source:             DN42

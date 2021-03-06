@@ -1,0 +1,11 @@
+inet6num:           fd00:67a2:7d02:0000:0000:0000:0000:0000 - fd00:67a2:7d02:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:67a2:7d02::/48
+netname:            JICHI
+admin-c:            FREACH-DN42
+tech-c:             FREACH-DN42
+org:                ORG-JICHI
+nserver:            a.dns.rqz.dn42
+nserver:            b.dns.rqz.dn42
+mnt-by:             FREACH-MNT
+status:             ASSIGNED
+source:             DN42

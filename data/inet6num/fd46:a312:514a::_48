@@ -1,0 +1,10 @@
+inet6num:           fd46:a312:514a:0000:0000:0000:0000:0000 - fd46:a312:514a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd46:a312:514a::/48
+netname:            LEOLEOASD-NETWORK
+descr:              Network of LEOLEOASD
+country:            CN
+admin-c:            LEOLEOASD-DN42
+tech-c:             LEOLEOASD-DN42
+mnt-by:             LEOLEOASD-MNT
+status:             ASSIGNED
+source:             DN42

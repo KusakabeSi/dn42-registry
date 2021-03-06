@@ -1,0 +1,10 @@
+inet6num:           fdae:e2d8:34a1:0000:0000:0000:0000:0000 - fdae:e2d8:34a1:ffff:ffff:ffff:ffff:ffff
+netname:            LEMELISK-TEST6-NETWORK
+descr:              Lemelisk's IPv& Test-Network
+country:            DE
+admin-c:            LEMELISK-DN42
+tech-c:             LEMELISK-DN42
+mnt-by:             LEMELISK-MNT
+status:             ASSIGNED
+cidr:               fdae:e2d8:34a1::/48
+source:             DN42

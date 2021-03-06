@@ -1,0 +1,8 @@
+domain:             starcloud.dn42
+descr:              Star's lab network
+admin-c:            SB-DN42
+tech-c:             SB-DN42
+mnt-by:             STARCLOUD-MNT
+nserver:            ns1.starcloud.dn42 fd42:cafe::8888
+nserver:            ns2.starcloud.dn42 fd42:cafe::8844
+source:             DN42

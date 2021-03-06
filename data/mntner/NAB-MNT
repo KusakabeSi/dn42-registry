@@ -1,0 +1,6 @@
+mntner:             NAB-MNT
+admin-c:            NAB-DN42
+tech-c:             NAB-DN42
+mnt-by:             NAB-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILPLp1hibHX2J3F8Q63AqeNFD9pajwUvoE9PFFieDSmA

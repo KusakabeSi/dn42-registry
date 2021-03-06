@@ -1,0 +1,7 @@
+mntner:             DCR-MNT
+admin-c:            DCR-DN42
+tech-c:             DCR-DN42
+mnt-by:             DCR-MNT
+descr:              DCR BGP Playground Using PALOALTO
+auth:               pgp-fingerprint 6676F899F8619E12FEC4BFC35AF4ACF06E1253AE
+source:             DN42

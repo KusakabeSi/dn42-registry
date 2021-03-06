@@ -1,0 +1,7 @@
+aut-num:            AS4242422980
+as-name:            YUUTAW-AS
+descr:              Peer with me at peering.yuuta.moe
+admin-c:            YUUTAW-DN42
+tech-c:             YUUTAW-DN42
+mnt-by:             YUUTAW-MNT
+source:             DN42

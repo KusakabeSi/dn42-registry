@@ -1,0 +1,14 @@
+aut-num:            AS140913
+as-name:            Hentai Network
+descr:              Hentai Network
+remarks:            ----------------------------------------------------------
+mp-import:          afi ipv4.unicast from AS-ANY accept ANY
+mp-export:          afi ipv4.unicast to AS-ANY   announce AS-HENTAI
+mp-import:          afi ipv6.unicast from AS-ANY accept ANY
+mp-export:          afi ipv6.unicast to AS-ANY   announce AS-HENTAI
+remarks:            ----------------------------------------------------------
+admin-c:            ICECAT-DN42
+tech-c:             ICECAT-DN42
+mnt-by:             ICECAT-MNT
+org:                ORG-NEXTMOE
+source:             APNIC

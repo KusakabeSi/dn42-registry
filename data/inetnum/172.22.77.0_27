@@ -1,0 +1,10 @@
+inetnum:            172.22.77.0 - 172.22.77.31
+cidr:               172.22.77.0/27
+netname:            BLACKHOLE-NETWORK
+admin-c:            X-DN42
+tech-c:             X-DN42
+mnt-by:             BLACKHOLE-MNT
+nserver:            ns1.blackhole.dn42
+nserver:            ns2.blackhole.dn42
+status:             ASSIGNED
+source:             DN42

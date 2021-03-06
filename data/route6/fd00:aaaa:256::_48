@@ -1,0 +1,4 @@
+route6:             fd00:aaaa:256::/48
+origin:             AS4242420117
+mnt-by:             TDL-MNT
+source:             DN42

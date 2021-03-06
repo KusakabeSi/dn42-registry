@@ -1,0 +1,11 @@
+inetnum:            172.23.183.16 - 172.23.183.23
+netname:            PKTSRF-NETWORK
+nserver:            ns1.pktsurf.dn42
+descr:              pktsrf
+country:            IN
+admin-c:            PKTSRF-DN42
+tech-c:             PKTSRF-DN42
+mnt-by:             PKTSRF-MNT
+status:             ASSIGNED
+cidr:               172.23.183.16/29
+source:             DN42

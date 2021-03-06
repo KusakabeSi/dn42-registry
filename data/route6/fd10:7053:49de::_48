@@ -1,0 +1,4 @@
+route6:             fd10:7053:49de::/48
+origin:             AS4242420789
+mnt-by:             JOSENG-MNT
+source:             DN42

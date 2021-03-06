@@ -1,0 +1,7 @@
+domain:             voidlabs.dn42
+nserver:            station-one.voidlabs.dn42 172.23.116.50
+nserver:            station-two.voidlabs.dn42 172.23.116.51
+admin-c:            DEVNULL-DN42
+tech-c:             DEVNULL-DN42
+mnt-by:             VOIDLABS-MNT
+source:             DN42

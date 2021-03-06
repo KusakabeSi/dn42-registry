@@ -1,0 +1,10 @@
+inet6num:           fd42:e0f1:5b4b:0000:0000:0000:0000:0000 - fd42:e0f1:5b4b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:e0f1:5b4b::/48
+netname:            OLDHOME-NETWORK
+descr:              OLDHOME Home Network
+country:            CA
+admin-c:            ALANJCASTONGUAY-DN42
+tech-c:             ALANJCASTONGUAY-DN42
+mnt-by:             ALANJCASTONGUAY-MNT
+status:             ASSIGNED
+source:             DN42

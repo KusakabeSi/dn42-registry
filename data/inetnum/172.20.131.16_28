@@ -1,0 +1,10 @@
+inetnum:            172.20.131.16 - 172.20.131.31
+netname:            NTWRKTOP-1
+descr:              NTWRKTOP PRIVATE NETWORK
+country:            NL
+admin-c:            NATHAN-DN42
+tech-c:             NATHAN-DN42
+mnt-by:             NTWRKTOP-MNT
+status:             ASSIGNED
+cidr:               172.20.131.16/28
+source:             DN42

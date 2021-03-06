@@ -1,0 +1,9 @@
+inetnum:            172.20.39.64 - 172.20.39.79
+cidr:               172.20.39.64/28
+netname:            JOSENG_8TREE-NETWORK
+country:            DE
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

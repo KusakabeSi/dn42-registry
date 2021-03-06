@@ -1,0 +1,7 @@
+domain:             libellules.dn42
+admin-c:            DELTADELTA-DN42
+tech-c:             DELTADELTA-DN42
+mnt-by:             DELTADELTA-MNT
+nserver:            ns1.libellules.dn42 172.21.93.65
+nserver:            ns1.libellules.dn42 fd2e:b71f:7983::1
+source:             DN42

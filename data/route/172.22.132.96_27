@@ -1,0 +1,4 @@
+route:              172.22.132.96/27
+origin:             AS4242420239
+mnt-by:             BZZ-MNT
+source:             DN42

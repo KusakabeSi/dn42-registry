@@ -1,0 +1,8 @@
+inetnum:            172.20.227.112 - 172.20.227.127
+cidr:               172.20.227.112/28
+netname:            SHIKI-NETWORK
+admin-c:            SHIKI-DN42
+tech-c:             SHIKI-DN42
+mnt-by:             SHIKI-MNT
+status:             ASSIGNED
+source:             DN42

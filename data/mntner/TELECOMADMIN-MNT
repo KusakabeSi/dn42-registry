@@ -1,0 +1,6 @@
+mntner:             TELECOMADMIN-MNT
+admin-c:            TELECOMADMIN-DN42
+tech-c:             TELECOMADMIN-DN42
+mnt-by:             TELECOMADMIN-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHUiRaF5FAqwAEhixO8tHuTL3eSp0ZMYQyt1us4TXfws ed25519 256-010921

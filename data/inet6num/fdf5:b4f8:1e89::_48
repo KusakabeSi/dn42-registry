@@ -1,0 +1,10 @@
+inet6num:           fdf5:b4f8:1e89:0000:0000:0000:0000:0000 - fdf5:b4f8:1e89:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf5:b4f8:1e89::/48
+netname:            YOURDADDY-NET1
+descr:              yourdaddy.dk network 1
+country:            DK
+admin-c:            YOURDADDY-DN42
+tech-c:             YOURDADDY-DN42
+mnt-by:             YOURDADDY-MNT
+source:             DN42
+status:             ASSIGNED

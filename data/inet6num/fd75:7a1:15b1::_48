@@ -1,0 +1,9 @@
+inet6num:           fd75:07a1:15b1:0000:0000:0000:0000:0000 - fd75:07a1:15b1:ffff:ffff:ffff:ffff:ffff
+netname:            GIN42-INET6
+country:            DE
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+status:             ASSIGNED
+cidr:               fd75:7a1:15b1::/48
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdc8:c633:5319::/48
+descr:              NET-TECH9-00
+origin:             AS4242421588
+mnt-by:             TECH9-MNT
+source:             DN42

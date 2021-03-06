@@ -1,0 +1,8 @@
+inetnum:            172.20.51.32 - 172.20.51.63
+cidr:               172.20.51.32/27
+netname:            BRO-NET
+admin-c:            WHOABRAH-DN42
+tech-c:             WHOABRAH-DN42
+mnt-by:             WHOABRAH-MNT
+status:             ASSIGNED
+source:             DN42

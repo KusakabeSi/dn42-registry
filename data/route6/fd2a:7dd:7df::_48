@@ -1,0 +1,4 @@
+route6:             fd2a:7dd:7df::/48
+origin:             AS4242420152
+mnt-by:             KIBO-MNT
+source:             DN42

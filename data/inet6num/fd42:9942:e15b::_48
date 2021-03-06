@@ -1,0 +1,10 @@
+inet6num:           fd42:9942:e15b:0000:0000:0000:0000:0000 - fd42:9942:e15b:ffff:ffff:ffff:ffff:ffff
+netname:            KYW-CORE
+descr:              For AS4242422161
+country:            AU
+admin-c:            DAURNIMATOR-DN42
+tech-c:             DAURNIMATOR-DN42
+mnt-by:             DAURNIMATOR-MNT
+status:             ASSIGNED
+cidr:               fd42:9942:e15b::/48
+source:             DN42

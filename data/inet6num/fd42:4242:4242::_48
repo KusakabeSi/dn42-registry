@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:4242:0000:0000:0000:0000:0000 - fd42:4242:4242:ffff:ffff:ffff:ffff:ffff
+netname:            MODERN-NETWORKING
+org:                ORG-MOD
+descr:              Modern Networking v6 Peering Block
+country:            US
+admin-c:            MOD-DN42
+tech-c:             MOD-DN42
+mnt-by:             MOD-MNT
+nserver:            v6.mod.net.moderntld.com
+status:             ASSIGNED
+cidr:               fd42:4242:4242::/48
+source:             DN42

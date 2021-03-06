@@ -1,0 +1,9 @@
+inet6num:           fd7c:3727:9426:0000:0000:0000:0000:0000 - fd7c:3727:9426:ffff:ffff:ffff:ffff:ffff
+netname:            HFULLER-HOME-NET6
+descr:              Hunter Fuller's home network <hfuller@pixilic.com>
+admin-c:            HFULLER-DN42
+tech-c:             HFULLER-DN42
+mnt-by:             HFULLER-MNT
+status:             ASSIGNED
+cidr:               fd7c:3727:9426::/48
+source:             DN42

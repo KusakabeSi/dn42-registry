@@ -1,0 +1,11 @@
+inet6num:           fd42:ac14:9400:0000:0000:0000:0000:0000 - fd42:ac14:9400:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ac14:9400::/48
+netname:            KLEEN-NETWORK6-02
+country:            DE
+admin-c:            KLEEN-DN42
+tech-c:             KLEEN-DN42
+mnt-by:             KLEEN-MNT
+nserver:            dns1.kleen.dn42
+nserver:            dns2.kleen.dn42
+status:             ASSIGNED
+source:             DN42

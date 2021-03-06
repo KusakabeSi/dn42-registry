@@ -1,0 +1,7 @@
+aut-num:            AS4242420931
+as-name:            IMPL-NEW-AS
+descr:              Implementor's new AS
+admin-c:            IMPL-DN42
+tech-c:             IMPL-DN42
+mnt-by:             IMPL-MNT
+source:             DN42

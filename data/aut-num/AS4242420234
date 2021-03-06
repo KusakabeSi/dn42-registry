@@ -1,0 +1,7 @@
+aut-num:            AS4242420234
+as-name:            RSDOHERTY-AS
+descr:              RSDOHERTY-AS
+admin-c:            RSDOHERTY-DN42
+tech-c:             RSDOHERTY-DN42
+mnt-by:             RSDOHERTY-MNT
+source:             DN42

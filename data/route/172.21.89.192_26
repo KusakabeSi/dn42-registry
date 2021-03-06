@@ -1,0 +1,4 @@
+route:              172.21.89.192/26
+origin:             AS4242421587
+mnt-by:             DEVBEN-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+aut-num:            AS4242420076
+as-name:            Kiss my AS
+descr:              AS using for DN42 Project, IUT-BEZIERS
+geo-loc:            Béziers,France
+admin-c:            QUENTIN-DN42
+tech-c:             QUENTIN-DN42
+mnt-by:             IUT-BEZIERS-MNT
+source:             DN42

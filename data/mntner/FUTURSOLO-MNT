@@ -1,0 +1,9 @@
+mntner:             FUTURSOLO-MNT
+descr:              Kaede Hoshikawa, Maintainer of Magical Circle TestNet(AS4242420741)
+admin-c:            FUTURSOLO-DN42
+tech-c:             FUTURSOLO-DN42
+mnt-by:             FUTURSOLO-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBtj71w2d03gQSRhvojU56fKG/j0ZzIYpdQiOuTyse8z
+auth:               pgp-fingerprint BE1EB57ADAC0F2DC7F53D982CE3AF244D0556253
+remarks:            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBtj71w2d03gQSRhvojU56fKG/j0ZzIYpdQiOuTyse8z
+source:             DN42

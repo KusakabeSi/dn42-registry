@@ -1,0 +1,5 @@
+route:              172.22.158.192/27
+descr:              LOSTSERVER-NET1
+origin:             AS4242428593
+mnt-by:             LOSTSERVER-MNT
+source:             DN42

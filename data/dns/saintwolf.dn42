@@ -1,0 +1,6 @@
+domain:             saintwolf.dn42
+admin-c:            SAINTWOLF-DN42
+tech-c:             SAINTWOLF-DN42
+mnt-by:             SAINTWOLF-MNT
+nserver:            ns1.saintwolf.dn42 172.20.232.1
+source:             DN42

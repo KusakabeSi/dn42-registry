@@ -1,0 +1,8 @@
+inet6num:           fdec:2b86:0777:0000:0000:0000:0000:0000 - fdec:2b86:0777:ffff:ffff:ffff:ffff:ffff
+cidr:               fdec:2b86:777::/48
+netname:            BEEFSTEAK-NET
+admin-c:            BEEFSTEAK-DN42
+tech-c:             BEEFSTEAK-DN42
+mnt-by:             BEEFSTEAK-MNT
+status:             ASSIGNED
+source:             DN42

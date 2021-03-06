@@ -1,0 +1,7 @@
+inet6num:           fdca:abcd:58ca:affe:0000:0000:0000:0000 - fdca:abcd:58ca:affe:ffff:ffff:ffff:ffff
+cidr:               fdca:abcd:58ca:affe::/64
+netname:            ICVPN-MUENDEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: muenden
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+domain:             zer0.dn42
+descr:              Playground
+admin-c:            ALIANSE77-DN42
+mnt-by:             ALIANSE77-MNT
+tech-c:             ALIANSE77-DN42
+nserver:            ns1.zer0.dn42 172.23.169.209
+source:             DN42

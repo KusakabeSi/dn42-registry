@@ -1,0 +1,10 @@
+domain:             darkfasel.dn42
+descr:              darkfasel
+admin-c:            ARGV-DN42
+tech-c:             ARGV-DN42
+mnt-by:             ARGV-DN42-MNT
+mnt-by:             FPLETZ-MNT
+mnt-by:             JOMAT-MNT
+nserver:            ns0.jmt.dn42
+nserver:            ns1.jmt.dn42
+source:             DN42

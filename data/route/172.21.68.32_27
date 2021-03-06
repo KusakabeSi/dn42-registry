@@ -1,0 +1,4 @@
+route:              172.21.68.32/27
+origin:             AS4242420925
+mnt-by:             YUETAU-MNT
+source:             DN42

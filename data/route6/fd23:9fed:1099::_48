@@ -1,0 +1,4 @@
+route6:             fd23:9fed:1099::/48
+origin:             AS4242422816
+mnt-by:             MVO-MNT
+source:             DN42

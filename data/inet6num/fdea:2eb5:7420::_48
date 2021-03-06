@@ -1,0 +1,12 @@
+inet6num:           fdea:2eb5:7420:0000:0000:0000:0000:0000 - fdea:2eb5:7420:ffff:ffff:ffff:ffff:ffff
+cidr:               fdea:2eb5:7420::/48
+netname:            CORESTORAGE-NETWORK
+descr:              Network of Corestorage
+country:            UK
+admin-c:            CORESTORAGE-DN42
+tech-c:             CORESTORAGE-DN42
+mnt-by:             CORESTORAGE-MNT
+nserver:            ns1.corestorage.dn42
+nserver:            ns2.corestorage.dn42
+status:             ASSIGNED
+source:             DN42

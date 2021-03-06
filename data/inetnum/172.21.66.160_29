@@ -1,0 +1,8 @@
+inetnum:            172.21.66.160 - 172.21.66.167
+netname:            PANKY-TRANSIT-PEERING-NET
+admin-c:            PANKY-DN42
+tech-c:             PANKY-DN42
+mnt-by:             PANKY-MNT
+status:             ASSIGNED
+cidr:               172.21.66.160/29
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             chaostreff.dn42
+descr:              Chaostreffs
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+nserver:            ns0.at.dn42
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.249.0 - 172.22.249.255
+netname:            MWD-SHARE
+descr:              MWD Shared Transport
+country:            AU
+admin-c:            MWD-DN42
+tech-c:             MWD-DN42
+mnt-by:             MWD-MNT
+status:             ASSIGNED
+cidr:               172.22.249.0/24
+source:             DN42

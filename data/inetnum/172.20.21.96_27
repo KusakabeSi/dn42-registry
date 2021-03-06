@@ -1,0 +1,10 @@
+inetnum:            172.20.21.96 - 172.20.21.127
+netname:            BLING-NETWORK
+descr:              Bling Network IPV4 Block
+country:            CN
+admin-c:            PAIZI-DN42
+tech-c:             PAIZI-DN42
+mnt-by:             BLING-MNT
+status:             ASSIGNED
+cidr:               172.20.21.96/27
+source:             DN42

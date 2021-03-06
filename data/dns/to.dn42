@@ -1,0 +1,7 @@
+domain:             to.dn42
+descr:              ASoT URL Shortener
+admin-c:            HEAVYMETAL-DN42
+tech-c:             HEAVYMETAL-DN42
+mnt-by:             ASOTNET-MNT
+nserver:            ns1.aseriesoftubez.dn42
+source:             DN42

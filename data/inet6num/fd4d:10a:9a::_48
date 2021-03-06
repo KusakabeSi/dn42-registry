@@ -1,0 +1,12 @@
+inet6num:           fd4d:010a:009a:0000:0000:0000:0000:0000 - fd4d:010a:009a:ffff:ffff:ffff:ffff:ffff
+netname:            JARLABANKE6-NET
+descr:              Jarlabanke
+country:            SE
+org:                ORG-JARLABANKE
+admin-c:            OEJ-DN42
+tech-c:             OEJ-DN42
+mnt-by:             JARLABANKE-MNT
+nserver:            sec.webway.se
+status:             ASSIGNED
+cidr:               fd4d:10a:9a::/48
+source:             DN42

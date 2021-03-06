@@ -1,0 +1,5 @@
+route:              172.20.128.192/26
+descr:              Moerail Network
+origin:             AS4242420977
+mnt-by:             ARNIE97-MNT
+source:             DN42

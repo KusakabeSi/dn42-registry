@@ -1,0 +1,14 @@
+inetnum:            172.22.148.240 - 172.22.148.255
+descr:              WhiteWolf's ZA Net
+country:            ZA
+admin-c:            WOLF-DN42
+tech-c:             WOLF-DN42
+mnt-by:             WOLF-MNT
+status:             ASSIGNED
+nserver:            hail.wolf.dn42
+nserver:            rain.wolf.dn42
+nserver:            snow.wolf.dn42
+nserver:            sleet.wolf.dn42
+cidr:               172.22.148.240/28
+netname:            Unnamed 172.22.148.240/28 Network
+source:             DN42

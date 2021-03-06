@@ -1,0 +1,12 @@
+inetnum:            172.22.150.64 - 172.22.150.127
+netname:            SLOTHLOGISTICS-BB
+descr:              Internal Sloth Space
+country:            US
+nserver:            ns1.sl.dn42
+nserver:            ns2.sl.dn42
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+status:             ASSIGNED PI
+cidr:               172.22.150.64/26
+source:             DN42

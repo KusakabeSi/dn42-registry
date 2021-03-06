@@ -1,0 +1,30 @@
+aut-num:            AS64773
+as-name:            JOMAT-GORE-AS
+descr:              JOMATS NETWORK GORE
+remarks:            +--------------------------------------------------+
+remarks:            | New peerings welcome!                            |
+remarks:            +--------------------+------------+----------------+
+remarks:            | Points of Presence | Link Speed | Neighbor IP    |
+remarks:            |  - g2.dn42.jmt.gr  | 100Mb/s    | 172.23.216.219 |
+remarks:            |  - g3.dn42.jmt.gr  | 1000Mb/s   | 172.23.216.242 |
+remarks:            |  - g8.dn42.jmt.gr  | 1000Mb/s    | WIP |
+remarks:            +--------------------+------------+----------------+
+remarks:            | Peering requests welcome! Please contact me      |
+remarks:            | (pref. IRC) with as much details as possible     |
+remarks:            | Your...                                          |
+remarks:            |  - ASN                                           |
+remarks:            |  - external IPv6 (prefered) or IPv4              |
+remarks:            |  - prefered VPN port                             |
+remarks:            |  - VPN (Quicktun prefered or OpenVPN static key) |
+remarks:            |  - tunnel IPv4                                   |
+remarks:            |  - tunnel IPv6 (pref. you=fe80::2/64 me=fe80::1) |
+remarks:            |  - link speed                                    |
+remarks:            |  - Quicktun public key (if we use QT)            |
+remarks:            | Please send me one data set for each POP you     |
+remarks:            | want to peer with, I'll reply with missing       |
+remarks:            | details after setting up my gateways.            |
+remarks:            +--------------------------------------------------+
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+source:             DN42

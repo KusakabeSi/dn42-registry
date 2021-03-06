@@ -1,0 +1,9 @@
+inet6num:           fd8e:6470:7a23:0000:0000:0000:0000:0000 - fd8e:6470:7a23:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8e:6470:7a23::/48
+netname:            NET-CHIANTOS-DN42
+nserver:            ns0.chiantos.dn42
+admin-c:            KANKAN-DN42
+tech-c:             KANKAN-DN42
+mnt-by:             KANKAN-MNT
+status:             ASSIGNED
+source:             DN42

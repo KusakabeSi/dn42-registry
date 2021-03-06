@@ -1,0 +1,17 @@
+aut-num:            AS4242420904
+as-name:            AS-Y525
+remarks:            ************************************************************
+remarks:            * Peering info:                                            *
+remarks:            *   Open for peering, visit https://dn42.y525.gq for info! *
+remarks:            *   Tunnel Protocol: Wireguard                             *
+remarks:            *   BGP tool: bird2                                        *
+remarks:            *   IPv6 only                                              *
+remarks:            ************************************************************
+admin-c:            Y525-DN42
+tech-c:             Y525-DN42
+mnt-by:             Y525-MNT
+mp-import:          afi any.unicast from AS4242420904:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242420904:AS-PEER announce AS4242420904
+mp-import:          afi any.unicast from AS4242420904:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242420904:AS-TRANSIT announce ANY
+source:             DN42

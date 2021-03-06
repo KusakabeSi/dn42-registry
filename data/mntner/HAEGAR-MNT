@@ -1,0 +1,10 @@
+mntner:             HAEGAR-MNT
+descr:              Haegar
+admin-c:            HAEGAR-DN42
+tech-c:             HAEGAR-DN42
+mnt-by:             HAEGAR-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMhWTkvLI/rp6eyTemuFZRbt2xxRtal7fu668nnb/ekU haegar@aurora
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAyW8tRswUSRGmSoRwUW6PAvE861ob4lorXzhGEZJUiqShlvzFfal9aklrnofkBLQMJYeu0xwOVOUAaU4GxBG9DC/DKWUn+/knzmwNZNBf8/l6VdBlDmq3AyE6xQW96idjTqemgKiNRqqbdC/OJHarn+PnPih5Q6j50QF0Up4313M= haegar@aurora
+auth:               pgp-fingerprint F38C9D4228FC6F674E322D9C3326D914EB9B8F55
+auth:               pgp-fingerprint 74A9662F3ECAB86F32EB3503F44408028750FFD9
+source:             DN42

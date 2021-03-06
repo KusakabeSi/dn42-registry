@@ -1,0 +1,10 @@
+inet6num:           fddc:a135:3901:0000:0000:0000:0000:0000 - fddc:a135:3901:ffff:ffff:ffff:ffff:ffff
+netname:            DOVY-DN42-ULA2-IP6NET
+descr:              Dovy
+country:            NL
+admin-c:            DOVY-DN42
+tech-c:             DOVY-DN42
+mnt-by:             DOVY-MNT
+status:             ASSIGNED
+cidr:               fddc:a135:3901::/48
+source:             DN42

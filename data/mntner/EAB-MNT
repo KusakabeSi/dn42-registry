@@ -1,0 +1,6 @@
+mntner:             EAB-MNT
+admin-c:            EAB-DN42
+tech-c:             EAB-DN42
+mnt-by:             EAB-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGgsTX5U8QDu2bHIpPv3S2DCDBam5xFjIv8qyAhUfN5W user@proj-dn42
+source:             DN42

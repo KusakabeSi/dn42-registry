@@ -1,0 +1,9 @@
+inetnum:            172.21.74.128 - 172.21.74.191
+cidr:               172.21.74.128/26
+netname:            NLL-NETWORK
+org:                ORG-NLL
+admin-c:            LAGERTONNE-DN42
+tech-c:             LAGERTONNE-DN42
+mnt-by:             LAGERTONNE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             HELCAR-MNT
+admin-c:            AEGIAP-DN42
+tech-c:             AEGIAP-DN42
+mnt-by:             HELCAR-MNT
+auth:               pgp-fingerprint 0C5D2824D0F7D4AB5398229290670A20AEB1CB4C
+source:             DN42

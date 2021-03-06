@@ -1,0 +1,12 @@
+inet6num:           fd19:d101:719a:0000:0000:0000:0000:0000 - fd19:d101:719a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd19:d101:719a::/48
+netname:            YZUCRC-NET
+descr:              Yuan Ze University Communications Research Center Network
+remarks:            Peer with me at s1030361@mail.yzu.edu.tw
+country:            TW
+admin-c:            XINYUAN-DN42
+tech-c:             XINYUAN-DN42
+org:                ORG-YZUCRC
+mnt-by:             XINYUAN-MNT
+status:             ASSIGNED
+source:             DN42

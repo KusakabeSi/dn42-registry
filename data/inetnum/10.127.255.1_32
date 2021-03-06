@@ -1,0 +1,8 @@
+inetnum:            10.127.255.1 - 10.127.255.1
+cidr:               10.127.255.1/32
+netname:            NeoPDP-11
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,7 @@
+aut-num:            AS76136
+as-name:            NANA-AS
+descr:              Leroy ASN - Willing to peer
+admin-c:            LEROY-DN42
+tech-c:             LEROY-DN42
+mnt-by:             LEROY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd1b:be18:a185::/48
+origin:             AS4242422378
+mnt-by:             HPP-MNT
+source:             DN42

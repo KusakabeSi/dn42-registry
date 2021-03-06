@@ -1,0 +1,9 @@
+inetnum:            172.23.32.0 - 172.23.32.31
+netname:            HoshinoTelecom-IPV4
+country:            CN
+admin-c:            TELECOMADMIN-DN42
+tech-c:             TELECOMADMIN-DN42
+mnt-by:             TELECOMADMIN-MNT
+status:             ASSIGNED
+cidr:               172.23.32.0/27
+source:             DN42

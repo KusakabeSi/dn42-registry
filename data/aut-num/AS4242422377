@@ -1,0 +1,7 @@
+aut-num:            AS4242422377
+descr:              Primary
+admin-c:            THEOM-DN42
+tech-c:             THEOM-DN42
+mnt-by:             MONARCH-MNT
+as-name:            MONARCH-PEER-AS
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.18.224/28
+origin:             AS4242420151
+mnt-by:             BAUEN1-MNT
+source:             DN42

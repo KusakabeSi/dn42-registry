@@ -1,0 +1,6 @@
+mntner:             REMI-MNT
+auth:               pgp-fingerprint 31fa1bc82630bc0f6f9b29de601962adfc40ccff
+admin-c:            REMI-DN42
+tech-c:             REMI-DN42
+mnt-by:             REMI-MNT
+source:             DN42

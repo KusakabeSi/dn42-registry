@@ -1,0 +1,10 @@
+inetnum:            172.20.12.64 - 172.20.12.79
+netname:            DARK-INET
+descr:              dark inetnum
+country:            US
+admin-c:            DARK-DN42
+tech-c:             DARK-DN42
+mnt-by:             DARK-MNT
+status:             ASSIGNED
+cidr:               172.20.12.64/28
+source:             DN42

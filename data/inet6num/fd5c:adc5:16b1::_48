@@ -1,0 +1,9 @@
+inet6num:           fd5c:adc5:16b1:0000:0000:0000:0000:0000 - fd5c:adc5:16b1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5c:adc5:16b1::/48
+netname:            MARCUSW-NETWORK
+country:            DE
+admin-c:            MARCUSW-DN42
+tech-c:             MARCUSW-DN42
+mnt-by:             MARCUSW-MNT
+status:             ASSIGNED
+source:             DN42

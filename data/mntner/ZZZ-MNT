@@ -1,0 +1,6 @@
+mntner:             ZZZ-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvZL7H59ZClrWjMzfsVlpzHnWsxbE4yUowiRtt6vwVloPj6WlBUmU+2CqaapHnC4cHR/vKxA+fybP+cp0kv+m0vOFmuYN1dRhMDcLef0DqZ9md/WkWRPb6jQQezwtJcum0sDXwjtov30lg61YYX38C8Cyr+dNf9KNJmNylKhztWh/2YJ5bpZKmdlJ2G2e2rWV+aQsMX/szStIlrzxVN8nzSiOM1pVm1QlY/enqBrQfVD9F1yRV55N71u7lu2rTjBf9c2OAmkuuetjEUItc+hEcGItT/1l8si0FieNMJOb94vcmdlpMKgSFrLAB9061g/jfeZ6jO0vHy9IjqsKy2q2L renxiang@umcloud.com
+admin-c:            ZZZ-DN42
+tech-c:             ZZZ-DN42
+mnt-by:             ZZZ-MNT
+source:             DN42

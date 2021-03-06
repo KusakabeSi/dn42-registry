@@ -1,0 +1,10 @@
+inet6num:           fdee:ac14:e700:0000:0000:0000:0000:0000 - fdee:ac14:e700:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:ac14:e700::/48
+netname:            PEER-NET6-1
+admin-c:            PEER-DN42
+tech-c:             PEER-DN42
+mnt-by:             PEER-MNT
+nserver:            ns1.darenet.dn42
+nserver:            ns2.darenet.dn42
+status:             ASSIGNED
+source:             DN42

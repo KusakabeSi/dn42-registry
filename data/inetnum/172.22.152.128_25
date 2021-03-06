@@ -1,0 +1,11 @@
+inetnum:            172.22.152.128 - 172.22.152.255
+netname:            FLAT-NET
+country:            GB
+admin-c:            ANA-DN42
+tech-c:             ANA-DN42
+mnt-by:             ANA-MNT
+mnt-by:             IRL-MNT
+nserver:            ns1.flat.dn42
+status:             ASSIGNED
+cidr:               172.22.152.128/25
+source:             DN42

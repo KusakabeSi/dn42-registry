@@ -1,0 +1,9 @@
+inetnum:            172.20.204.64 - 172.20.204.95
+netname:            FNORD-NETWORK
+country:            DE
+admin-c:            FNORD-DN42
+tech-c:             FNORD-DN42
+mnt-by:             FNORD-MNT
+status:             ASSIGNED
+cidr:               172.20.204.64/27
+source:             DN42

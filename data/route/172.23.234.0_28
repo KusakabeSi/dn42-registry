@@ -1,0 +1,5 @@
+route:              172.23.234.0/28
+descr:              TYPHON-NETWORK
+origin:             AS4242423852
+mnt-by:             TYPHON-MNT
+source:             DN42

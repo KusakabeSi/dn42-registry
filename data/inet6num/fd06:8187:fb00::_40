@@ -1,0 +1,8 @@
+inet6num:           fd06:8187:fb00:0000:0000:0000:0000:0000 - fd06:8187:fbff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd06:8187:fb00::/40
+netname:            ICVPN-FRANKFURT
+nserver:            14.255.126.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankfurt
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,6 @@
+route:              10.137.0.0/16
+origin:             AS65433
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: pinneberg
+mnt-by:             DN42-MNT
+source:             ICVPN

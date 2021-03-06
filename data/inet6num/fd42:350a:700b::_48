@@ -1,0 +1,12 @@
+inet6num:           fd42:350a:700b:0000:0000:0000:0000:0000 - fd42:350a:700b:ffff:ffff:ffff:ffff:ffff
+netname:            DONDON-ULA-IP6NET
+descr:              DONDON IPv6 Network
+country:            DE
+admin-c:            DONDON-DN42
+tech-c:             DONDON-DN42
+mnt-by:             DONDON-MNT
+nserver:            primary.dondon.dn42
+nserver:            secondary.dondon.dn42
+status:             ASSIGNED
+cidr:               fd42:350a:700b::/48
+source:             DN42

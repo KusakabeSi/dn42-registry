@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:2707:0000:0000:0000:0000:0000 - fd42:4242:2707:ffff:ffff:ffff:ffff:ffff
+netname:            CYBERTINUS-NETWORK
+descr:              Cybertinus' network
+country:            NL
+admin-c:            CYBERTINUS-DN42
+tech-c:             CYBERTINUS-DN42
+mnt-by:             CYBERTINUS-MNT
+nserver:            ns1.cybertinus.dn42
+nserver:            ns2.cybertinus.dn42
+status:             ASSIGNED
+cidr:               fd42:4242:2707::/48
+source:             DN42

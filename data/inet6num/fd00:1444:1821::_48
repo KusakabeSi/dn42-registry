@@ -1,0 +1,9 @@
+inet6num:           fd00:1444:1821:0000:0000:0000:0000:0000 - fd00:1444:1821:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:1444:1821::/48
+netname:            JSANDERS-NETWORK
+country:            US
+admin-c:            JSANDERS-DN42
+tech-c:             JSANDERS-DN42
+mnt-by:             JSANDERS-MNT
+status:             ASSIGNED
+source:             DN42

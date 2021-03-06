@@ -1,0 +1,9 @@
+inet6num:           fd96:ac77:1286:0000:0000:0000:0000:0000 - fd96:ac77:1286:ffff:ffff:ffff:ffff:ffff
+netname:            EVILET-IP6
+country:            DE
+admin-c:            EVILET-DN42
+tech-c:             EVILET-DN42
+mnt-by:             EVILET-MNT
+status:             ASSIGNED
+cidr:               fd96:ac77:1286::/48
+source:             DN42

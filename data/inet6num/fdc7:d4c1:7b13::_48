@@ -1,0 +1,10 @@
+inet6num:           fdc7:d4c1:7b13:0000:0000:0000:0000:0000 - fdc7:d4c1:7b13:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc7:d4c1:7b13::/48
+netname:            ZSTEVA-NETWORK
+descr:              Network of Zsteva
+country:            RS
+admin-c:            ZSTEVA-DN42
+tech-c:             ZSTEVA-DN42
+mnt-by:             ZSTEVA-MNT
+status:             ASSIGNED
+source:             DN42

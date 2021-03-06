@@ -1,0 +1,11 @@
+inet6num:           fd42:0023:0148:0000:0000:0000:0000:0000 - fd42:0023:0148:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:23:148::/48
+netname:            FEUERROT-DN42-V6-ULA
+descr:              FEUERROT v6 ULA
+country:            DE
+admin-c:            FEUERROT-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             FEUERROT-MNT
+nserver:            irbis.feuerrot.dn42
+status:             ASSIGNED
+source:             DN42

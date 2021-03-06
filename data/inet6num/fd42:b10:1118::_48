@@ -1,0 +1,10 @@
+inet6num:           fd42:0b10:1118:0000:0000:0000:0000:0000 - fd42:0b10:1118:ffff:ffff:ffff:ffff:ffff
+netname:            ZLD-NETWORK
+descr:              Network of ZLD
+country:            CN
+admin-c:            ZLD-DN42
+tech-c:             ZLD-DN42
+mnt-by:             ZLD-MNT
+status:             ASSIGNED
+cidr:               fd42:b10:1118::/48
+source:             DN42

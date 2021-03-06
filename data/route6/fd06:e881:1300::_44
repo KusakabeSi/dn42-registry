@@ -1,0 +1,4 @@
+route6:             fd06:e881:1300::/44
+origin:             AS4242420842
+mnt-by:             REWBYSOFT-MNT
+source:             DN42

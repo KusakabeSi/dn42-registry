@@ -1,0 +1,8 @@
+mntner:             FF02-MNT
+descr:              ff02.net maintainer object for dn42 project
+admin-c:            ELCH-DN42
+tech-c:             ELCH-DN42
+mnt-by:             FF02-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC87aXr06N9N8rHFicJfQv9zkHW1saxY1yxXFgkNGeMiGSz2Vtgad9BBoQl3XU557cZhfMCabwRSU20YiCrAzcB9/8K8AQm/UTqHp7Ug1via2GDf7H/M7HXNrpLTAjiEV62KbmvlFGfNJ5lPsA3tk/y+41U79u4YleSaTfmtdjWuP7C7HcRJfVzTL4djrvGY82D2xj0HN8uioBVaJVmm0+YTzCzh2t07TxG1mYQNkjej0ICErMlpWkDiPG0qoSuqM0+9ARpMXVZh7AkkQSb8wgr7rYYwbeiUfqzUAfjIJDziQZREJ/sdh7ORBDFXdWexi4u6RHCia0U9vzS51YR6xb/SGGJljWtbcUR1pMDwzxUPWkeXNnzs3fSLktPKybf8PWUBy3OtV/Xg7kcSkZ8ALNmoYi8kq+xR07GHFbUB/tW7J4+mmo0+R18vBNyxfQPAO4ekZa/p52U1mRkHO8sjY16uvlFY/soykGtFjhEhFLHZpQkdhXrsRykFCbFGwMsXbtNmLYtbM5/lfXijEpREisMa3SLkbG7dYcBI1rL5h1AwGtjwYD54ftTTW82fW1kfbdnD/LBPNB2YL8qj6E05Y4ydIt2V8SwoyFe/jPvCyvMRm6vKHfiG/Gq8LYwsT7YyQ3ZhgAH5NBppCHdWig+bkoBNAsjGdeJyJiB9Kf3NSthow==
+auth:               pgp-fingerprint D3D2A0E31A9E5BE6AEA6C25CFD1E3799E3FC77A6

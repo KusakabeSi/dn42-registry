@@ -1,0 +1,8 @@
+domain:             cache.dn42
+descr:              Global Anycast CDN for dn42
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+nserver:            ns1.sl.dn42
+nserver:            ns2.sl.dn42
+source:             DN42

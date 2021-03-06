@@ -1,0 +1,12 @@
+inet6num:           fd42:0ccc:00fd:0000:0000:0000:0000:0000 - fd42:0ccc:00fd:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IPV6-MAGLAB
+descr:              Magrathe Laboratories Network
+country:            DE
+org:                ORG-MAGLAB
+admin-c:            MAGLAB-DN42
+tech-c:             MAGLAB-DN42
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+status:             ASSIGNED
+cidr:               fd42:ccc:fd::/48
+source:             DN42

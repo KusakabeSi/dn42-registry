@@ -1,0 +1,4 @@
+route:              172.22.114.96/28
+origin:             AS4242420228
+mnt-by:             MAXC-MNT
+source:             DN42

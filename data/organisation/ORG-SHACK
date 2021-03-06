@@ -1,0 +1,13 @@
+organisation:       ORG-SHACK
+org-name:           SHACK-ORG
+descr:              shack e.V.
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+abuse-c:            ORG-SHACK-ABUSE-DN42
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+phone:              +49 (0)711-21729823
+www:                https://www.shackspace.de
+e-mail:             kontakt@shackspace.de
+address:            Ulmer Strasse 255, 70327 Stuttgart
+source:             DN42

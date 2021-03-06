@@ -1,0 +1,4 @@
+route:              172.22.125.0/28
+origin:             AS4242423974
+mnt-by:             GIGGA-MNT
+source:             DN42

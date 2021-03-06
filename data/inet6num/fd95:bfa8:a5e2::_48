@@ -1,0 +1,12 @@
+inet6num:           fd95:bfa8:a5e2:0000:0000:0000:0000:0000 - fd95:bfa8:a5e2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd95:bfa8:a5e2::/48
+netname:            CAXAP-NETWORK
+descr:              CAXAP Network
+country:            CN
+admin-c:            CAXAP-DN42
+tech-c:             CAXAP-DN42
+mnt-by:             CAXAP-MNT
+status:             ASSIGNED
+nserver:            ns1.caxap.dn42
+nserver:            ns2.caxap.dn42
+source:             DN42

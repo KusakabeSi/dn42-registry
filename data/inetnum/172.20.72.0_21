@@ -1,0 +1,11 @@
+inetnum:            172.20.72.0 - 172.20.79.255
+nserver:            dns.serv.zentralwerk.org
+netname:            NET-ZENTRALWERK-DN42
+descr:              zentralwerk network
+policy:             reserved
+remarks:            Contact eri for allocation information.
+org:                ORG-ZENTRALWERK
+mnt-by:             ZW-MNT
+status:             ALLOCATED
+cidr:               172.20.72.0/21
+source:             DN42

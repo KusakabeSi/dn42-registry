@@ -1,0 +1,11 @@
+inet6num:           fddf:0bf7:0080:0000:0000:0000:0000:0000 - fddf:0bf7:0080:ffff:ffff:ffff:ffff:ffff
+cidr:               fddf:bf7:80::/48
+netname:            ICVPN-BADOLDESLOE
+nserver:            8.0.144.10.ipv4.registry-sync.dn42
+nserver:            8.0.0.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.7.f.b.0.f.d.d.f.ipv6.registry-sync.dn42
+nserver:            13.0.144.10.ipv4.registry-sync.dn42
+nserver:            3.1.0.0.8.3.a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.7.f.b.0.f.d.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: badoldesloe
+mnt-by:             DN42-MNT
+source:             ICVPN

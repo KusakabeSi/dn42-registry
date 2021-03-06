@@ -1,0 +1,12 @@
+inet6num:           fda2:73ea:f77f:0000:0000:0000:0000:0000 - fda2:73ea:f77f:ffff:ffff:ffff:ffff:ffff
+cidr:               fda2:73ea:f77f::/48
+netname:            TAGLIO-NETWORK
+descr:              Network of TAGLIO
+country:            FR
+admin-c:            TAGLIO-DN42
+tech-c:             TAGLIO-DN42
+mnt-by:             TAGLIO-MNT
+status:             ASSIGNED
+nserver:            ns1.telecomlobby.dn42
+nserver:            ns2.telecomlobby.dn42
+source:             DN42

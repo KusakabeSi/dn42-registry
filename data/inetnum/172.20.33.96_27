@@ -1,0 +1,10 @@
+inetnum:            172.20.33.96 - 172.20.33.127
+cidr:               172.20.33.96/27
+netname:            MITORAJ-NETWORK
+admin-c:            MITORAJ-DN42
+tech-c:             MITORAJ-DN42
+mnt-by:             MITORAJ-MNT
+nserver:            ns1.mitoraj.dn42
+nserver:            ns2.mitoraj.dn42
+status:             ASSIGNED
+source:             DN42

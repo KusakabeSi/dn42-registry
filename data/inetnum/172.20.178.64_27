@@ -1,0 +1,10 @@
+inetnum:            172.20.178.64 - 172.20.178.95
+cidr:               172.20.178.64/27
+netname:            FILIP-NET
+admin-c:            FILIP-DN42
+tech-c:             FILIP-DN42
+mnt-by:             FILIP-MNT
+descr:              Filip's class
+country:            PL
+status:             ASSIGNED
+source:             DN42

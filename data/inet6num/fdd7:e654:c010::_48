@@ -1,0 +1,10 @@
+inet6num:           fdd7:e654:c010:0000:0000:0000:0000:0000 - fdd7:e654:c010:ffff:ffff:ffff:ffff:ffff
+netname:            PR0-NET6
+descr:              pr0-Transfer-NET
+country:            DE
+admin-c:            PR0-DN42
+tech-c:             PR0-DN42
+mnt-by:             PR0-MNT
+status:             ASSIGNED
+cidr:               fdd7:e654:c010::/48
+source:             DN42

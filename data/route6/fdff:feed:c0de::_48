@@ -1,0 +1,5 @@
+route6:             fdff:feed:c0de::/48
+descr:              DN42 Hardb1t Network at the end of the range
+origin:             AS4242420138
+mnt-by:             HARDB1T-MNT
+source:             DN42

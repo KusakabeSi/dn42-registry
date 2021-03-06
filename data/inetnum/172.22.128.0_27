@@ -1,0 +1,8 @@
+inetnum:            172.22.128.0 - 172.22.128.31
+cidr:               172.22.128.0/27
+netname:            SNT-NET
+admin-c:            SNT-DN42
+tech-c:             SNT-DN42
+mnt-by:             SNT-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdcf:205f:3b98:0000:0000:0000:0000:0000 - fdcf:205f:3b98:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:205f:3b98::/48
+netname:            BYTEREALM-NET-1
+admin-c:            CPAGE-DN42
+tech-c:             CPAGE-DN42
+mnt-by:             BYTEREALM-MNT
+status:             ASSIGNED
+source:             DN42

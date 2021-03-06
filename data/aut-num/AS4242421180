@@ -1,0 +1,11 @@
+aut-num:            AS4242421180
+as-name:            FROGJIANG-AS
+descr:              FROGJIANG's DN42 network
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,I'm tokyo cold,
+remarks:            if necessary, please send email to frogjiangyy@gmail.com
+remarks:            --------------------------------------------------------
+admin-c:            FROGJIANG-DN42
+tech-c:             FROGJIANG-DN42
+mnt-by:             FROGJIANG-MNT
+source:             DN42

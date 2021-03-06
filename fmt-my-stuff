@@ -1,0 +1,12 @@
+#!/bin/sh
+
+if [ "$#" -eq "0" ]
+  then
+    echo "Usage: $0 YOUR-MNT"
+    exit
+fi
+
+BASE="$(readlink -f "$0" 2>/dev/null || python -c 'import os,sys;print(os.path.realpath(sys.argv[1]))' "$0")"
+BASE="$(dirname "$BASE")"
+
+grep -lr $1 $BASE/data/ | while read line; do utils/schema-check/dn42-schema.py fmt -i $line; done

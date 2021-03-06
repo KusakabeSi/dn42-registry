@@ -1,0 +1,8 @@
+inet6num:           fde9:7fb8:427f:0000:0000:0000:0000:0000 - fde9:7fb8:427f:ffff:ffff:ffff:ffff:ffff
+cidr:               fde9:7fb8:427f::/48
+netname:            MONOXANE-NET
+admin-c:            MONOXANE-DN42
+tech-c:             MONOXANE-DN42
+mnt-by:             MONOXANE-MNT
+status:             ASSIGNED
+source:             DN42

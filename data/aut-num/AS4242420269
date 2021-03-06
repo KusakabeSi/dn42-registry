@@ -1,0 +1,7 @@
+aut-num:            AS4242420269
+as-name:            CITADEL-DN42
+descr:              citadel dn42 link
+admin-c:            CITADEL-DN42
+tech-c:             CITADEL-DN42
+mnt-by:             CITADEL-MNT
+source:             DN42

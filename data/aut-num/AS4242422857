@@ -1,0 +1,9 @@
+aut-num:            AS4242422857
+as-name:            AS-RAIDER
+descr:              Raiders AS
+admin-c:            RAIDER-DN42
+tech-c:             RAIDER-DN42
+mnt-by:             LURKAT-MNT
+remarks:            send Peering Requests to peering-dn42@lurk.at
+remarks:            At the moment only Peering - no Transit !
+source:             DN42

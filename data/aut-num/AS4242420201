@@ -1,0 +1,7 @@
+aut-num:            AS4242420201
+as-name:            DERF-AS
+descr:              AS for DERF-DN42
+admin-c:            DERF-DN42
+tech-c:             DERF-DN42
+mnt-by:             DERF-MNT
+source:             DN42

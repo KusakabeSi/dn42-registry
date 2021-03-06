@@ -1,0 +1,10 @@
+inetnum:            172.20.255.0 - 172.20.255.255
+netname:            ANDI-TRANSFER
+cidr:               172.20.255.0/24
+descr:              andi-
+country:            DE
+admin-c:            ANDI-DN42
+tech-c:             ANDI-DN42
+mnt-by:             ANDI--MNT
+status:             ALLOCATED
+source:             DN42

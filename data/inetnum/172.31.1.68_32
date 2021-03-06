@@ -1,0 +1,7 @@
+inetnum:            172.31.1.68 - 172.31.1.68
+cidr:               172.31.1.68/32
+netname:            CHAOSVPN-MINOR
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,4 @@
+route6:             fd42:42:c0de::/48
+origin:             AS4242421940
+mnt-by:             A3K-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd0b:4340:00a0:0000:0000:0000:0000:0000 - fd0b:4340:00a0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0b:4340:a0::/48
+netname:            DreamRecorder-and-DreamRecovery
+country:            HK
+admin-c:            WENCEY-DN42
+tech-c:             WENCEY-DN42
+mnt-by:             DREAMRY-MNT
+status:             ASSIGNED
+source:             DN42

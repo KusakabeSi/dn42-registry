@@ -1,0 +1,4 @@
+route:              172.21.67.0/27
+origin:             AS4242420167
+mnt-by:             LAOTRARED-MNT
+source:             DN42

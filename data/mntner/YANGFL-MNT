@@ -1,0 +1,6 @@
+mntner:             YANGFL-MNT
+admin-c:            YANGFL-DN42
+tech-c:             YANGFL-DN42
+mnt-by:             YANGFL-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuOd2/ZH7oKMQthPD5K2LFzG9PaEM8A7wernfGhUMGzwwBaKzmIyo4kPY4ifwjfWNG0zFKwMQQJ/TbXDJRj4qhodujX+WyiPLtNj+g+5cKuN8gCM6fz4MmJNVPWieC0QFGjOmjpNM6apLjYS7k+tt8GUunbXr7HV4C8+AtP7CQC4bWN4GFLCFzGNLxDZGo3NIkuaOdS/BktXlAVbiMORkYAGnwLyWr48uEV0Vjt5BBBl1R+6FQlJz29M4hM5tvjrU8X6xQhPGYyBqhVS3FStdGrKwEl29klHS1vPeHt6kYu+kGu9EQqZ1eJOleri3GbYhZU96ODgnzLOLFPtlQiPQD yang@yang
+source:             DN42

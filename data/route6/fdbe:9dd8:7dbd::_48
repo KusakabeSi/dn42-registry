@@ -1,0 +1,5 @@
+route6:             fdbe:9dd8:7dbd::/48
+descr:              Chaostreff
+origin:             AS4242421420
+mnt-by:             JOMAT-MNT
+source:             DN42

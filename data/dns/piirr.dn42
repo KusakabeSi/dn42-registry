@@ -1,0 +1,6 @@
+domain:             piirr.dn42
+admin-c:            PIIRR-DN42
+tech-c:             PIIRR-DN42
+mnt-by:             PIIRR-MNT
+nserver:            ns1.piirr.dn42 fde6:d41f:f139:53::1
+source:             DN42

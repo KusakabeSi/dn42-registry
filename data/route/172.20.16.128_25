@@ -1,0 +1,5 @@
+route:              172.20.16.128/25
+descr:              NET-TECH9-000
+origin:             AS4242421588
+mnt-by:             TECH9-MNT
+source:             DN42

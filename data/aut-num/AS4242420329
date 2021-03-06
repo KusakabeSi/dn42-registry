@@ -1,0 +1,8 @@
+aut-num:            AS4242420329
+as-name:            NL Zuid internal network
+descr:              NL Zuid server network
+org:                ORG-NL-ZUID
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+source:             DN42

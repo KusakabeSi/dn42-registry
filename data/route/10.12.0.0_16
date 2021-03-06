@@ -1,0 +1,6 @@
+route:              10.12.0.0/16
+origin:             AS65048
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: graz
+mnt-by:             DN42-MNT
+source:             ICVPN

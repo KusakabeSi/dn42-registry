@@ -1,0 +1,10 @@
+inetnum:            172.23.222.32 - 172.23.222.63
+cidr:               172.23.222.32/27
+netname:            MRGHOSH-V4-NET
+country:            IN
+admin-c:            MRGHOSH-DN42
+tech-c:             MRGHOSH-DN42
+mnt-by:             MRGHOSH-MNT
+nserver:            ns1.mrghosh.dn42
+status:             ASSIGNED
+source:             DN42

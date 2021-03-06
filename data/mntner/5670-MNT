@@ -1,0 +1,7 @@
+mntner:             5670-MNT
+descr:              5670
+admin-c:            FAIRY-DN42
+tech-c:             FAIRY-DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFxuHz3yY7OhOWtSYTI7p3P64GKdVvGHK7LuPRtNYN6t
+mnt-by:             5670-MNT
+source:             DN42

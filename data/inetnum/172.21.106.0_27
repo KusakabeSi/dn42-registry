@@ -1,0 +1,10 @@
+inetnum:            172.21.106.0 - 172.21.106.31
+netname:            TAYLES-NET2
+descr:              TAYLES-NET2
+country:            GB
+admin-c:            TAYLES-DN42
+tech-c:             TAYLES-DN42
+mnt-by:             TAYLES-MNT
+status:             ASSIGNED
+cidr:               172.21.106.0/27
+source:             DN42

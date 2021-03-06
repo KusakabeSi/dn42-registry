@@ -1,0 +1,15 @@
+inetnum:            172.20.182.0 - 172.20.182.255
+netname:            ORG-NL-ZUID
+descr:              NL Zuid IP space
+remarks:            Used for:
+remarks:            - Amsterdam IX
+remarks:            - Internal network
+nserver:            ns1.nl-zuid.dn42
+country:            NL
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             VHAL-MNT
+mnt-by:             MARLINC-MNT
+status:             ALLOCATED
+cidr:               172.20.182.0/24
+source:             DN42

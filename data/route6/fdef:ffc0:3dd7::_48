@@ -1,0 +1,6 @@
+route6:             fdef:ffc0:3dd7::/48
+origin:             AS201173
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luebeck
+mnt-by:             DN42-MNT
+source:             ICVPN

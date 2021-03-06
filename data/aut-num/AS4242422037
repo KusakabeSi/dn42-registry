@@ -1,0 +1,22 @@
+aut-num:            AS4242422037
+as-name:            NARNIA-AS
+descr:              Narnia AS
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+remarks:            ╔════════════════════════════════════╗
+remarks:            ║ Narnia Network        AS4242422037 ║
+remarks:            ╟────────────────────────────────────╢
+remarks:            ║ E-mail:        dn42@narnia.network ║
+remarks:            ║ IRC:                jayvee@hackint ║
+remarks:            ║ Web:   https://dn42.narnia.network ║
+remarks:            ╟────────────────────────────────────╢
+remarks:            ║ Locations:       Sydney, Australia ║
+remarks:            ╟────────────────────────────────────╢
+remarks:            ║ VPNs:                    WireGuard ║
+remarks:            ║ Protocols:                    IPv6 ║
+remarks:            ╟────────────────────────────────────╢
+remarks:            ║ New peers welcome: please e-mail.  ║
+remarks:            ║ My network is for fun, not profit. ║
+remarks:            ╚════════════════════════════════════╝
+source:             DN42

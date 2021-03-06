@@ -1,0 +1,4 @@
+route6:             fd42:4242:2189::/48
+origin:             AS4242422189
+mnt-by:             IEDON-MNT
+source:             DN42

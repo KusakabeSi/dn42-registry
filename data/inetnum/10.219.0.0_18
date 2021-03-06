@@ -1,0 +1,9 @@
+inetnum:            10.219.0.0 - 10.219.63.255
+cidr:               10.219.0.0/18
+netname:            ICVPN-RHEIN-ERFT-KREIS
+nserver:            1.0.219.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.1.0.5.9.2.b.a.e.7.4.7.0.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rhein-erft-kreis
+mnt-by:             DN42-MNT
+source:             ICVPN

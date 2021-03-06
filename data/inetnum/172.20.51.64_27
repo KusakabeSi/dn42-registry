@@ -1,0 +1,10 @@
+inetnum:            172.20.51.64 - 172.20.51.95
+cidr:               172.20.51.64/27
+netname:            CITADEL-NETWORK
+nserver:            ns1.citadel.dn42
+country:            US
+status:             ASSIGNED
+admin-c:            CITADEL-DN42
+tech-c:             CITADEL-DN42
+mnt-by:             CITADEL-MNT
+source:             DN42

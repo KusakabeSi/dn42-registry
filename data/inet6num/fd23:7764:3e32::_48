@@ -1,0 +1,10 @@
+inet6num:           fd23:7764:3e32:0000:0000:0000:0000:0000 - fd23:7764:3e32:ffff:ffff:ffff:ffff:ffff
+cidr:               fd23:7764:3e32::/48
+netname:            WAWEIC-NETWORK
+descr:              Network of Waweic
+country:            DE
+admin-c:            WAWEIC-DN42
+tech-c:             WAWEIC-DN42
+mnt-by:             WAWEIC-MNT
+status:             ASSIGNED
+source:             DN42

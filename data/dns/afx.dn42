@@ -1,0 +1,6 @@
+domain:             afx.dn42
+nserver:            ns.afx.dn42 172.20.184.38
+admin-c:            AFX-DN42
+tech-c:             AFX-DN42
+mnt-by:             AFX-MNT
+source:             DN42

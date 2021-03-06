@@ -1,0 +1,6 @@
+domain:             allowed.dn42
+nserver:            ns1.allowed.dn42    172.23.11.1
+admin-c:            EPOCH-DN42
+tech-c:             EPOCH-DN42
+mnt-by:             EPOCH-MNT
+source:             DN42

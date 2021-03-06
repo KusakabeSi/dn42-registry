@@ -1,0 +1,6 @@
+domain:             dmail.dn42
+admin-c:            ZANE-DN42
+tech-c:             ZANE-DN42
+mnt-by:             ZANE-MNT
+nserver:            ns1.unknownts.dn42
+source:             DN42

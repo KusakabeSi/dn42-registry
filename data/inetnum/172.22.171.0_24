@@ -1,0 +1,9 @@
+inetnum:            172.22.171.0 - 172.22.171.255
+nserver:            ns0.docsteel.dn42
+netname:            Docsteel's dn42 Home Network
+admin-c:            DOCSTEEL-DN42
+tech-c:             DOCSTEEL-DN42
+status:             ASSIGNED
+cidr:               172.22.171.0/24
+mnt-by:             DUMMY-MNT
+source:             DN42

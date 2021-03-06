@@ -1,0 +1,8 @@
+inetnum:            172.20.172.0 - 172.20.172.15
+cidr:               172.20.172.0/28
+netname:            ENS160-IPv4
+admin-c:            ENS160-DN42
+tech-c:             ENS160-DN42
+mnt-by:             ENS160-MNT
+status:             ASSIGNED
+source:             DN42

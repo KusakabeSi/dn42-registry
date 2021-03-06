@@ -1,0 +1,4 @@
+route:              172.20.154.0/26
+origin:             AS4242420418
+mnt-by:             TDS-MNT
+source:             DN42

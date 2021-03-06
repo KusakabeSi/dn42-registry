@@ -1,0 +1,8 @@
+inet6num:           fdbf:54f1:66b8:0000:0000:0000:0000:0000 - fdbf:54f1:66b8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbf:54f1:66b8::/48
+netname:            ALEMAL-NET-1
+admin-c:            ALEMAL-DN42
+tech-c:             ALEMAL-DN42
+mnt-by:             ALEMAL-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+mntner:             DAYI-MNT
+descr:              Dayi DN42 Network owo
+admin-c:            DAYI-DN42
+tech-c:             DAYI-DN42
+mnt-by:             DAYI-MNT
+source:             DN42
+auth:               pgp-fingerprint 42b1ef5a60da4cb24a5b00297af28f5a682b2d10
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDi0PcvVTbJsHS0iJ9GE9IdUKmxdnrzie4SlbtUS1wpuFTXCNo+EhG2Dm62OWjxhcdTD//G08bQVK2w58ReTCRS/zEzkJtC4iNs/iAVJfF/5Y+RIePHGKeETnUSUZgnsCiICn2Ce2KcCcbN64PepZZU8eURxOzOyOv/0MnxCHuv3NR6iM4XKx17r6YZd0EYi2grMzSCgUf9XSZAdF5r9Zwq576gjm3o5xzL9EBqUFZo4WDGIehZF5pPu+ozh1If4N3ej+ejoaVXnkSL2Fj1/DmadSgZAjOehurmAJAwqNj9Q1HoMLZfxlb8IzBLHFsTpujh7mm3pDC7jVIdTEaFeoI2VpMfYQw5Og4IQGewBqmf0H1R5NMQ5o5z8xClDTik2gOwb4nJ97y/zUbOS1xYWKvOzzGQ67gmNYku7ZR9+IqG4hmlSFFXe3k/GuFWX8UC6uLaXVQaohgCM4mffSAKiBABwOgZ1SiIFGNdUWevhhL15GRfIwbACVqIXWOdIrbQeSs=
+remarks:            owo

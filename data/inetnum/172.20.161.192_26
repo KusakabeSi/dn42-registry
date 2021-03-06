@@ -1,0 +1,11 @@
+inetnum:            172.20.161.192 - 172.20.161.255
+netname:            SPLASH-NET4
+nserver:            ns1.splash.dn42
+org:                ORG-ZANET
+country:            ZA
+admin-c:            SPLASH-DN42
+tech-c:             SPLASH-DN42
+mnt-by:             SPLASH-MNT
+status:             ASSIGNED
+cidr:               172.20.161.192/26
+source:             DN42

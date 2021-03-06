@@ -1,0 +1,6 @@
+route:              172.22.101.128/26
+descr:              IVIP
+remarks:            https://www.hcies.com
+origin:             AS4242420520
+mnt-by:             IVIP-MNT
+source:             DN42

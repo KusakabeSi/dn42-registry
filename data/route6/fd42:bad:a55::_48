@@ -1,0 +1,5 @@
+route6:             fd42:bad:a55::/48
+descr:              Hadrill Online v6
+origin:             AS4242420124
+mnt-by:             HADRILL-MNT
+source:             DN42

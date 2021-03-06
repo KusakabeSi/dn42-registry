@@ -1,0 +1,8 @@
+domain:             dkjoker.dn42
+admin-c:            DKJOKER-DN42
+tech-c:             DKJOKER-DN42
+mnt-by:             DKJOKER-MNT
+nserver:            ns1.dkjoker.dn42 172.23.231.64
+nserver:            ns1.dkjoker.dn42 fd91:7b3d:8d19::6
+remarks:            DNS hosted by dkjoker.dn42
+source:             DN42

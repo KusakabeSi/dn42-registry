@@ -1,0 +1,6 @@
+mntner:             EASTBOUND-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXwBaDXMkWkKtVe1gZHbsuiWdcr5Z5oaOUxvWKaUjDrVh+owqIWgiwBV6CBWuagSoAA4kifGpwbtibo8j1cuu7Cd0/zzZyOnRsVa8sjkS3iQEBvgQFCRbjPVQ5Ts0wqxecogMXiPreSVHSUtqeZGvKk6PsgudVzE3jChcEn+ByyTC8wP3SofJA2IhcTRm/G5RXMPb1VMf5FfSPo3hU1P58jCO//ICnru3DhLVeSVy739GXn7p0CcpFhWUEIvCGpL+0LkwxstflKJ42BH0WXgesfoNzrmt8knbXIs04wm03621ZmC0Uh+trUidDvB2dLtUZjZFuTKQhQX7dTGeXDiKd dn42
+admin-c:            EASTBOUND-DN42
+tech-c:             EASTBOUND-DN42
+mnt-by:             EASTBOUND-MNT
+source:             DN42

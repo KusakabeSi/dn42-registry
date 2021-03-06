@@ -1,0 +1,25 @@
+aut-num:            AS4242420308
+as-name:            Clement VILLISEK
+descr:              AS for Clement VILLISEK personal use.
+remarks:            +----------------------------------+
+                    |I am open to new peers, especially|
+                    |if you're a newcomer or you don't |
+                    |have too many peers.              |
+                    |                                  |
+                    |Main BGP server located in France |
+                    |(TDF Datacenter, Aix-Marseille)   |
+                    |                                  |
+                    |To ask for peering, contact me.   |
+                    |(see tech-c/admin-c VILLISEK-DN42)|
+                    +----------------------------------+
+                    |Current peers:                    |
+                    |                                  |
+                    +- KIOUBIT AS4242423914            |
+                    +- SUNNET AS4242423088             |
+                    |                                  |
+                    |New peers coming soon.            |
+                    +----------------------------------+
+admin-c:            VILLISEK-DN42
+tech-c:             VILLISEK-DN42
+mnt-by:             VILLISEK-MNT
+source:             DN42

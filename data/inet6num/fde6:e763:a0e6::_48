@@ -1,0 +1,8 @@
+inet6num:           fde6:e763:a0e6:0000:0000:0000:0000:0000 - fde6:e763:a0e6:ffff:ffff:ffff:ffff:ffff
+cidr:               fde6:e763:a0e6::/48
+netname:            BJOERRRRN-NET-1
+admin-c:            BJOERRRRN-DN42
+tech-c:             BJOERRRRN-DN42
+mnt-by:             BJOERRRRN-MNT
+status:             ASSIGNED
+source:             DN42

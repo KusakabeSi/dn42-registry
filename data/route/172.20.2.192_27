@@ -1,0 +1,4 @@
+route:              172.20.2.192/27
+origin:             AS4242422169
+mnt-by:             ANAND-MNT
+source:             DN42

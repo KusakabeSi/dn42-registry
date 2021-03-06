@@ -1,0 +1,4 @@
+route:              172.22.128.224/27
+origin:             AS4242420320
+mnt-by:             NUXIS-MNT
+source:             DN42

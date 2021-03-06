@@ -1,0 +1,4 @@
+route:              172.23.59.64/27
+origin:             AS4242421194
+mnt-by:             LPV-MNT
+source:             DN42

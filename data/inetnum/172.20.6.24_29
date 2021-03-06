@@ -1,0 +1,10 @@
+inetnum:            172.20.6.24 - 172.20.6.31
+netname:            ELNAPPO-NETWORK
+descr:              Network of elnappo
+country:            DE
+admin-c:            ELNAPPO-DN42
+tech-c:             ELNAPPO-DN42
+mnt-by:             ELNAPPO-MNT
+status:             ASSIGNED
+cidr:               172.20.6.24/29
+source:             DN42

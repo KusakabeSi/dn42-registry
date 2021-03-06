@@ -1,0 +1,7 @@
+inetnum:            10.230.0.0 - 10.230.255.255
+cidr:               10.230.0.0/16
+netname:            ICVPN-BERLIN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: berlin
+mnt-by:             DN42-MNT
+source:             ICVPN

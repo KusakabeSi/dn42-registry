@@ -1,0 +1,10 @@
+inetnum:            172.20.20.48 - 172.20.20.63
+netname:            DJARNER-NETWORK
+descr:              DJARNER IPv4
+country:            DK
+admin-c:            DJARNER-DN42
+tech-c:             DJARNER-DN42
+mnt-by:             DJARNER-MNT
+cidr:               172.20.20.48/28
+status:             ASSIGNED
+source:             DN42

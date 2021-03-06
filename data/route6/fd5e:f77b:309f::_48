@@ -1,0 +1,5 @@
+route6:             fd5e:f77b:309f::/48
+descr:              cost's ipv6 route
+origin:             AS64634
+mnt-by:             COSTA-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd02:152e:d070:0000:0000:0000:0000:0000 - fd02:152e:d070:ffff:ffff:ffff:ffff:ffff
+cidr:               fd02:152e:d070::/48
+netname:            GOFORCEX-IPV6
+country:            CN
+admin-c:            GOFORCEX-DN42
+tech-c:             GOFORCEX-DN42
+mnt-by:             GOFORCEX-MNT
+status:             ASSIGNED
+source:             DN42

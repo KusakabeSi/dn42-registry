@@ -1,0 +1,4 @@
+route:              172.20.159.192/28
+origin:             AS4242420775
+mnt-by:             TEEED-MNT
+source:             DN42

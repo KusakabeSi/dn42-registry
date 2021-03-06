@@ -1,0 +1,12 @@
+inetnum:            172.20.235.0 - 172.20.235.31
+netname:            WEITI-SVC-NET-01
+descr:              DN42 Service Network
+country:            DE
+admin-c:            WEITI-DN42
+tech-c:             WEITI-DN42
+mnt-by:             WEITI-MNT
+nserver:            ns1.weiti.dn42
+nserver:            ns2.weiti.dn42
+status:             ASSIGNED PA
+cidr:               172.20.235.0/27
+source:             DN42

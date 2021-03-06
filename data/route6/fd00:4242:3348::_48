@@ -1,0 +1,4 @@
+route6:             fd00:4242:3348::/48
+origin:             AS4242423348
+mnt-by:             CLOUDFILES-MNT
+source:             DN42

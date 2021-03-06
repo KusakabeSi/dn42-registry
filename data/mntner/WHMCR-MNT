@@ -1,0 +1,7 @@
+mntner:             WHMCR-MNT
+admin-c:            WHMCR-DN42
+tech-c:             WHMCR-DN42
+mnt-by:             WHMCR-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCs7NOZJOLU3JwFouYlSofHpAHKjMKkkLs2VSGXwpO8uFs4QoCePGMGC1HM29MIrJ4clwz/+EO1JjAVnOKudvjm6GBOHOKZNeB6Rb+aGpU5iSTCVUj3ACo7/o488m6BpKWqtpzY8p9MhQ//cmMOqIWIYgisG+S1mDtV+jq+TOu22xY7+H5jkebRRKGprfVxnYaN//JpmQoa25nC4Vs9p4Ikii9unCa8vDY5giZ15j0tm9kcwT6vawMmXiLYfIwfWGijSnYWTE22pW7/eoKhsYgsQG8Q3Izq9/xanoUHN0g/5Z1X1P+FRdceKmVbZzmH85I6+9LXZhlfbYV49CwDmL3T whmcr@home
+auth:               pgp-fingerprint C55A8C4E0F8870365DF53D78FED8C9364B79214F
+source:             DN42

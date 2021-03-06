@@ -1,0 +1,7 @@
+domain:             leoleoasd.dn42
+admin-c:            LEOLEOASD-DN42
+tech-c:             LEOLEOASD-DN42
+mnt-by:             LEOLEOASD-MNT
+nserver:            ns1.leoleoasd.dn42 172.20.192.1
+nserver:            ns1.leoleoasd.dn42 fd46:a312:514a:2333::1
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             MCBROWN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD2OTkCGO8HmLNXsbIo45vnQFQc6vK6JarWiqKzDKraHxMDJQgktomeU9ImGhCA8oZgvG9fPLdxhtvhLd+hOF2kDcjRKtmgfGUism5SX+WfkChgdrstYbb8Fb2xlXeRRnvep/hMKAw5k7nDpzAlKa1vC4fBg6inCA5fy/+JjGPSQT2LEslfjmEUSRrN5KnzSAXuAhvyBOHs3xds7I4utadjeNJmLM/nJdv2pwIhtgLCtviW7A89HZUx75Zgue2sbxDAZn8cT7ehqay3fgmohCe6g0paidm9TQlyAhHUlY4UKpluvcCeuspbnltylrJewRCpPV5EChD+5utHQ66V/xQ3a+i0oOk4j5/30JmQETLQQssZfDbU4N649F49RHxGp5A/omdObKiO1ZNFvKxdwmO9hMIrGHqG6hLHCvqlLI7pL3fypZtE545QfEdk2LM90QLuOQJ76fRlaM5IUUvOGt+2nRaM0cEbY55CmuLa//k4EQlF2r5W+XMCil9BwX8I+OV1sp9UbYjPX2r7zJL7YvvN0r1KczdDQGvsrUQrgit8WdKBoaZ85rA7WaPy7L4LYH/9nq+lpJFtHJ8axEIl6mJ4ZUIyPLojxB/Ota1whkLsICPDMlLRFikAV99D0Wwn5bgFKJYA4c08kBZfMzI1fWAEflMMjRnPCa8su7E/mFhy1w== tim@timdebruijn.nl
+admin-c:            MCBROWN-DN42
+tech-c:             MCBROWN-DN42
+mnt-by:             MCBROWN-MNT
+source:             DN42

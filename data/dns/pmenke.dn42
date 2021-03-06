@@ -1,0 +1,7 @@
+domain:             pmenke.dn42
+admin-c:            PMENKE-DN42
+tech-c:             PMENKE-DN42
+mnt-by:             PMENKE-MNT
+nserver:            ns1.pmenke.dn42 172.23.118.1
+nserver:            ns1.pmenke.dn42 fd42:23:118:0:100::1
+source:             DN42

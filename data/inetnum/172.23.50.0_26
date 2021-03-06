@@ -1,0 +1,8 @@
+inetnum:            172.23.50.0 - 172.23.50.63
+cidr:               172.23.50.0/26
+netname:            RHINE-NETWORK
+admin-c:            RHINE-DN42
+tech-c:             RHINE-DN42
+mnt-by:             RHINE-MNT
+status:             ASSIGNED
+source:             DN42

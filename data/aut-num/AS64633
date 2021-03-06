@@ -1,0 +1,7 @@
+aut-num:            AS64633
+as-name:            HSBXL-AS
+descr:              Hackerspace Brussels AS
+mnt-by:             DUMMY-MNT
+admin-c:            HSBXL-DN42
+tech-c:             HSBXL-DN42
+source:             DN42

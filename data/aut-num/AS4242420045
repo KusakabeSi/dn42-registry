@@ -1,0 +1,22 @@
+aut-num:            AS4242420045
+as-name:            DELTAMAN-AS
+remarks:            Open peering policy, for peerings, contact
+remarks:            email: bgp@deltaman.mine.nu
+remarks:            +-------------------------------------------------+
+remarks:            | AS 4242420045                                   |
+remarks:            +-------------------------------------------------+
+remarks:            | Peering locations                               |
+remarks:            +-------------------------------------------------+
+remarks:            | EU:                                             |
+remarks:            +-------------------------------------------------+
+remarks:            | NL: Valkenburg                                  |
+remarks:            | NL: Geldermalsen                                |
+remarks:            +-------------------------------------------------+
+remarks:            | Using Cisco equipment and OpenVPN               |
+remarks:            | Feel free to ask about the BGP setup            |
+remarks:            +-------------------------------------------------+
+descr:              DELTAMAN-AS
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+source:             DN42

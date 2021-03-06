@@ -1,0 +1,12 @@
+inet6num:           fd5e:f77b:309f:0000:0000:0000:0000:0000 - fd5e:f77b:309f:ffff:ffff:ffff:ffff:ffff
+netname:            COSTA-NETWORK
+descr:              costa's ipv6 network
+country:            CN
+admin-c:            COSTA-DN42
+tech-c:             COSTA-DN42
+mnt-by:             COSTA-MNT
+nserver:            ns1.costa.dn42
+nserver:            ns2.costa.dn42
+status:             ASSIGNED
+cidr:               fd5e:f77b:309f::/48
+source:             DN42

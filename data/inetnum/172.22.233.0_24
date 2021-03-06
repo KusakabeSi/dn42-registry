@@ -1,0 +1,10 @@
+inetnum:            172.22.233.0 - 172.22.233.255
+netname:            FXKR-DN42-IP4NET
+descr:              fxkr's dn42 network
+country:            DE
+admin-c:            FXKR-DN42
+tech-c:             FXKR-DN42
+status:             ASSIGNED
+mnt-by:             FXKR-MNT
+cidr:               172.22.233.0/24
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd71:3840:a60a::/48
+origin:             AS4242420771
+mnt-by:             ZEYPHROS-MNT
+source:             DN42

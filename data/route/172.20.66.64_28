@@ -1,0 +1,7 @@
+route:              172.20.66.64/28
+descr:              hackint
+remarks:            https://www.hackint.org
+origin:             AS64600
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+source:             DN42

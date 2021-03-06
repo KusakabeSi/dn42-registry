@@ -1,0 +1,8 @@
+mntner:             SFN-MNT
+descr:              SaltedFish Network Maintenance Object
+admin-c:            KAYWML-DN42
+tech-c:             KAYWML-DN42
+mnt-by:             SFN-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDWeay/xBNMhnBy3GJcGkQNNa44gRBqXYa+F4RW6VW1E
+auth:               pgp-fingerprint 2E1CC9FA346DEA09A6EB0B73792E2F224CADAB1B
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.112.0 - 172.22.112.255
+netname:            PRAUSCHER-OBUNET-IP4NET
+descr:              Homenetwork of prauscher in Oberursel
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               172.22.112.0/24
+source:             DN42

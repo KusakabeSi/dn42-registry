@@ -1,0 +1,8 @@
+route:              10.127.12.0/24
+max-length:         29
+origin:             AS4242420140
+admin-c:            YANGFL-NETWORK-NEONETWORK
+tech-c:             YANGFL-NETWORK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

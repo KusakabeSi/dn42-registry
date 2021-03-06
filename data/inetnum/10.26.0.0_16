@@ -1,0 +1,7 @@
+inetnum:            10.26.0.0 - 10.26.255.255
+cidr:               10.26.0.0/16
+netname:            ICVPN-BIELEFELD
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bielefeld
+mnt-by:             DN42-MNT
+source:             ICVPN

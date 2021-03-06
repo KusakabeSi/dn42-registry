@@ -1,0 +1,4 @@
+route6:             fd42:c0ff:eeee::/48
+origin:             AS4242423334
+mnt-by:             BIRB-MNT
+source:             DN42

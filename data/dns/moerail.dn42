@@ -1,0 +1,11 @@
+domain:             moerail.dn42
+admin-c:            ARNIE97-DN42
+tech-c:             ARNIE97-DN42
+mnt-by:             ARNIE97-MNT
+nserver:            ns1.moerail.dn42 172.20.128.197
+nserver:            ns1.moerail.dn42 fdec:c6a:4002::7
+nserver:            ns2.moerail.dn42 172.20.128.199
+nserver:            ns2.moerail.dn42 fdcc:c6a:4002::9
+nserver:            ns3.moerail.dn42 172.20.128.194
+nserver:            ns3.moerail.dn42 fdcc:c6a:4002::4
+source:             DN42

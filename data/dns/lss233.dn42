@@ -1,0 +1,9 @@
+domain:             lss233.dn42
+admin-c:            LSS233-DN42
+tech-c:             LSS233-DN42
+mnt-by:             LSS233-MNT
+nserver:            ns1.lss233.dn42 172.20.143.58
+nserver:            ns1.lss233.dn42 fd10:a433:4b7d:8b::4e43:423e
+nserver:            ns2.lss233.dn42 172.20.143.50
+nserver:            ns2.lss233.dn42 fd10:a433:4b7d:2::50
+source:             DN42

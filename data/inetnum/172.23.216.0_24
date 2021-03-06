@@ -1,0 +1,11 @@
+inetnum:            172.23.216.0 - 172.23.216.255
+netname:            NET-JMT-1
+nserver:            ns0.jmt.dn42
+nserver:            ns1.jmt.dn42
+country:            DE
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+status:             ASSIGNED
+mnt-by:             JOMAT-MNT
+cidr:               172.23.216.0/24
+source:             DN42

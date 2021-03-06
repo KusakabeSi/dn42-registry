@@ -1,0 +1,12 @@
+inetnum:            172.23.201.0 - 172.23.201.255
+cidr:               172.23.201.0/24
+netname:            NET-PURRDETA-DN42
+descr:              purrdeta's IPv4 Network - DN42
+country:            US
+admin-c:            PURRDETA-DN42
+tech-c:             PURRDETA-DN42
+mnt-by:             PURRDETA-MNT
+nserver:            ns1.darkdna.net
+nserver:            ns2.darkdna.net
+status:             ASSIGNED
+source:             DN42

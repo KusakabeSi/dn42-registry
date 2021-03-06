@@ -1,0 +1,4 @@
+route6:             fdb2:520f:f4a7::/48
+origin:             AS4242423774
+mnt-by:             LRINQVQ-MNT
+source:             DN42

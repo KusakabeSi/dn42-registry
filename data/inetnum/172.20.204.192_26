@@ -1,0 +1,10 @@
+inetnum:            172.20.204.192 - 172.20.204.255
+netname:            BIG-GERMANY-LAB
+descr:              testnet
+country:            DE
+admin-c:            LEVING-DN42
+tech-c:             LEVING-DN42
+mnt-by:             LEVING-MNT
+status:             ASSIGNED
+cidr:               172.20.204.192/26
+source:             DN42

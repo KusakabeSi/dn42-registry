@@ -1,0 +1,13 @@
+inet6num:           fd30:fe56:7891:0000:0000:0000:0000:0000 - fd30:fe56:7891:ffff:ffff:ffff:ffff:ffff
+cidr:               fd30:fe56:7891::/48
+netname:            YELLOWLM-DN42-V6
+descr:              Yellowlm Networks v6 (Experimental-dn42)
+country:            US
+admin-c:            YELLOWLM-DN42
+tech-c:             YELLOWLM-DN42
+mnt-by:             YELLOWLM-MNT
+org:                ORG-YELLOWLM
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.yellowlm.dn42
+nserver:            ns2.yellowlm.dn42

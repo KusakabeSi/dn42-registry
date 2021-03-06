@@ -1,0 +1,8 @@
+inetnum:            172.21.84.64 - 172.21.84.95
+cidr:               172.21.84.64/27
+netname:            AMDEXA-NET-2
+admin-c:            AMDEXA-DN42
+tech-c:             AMDEXA-DN42
+mnt-by:             AMDEXA-MNT
+status:             ASSIGNED
+source:             DN42

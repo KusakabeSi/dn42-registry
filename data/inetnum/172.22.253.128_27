@@ -1,0 +1,10 @@
+inetnum:            172.22.253.128 - 172.22.253.159
+netname:            NEORAIDER-TRANSFER-1-IP4NET
+descr:              neoraider's transfer network
+admin-c:            NEORAIDER-DN42
+tech-c:             NEORAIDER-DN42
+status:             ASSIGNED
+nserver:            ns0.neoraider.dn42
+cidr:               172.22.253.128/27
+mnt-by:             DUMMY-MNT
+source:             DN42

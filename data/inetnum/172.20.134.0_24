@@ -1,0 +1,11 @@
+inetnum:            172.20.134.0 - 172.20.134.255
+netname:            MTNS-NET
+country:            CH
+org:                ORG-MTNS
+admin-c:            LM-DN42
+tech-c:             LM-DN42
+mnt-by:             MTNS-MNT
+status:             ALLOCATED
+nserver:            ns1.mtns.dn42
+cidr:               172.20.134.0/24
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             mrghosh.dn42
+descr:              MrGhosh Network DN42 Website
+admin-c:            MRGHOSH-DN42
+tech-c:             MRGHOSH-DN42
+mnt-by:             MRGHOSH-MNT
+nserver:            ns1.mrghosh.dn42 172.23.222.53
+nserver:            ns1.mrghosh.dn42 fd42:4242:1907:53::1
+source:             DN42

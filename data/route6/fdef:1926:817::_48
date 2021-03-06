@@ -1,0 +1,4 @@
+route6:             fdef:1926:817::/48
+origin:             AS4242420817
+mnt-by:             CIEL-MNT
+source:             DN42

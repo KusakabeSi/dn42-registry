@@ -1,0 +1,9 @@
+inet6num:           fd16:fb99:7f9b:0000:0000:0000:0000:0000 - fd16:fb99:7f9b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd16:fb99:7f9b::/48
+netname:            WXMN-NET-1
+admin-c:            WAXMAN-DN42
+tech-c:             WAXMAN-DN42
+mnt-by:             WXMN-MNT
+nserver:            ns1.waxman.dn42
+status:             ASSIGNED
+source:             DN42

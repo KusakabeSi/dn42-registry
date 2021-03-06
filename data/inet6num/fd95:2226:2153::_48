@@ -1,0 +1,11 @@
+inet6num:           fd95:2226:2153:0000:0000:0000:0000:0000 - fd95:2226:2153:ffff:ffff:ffff:ffff:ffff
+country:            DE
+admin-c:            AGH-DN42
+tech-c:             AGH-DN42
+mnt-by:             AGH-MNT
+nserver:            ns1.agh.dn42
+status:             ASSIGNED
+cidr:               fd95:2226:2153::/48
+netname:            AGH-NET6
+descr:              agh's ipv6 network
+source:             DN42

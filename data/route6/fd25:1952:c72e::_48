@@ -1,0 +1,6 @@
+route6:             fd25:1952:c72e::/48
+origin:             AS64876
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: lausitz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,5 @@
+route:              172.22.184.0/24
+descr:              NeoRaider
+origin:             AS64784
+mnt-by:             DUMMY-MNT
+source:             DN42

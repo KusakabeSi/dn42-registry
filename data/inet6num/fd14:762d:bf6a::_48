@@ -1,0 +1,11 @@
+inet6num:           fd14:762d:bf6a:0000:0000:0000:0000:0000 - fd14:762d:bf6a:ffff:ffff:ffff:ffff:ffff
+cidr:               fd14:762d:bf6a::/48
+netname:            PHOWORK-NETWORK
+descr:              Network of Phowork
+country:            FR
+admin-c:            CARLOTRONICS-DN42
+tech-c:             CARLOTRONICS-DN42
+mnt-by:             CARLOTRONICS-MNT
+status:             ASSIGNED
+org:                ORG-PHOWORK
+source:             DN42

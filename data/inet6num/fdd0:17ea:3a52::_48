@@ -1,0 +1,10 @@
+inet6num:           fdd0:17ea:3a52:0000:0000:0000:0000:0000 - fdd0:17ea:3a52:ffff:ffff:ffff:ffff:ffff
+netname:            LEOMUND-IPV6
+descr:              Peer with me at leomundspedoske@gmail.com
+country:            CN
+admin-c:            LEOMUND-DN42
+tech-c:             LEOMUND-DN42
+mnt-by:             LEOMUND-MNT
+status:             ASSIGNED
+cidr:               fdd0:17ea:3a52::/48
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fd00:7882:4abb:0000:0000:0000:0000:0000 - fd00:7882:4abb:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00:7882:4abb::/48
+descr:              Network of fuero
+country:            AT
+netname:            FUERO-NET-1
+admin-c:            FUERO-ADM-DN42
+tech-c:             FUERO-TEC-DN42
+mnt-by:             FUERO-MNT
+nserver:            ns1.fuero.dn42
+nserver:            ns2.fuero.dn42
+status:             ASSIGNED
+source:             DN42

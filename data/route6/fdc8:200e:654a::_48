@@ -1,0 +1,4 @@
+route6:             fdc8:200e:654a::/48
+origin:             AS4242423854
+mnt-by:             MITORAJ-MNT
+source:             DN42

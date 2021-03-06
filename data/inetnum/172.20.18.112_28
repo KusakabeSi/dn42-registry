@@ -1,0 +1,8 @@
+inetnum:            172.20.18.112 - 172.20.18.127
+cidr:               172.20.18.112/28
+netname:            BLEEN-NETWORK
+admin-c:            BLEEN-DN42
+tech-c:             BLEEN-DN42
+mnt-by:             BLEEN-MNT
+status:             ASSIGNED
+source:             DN42

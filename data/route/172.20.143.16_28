@@ -1,0 +1,4 @@
+route:              172.20.143.16/28
+origin:             AS4242423569
+mnt-by:             DHE-MNT
+source:             DN42

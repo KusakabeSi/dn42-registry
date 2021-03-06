@@ -1,0 +1,4 @@
+route:              172.21.94.192/27
+origin:             AS4242421850
+mnt-by:             GULCGFO-MNT
+source:             DN42

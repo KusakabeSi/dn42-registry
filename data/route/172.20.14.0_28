@@ -1,0 +1,5 @@
+route:              172.20.14.0/28
+descr:              Route for WXCAFE-NET4
+origin:             AS4242421441
+mnt-by:             WXCAFE-MNT
+source:             DN42

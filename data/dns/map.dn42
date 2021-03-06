@@ -1,0 +1,7 @@
+domain:             map.dn42
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+nserver:            ns1.iedon.dn42 172.23.91.1
+nserver:            ns1.iedon.dn42 fd42:4242:2189::1
+source:             DN42

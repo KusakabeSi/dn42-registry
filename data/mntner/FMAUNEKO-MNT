@@ -1,0 +1,7 @@
+mntner:             FMAUNEKO-MNT
+descr:              fmauNeko's Maintainer
+admin-c:            FMAUNEKO-DN42
+tech-c:             FMAUNEKO-DN42
+mnt-by:             FMAUNEKO-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDqER9miINVeqVlCziK8boNIUVI4rgbY2uotY1Xx17L3ikML13hXLsTwlg4z1G4zynnCE1hptv6wD/3EpXlNGipPU6hDPPK0IaQb1JezYBsO7wjKrZrSxzzLEAa18kiLC48iooUQ/ihQFL2Hx3WjJkVSbj0Y5A2RsvlZPKljILMW58ejrGrpjB3WGlC+fDPAXMb+8zr7xahMROxhWlpXgak8aBgijUosy3Lvpty1fqMWHNf45sx4/gAoWyhFYMWKOXQ5W0ROCDyCESciBL1U17/IYzmnIINpgjgQJ4+M3UlknBllaiUufH4fX/DBPUJ9RzCf85xE/E+hNxx9frJqG2FrHJ5HekRQAtKe8b4vneQvyHL7MzS99cfcDFyzLDFdwKoqDFsKv092yhUxAfRE5i9P5CSSf6x2FKnwvZuLo76gTNfxo3goPQV6KIW+k6CGNuKZMclUxrIVyO60eP0XwbVJ+MWbh79jAUI+aE/UaHULe+FK/5VeLuO78EjLpMhO5Sefv7kzRNCKxjOjYGiDNJGeR9/tdDZgSvHbdeWrlqOnbnig3TfH+nDBeVW+NK2HOCuytwPq92TWSaZGoAuPvWwrTyIKOqrhXOwqwmRd3ITiigHSfiOCoYvomaWZUGScAR3pQc04O+0UseobWwk/xYDUyFGB5QM8aX3c7DulgHsQ== openpgp:0xA849184F
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.23.239.0 - 172.23.239.127
+cidr:               172.23.239.0/25
+netname:            AMNET-NETWORK
+descr:              Network of Amnet Reserved ip
+country:            TH
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
+status:             ALLOCATED PA
+source:             DN42

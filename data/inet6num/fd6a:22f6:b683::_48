@@ -1,0 +1,12 @@
+inet6num:           fd6a:22f6:b683:0000:0000:0000:0000:0000 - fd6a:22f6:b683:ffff:ffff:ffff:ffff:ffff
+cidr:               fd6a:22f6:b683::/48
+netname:            YUXANS-NET-1
+descr:              Network of Yuxans
+country:            CN
+admin-c:            YUXANS-DN42
+tech-c:             YUXANS-DN42
+mnt-by:             YUXANS-MNT
+nserver:            ns1.yuxans.dn42
+nserver:            ns2.yuxans.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             INSTIPOD-MNT
+admin-c:            INSTIPOD-DN42
+tech-c:             INSTIPOD-DN42
+mnt-by:             INSTIPOD-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqxiMcZXefsfz0ihOnVfr2JDfqc/kqvtaEhcpKNawk+9M0yKQX0U+xgeWWu1CH+4tINKgutppy5oSvWzYnqEFcnNiHNeOQQD7VnfHPatjEewtJpV0IuFXA0L7GJdMjIXwIfAzTI2zbgme0jiB72htXhNnLOih2UBPMH0v87TRmbobuCu3Z0pjTBQ18UzbospxYhBVSwJEpnHyeHnoDK5yUvU5eiNkf84RezkzRSqMYj4EEqmgN+ynCQ1GoscRwxzMEloqSU09CIGCSagqfHmzgKW52M4W4PQO0XOOPs0d15QLqapHKyoKqEqEircbKQPuAf6aTX1K4HzTRP5qlxjzQQ== instipod-dn42
+source:             DN42

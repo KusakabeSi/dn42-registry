@@ -1,0 +1,8 @@
+route:              10.127.19.0/24
+max-length:         29
+origin:             AS4201270019
+admin-c:            CUPKAPPU-NEONETWORK
+tech-c:             CUPKAPPU-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

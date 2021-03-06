@@ -1,0 +1,6 @@
+route:              172.23.193.0/27
+origin:             AS4242421516
+admin-c:            W1KL4S-DN42
+tech-c:             W1KL4S-DN42
+mnt-by:             W1KL4S-MNT
+source:             DN42

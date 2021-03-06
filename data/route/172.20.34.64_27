@@ -1,0 +1,5 @@
+route:              172.20.34.64/27
+descr:              Uplink area
+origin:             AS4242423214
+mnt-by:             TSYS-MNT
+source:             DN42

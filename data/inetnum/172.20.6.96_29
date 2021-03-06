@@ -1,0 +1,9 @@
+inetnum:            172.20.6.96 - 172.20.6.103
+cidr:               172.20.6.96/29
+netname:            FOOBARS-EU-NL-DBG
+admin-c:            FOOBARS-DN42
+tech-c:             FOOBARS-DN42
+mnt-by:             FOOBARS-MNT
+status:             ASSIGNED
+nserver:            ns1.foobars.dn42
+source:             DN42

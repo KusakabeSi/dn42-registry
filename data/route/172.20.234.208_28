@@ -1,0 +1,4 @@
+route:              172.20.234.208/28
+origin:             AS4242421098
+mnt-by:             MNAGEL-MNT
+source:             DN42

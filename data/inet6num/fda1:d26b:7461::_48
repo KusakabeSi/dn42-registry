@@ -1,0 +1,10 @@
+inet6num:           fda1:d26b:7461:0000:0000:0000:0000:0000 - fda1:d26b:7461:ffff:ffff:ffff:ffff:ffff
+netname:            PYROPETER-DN42-ULA-IP6NET
+descr:              PyroPeter's ULA IPv6 network
+country:            DE
+admin-c:            PYROPETER-DN42
+tech-c:             PYROPETER-DN42
+status:             ASSIGNED
+cidr:               fda1:d26b:7461::/48
+mnt-by:             PYROPETER-MNT
+source:             DN42

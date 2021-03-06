@@ -1,0 +1,5 @@
+route:              172.22.158.144/28
+descr:              Serxoz Network 2
+origin:             AS4242423336
+mnt-by:             SERXOZ-MNT
+source:             DN42

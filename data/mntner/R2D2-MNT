@@ -1,0 +1,7 @@
+mntner:             R2D2-MNT
+descr:              R2D2-AS-MNTNR
+admin-c:            R2D2MSC-DN42
+tech-c:             R2D2MSC-DN42
+mnt-by:             R2D2-MNT
+source:             DN42
+auth:               pgp-fingerprint D6BE37B3D38A9694BF79A15B00B75BD2D1AA35D6

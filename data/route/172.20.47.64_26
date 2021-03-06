@@ -1,0 +1,4 @@
+route:              172.20.47.64/26
+origin:             AS4242420789
+mnt-by:             JOSENG-MNT
+source:             DN42

@@ -1,0 +1,12 @@
+inet6num:           fdd3:e145:e3cc:0000:0000:0000:0000:0000 - fdd3:e145:e3cc:ffff:ffff:ffff:ffff:ffff
+netname:            ZZ-NETWORK
+descr:              Network ipv6 of ZZ
+country:            DE
+admin-c:            ZZ-DN42
+tech-c:             ZZ-DN42
+mnt-by:             ZZ-MNT
+nserver:            ns1.zz.dn42
+nserver:            ns2.zz.dn42
+status:             ASSIGNED
+cidr:               fdd3:e145:e3cc::/48
+source:             DN42

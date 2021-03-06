@@ -1,0 +1,8 @@
+inet6num:           fd42:beeb:beeb:0000:0000:0000:0000:0000 - fd42:beeb:beeb:ffff:ffff:ffff:ffff:ffff
+netname:            FIONERA-NET
+admin-c:            FIONERA-DN42
+tech-c:             FIONERA-DN42
+mnt-by:             FIONERA-MNT
+status:             ASSIGNED
+cidr:               fd42:beeb:beeb::/48
+source:             DN42

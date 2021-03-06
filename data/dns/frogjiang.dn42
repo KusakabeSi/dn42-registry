@@ -1,0 +1,8 @@
+domain:             frogjiang.dn42
+admin-c:            FROGJIANG-DN42
+tech-c:             FROGJIANG-DN42
+mnt-by:             FROGJIANG-MNT
+nserver:            ns1.frogjiang.dn42 172.23.78.0
+nserver:            ns1.frogjiang.dn42 fdf8:52a8:1314::
+remarks:            DNS hosted by FROGJIANG.dn42
+source:             DN42

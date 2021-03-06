@@ -1,0 +1,6 @@
+mntner:             BT709-MNT
+admin-c:            BT709-DN42
+tech-c:             BT709-DN42
+mnt-by:             BT709-MNT
+auth:               pgp-fingerprint 5F606A247BCB1AFBEF39E723A81C56E3A2BB23A1
+source:             DN42

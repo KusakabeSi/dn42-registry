@@ -1,0 +1,5 @@
+route:              172.20.148.96/27
+descr:              FRE-CORE-NETWORKS
+origin:             AS4242423855
+mnt-by:             FRE-MNT
+source:             DN42

@@ -1,0 +1,23 @@
+#!/bin/sh -e
+
+if [ $# -lt 3 ]
+  then
+    echo "Usage: $0 GIT-USER GIT-BRANCH USER-MNT"
+    exit
+fi
+
+clean_up() {
+  git merge --abort > /dev/null
+}
+
+(git merge HEAD || clean_up) > /dev/null
+git pull --ff-only > /dev/null
+if ! git config "remote.$1.url" > /dev/null; then
+  git remote add "$1" "git@git.dn42:$1/registry.git"
+fi
+git fetch "$1" 2> /dev/null
+git merge --no-ff --no-commit "$1/$2" 2> /dev/null
+./check-pol HEAD "$3" || (echo "Policy Check FAILED"; clean_up; exit 1)
+./check-my-stuff "$3" || (echo "Schema Check FAILED"; clean_up; exit 1)
+echo OK
+clean_up

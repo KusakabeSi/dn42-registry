@@ -1,0 +1,5 @@
+route:              172.22.73.32/27
+descr:              Playground
+origin:             AS4242420189
+mnt-by:             ALIANSE77-MNT
+source:             DN42

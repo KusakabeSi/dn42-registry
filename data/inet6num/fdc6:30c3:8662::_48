@@ -1,0 +1,10 @@
+inet6num:           fdc6:30c3:8662:0000:0000:0000:0000:0000 - fdc6:30c3:8662:ffff:ffff:ffff:ffff:ffff
+country:            JP
+netname:            XXSLDN-LAB-2
+admin-c:            XXSL-DN42
+tech-c:             XXSL-DN42
+mnt-by:             XXSLDN-MNT
+status:             ASSIGNED
+cidr:               fdc6:30c3:8662::/48
+nserver:            ns.xxsl.dn42
+source:             DN42

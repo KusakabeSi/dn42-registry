@@ -1,0 +1,10 @@
+inet6num:           fd7a:6aba:ee00:0000:0000:0000:0000:0000 - fd7a:6aba:ee00:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7a:6aba:ee00::/48
+netname:            BUDDY-NETWORK
+descr:              Buddy.Network
+country:            IT
+admin-c:            BUDDY-DN42
+tech-c:             BUDDY-DN42
+mnt-by:             BUDDY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:4242:4200::/40
+origin:             AS4242423991
+mnt-by:             ANDI--MNT
+source:             DN42

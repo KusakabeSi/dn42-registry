@@ -1,0 +1,7 @@
+mntner:             YOURDADDY-MNT
+auth:               pgp-fingerprint E6881B0A4867344B24F7AA85F2E7FE9A68FB6166
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJpl1R4FVHmIB8gX/sXUJOsXqDdJorO1m7PVoQCqvYgb
+admin-c:            YOURDADDY-DN42
+tech-c:             YOURDADDY-DN42
+source:             DN42
+mnt-by:             YOURDADDY-MNT

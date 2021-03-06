@@ -1,0 +1,8 @@
+domain:             nop.dn42
+descr:              nop
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+nserver:            ns.nop.dn42 172.23.215.129
+nserver:            ns.nop.dn42 fd40:cc1e:c0de::1
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.13.160 - 172.20.13.191
+cidr:               172.20.13.160/27
+netname:            Optic Network
+admin-c:            OPTIC-DN42
+tech-c:             OPTIC-DN42
+mnt-by:             OPTIC-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd51:b39d:249f:0000:0000:0000:0000:0000 - fd51:b39d:249f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd51:b39d:249f::/48
+netname:            DGHUBBLE-IP6NET
+country:            US
+admin-c:            DGHUBBLE-DN42
+tech-c:             DGHUBBLE-DN42
+mnt-by:             DGHUBBLE-MNT
+status:             ASSIGNED
+source:             DN42

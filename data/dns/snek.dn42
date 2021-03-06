@@ -1,0 +1,7 @@
+domain:             snek.dn42
+admin-c:            SNEK-DN42
+tech-c:             SNEK-DN42
+mnt-by:             SNEK-MNT
+nserver:            ns1.snek.dn42 fd00:bad:c0de::1
+nserver:            ns1.snek.dn42 172.20.128.96
+source:             DN42

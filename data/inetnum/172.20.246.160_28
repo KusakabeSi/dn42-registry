@@ -1,0 +1,9 @@
+inetnum:            172.20.246.160 - 172.20.246.175
+cidr:               172.20.246.160/28
+netname:            SKYNET-XFER4
+descr:              Skynet IPv4 transfer network
+admin-c:            IO-DN42
+tech-c:             IO-DN42
+mnt-by:             SKYNET-MNT
+status:             ASSIGNED
+source:             DN42

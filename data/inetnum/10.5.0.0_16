@@ -1,0 +1,11 @@
+inetnum:            10.5.0.0 - 10.5.255.255
+cidr:               10.5.0.0/16
+netname:            ICVPN-AACHEN
+nserver:            241.0.5.10.ipv4.registry-sync.dn42
+nserver:            242.0.5.10.ipv4.registry-sync.dn42
+nserver:            3.5.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.1.0.0.6.2.2.3.0.a.2.ipv6.registry-sync.dn42
+nserver:            3.5.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.1.0.0.6.2.2.3.0.a.2.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: aachen
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,8 @@
+inetnum:            10.127.23.0 - 10.127.23.7
+cidr:               10.127.23.0/29
+netname:            leedagee
+admin-c:            LEEDAGEE-NEONETWORK
+tech-c:             LEEDAGEE-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

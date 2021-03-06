@@ -1,0 +1,8 @@
+inetnum:            10.127.8.160 - 10.127.8.191
+cidr:               10.127.8.160/27
+netname:            StaphNet
+admin-c:            STAPH-NEONETWORK
+tech-c:             STAPH-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

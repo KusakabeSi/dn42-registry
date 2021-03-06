@@ -1,0 +1,8 @@
+inet6num:           fdd0:77f2:44de:0000:0000:0000:0000:0000 - fdd0:77f2:44de:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd0:77f2:44de::/48
+netname:            FEU-NET
+admin-c:            FEU-DN42
+tech-c:             FEU-DN42
+mnt-by:             FEU-MNT
+status:             ASSIGNED
+source:             DN42

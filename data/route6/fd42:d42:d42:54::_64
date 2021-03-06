@@ -1,0 +1,8 @@
+route6:             fd42:d42:d42:54::/64
+descr:              Anycast of *.recursive-servers.dn42.
+remarks:            JRB0001-MNT
+origin:             AS4242420119
+remarks:            KIOUBIT-MNT
+origin:             AS4242423914
+mnt-by:             DN42-MNT
+source:             DN42

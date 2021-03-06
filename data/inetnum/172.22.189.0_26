@@ -1,0 +1,11 @@
+inetnum:            172.22.189.0 - 172.22.189.63
+netname:            MTR-NET2
+descr:              Michael Trip Net2
+country:            NL
+admin-c:            MTR-DN42
+tech-c:             MTR-DN42
+mnt-by:             MTR-MNT
+nserver:            ns1.nl.alcatrash.dn42
+status:             ASSIGNED
+cidr:               172.22.189.0/26
+source:             DN42

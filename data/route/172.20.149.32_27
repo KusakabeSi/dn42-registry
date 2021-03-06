@@ -1,0 +1,5 @@
+route:              172.20.149.32/27
+descr:              prauscher transfer
+origin:             AS0
+mnt-by:             PRAUSCHER-MNT
+source:             DN42

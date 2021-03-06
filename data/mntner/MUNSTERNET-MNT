@@ -1,0 +1,6 @@
+mntner:             MUNSTERNET-MNT
+admin-c:            MUNSTERNET-DN42
+tech-c:             MUNSTERNET-DN42
+mnt-by:             MUNSTERNET-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJP3KJBBSpAXRFb/Gg244CPsCmB9oVLT73I0Gyu/d6R9
+source:             DN42

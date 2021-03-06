@@ -1,0 +1,9 @@
+organisation:       ORG-HSWANPROXY
+org-name:           HSWAN Proxy Service
+descr:              Injects DN42 routes into HSWAN, provides return NAT.
+admin-c:            Q3K-DN42
+tech-c:             Q3K-DN42
+mnt-by:             Q3K-MNT
+e-mail:             hswan@hackerspace.pl
+www:                https://wiki.hackerspace.pl/projects:hswan
+source:             DN42

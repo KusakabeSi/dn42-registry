@@ -1,0 +1,7 @@
+domain:             whatismyip.dn42
+admin-c:            CHRISMOOS-DN42
+tech-c:             CHRISMOOS-DN42
+mnt-by:             TECH9-MNT
+nserver:            ns1.tech9computers.dn42
+nserver:            ns2.tech9computers.dn42
+source:             DN42

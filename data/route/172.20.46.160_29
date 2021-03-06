@@ -1,0 +1,4 @@
+route:              172.20.46.160/29
+origin:             AS4242420510
+mnt-by:             DIZZY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.184.160/28
+origin:             AS4242421788
+mnt-by:             TSX-MNT
+source:             DN42

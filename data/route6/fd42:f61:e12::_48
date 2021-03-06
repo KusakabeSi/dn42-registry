@@ -1,0 +1,5 @@
+route6:             fd42:f61:e12::/48
+descr:              fpletz's dn42 network
+origin:             AS4242420235
+mnt-by:             FPLETZ-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:4242:443::/48
+origin:             AS4242420443
+max-length:         48
+mnt-by:             PATRYK-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.19.0.0/16
+origin:             AS64869
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: euskirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

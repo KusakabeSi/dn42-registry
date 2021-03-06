@@ -1,0 +1,8 @@
+route:              10.127.41.0/24
+max-length:         29
+origin:             AS4201270001
+admin-c:            SEPTS-NEONETWORK
+tech-c:             SEPTS-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

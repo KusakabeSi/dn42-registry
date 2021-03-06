@@ -1,0 +1,5 @@
+route:              172.23.35.0/26
+descr:              2F30 network
+origin:             AS4242423993
+mnt-by:             2F30-MNT
+source:             DN42

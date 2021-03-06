@@ -1,0 +1,9 @@
+inet6num:           fd88:0c7e:c7b7:0000:0000:0000:0000:0000 - fd88:0c7e:c7b7:ffff:ffff:ffff:ffff:ffff
+netname:            MEBUS-NET6
+country:            DE
+admin-c:            MEBUS-DN42
+tech-c:             MEBUS-DN42
+mnt-by:             MEBUS-MNT
+status:             ALLOCATED
+cidr:               fd88:c7e:c7b7::/48
+source:             DN42

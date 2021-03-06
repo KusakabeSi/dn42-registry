@@ -1,0 +1,9 @@
+inet6num:           fd26:13ad:1cb6:0000:0000:0000:0000:0000 - fd26:13ad:1cb6:ffff:ffff:ffff:ffff:ffff
+cidr:               fd26:13ad:1cb6::/48
+netname:            MAKNET-IPV6
+country:            GR
+admin-c:            MAKNET-DN42
+tech-c:             MAKNET-DN42
+mnt-by:             MAKNET-MNT
+status:             ASSIGNED
+source:             DN42

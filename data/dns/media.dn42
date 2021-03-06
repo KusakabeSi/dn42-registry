@@ -1,0 +1,8 @@
+domain:             media.dn42
+descr:              Media
+admin-c:            TOBEE-DN42
+tech-c:             TOBEE-DN42
+mnt-by:             BLAZING-MNT
+nserver:            hulk.mhm.dn42
+nserver:            danny.mhm.dn42
+source:             DN42

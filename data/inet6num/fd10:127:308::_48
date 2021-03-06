@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0308:0000:0000:0000:0000:0000 - fd10:0127:0308:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:308::/48
+netname:            VILLISEK-NEO-V6
+admin-c:            CLEMENT-VILLISEK-NEONETWORK
+tech-c:             CLEMENT-VILLISEK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

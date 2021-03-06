@@ -1,0 +1,5 @@
+route6:             fd3f:7adb:2f06:ee82::/64
+origin:             AS4242420829
+max-length:         64
+mnt-by:             AVASQUEZT-MNT
+source:             DN42

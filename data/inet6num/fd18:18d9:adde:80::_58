@@ -1,0 +1,10 @@
+inet6num:           fd18:18d9:adde:0080:0000:0000:0000:0000 - fd18:18d9:adde:00bf:ffff:ffff:ffff:ffff
+netname:            ATR-M101
+descr:              ATR Network Portable Access
+country:            CN
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               fd18:18d9:adde:80::/58
+source:             DN42

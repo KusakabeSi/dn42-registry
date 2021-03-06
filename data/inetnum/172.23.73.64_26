@@ -1,0 +1,9 @@
+inetnum:            172.23.73.64 - 172.23.73.127
+cidr:               172.23.73.64/26
+netname:            LITSCHI-V4-NETWORK
+admin-c:            LITSCHI-DN42
+tech-c:             LITSCHI-DN42
+mnt-by:             LITSCHI-MNT
+nserver:            ns1.litschi.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.88.0.0/16
+origin:             AS64902
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: owl
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+domain:             controlplane.dn42
+descr:              controlplane.de in dn42 network
+admin-c:            CONTROLPLANE-DN42
+tech-c:             CONTROLPLANE-DN42
+mnt-by:             CONTROLPLANE-MNT
+nserver:            ns1.controlplane.dn42 172.23.109.2
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.172.224/27
+origin:             AS4242420993
+mnt-by:             ARCHON-MNT
+source:             DN42

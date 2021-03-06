@@ -1,0 +1,7 @@
+mntner:             DALUN-MNT
+descr:              Dalun DN42 Network
+admin-c:            DALUN-DN42
+tech-c:             DALUN-DN42
+mnt-by:             DALUN-MNT
+auth:               pgp-fingerprint A87CC7234284905C25DE8AD05C36B76F1CE0C582
+source:             DN42

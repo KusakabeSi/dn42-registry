@@ -1,0 +1,15 @@
+aut-num:            AS4242420604
+as-name:            MOECAST-AS
+descr:              Moecast Network
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+remarks:            +-----------------------------------+
+remarks:            |          MOECAST NETWORK          |
+remarks:            +-----------------------------------+
+remarks:            | * Open Peering Policy             |
+remarks:            | * Contact:                        |
+remarks:            |     - Telegram: @liangjw          |
+remarks:            |     - E-mail:   liangjw@etlgr.com |
+remarks:            +-----------------------------------+
+source:             DN42

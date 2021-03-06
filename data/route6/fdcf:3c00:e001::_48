@@ -1,0 +1,4 @@
+route6:             fdcf:3c00:e001::/48
+origin:             AS4242422287
+mnt-by:             PURRDETA-MNT
+source:             DN42

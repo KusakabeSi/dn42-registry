@@ -1,0 +1,5 @@
+route6:             fda9:b90:2fab::/48
+origin:             AS4242422619
+max-length:         48
+mnt-by:             FRAINZ-MNT
+source:             DN42

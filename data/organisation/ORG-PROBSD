@@ -1,0 +1,7 @@
+organisation:       ORG-PROBSD
+org-name:           PROBSD
+descr:              ProBSD Network
+admin-c:            LEWY-DN42
+tech-c:             LEWY-DN42
+mnt-by:             LEWY-MNT
+source:             DN42

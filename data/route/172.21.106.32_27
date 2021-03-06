@@ -1,0 +1,4 @@
+route:              172.21.106.32/27
+origin:             AS4242423738
+mnt-by:             BENL-MNT
+source:             DN42

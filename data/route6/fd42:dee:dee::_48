@@ -1,0 +1,4 @@
+route6:             fd42:dee:dee::/48
+origin:             AS4242423424
+mnt-by:             COMPUGLOBAL-MNT
+source:             DN42

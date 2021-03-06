@@ -1,0 +1,7 @@
+mntner:             NETSPEEDY-MNT
+descr:              Netspeedy CORE Network
+admin-c:            MAJESTIC-DN42
+tech-c:             MAJESTIC-DN42
+mnt-by:             NETSPEEDY-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBVpLJUkglbaxJPPanNHbgCqxGDTQfMtFNLs+TAZc+l0 netspeedy-dn42

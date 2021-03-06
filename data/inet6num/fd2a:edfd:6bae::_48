@@ -1,0 +1,11 @@
+inet6num:           fd2a:edfd:6bae:0000:0000:0000:0000:0000 - fd2a:edfd:6bae:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2a:edfd:6bae::/48
+netname:            NET-TRIHOP-001
+country:            US
+admin-c:            TRIHOP-DN42
+tech-c:             TRIHOP-DN42
+mnt-by:             TRIHOP-MNT
+nserver:            ns1.trihop.dn42
+nserver:            ns2.trihop.dn42
+status:             ASSIGNED
+source:             DN42

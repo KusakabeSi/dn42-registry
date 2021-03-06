@@ -1,0 +1,11 @@
+inetnum:            172.20.138.64 - 172.20.138.127
+netname:            SHADOWHUNTER-DC
+descr:              SHADOWHUNTER
+country:            NL
+admin-c:            NICK-DN42
+tech-c:             NICK-DN42
+mnt-by:             SHADOWHUNTER-MNT
+nserver:            ns1.shadowhunter.dn42
+status:             ASSIGNED
+cidr:               172.20.138.64/26
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.22.150.64/26
+descr:              SlothLogistics Backbone
+origin:             AS4242420031
+mnt-by:             SLOTHLOGISTICS-MNT
+source:             DN42

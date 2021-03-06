@@ -1,0 +1,10 @@
+inet6num:           fd75:fd19:617d:0000:0000:0000:0000:0000 - fd75:fd19:617d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd75:fd19:617d::/48
+netname:            ROBOBO-NETWORK
+descr:              Network of ROBOBO
+country:            SE
+admin-c:            ROBOBO-DN42
+tech-c:             ROBOBO-DN42
+mnt-by:             ROBOBO-MNT
+status:             ASSIGNED
+source:             DN42

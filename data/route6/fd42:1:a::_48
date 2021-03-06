@@ -1,0 +1,5 @@
+route6:             fd42:1:a::/48
+descr:              SHEPPY IP6
+origin:             AS4242420991
+mnt-by:             SHEPPY-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             piston.dn42
+descr:              The best domain in the block
+admin-c:            MIKE-DN42
+tech-c:             MIKE-DN42
+mnt-by:             PISTON-MNT
+nserver:            ns1.piston.dn42 172.23.150.195
+source:             DN42

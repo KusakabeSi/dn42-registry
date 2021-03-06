@@ -1,0 +1,9 @@
+inetnum:            172.22.111.112 - 172.22.111.119
+cidr:               172.22.111.112/29
+netname:            TSHDW-NET-1
+descr:              Tshdw IP4 network block 1
+admin-c:            TSHDW-DN42
+tech-c:             TSHDW-DN42
+mnt-by:             TSHDW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd8a:b0f1:babe::/48
+descr:              IPv6 for PSM-ASN
+origin:             AS4242423926
+mnt-by:             PSM-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.54.48 - 172.20.54.55
+netname:            ORG-ZEROAE-PEER-BLK3
+descr:              ZeroAE's GRE Tunnels
+country:            US
+admin-c:            SODRE-DN42
+tech-c:             SODRE-DN42
+mnt-by:             SODRE-MNT
+status:             ASSIGNED
+cidr:               172.20.54.48/29
+source:             DN42

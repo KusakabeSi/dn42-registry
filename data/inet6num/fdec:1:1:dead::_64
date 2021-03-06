@@ -1,0 +1,8 @@
+inet6num:           fdec:0001:0001:dead:0000:0000:0000:0000 - fdec:0001:0001:dead:ffff:ffff:ffff:ffff
+netname:            NET2-WUNIX-IP6-DN42
+admin-c:            WUNIX-DN42
+tech-c:             WUNIX-DN42
+mnt-by:             WUNIX-MNT
+status:             ASSIGNED
+cidr:               fdec:1:1:dead::/64
+source:             DN42

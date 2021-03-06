@@ -1,0 +1,10 @@
+inet6num:           fdd9:cecf:b296:0000:0000:0000:0000:0000 - fdd9:cecf:b296:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd9:cecf:b296::/48
+netname:            BLEEN-NETWORK
+descr:              Network of Bleen's LAB
+country:            IT
+admin-c:            BLEEN-DN42
+tech-c:             BLEEN-DN42
+mnt-by:             BLEEN-MNT
+status:             ASSIGNED
+source:             DN42

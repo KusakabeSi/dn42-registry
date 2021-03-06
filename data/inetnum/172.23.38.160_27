@@ -1,0 +1,15 @@
+inetnum:            172.23.38.160 - 172.23.38.191
+netname:            SIS-DN42-INET4-LAB1
+descr:              laboratory network
+remarks:            please consider the following:
+remarks:            - this network is not always online
+remarks:            - might also be used for demonstration purposes on events or in public
+remarks:            - clients are assigned by dhcp
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               172.23.38.160/27
+nserver:            lab1.sis.dn42
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.6.192/27
+origin:             AS4242420756
+mnt-by:             LEMELISK-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             MOE-MNT
+admin-c:            YURA-DN42
+tech-c:             YURA-DN42
+mnt-by:             MOE-MNT
+auth:               PGPKEY-951918BE
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCuURjJuhdEuwLtyRR2CcZ+kl52a9qVbZmoDTJJXqrmI5ThVoSxvKQjzvoPu//yO0ueoEGW0yjv7PEsImkWcWRefJxRbRcAPBJMPQesC/NcecHEvw9jppsbwAqClTndfZP/SLKVQHnAcJIcFkTVR+OL30w4TBGdCEfn9TB79HwMRPyyLnJtnQGsJouVZ4eVp4NZIVE038nekp1Q642oQOmZ9uH+lp28/0J+t+72kPuVA3XN2dbgxfqBSBddPwHC3qLwQIbUtpdOQsWzQG119t3b1curpjbqxGdzNVTrDZRsNZh/RqchbksyzAq8ZUJGGjr15mXTlcs9tO+nlaot9lDWjZ1jkb2WFmAEwxjGcgmQ8ub5kQ9H+Mzs+1/ErkSgX6WBKvjzDa9EoSRicnxRrNqTmRQkTdO4xghlCA/yDE9wSyNqybdIiNK18nHDatpiSEn7N/lqXvijT7u3RqZ6mi8/dQq1gDZrSyQgcAfGjYC+pfAgxgJk7ytbcCT1ZLLiP0E=
+source:             DN42

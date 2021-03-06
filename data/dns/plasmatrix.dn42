@@ -1,0 +1,7 @@
+domain:             plasmatrix.dn42
+descr:              Domain used on PLASMATRIX-AS
+admin-c:            PLASMA-DN42
+tech-c:             PLASMA-DN42
+mnt-by:             PLASMATRIX-MNT
+nserver:            ns1.plasmatrix.dn42 172.22.181.196
+source:             DN42

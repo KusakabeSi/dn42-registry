@@ -1,0 +1,4 @@
+route:              172.20.131.88/29
+origin:             AS4242423692
+mnt-by:             TOINUX-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:dead:d00d::/48
+origin:             AS4242422727
+mnt-by:             WALLE256-MNT
+source:             DN42

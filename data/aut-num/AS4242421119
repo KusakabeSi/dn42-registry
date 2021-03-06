@@ -1,0 +1,7 @@
+aut-num:            AS4242421119
+as-name:            TBSO-AS
+descr:              tbso AS
+admin-c:            TBSO-DN42
+tech-c:             TBSO-DN42
+mnt-by:             TBSO-MNT
+source:             DN42

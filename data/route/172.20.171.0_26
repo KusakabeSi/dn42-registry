@@ -1,0 +1,4 @@
+route:              172.20.171.0/26
+origin:             AS4242420125
+mnt-by:             COSMIC-MNT
+source:             DN42

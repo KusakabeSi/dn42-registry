@@ -1,0 +1,8 @@
+inetnum:            172.20.162.16 - 172.20.162.23
+cidr:               172.20.162.16/29
+netname:            DEPACH-NETWORK
+admin-c:            DEPACH-DN42
+tech-c:             DEPACH-DN42
+mnt-by:             DEPACH-MNT
+status:             ASSIGNED
+source:             DN42

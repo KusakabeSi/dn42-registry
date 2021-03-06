@@ -1,0 +1,12 @@
+inetnum:            172.20.201.0 - 172.20.201.255
+netname:            DONDON-DN42-V4
+descr:              DONDON's network
+country:            DE
+admin-c:            DONDON-DN42
+tech-c:             DONDON-DN42
+mnt-by:             DONDON-MNT
+status:             ASSIGNED
+nserver:            primary.dondon.dn42
+nserver:            secondary.dondon.dn42
+cidr:               172.20.201.0/24
+source:             DN42

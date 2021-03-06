@@ -1,0 +1,4 @@
+route6:             fd46:e3dc:db4a::/48
+origin:             AS4242421037
+mnt-by:             LIBREHS-MNT
+source:             DN42

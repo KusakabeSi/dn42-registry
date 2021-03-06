@@ -1,0 +1,10 @@
+inetnum:            172.20.254.0 - 172.20.254.255
+netname:            NET-JAWUG
+descr:              JAWUG
+country:            ZA
+admin-c:            ANDRECOETZEE-DN42
+tech-c:             ANDRECOETZEE-DN42
+mnt-by:             SILVER-MNT
+status:             ASSIGNED
+cidr:               172.20.254.0/24
+source:             DN42

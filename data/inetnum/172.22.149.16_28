@@ -1,0 +1,11 @@
+inetnum:            172.22.149.16 - 172.22.149.31
+netname:            BULLYCAMPER-NET
+descr:              so halt
+country:            DE
+admin-c:            BULLYCAMPER-DN42
+tech-c:             BULLYCAMPER-DN42
+mnt-by:             BULLYCAMPER-MNT
+nserver:            ns1.bullycamper.dn42
+status:             ASSIGNED
+cidr:               172.22.149.16/28
+source:             DN42

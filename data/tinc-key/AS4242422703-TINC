@@ -1,0 +1,22 @@
+tinc-key:           AS4242422703-TINC
+tinc-host:          AS4242422703
+compression:        11
+mnt-by:             STEVE81-MNT
+admin-c:            STEVE81-DN42
+subnet:             172.23.3.15/32
+tinc-address:       2.225.239.86
+port:               23117
+tinc-file:          
+                    Subnet = 172.23.3.15/32
+                    Address = 2.225.239.86
+                    Compression = 11
+                    Port = 23117
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAulMWBcvcsjXdBi7/YjrFC+KmZVs1YNzFdQY+0cEE4KkwYdTFJegH
+                    w8YOmuJ+kLYcU7TIjYtBoz6xBD/OrlcatdAyjKzhJBUOAMITj4b80SzGoWT4I5HG
+                    K8SlrS9OKHIYdb5rSajs22SV4LDjYpxWrbgH3IgjqXhFGLX6mCLhRi+kFDIcUD2Q
+                    I/M9nDTlTMi/BaY/SZDTL5yqTv/54psiLn382VfPq+C2BjxeLNmKUp8c5XHffFYk
+                    lyU9PjaIZqQ8csgrcL/XEBcs5Wz7kLnapLodJwS3/9GrH+OR3uk6ceWo5B/j1eic
+                    K8HD1c+ieJxHUkPiQS6rIi6q1Pv9agdPEQIDAQAB
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

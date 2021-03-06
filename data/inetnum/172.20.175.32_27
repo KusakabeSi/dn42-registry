@@ -1,0 +1,8 @@
+inetnum:            172.20.175.32 - 172.20.175.63
+cidr:               172.20.175.32/27
+netname:            SLNX-NETWORK
+admin-c:            SLNX-DN42
+tech-c:             SLNX-DN42
+mnt-by:             SLNX-MNT
+status:             ASSIGNED
+source:             DN42

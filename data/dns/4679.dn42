@@ -1,0 +1,9 @@
+domain:             4679.dn42
+admin-c:            GFA-DN42
+tech-c:             GFA-DN42
+mnt-by:             GFA-MNT
+nserver:            ns1.4679.dn42 172.21.68.13
+nserver:            ns1.4679.dn42 fdc5:30f7:af0a:53::1
+nserver:            ns2.4679.dn42 172.20.68.23
+nserver:            ns2.4679.dn42 fdc5:30f7:af0a:5353::1
+source:             DN42

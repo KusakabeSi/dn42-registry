@@ -1,0 +1,9 @@
+domain:             netclipse.dn42
+descr:              netclipse.dn42
+admin-c:            NETCLIPSE-DN42
+tech-c:             NETCLIPSE-DN42
+mnt-by:             NETCLIPSE-MNT
+nserver:            ns1.netclipse.dn42 172.20.234.233
+nserver:            ns2.netclipse.dn42 172.20.234.234
+nserver:            ns3.netclipse.dn42 172.20.234.235
+source:             DN42

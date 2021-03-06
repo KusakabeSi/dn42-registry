@@ -1,0 +1,11 @@
+inet6num:           fd81:2009:2009:0000:0000:0000:0000:0000 - fd81:2009:2009:ffff:ffff:ffff:ffff:ffff
+netname:            TRUNET-NETWORK
+descr:              Trunet Home Network
+country:            NL
+admin-c:            TRUNET-DN42
+tech-c:             TRUNET-DN42
+mnt-by:             TRUNET-MNT
+nserver:            ns1.trunet.dn42
+status:             ASSIGNED
+cidr:               fd81:2009:2009::/48
+source:             DN42

@@ -1,0 +1,8 @@
+aut-num:            AS4242423992
+as-name:            NETSEC-AS
+descr:              NETSEC AS
+org:                ORG-NETSEC
+admin-c:            RAMRUNNER-DN42
+tech-c:             RAMRUNNER-DN42
+mnt-by:             NETSEC-MNT
+source:             DN42

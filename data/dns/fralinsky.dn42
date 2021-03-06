@@ -1,0 +1,9 @@
+domain:             fralinsky.dn42
+descr:              fralinsky.dn42
+admin-c:            FRALINSKY-DN42
+tech-c:             FRALINSKY-DN42
+mnt-by:             FRALINSKY-MNT
+nserver:            ns.fralinsky.dn42 172.20.44.1
+nserver:            ns.fralinsky.dn42 fdd3:8430:5ba1:1::1
+ds-rdata:           36359 8 2 0A14D154042A561E8B45FDE5D7300B0EDDE01667451E8F5C61490ECED8B3B355
+source:             DN42

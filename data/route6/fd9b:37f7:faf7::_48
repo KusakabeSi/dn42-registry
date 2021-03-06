@@ -1,0 +1,5 @@
+route6:             fd9b:37f7:faf7::/48
+origin:             AS4242423012
+max-length:         48
+mnt-by:             NEX-MNT
+source:             DN42

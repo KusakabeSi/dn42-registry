@@ -1,0 +1,5 @@
+route:              172.22.189.96/29
+origin:             AS209557
+origin:             AS4242421214
+mnt-by:             YI-MNT
+source:             DN42

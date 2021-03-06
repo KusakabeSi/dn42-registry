@@ -1,0 +1,14 @@
+aut-num:            AS4242420812
+as-name:            JAN-AS
+remarks:            +---------------------------------------------------+
+remarks:            | For peerings contact me at janeric@ortgies.it     |
+remarks:            | or via IRC janeric@hackint                        |
+remarks:            +---------------------------------------------------+
+remarks:            | Server    |  Location                             |
+remarks:            | de-fra1   |  Frankfurt, Germany (DigitalOcean)    |
+remarks:            | uk-ldn1   |  London, UK (ServersNV)               |
+remarks:            +---------------------------------------------------+
+admin-c:            JAN-DN42
+tech-c:             JAN-DN42
+mnt-by:             JAN-MNT
+source:             DN42

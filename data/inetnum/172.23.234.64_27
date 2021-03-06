@@ -1,0 +1,9 @@
+inetnum:            172.23.234.64 - 172.23.234.95
+netname:            SPIN-NETWORK
+country:            ZA
+admin-c:            SPIN-DN42
+tech-c:             SPIN-DN42
+mnt-by:             SPIN-MNT
+status:             ASSIGNED
+cidr:               172.23.234.64/27
+source:             DN42

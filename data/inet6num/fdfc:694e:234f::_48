@@ -1,0 +1,9 @@
+inet6num:           fdfc:694e:234f:0000:0000:0000:0000:0000 - fdfc:694e:234f:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfc:694e:234f::/48
+netname:            DOXZ-NETWORK-1
+admin-c:            DOXZ-DN42
+tech-c:             DOXZ-DN42
+mnt-by:             DOXZ-MNT
+status:             ASSIGNED
+nserver:            ns1.doxz.dn42
+source:             DN42

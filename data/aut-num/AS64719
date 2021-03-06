@@ -1,0 +1,9 @@
+aut-num:            AS64719
+as-name:            LUTOMA-AS
+remarks:            Open peering policy, contact details in LUTOMA-DN42.
+remarks:            Preferrably Wireguard, OpenVPN or GRE also works.
+descr:              lutoma
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             TIGER-MNT
+admin-c:            TIGER-DN42
+tech-c:             TIGER-DN42
+mnt-by:             TIGER-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDvWFpBW5H4RjdalXh4b5DgYTmZJAMnVXIODT94AT+tmrw91XT0M+LFF9MysXtGdD9jC+dzdQJHL5br/99zueKFZqk5tAl5e1YowlafuOSj4hTy5B7piCw1W12wLW7M6bLes4vINWOjxWHQnx61moUcs58VTh+09hKAt7G78KEVvD2g7Pbcj/ex63JG1PiudHtvR/C/NnemKOin5tivmVKD+XJ8z1RbQ0DQeWSN+xZNnWItPAeeviwMWsOxoevig4jDhKjD1zGJKcpz2cdExjh+A67GY9K5//ihnNGnBT2UkYcgOUjQqFHuwcLGFd+EsBZQGGg52qMqMkZ8YFkBF8lydzNXhL1BXe4ej7aoe4WvSssaLSMMRXPL6wgNrSITVr4S3gQiTEAHM/lnAYHmVkimxr97Ikpy08S8i2X1bCUsiyi2+3nSA9718zrj48hPDq2ekBSzUnTJ++9TuocPxQKOo8C8aHoEZqLUUTo1nV8dS/EqEvR4UyrEI1EVa5+tGKyxd9fwqctWmBuewDHHPJW4vtQEcd6vbfNfcdvAXcqL9rI/OZZ7YND9rlDqvUMA584lId+iExNXzOCQuWRry2X3zax2zt3dpncW+m/3yKeJQIUpA38F9acQwZrJRLK+QYS9tMtAupVqAcu9e+IuFH2DDk4wqfIY/wEf1wQao+v70w== TigerHuang
+auth:               pgp-fingerprint 6316F8E3229DA742BFE40B4A1D4AA56467F305BD
+source:             DN42

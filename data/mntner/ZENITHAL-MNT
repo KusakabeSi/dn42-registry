@@ -1,0 +1,6 @@
+mntner:             ZENITHAL-MNT
+admin-c:            ZENITHAL-DN42
+tech-c:             ZENITHAL-DN42
+mnt-by:             ZENITHAL-MNT
+source:             DN42
+auth:               pgp-fingerprint 9424DF6A677958023ACA3A6323470D4FD461AA84

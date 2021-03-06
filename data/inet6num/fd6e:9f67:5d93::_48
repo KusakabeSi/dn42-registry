@@ -1,0 +1,11 @@
+inet6num:           fd6e:9f67:5d93:0000:0000:0000:0000:0000 - fd6e:9f67:5d93:ffff:ffff:ffff:ffff:ffff
+netname:            NET-KOOCHDOG-001
+country:            US
+admin-c:            JEFFKUCHTA-DN42
+tech-c:             JEFFKUCHTA-DN42
+mnt-by:             KOOCHDOG-MNT
+nserver:            ns1.koochdog.dn42
+nserver:            ns2.koochdog.dn42
+status:             ASSIGNED
+cidr:               fd6e:9f67:5d93::/48
+source:             DN42

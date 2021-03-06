@@ -1,0 +1,4 @@
+route:              172.23.73.64/26
+origin:             AS4242421220
+mnt-by:             LITSCHI-MNT
+source:             DN42

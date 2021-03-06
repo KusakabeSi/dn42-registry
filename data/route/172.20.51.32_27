@@ -1,0 +1,4 @@
+route:              172.20.51.32/27
+origin:             AS4242421369
+mnt-by:             WHOABRAH-MNT
+source:             DN42

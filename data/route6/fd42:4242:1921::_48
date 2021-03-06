@@ -1,0 +1,4 @@
+route6:             fd42:4242:1921::/48
+origin:             AS4242421921
+mnt-by:             ANDATCHE-MNT
+source:             DN42

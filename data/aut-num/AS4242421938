@@ -1,0 +1,7 @@
+aut-num:            AS4242421938
+as-name:            BABBLE-AS
+descr:              Babble AS
+admin-c:            BABBLE-DN42
+tech-c:             BABBLE-DN42
+mnt-by:             BABBLE-MNT
+source:             DN42

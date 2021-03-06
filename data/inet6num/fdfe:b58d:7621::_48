@@ -1,0 +1,8 @@
+inet6num:           fdfe:b58d:7621:0000:0000:0000:0000:0000 - fdfe:b58d:7621:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfe:b58d:7621::/48
+netname:            TSX-HOME-NET
+admin-c:            TSX-DN42
+tech-c:             TSX-DN42
+mnt-by:             TSX-MNT
+status:             ASSIGNED
+source:             DN42

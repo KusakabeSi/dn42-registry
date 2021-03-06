@@ -1,0 +1,5 @@
+route:              172.20.194.64/27
+descr:              GXA-RTE
+origin:             AS4242423602
+mnt-by:             GXA-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fdbb:baba:2222:0000:0000:0000:0000:0000 - fdbb:baba:2222:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbb:baba:2222::/48
+netname:            BESTFENG-IPV6
+admin-c:            BESTFENG-DN42
+tech-c:             BESTFENG-DN42
+mnt-by:             BESTFENG-MNT
+status:             ASSIGNED
+source:             DN42

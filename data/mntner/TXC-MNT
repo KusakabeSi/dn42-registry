@@ -1,0 +1,10 @@
+mntner:             TXC-MNT
+descr:              TXC-MNT
+admin-c:            TXC-DN42
+tech-c:             TXC-DN42
+mnt-by:             TXC-MNT
+auth:               pgp-fingerprint A2C201CCC9D08D195454FE56F19F3AA368016FEE
+auth:               pgp-fingerprint 5F3BC6179E21DED88CE70756616B0355590F160A
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICkg/2Dl1dlyAmqiZ5rbTjFVUB69wF2xj//V93jLawgL
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2lsBLvwklXNIsLD9FRKoi0rufXygBc7bI6FCS5lR/rO4BWEVT5kfXNSkB6abcYDEaQ39rmfAuQRmRBH6+zXFmfHj9yzxI4xKrH6yDqcmGHEEj/L/hNWKwyOZV+agu/2ATfHoig5XxAH8bA+5xr56PdimXyLYFMhpqIT8/TMV7i4dUrhCAnQ+5viuFlG9eotMhEQGwe9+VrgTqXnwDjIKg0+orkxEzCTWy/0oYMf/AUjFlZ6ZgoBzb0L5WlL2tSVk5j7CwF2ZJl3BbXNADuoplr14XUqjpHGGmDeISTqnsp8qEObEq+xB+HhYYgWmxXOpRwJHVoRGvgzSKL7G4YsjlelUHhJc37wKz4APpIJMv40sjQ2gEK/yUTOyRJMKr/Cnq4FLeQ8p19dT87LBtsgxGdCMyTrLYFfgOaIdqXW7yYr5PcCJMQQaGZT/iYoKlF3DCO8GKqfJG5rmATLKZ+ep9eTFIUrlIFjxKMZ9R+nxPr1fFKG+9TnyTawkPGwS4cuS2Jc+dOV1aSUFHTtL1gtffXQg0TXs2F3zO6oCjIvDiUmr+9yibz47VPl5Hzb9kRyA9sbStB3h+ew2TPuRVE/bEdB24NtS//NRzF6EofZo5wHyCETaPijXfpPS5dhtnXhqQnAWds8OH/AZVIJOlHun0K9tM11dB/GQWsSgU/zEAXQ==
+source:             DN42

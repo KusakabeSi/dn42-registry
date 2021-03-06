@@ -1,0 +1,9 @@
+inetnum:            172.22.255.128 - 172.22.255.143
+netname:            HAUKE-TRANSFER
+descr:              Hauke's Transfer Networks
+admin-c:            HAUKE-DN42
+tech-c:             HAUKE-DN42
+mnt-by:             HAUKE-MNT
+status:             ASSIGNED
+cidr:               172.22.255.128/28
+source:             DN42

@@ -1,0 +1,8 @@
+route:              10.127.8.192/26
+max-length:         29
+origin:             AS4201270006
+admin-c:            JERRYXIAO-NEONETWORK
+tech-c:             JERRYXIAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

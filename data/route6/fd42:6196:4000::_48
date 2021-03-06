@@ -1,0 +1,5 @@
+route6:             fd42:6196:4000::/48
+origin:             AS4242422255
+max-length:         48
+mnt-by:             LINUXGEMINI-MNT
+source:             DN42

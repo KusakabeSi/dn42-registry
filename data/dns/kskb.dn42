@@ -1,0 +1,9 @@
+domain:             kskb.dn42
+admin-c:            KSKB-DN42
+tech-c:             KSKB-DN42
+mnt-by:             KSKB-MNT
+nserver:            ns1.kskb.dn42 172.22.77.34
+nserver:            ns1.kskb.dn42 fd28:cb8f:4c92::34
+nserver:            ns2.kskb.dn42 172.22.77.33
+nserver:            ns2.kskb.dn42 fd28:cb8f:4c92::33
+source:             DN42

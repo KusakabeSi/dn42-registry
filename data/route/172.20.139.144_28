@@ -1,0 +1,4 @@
+route:              172.20.139.144/28
+origin:             AS4242423403
+mnt-by:             SLSASCHA-MNT
+source:             DN42

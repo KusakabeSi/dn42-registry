@@ -1,0 +1,9 @@
+aut-num:            AS4242420255
+as-name:            SHACK-AS
+descr:              shackspace - Hackerspace in Stuttgart, Germany
+mnt-by:             SHACK-MNT
+mnt-by:             4A6F-MNT
+admin-c:            ORG-SHACK-ADMIN-DN42
+tech-c:             ORG-SHACK-TECH-DN42
+org:                ORG-SHACK
+source:             DN42

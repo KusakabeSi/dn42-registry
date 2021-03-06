@@ -1,0 +1,7 @@
+domain:             alcatrash.dn42
+descr:              MichaelTrip DNS - Alcatrash
+admin-c:            MTR-DN42
+tech-c:             MTR-DN42
+mnt-by:             MTR-MNT
+nserver:            ns1.nl.alcatrash.dn42 172.22.189.2
+source:             DN42

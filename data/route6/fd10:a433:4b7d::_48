@@ -1,0 +1,5 @@
+route6:             fd10:a433:4b7d::/48
+descr:              LSS233-NEKO6
+origin:             AS4242421826
+mnt-by:             LSS233-MNT
+source:             DN42

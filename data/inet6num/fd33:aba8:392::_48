@@ -1,0 +1,10 @@
+inet6num:           fd33:aba8:0392:0000:0000:0000:0000:0000 - fd33:aba8:0392:ffff:ffff:ffff:ffff:ffff
+netname:            MARLINC-DN42
+descr:              Marlinc
+admin-c:            MARLINC-DN42
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+nserver:            ns1.marlinc.dn42
+status:             ALLOCATED
+cidr:               fd33:aba8:392::/48
+source:             DN42

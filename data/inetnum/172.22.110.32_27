@@ -1,0 +1,10 @@
+inetnum:            172.22.110.32 - 172.22.110.63
+netname:            RTXUX-NET-1
+country:            CN
+country:            JP
+admin-c:            RTXUX-DN42
+tech-c:             RTXUX-DN42
+status:             ASSIGNED
+mnt-by:             RTXUX-MNT
+cidr:               172.22.110.32/27
+source:             DN42

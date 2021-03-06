@@ -1,0 +1,5 @@
+route6:             fdb1:8565:c849::/48
+pingable:           fdb1:8565:c849::1
+origin:             AS4242421199
+mnt-by:             TOMKEP-MNT
+source:             DN42

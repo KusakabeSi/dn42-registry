@@ -1,0 +1,10 @@
+inet6num:           fd42:e9ad:e297:0000:0000:0000:0000:0000 - fd42:e9ad:e297:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:e9ad:e297::/48
+netname:            BRO-NET
+descr:              Network for my bros
+country:            US
+admin-c:            WHOABRAH-DN42
+tech-c:             WHOABRAH-DN42
+mnt-by:             WHOABRAH-MNT
+status:             ASSIGNED
+source:             DN42

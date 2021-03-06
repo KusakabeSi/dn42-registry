@@ -1,0 +1,10 @@
+inet6num:           fd42:daba:00de:daba:00da:0000:0000:0000 - fd42:daba:00de:daba:00da:ffff:ffff:ffff
+netname:            PHAUX-UNO-DN42-NET6
+descr:              Phaux.uno DN42 IPv6 Space
+country:            US
+admin-c:            PHAUX-DN42
+tech-c:             PHAUX-DN42
+mnt-by:             PHAUX-MNT
+status:             ALLOCATED
+cidr:               fd42:daba:de:daba:da::/80
+source:             DN42

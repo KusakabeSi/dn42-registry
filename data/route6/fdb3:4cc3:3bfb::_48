@@ -1,0 +1,6 @@
+route6:             fdb3:4cc3:3bfb::/48
+origin:             AS4242422225
+admin-c:            MARAUN-DN42
+tech-c:             MARAUN-DN42
+mnt-by:             MARAUN-MNT
+source:             DN42

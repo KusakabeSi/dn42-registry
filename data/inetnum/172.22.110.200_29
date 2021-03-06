@@ -1,0 +1,8 @@
+inetnum:            172.22.110.200 - 172.22.110.207
+cidr:               172.22.110.200/29
+netname:            ALPACA-NETWORK
+admin-c:            ALPACA-DN42
+tech-c:             ALPACA-DN42
+mnt-by:             ALPACA-MNT
+status:             ASSIGNED
+source:             DN42

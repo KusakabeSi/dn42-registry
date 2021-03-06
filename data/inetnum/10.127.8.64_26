@@ -1,0 +1,8 @@
+inetnum:            10.127.8.64 - 10.127.8.127
+cidr:               10.127.8.64/26
+netname:            JerryXiao-School
+admin-c:            JERRYXIAO-NEONETWORK
+tech-c:             JERRYXIAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

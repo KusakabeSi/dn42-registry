@@ -1,0 +1,10 @@
+inetnum:            172.20.163.64 - 172.20.163.95
+netname:            AVI-DN42NET
+descr:              AVI-DN42NETWORK
+country:            IN
+admin-c:            AVI-DN42
+tech-c:             AVI-DN42
+mnt-by:             AVI-MNT
+status:             ASSIGNED
+cidr:               172.20.163.64/27
+source:             DN42

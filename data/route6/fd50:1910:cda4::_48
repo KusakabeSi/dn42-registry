@@ -1,0 +1,5 @@
+route6:             fd50:1910:cda4::/48
+origin:             AS4242420998
+max-length:         48
+mnt-by:             CLARISSA-MNT
+source:             DN42

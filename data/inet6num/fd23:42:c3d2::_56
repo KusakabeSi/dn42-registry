@@ -1,0 +1,14 @@
+inet6num:           fd23:0042:c3d2:0000:0000:0000:0000:0000 - fd23:0042:c3d2:00ff:ffff:ffff:ffff:ffff
+netname:            C3D2-WETU
+country:            DE
+org:                ORG-C3D2
+admin-c:            ASTRO-DN42
+admin-c:            ERI-DN42
+tech-c:             ASTRO-DN42
+tech-c:             ERI-DN42
+mnt-by:             ASTRO-MNT
+mnt-by:             ERI-MNT
+nserver:            ns.c3d2.de
+status:             ASSIGNED
+cidr:               fd23:42:c3d2::/56
+source:             DN42

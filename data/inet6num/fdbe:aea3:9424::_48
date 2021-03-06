@@ -1,0 +1,10 @@
+inet6num:           fdbe:aea3:9424:0000:0000:0000:0000:0000 - fdbe:aea3:9424:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbe:aea3:9424::/48
+netname:            DOT-NET-IPv6
+descr:              Peer with me at atgit@tuta.io
+country:            CN
+admin-c:            DOT-DN42
+tech-c:             DOT-DN42
+mnt-by:             DOT-MNT
+status:             ASSIGNED
+source:             DN42

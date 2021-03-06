@@ -1,0 +1,4 @@
+route:              172.22.110.200/29
+origin:             AS4242422115
+mnt-by:             ALPACA-MNT
+source:             DN42

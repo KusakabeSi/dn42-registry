@@ -1,0 +1,10 @@
+inet6num:           fd78:062f:d291:3f33:0000:0000:0000:0000 - fd78:062f:d291:3f33:ffff:ffff:ffff:ffff
+cidr:               fd78:62f:d291:3f33::/64
+netname:            ITUNALI-NETWORK
+descr:              Network of itunali 
+country:            TR
+admin-c:            ITUNALI-DN42
+tech-c:             ITUNALI-DN42
+mnt-by:             ITUNALI-MNT
+status:             ASSIGNED
+source:             DN42

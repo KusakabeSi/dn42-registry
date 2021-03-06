@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:0815:0000:0000:0000:0000:0000 - fd42:4242:0815:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:815::/48
+netname:            MK-NETWORK
+descr:              Network of mk
+country:            AT
+admin-c:            MK-DN42
+tech-c:             MK-DN42
+mnt-by:             MK-MNT
+status:             ASSIGNED
+source:             DN42

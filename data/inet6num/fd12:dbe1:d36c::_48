@@ -1,0 +1,8 @@
+inet6num:           fd12:dbe1:d36c:0000:0000:0000:0000:0000 - fd12:dbe1:d36c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd12:dbe1:d36c::/48
+netname:            MCBROWN-NET-1
+admin-c:            MCBROWN-DN42
+tech-c:             MCBROWN-DN42
+mnt-by:             MCBROWN-MNT
+status:             ASSIGNED
+source:             DN42

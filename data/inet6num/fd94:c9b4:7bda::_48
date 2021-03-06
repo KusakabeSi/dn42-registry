@@ -1,0 +1,9 @@
+inet6num:           fd94:c9b4:7bda:0000:0000:0000:0000:0000 - fd94:c9b4:7bda:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:c9b4:7bda::/48
+netname:            SIRMYSTERION-NET
+country:            CA
+admin-c:            SIRMYSTERION-DN42
+tech-c:             SIRMYSTERION-DN42
+mnt-by:             SIRMYSTERION-MNT
+status:             ASSIGNED
+source:             DN42

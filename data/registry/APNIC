@@ -1,0 +1,4 @@
+registry:           APNIC
+url:                whois://whois.apnic.net
+mnt-by:             DN42-MNT
+source:             DN42

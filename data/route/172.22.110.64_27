@@ -1,0 +1,4 @@
+route:              172.22.110.64/27
+origin:             AS4242422342
+mnt-by:             FIONERA-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:d447:775c:0000:0000:0000:0000:0000 - fd42:d447:775c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:d447:775c::/48
+netname:            TRVR-NETWORK
+descr:              Network of Trevor
+country:            DE
+admin-c:            TRVR-DN42
+tech-c:             TRVR-DN42
+mnt-by:             TRVR-MNT
+status:             ASSIGNED
+source:             DN42

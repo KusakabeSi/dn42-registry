@@ -1,0 +1,8 @@
+inet6num:           fda1:cb1b:7582:0000:0000:0000:0000:0000 - fda1:cb1b:7582:ffff:ffff:ffff:ffff:ffff
+cidr:               fda1:cb1b:7582::/48
+netname:            TOON-NET
+admin-c:            TOON-DN42
+tech-c:             TOON-DN42
+mnt-by:             TOON-MNT
+status:             ASSIGNED
+source:             DN42

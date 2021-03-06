@@ -1,0 +1,8 @@
+mntner:             JOSENG-MNT
+descr:              joseng
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+auth:               pgp-fingerprint FEEF2CA7869BAC6C3A614372D8244398BA956B66
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3ArO5Gy64ah5b74eO6Fam3qjmmayZSoy3SLYFZuVwZGGx55ACbgzaLWVNtSJZaaEirQAMhEkfoeKvlul0bwpPqd7taUXK6MKR+ArIfzVH+5IFKFBqq7btN12LfAwSdhEk63fzv2jS62sJxrYdi8tGuruayTbYMntk/b31lr5WpWkXDcFkjMKzI4bvmypIvw8ZNx72lkM9IlSD/KqeegJe2ZG2VyedrQixmLO0Wyn9hmB5uQTeMVNA922k41ZOgJZazfsQVRhV9Mkv1Sac3WYUL8F1+zBbAqOMWd2LE8BjqOWpIVbkiifPbapiBi17L44hxuo1OJve/LQkHK5QOY6h
+source:             DN42

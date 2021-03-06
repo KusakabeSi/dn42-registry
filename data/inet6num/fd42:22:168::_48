@@ -1,0 +1,11 @@
+inet6num:           fd42:0022:0168:0000:0000:0000:0000:0000 - fd42:0022:0168:ffff:ffff:ffff:ffff:ffff
+netname:            YANG-IPV6
+cidr:               fd42:22:168::/48
+descr:              YANG IPv6 SUBNET
+country:            SI
+admin-c:            YANG-DN42
+tech-c:             YANG-DN42
+mnt-by:             YANG-MNT
+nserver:            dns1.prunk.si
+status:             ASSIGNED
+source:             DN42

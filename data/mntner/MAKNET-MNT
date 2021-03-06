@@ -1,0 +1,7 @@
+mntner:             MAKNET-MNT
+descr:              Makelarides Network
+admin-c:            MAKNET-DN42
+tech-c:             MAKNET-DN42
+mnt-by:             MAKNET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCkC28skhTuXyWIMvrNQiXBwCJiwTHzrWPAeHbu6TbPuEg7kgv3ahFE6aT6u4+wVRAk2ex83XhyVnVb6zSanQcynshDk8njdO1v/MZcWnGRMW8qmn9rZ5cz/1Yg5wNzgRQtF6p3AmbAkAJStYTHq+MeWxBhRo6JZeibHnEyfsFGyhQpAN3nqGBiNP24nn0sTXHSTAvFWShLQG9+6Zbj6JgIW7jf/AqYa8x3jBLzccwnUZVGVRoQs5IdDMYTmQSAO3N59Hb4he1SxGbwrX9Q4OEWLhRKIcvBpQ5CqxLF+u0tsul5claUrUbraHqHCRW8BOv1xyEisUWG5y5kG4FnyCw7
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0041:0000:0000:0000:0000:0000 - fd10:0127:0041:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:41::/48
+netname:            NiceLabs IX IPv6 Pool
+admin-c:            SEPTS-NEONETWORK
+tech-c:             SEPTS-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

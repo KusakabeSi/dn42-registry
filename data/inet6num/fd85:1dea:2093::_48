@@ -1,0 +1,9 @@
+inet6num:           fd85:1dea:2093:0000:0000:0000:0000:0000 - fd85:1dea:2093:ffff:ffff:ffff:ffff:ffff
+cidr:               fd85:1dea:2093::/48
+netname:            KLARA-NET
+country:            SE
+admin-c:            KLARA-DN42
+tech-c:             KLARA-DN42
+mnt-by:             KLARA-MNT
+status:             ASSIGNED
+source:             DN42

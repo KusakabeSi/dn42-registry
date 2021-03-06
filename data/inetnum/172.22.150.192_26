@@ -1,0 +1,10 @@
+inetnum:            172.22.150.192 - 172.22.150.255
+netname:            ERGONOMICROBOT-NET4
+descr:              Small net for VMs
+country:            BE
+admin-c:            ERGRBT-DN42
+tech-c:             ERGRBT-DN42
+mnt-by:             ERGRBT-MNT
+status:             ASSIGNED
+cidr:               172.22.150.192/26
+source:             DN42

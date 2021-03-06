@@ -1,0 +1,9 @@
+mntner:             ANUBIOZ-MNT
+descr:              Anubioz Maintenance Object
+admin-c:            ANUBIOZ-DN42
+tech-c:             ANUBIOZ-DN42
+mnt-by:             ANUBIOZ-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAgEAnqDhZ18dnXyePshbHsq+pik9yfoqjL7BPBtH0PKlAQbozFFp+oDJ9vBUHiVtFRqr/skxvGrSxy+5s5vlYy+sIYv1zoKoGtF2Kx5SSQeBMLgOYAGR68bFrqx02FNw4k3bpyfWP9wf++RY/zkvjQ1p8ngxVfpRPaVwUHsDzHYUKKQq9z9gtqTIXzH1auoErnYPKxwlZWs6AY+VTmCdL20Fsz63gBamH61ezbNG12kbsSJi/FaU0sENmkJH84VpNp4GrkMvmCsBtxzEV2SwNZ54mwB0HCF1VB94t2ModXDWc8Ufuz7/zygcRlpMS0hH9b2gzCikHicP5T9I7qC97deU9rWy/GeDKnGx7bjO6BvMa4QgTWi5a5q+cZ6k+uCuvxV4dRcXQBkXVoEpAjURty/BMVkxS49F2721GuYo0FafGP8yKVNebs8orMVzmvDaMrjwzbVCqGTwg7TboHIw0cqtW5TgKGWj7I0RV/7oh9zHX1sLQ/Pv4ZR3x61A+a7cevuVGfkBDVtUyogiBRYzle0pR1mGpz2Z5oBnMZ18abYBjYm38+t+pGVrznaB0dfeBO0C6MYQ9RgXaS0fiHxaclOZ6hVIRC0EqSwR3Iy7UHDv70bcAMv3IU8MgWgezOcKtUnap2KU3RNjdW/jAxvFbHVHIWfb1wgRMlgeHNGsWBHNGvE= key1
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCzwNYS3pWLKrFL/NCndMj9GaTs8oOihwc7mJkspZaF6HZEZBfAFt5Zf10VNh0UIEALdhvJxG8RU6YXwGs9QdoI26FFtUVAfS9dWpghiCVxyINgw77zxgfWPzpshL5KtS7RKfBnf6CpEjrSmeF+8H2ALOhc4CxogdpOmX2qWUipQNRd38QLFvi68wgiBA+692ZUCVvIc9dnWuU1FDhAn3uQ+X7P+XUo/+QrldXWa9C+zZ9+xSu2lqKjrLclLSCRSwOVPqEjEIDNJwYE7a/xifzuhyTF92NTc5quib9rhuzvh04o46qkgOEHp9gNxVaCguxoZdlmINzD8S+LREbF4PtLtFxA6nd3PGeFiTeySxP066RTxtfNCCSsDKODOb/4v/nK/cg42nEjaJkjzzvNMQ1izA8pwnZHG4Jd1MvFEZyf6bWdubmanS9Tmv41MOPl3CP9/VvPJZzWxjxRdwESqjjBwkdYvXMgsUo0MoklcFG8zBHuDHWsnmyfnCBmeXQiJT6D54UaUoXdryLiwP479yQITTScAroXeD1DPqkmnnTblUGpNzOZv5mH4KbxJZ2kBfwJQXmfJlzYSf8Vu5wEn58Z8T/VglKrGLNvrLyn5TvNOeoJ6ObJ0WsHCrC4ktaNlEVdtUAxudVvoTedZfOy45ETMD5AR1shhgJ7Wr8O3tTcZw== key2
+auth:               pgp-fingerprint 2F928EDE033B9E8F74DF8F75FF1F68FE6E68D76B
+source:             DN42

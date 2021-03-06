@@ -1,0 +1,10 @@
+inet6num:           fdb2:48f2:8ac5:0000:0000:0000:0000:0000 - fdb2:48f2:8ac5:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb2:48f2:8ac5::/48
+netname:            DUMERGURH-NETWORK
+descr:              Network of DUMERGURH
+country:            DE
+admin-c:            DUMERGURH-DN42
+tech-c:             DUMERGURH-DN42
+mnt-by:             DUMERGURH-MNT
+status:             ASSIGNED
+source:             DN42

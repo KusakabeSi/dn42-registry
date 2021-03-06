@@ -1,0 +1,7 @@
+inetnum:            10.216.0.0 - 10.216.255.255
+cidr:               10.216.0.0/16
+netname:            ICVPN-LUENEN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: luenen
+mnt-by:             DN42-MNT
+source:             ICVPN

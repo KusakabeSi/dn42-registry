@@ -1,0 +1,6 @@
+mntner:             DUMMY-MNT
+descr:              Dummy maintainter object
+admin-c:            DUMMY-DN42
+tech-c:             DUMMY-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

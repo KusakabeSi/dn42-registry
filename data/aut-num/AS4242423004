@@ -1,0 +1,7 @@
+aut-num:            AS4242423004
+as-name:            GIN42-PEER2
+descr:              GIN42-PEER2 (vServer)
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+source:             DN42

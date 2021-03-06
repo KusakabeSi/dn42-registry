@@ -1,0 +1,5 @@
+route6:             fdad:850e:9f6a:9cb3::/64
+descr:              Locodog-IPv6-Route
+origin:             AS4242420190
+mnt-by:             LDG1-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.23.138.0 - 172.23.139.255
+netname:            NAZCO-DN42-v4
+descr:              nazco's network
+country:            DE
+admin-c:            NAZCO-DN42
+tech-c:             NAZCO-DN42
+mnt-by:             NAZCO-MNT
+nserver:            ns1.nazco.dn42
+status:             ASSIGNED
+cidr:               172.23.138.0/23
+source:             DN42

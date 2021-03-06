@@ -1,0 +1,17 @@
+tinc-key:           DODGER78-TINC
+tinc-host:          dodger78
+tinc-file:          
+                    Address=dsserver.homelinux.org
+                    Port=657
+                    Subnet = fd04:de02:7af9:0000:dead:0000:fca0:1/128
+                    Compression = 11
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAwrug6RoT6FFfXt8PMbJ+V+KqPYC8lJp0MAnj71J6nPJ+jhYgkrZ+
+                    bXHMQo1XbqLi2eKV1nASrZijFgUdiRcNU2GSG9EYnu1a2hau9Sr96j3xdAw41gym
+                    kiRCIAVvKKpMt7nCDtr67CrZ4bzkqXnrzoovxc73X9BZY0UND0xijwVqDaiuP8Oq
+                    HsJfCqxK8+0Va/VBIGYe2mJU2sOzF0xehWi0TNoXwAE8fWg5/6FZtFZ08DCq1x7P
+                    Stos+m7zfQWEJ6rHSq1Ut93jBlKlzwBle5qEmvH/whJ5cZC18LWPA6NynF0Ioel+
+                    8GFqt0vRQcyd/kDUz0uEnDcESUGTNswsRwIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

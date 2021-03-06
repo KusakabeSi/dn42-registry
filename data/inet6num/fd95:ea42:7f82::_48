@@ -1,0 +1,11 @@
+inet6num:           fd95:ea42:7f82:0000:0000:0000:0000:0000 - fd95:ea42:7f82:ffff:ffff:ffff:ffff:ffff
+cidr:               fd95:ea42:7f82::/48
+netname:            BITBAKERS-V6
+admin-c:            JASTRUP-DN42
+tech-c:             JASTRUP-DN42
+nserver:            ns1.bit.dn42
+nserver:            ns2.bit.dn42
+mnt-by:             BITBAKERS-MNT
+org:                ORG-BITBAKERS
+status:             ASSIGNED
+source:             DN42

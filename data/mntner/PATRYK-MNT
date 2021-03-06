@@ -1,0 +1,8 @@
+mntner:             PATRYK-MNT
+admin-c:            PATRYK-DN42
+tech-c:             PATRYK-DN42
+mnt-by:             PATRYK-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQfoHHXdWIAJz4lNlwoX8S7uA/+waSbj15eiJmozqNfbDZrKcUGMfLiNmQb2ANKrgPAdFTuJQG5oF+JGrYbvT25hr7/dnSHZJ3coEs2L8DUyesMk9RsmyryJFAfIsSwuAFdzW3nI/D5bnNVOEbqqUDK+tS/zdRCnbDvGgn42LB3OY/zTRmno8b2WgLy6dlym4p5Obj7wAONzWX75wmunueIv6TW6k2dV5EXeHcn9mTOag8eFZp9F9xwBalTrzJBO9bXVmQ6QvLyo4CaBaasp9cOFYG0/WIokd8d/b5yuOr14oK7YqyJDhqxYfIz1/VF8UjlJ2uS0W8w76iOPS4yT6N
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEb2Onpd5K6Rm8zesp2oilqxV9L0DzanXHXklpbjtZ7u
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM9fJ1fZxX2EdVcl3S0GMLeSSwnzO5FMaMSOW3COszia
+source:             DN42

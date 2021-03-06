@@ -1,0 +1,7 @@
+aut-num:            AS4242422713
+as-name:            ENP2S0-AS
+descr:              enp2s0 AS
+admin-c:            ENP2S0-DN42
+tech-c:             ENP2S0-DN42
+mnt-by:             ENP2S0-MNT
+source:             DN42

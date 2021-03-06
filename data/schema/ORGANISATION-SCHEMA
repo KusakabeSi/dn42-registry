@@ -1,0 +1,22 @@
+schema:             ORGANISATION-SCHEMA
+ref:                dn42.organisation
+key:                organisation   required  single    primary schema
+key:                org-name       required  single
+key:                descr          optional  single
+key:                admin-c        optional  multiple  lookup=dn42.person,dn42.role
+key:                tech-c         optional  multiple  lookup=dn42.person,dn42.role
+key:                abuse-c        optional  multiple  lookup=dn42.person,dn42.role
+key:                mnt-by         required  multiple  lookup=dn42.mntner
+key:                mnt-ref        optional  multiple  lookup=dn42.mntner
+key:                phone          optional  multiple
+key:                fax-no         optional  multiple
+key:                www            optional  multiple
+key:                abuse-mailbox  optional  multiple
+key:                e-mail         optional  multiple
+key:                geoloc         optional  multiple
+key:                language       optional  multiple
+key:                remarks        optional  multiple
+key:                address        optional  multiple
+key:                source         required  single    lookup=dn42.registry
+mnt-by:             DN42-MNT
+source:             DN42

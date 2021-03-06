@@ -1,0 +1,7 @@
+domain:             gyhu.dn42
+admin-c:            F4ZER-DN42
+tech-c:             F4ZER-DN42
+mnt-by:             F4ZER-MNT
+nserver:            dns.gyhu.dn42 172.22.104.20
+nserver:            dns.gyhu.dn42 fd8e:898d:caa3::10
+source:             DN42

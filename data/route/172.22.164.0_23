@@ -1,0 +1,5 @@
+route:              172.22.164.0/23
+descr:              e-utp.net's dn42 network
+origin:             AS56662
+mnt-by:             DRIXTER-MNT
+source:             DN42

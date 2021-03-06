@@ -1,0 +1,22 @@
+key-cert:           PGPKEY-E29A8090
+method:             PGP
+fingerpr:           F277 C312 A4CC 9C1D 0606 7DBE 2EE0 5395 E29A 8090
+owner:              clerie <dn42@clerie.de>
+certif:             -----BEGIN PGP PUBLIC KEY BLOCK-----
+certif:             
+certif:             mDMEXqgQJxYJKwYBBAHaRw8BAQdAe5QgF4rRTo0uMdVc/c4dO6PrTD1bTHzdndJq
+certif:             ujJJjoi0HmNsZXJpZSAoRE40MikgPGRuNDJAY2xlcmllLmRlPoiQBBMWCAA4FiEE
+certif:             8nfDEqTMnB0GBn2+LuBTleKagJAFAl6oECcCGwMFCwkIBwIGFQoJCAsCBBYCAwEC
+certif:             HgECF4AACgkQLuBTleKagJCdfAD9GwwxNW0RmR5a64a4hUuVk/r+2tRFjT2rzCPC
+certif:             YJy0FbUA/RKvI5Dpn10w7Ouva/5l5wDqC1YiIdTo/QWS07NzEuwPuDgEXqgQJxIK
+certif:             KwYBBAGXVQEFAQEHQJf/gHbOBgA7wo9gwsnbQYm7ByvrqmxnK5CCuPoiNhgcAwEI
+certif:             B4h4BBgWCAAgFiEE8nfDEqTMnB0GBn2+LuBTleKagJAFAl6oECcCGwwACgkQLuBT
+certif:             leKagJCiFAEApY40Jkg+knGcc6i6uBcuAwW2MGrm3E6DSrDS+ByWXMMA/0CXdjf5
+certif:             gvQWsdReGplomGfJm6n824HQs/CaCzlG+IoB
+certif:             =rH2I
+certif:             
+certif:             -----END PGP PUBLIC KEY BLOCK-----
+admin-c:            CLERIE-DN42
+tech-c:             CLERIE-DN42
+mnt-by:             CLERIE-MNT
+source:             DN42

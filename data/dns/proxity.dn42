@@ -1,0 +1,7 @@
+domain:             proxity.dn42
+descr:              proxity nerd crew
+admin-c:            RIPPERFOX-DN42
+tech-c:             RIPPERFOX-DN42
+mnt-by:             RIPPERFOX-MNT
+nserver:            ns1.proxity.dn42 172.22.6.1
+source:             DN42

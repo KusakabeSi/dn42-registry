@@ -1,0 +1,7 @@
+inetnum:            10.103.252.2 - 10.103.252.2
+cidr:               10.103.252.2/32
+netname:            CHAOSVPN-AGORA
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

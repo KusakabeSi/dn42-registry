@@ -1,0 +1,6 @@
+route:              10.46.0.0/18
+origin:             AS64883
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neuwied
+mnt-by:             DN42-MNT
+source:             ICVPN

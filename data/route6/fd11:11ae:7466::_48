@@ -1,0 +1,6 @@
+route6:             fd11:11ae:7466::/48
+origin:             AS65051
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: dresden
+mnt-by:             DN42-MNT
+source:             ICVPN

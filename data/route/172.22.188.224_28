@@ -1,0 +1,4 @@
+route:              172.22.188.224/28
+origin:             AS4242423935
+mnt-by:             NIRVANET-MNT
+source:             DN42

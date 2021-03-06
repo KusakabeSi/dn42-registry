@@ -1,0 +1,5 @@
+route:              172.23.124.0/27
+descr:              TMIT Route
+origin:             AS4242420825
+mnt-by:             TMIT-MNT
+source:             DN42

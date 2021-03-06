@@ -1,0 +1,8 @@
+inetnum:            10.127.131.0 - 10.127.131.255
+cidr:               10.127.131.0/24
+netname:            IX42-LAS-4
+admin-c:            YUKARI-NEONETWORK
+tech-c:             YUKARI-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

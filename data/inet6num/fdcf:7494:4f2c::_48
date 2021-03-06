@@ -1,0 +1,9 @@
+inet6num:           fdcf:7494:4f2c:0000:0000:0000:0000:0000 - fdcf:7494:4f2c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdcf:7494:4f2c::/48
+netname:            NEXUS-IPV6-NET
+country:            DE
+admin-c:            NEXUS-DN42
+tech-c:             NEXUS-DN42
+mnt-by:             NEXUS-MNT
+status:             ASSIGNED
+source:             DN42

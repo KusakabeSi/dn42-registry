@@ -1,0 +1,9 @@
+inet6num:           fd42:d3ca:0000:0000:0000:0000:0000:0000 - fd42:d3ca:0000:ffff:ffff:ffff:ffff:ffff
+netname:            D3NETWORK-1
+country:            CA
+admin-c:            D3MATT-DN42
+tech-c:             D3MATT-DN42
+mnt-by:             D3NETWORK-MNT
+status:             ASSIGNED
+cidr:               fd42:d3ca::/48
+source:             DN42

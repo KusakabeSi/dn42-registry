@@ -1,0 +1,6 @@
+route:              10.57.0.0/16
+origin:             AS65067
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: radevormwald
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,4 @@
+route6:             fda5:2522:729::/48
+origin:             AS4242423917
+mnt-by:             SNOC-MNT
+source:             DN42

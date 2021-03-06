@@ -1,0 +1,4 @@
+route6:             fd00:dead:beef::/48
+origin:             AS4242420629
+mnt-by:             JACOBTHEELDEST-MNT
+source:             DN42

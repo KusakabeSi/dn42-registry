@@ -1,0 +1,8 @@
+mntner:             UNES-MNT
+admin-c:            UNES-DN42
+tech-c:             UNES-DN42
+mnt-by:             UNES-MNT
+auth:               pgp-fingerprint 3D82D0D561780C4999006613CF04AF5A2932AD03
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqmH0OghwMY1IT1I9CWBEsfD04JRuuQIj4p0OU7qx456rKFE7Q4nspC+E7k7b9WzrQ5pxu/YhZ7Hq2oh0SM3c0x64jnT0oRJJf/Plkivz/hsgzg0X++G7mLmVcNh
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqmH0OghwMY1IT1I9CWBEsfD04JRuuQIj4p0OU7qx456rKFE7Q4nspC+E7k7b9WzrQ5pxu/YhZ7Hq2oh0SM3c0x64jnT0oRJJf/Plkivz/hsgzg0X++G7mLmVcNh
+source:             DN42

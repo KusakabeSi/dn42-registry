@@ -1,0 +1,5 @@
+route6:             fd62:172:23:125::/64
+descr:              TYPHON-IPV6 Network (AS4242423852)
+origin:             AS4242423852
+mnt-by:             TYPHON-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.190.64/28
+descr:              Nobody44 Network IPv4
+origin:             AS4242422431
+mnt-by:             NOB-MNT
+source:             DN42

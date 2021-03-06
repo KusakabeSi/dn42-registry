@@ -1,0 +1,4 @@
+route:              172.21.100.96/27
+origin:             AS4242420751
+mnt-by:             DLIT-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             zentralwerk.dn42
+org:                ORG-ZENTRALWERK
+descr:              https://zentralwerk.de/
+nserver:            dns.serv.zentralwerk.dn42 172.20.73.2
+admin-c:            ZW-DN42
+tech-c:             ASTRO-DN42
+mnt-by:             ZW-MNT
+source:             DN42

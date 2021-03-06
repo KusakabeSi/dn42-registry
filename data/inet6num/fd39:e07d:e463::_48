@@ -1,0 +1,9 @@
+inet6num:           fd39:e07d:e463:0000:0000:0000:0000:0000 - fd39:e07d:e463:ffff:ffff:ffff:ffff:ffff
+cidr:               fd39:e07d:e463::/48
+netname:            TRACE-NETWORK
+country:            TW
+admin-c:            TRACE-DN42
+tech-c:             TRACE-DN42
+mnt-by:             TRACE-MNT
+status:             ASSIGNED
+source:             DN42

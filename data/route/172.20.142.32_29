@@ -1,0 +1,4 @@
+route:              172.20.142.32/29
+origin:             AS4242422673
+mnt-by:             CORESTORAGE-MNT
+source:             DN42

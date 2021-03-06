@@ -1,0 +1,6 @@
+mntner:             X84-MNT
+admin-c:            X84-NOC-DN42
+tech-c:             X84-NOC-DN42
+auth:               pgp-fingerprint 9ECBE45496DB2507EBA7AE08D9206F047A84A92C
+mnt-by:             X84-MNT
+source:             DN42

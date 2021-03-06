@@ -1,0 +1,9 @@
+domain:             registry-sync.dn42
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 21d352d211b602ca5cb28cc7367c1bf8836d2a9bb27afb21605e317584fb1f2c
+ds-rdata:           3096 10 2 da79bb80c7f51d847263e3f285dc49d3b42476bea65cbf5d59644c41f69f7145
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

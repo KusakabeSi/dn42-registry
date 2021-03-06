@@ -1,0 +1,12 @@
+inetnum:            172.22.100.0 - 172.22.100.255
+netname:            C3D2-WETU
+country:            DE
+admin-c:            ASTRO-DN42
+admin-c:            ERI-DN42
+tech-c:             ASTRO-DN42
+tech-c:             ERI-DN42
+mnt-by:             ASTRO-MNT
+mnt-by:             ERI-MNT
+status:             ASSIGNED
+cidr:               172.22.100.0/24
+source:             DN42

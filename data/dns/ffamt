@@ -1,0 +1,7 @@
+domain:             ffamt
+nserver:            2.2.202.10.ipv4.registry-sync.dn42
+nserver:            4.2.202.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: altmuehltal
+mnt-by:             DN42-MNT
+source:             ICVPN

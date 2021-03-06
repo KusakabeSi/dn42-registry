@@ -1,0 +1,9 @@
+inet6num:           fd10:0127:0000:0000:0000:0000:0000:0000 - fd10:0127:ffff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127::/32
+netname:            ICVPN-NEONETWORK
+nserver:            53.255.127.10.ipv4.registry-sync.dn42
+nserver:            0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.5.0.0.f.f.f.f.7.2.1.0.0.1.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: neonetwork
+mnt-by:             DN42-MNT
+source:             ICVPN

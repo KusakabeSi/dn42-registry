@@ -1,0 +1,5 @@
+route6:             fd23:42:cda::/48
+descr:              CCCDA-IP6NET2
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+source:             DN42

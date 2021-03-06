@@ -1,0 +1,5 @@
+route6:             fd42:4992:acbd::/48
+descr:              Luclu7's DN42's IPv6 route
+origin:             AS4242423504
+mnt-by:             LUCLU7-MNT
+source:             DN42

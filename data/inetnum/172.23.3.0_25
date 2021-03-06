@@ -1,0 +1,13 @@
+inetnum:            172.23.3.0 - 172.23.3.127
+cidr:               172.23.3.0/25
+netname:            CIEL-NETWORK
+descr:              Ciel's Naive Network
+country:            CN
+admin-c:            CIEL-DN42
+tech-c:             CIEL-DN42
+remarks:            You may refer to https://dn42.ciel.dev for details.
+nserver:            ns1.ciel.dn42
+nserver:            ns2.ciel.dn42
+mnt-by:             CIEL-MNT
+status:             ASSIGNED
+source:             DN42

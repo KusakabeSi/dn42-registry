@@ -1,0 +1,4 @@
+route:              172.20.6.64/27
+origin:             AS4242421576
+mnt-by:             0RIGO-MNT
+source:             DN42

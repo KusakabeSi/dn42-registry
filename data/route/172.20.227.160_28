@@ -1,0 +1,4 @@
+route:              172.20.227.160/28
+origin:             AS4242429990
+mnt-by:             TAYLES-MNT
+source:             DN42

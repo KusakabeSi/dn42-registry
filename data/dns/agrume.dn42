@@ -1,0 +1,8 @@
+domain:             agrume.dn42
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+org:                ORG-UPEC
+nserver:            ns1.agrume.dn42 172.20.29.161
+nserver:            ns1.agrume.dn42 fd42:4242:2408:53::1
+source:             DN42

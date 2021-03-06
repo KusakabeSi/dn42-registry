@@ -1,0 +1,8 @@
+aut-num:            AS64653
+as-name:            SRN-AS
+descr:              SRN's dn42 transit ASN
+remarks:            This is SRN's AS for high-bandwidth transit services.
+admin-c:            SRN-DN42
+tech-c:             SRN-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

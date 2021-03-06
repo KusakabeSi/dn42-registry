@@ -1,0 +1,20 @@
+tinc-key:           FISHYSNAX-TINC
+tinc-host:          valeyard
+tinc-file:          
+                    Subnet = 172.23.3.2/32
+                    Compression = 10
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEArsSlw4dnwSmtBOzeRadmt+MNQa3O7O2MZ/vVRtL8pcF5KKeRJybO
+                    sbIQq8AHauSI6cIeOsSHx6DmNlBAitoEScCEJa0FTX1lMRq8rmZlCK8C4/3RbKfy
+                    FdE9Gt3qoAVLLqz/lENTy+yPGBFBXRfuPuads1/waPyqltPmtMu6/dO4vW/NOkRg
+                    Vvvy5+WVpuy6HXMGaSNYHXO4fGJR0gexlVDoqr69iTbo+AShawsKk39X2FepyF+X
+                    gIiek5jXl4EBnl8J9o9nHBZ4FytZsaypK9+9AODwgYePWKWVqVW9DbYrJ2gVqy/r
+                    B/bmmR66gGcW/HiCLzsEWiCDnbxv4kbZMW0Z0+Vn8+kk1+Q6OdLCbew2EI4GKaXg
+                    E7zMeQ2t98GCGge77xEWREnUYMBSnIWTgg7yTkiygdY7LeibwS+FuxeBr9rXDIVk
+                    I3YRem4/Tudx5hxLstCNRZpubYKmVTP7gID6QSZ5C0Cc2URXD1a8wb951sZO5KpO
+                    O9gom9GUqZaZGn8n1fULBinhHrq8h39Uh8BO1EGO/AziygcwGdOJKenm9gjBxcSe
+                    ei92e7UVwT3+OOudqsOfOXa2IWtIXBtjRzkMeehUDkRGF8DzamqOUE1+DvW2esiN
+                    Zv/yyBf2r53lBrCd3pPxF6cw9hVr4XzmD68/TVfdMfJCVTzfom9AO5UCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

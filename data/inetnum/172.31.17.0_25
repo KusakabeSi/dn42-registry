@@ -1,0 +1,7 @@
+inetnum:            172.31.17.0 - 172.31.17.127
+cidr:               172.31.17.0/25
+netname:            CHAOSVPN-TURING
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

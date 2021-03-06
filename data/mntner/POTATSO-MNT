@@ -1,0 +1,6 @@
+mntner:             POTATSO-MNT
+admin-c:            POTATSO-DN42
+tech-c:             POTATSO-DN42
+mnt-by:             POTATSO-MNT
+source:             DN42
+auth:               pgp-fingerprint 9238ACCD69DC4BBA28DEB37432954D1C7B851AB8

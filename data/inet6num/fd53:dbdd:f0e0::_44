@@ -1,0 +1,10 @@
+inet6num:           fd53:dbdd:f0e0:0000:0000:0000:0000:0000 - fd53:dbdd:f0ef:ffff:ffff:ffff:ffff:ffff
+netname:            SNOW-IX-BLOCK
+country:            DE
+admin-c:            SKORPY-DN42
+tech-c:             SKORPY-DN42
+mnt-by:             SKORPY-MNT
+mnt-lower:          SKORPY-MNT
+status:             ALLOCATED PI
+cidr:               fd53:dbdd:f0e0::/44
+source:             DN42

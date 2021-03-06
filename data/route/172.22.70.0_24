@@ -1,0 +1,4 @@
+route:              172.22.70.0/24
+origin:             AS76198
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

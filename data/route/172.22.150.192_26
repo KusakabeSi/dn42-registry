@@ -1,0 +1,4 @@
+route:              172.22.150.192/26
+origin:             AS4242420032
+mnt-by:             ERGRBT-MNT
+source:             DN42

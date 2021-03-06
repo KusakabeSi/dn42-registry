@@ -1,0 +1,9 @@
+inet6num:           fd01:0470:f129:0000:0000:0000:0000:0000 - fd01:0470:f129:ffff:ffff:ffff:ffff:ffff
+netname:            MENTHA-NET
+cidr:               fd01:470:f129::/48
+country:            US
+admin-c:            MENTHA-DN42
+tech-c:             MENTHA-DN42
+mnt-by:             MENTHA-MNT
+status:             ASSIGNED
+source:             DN42

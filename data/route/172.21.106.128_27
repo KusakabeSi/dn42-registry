@@ -1,0 +1,4 @@
+route:              172.21.106.128/27
+origin:             AS4242420651
+mnt-by:             MATTPROD-MNT
+source:             DN42

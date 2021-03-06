@@ -1,0 +1,10 @@
+inetnum:            172.20.128.32 - 172.20.128.39
+netname:            ALTF4-GATEWAY
+descr:              my gateway to the wooooorld
+country:            BE
+admin-c:            ALTF4-DN42
+tech-c:             ALTF4-DN42
+mnt-by:             ALTF4-MNT
+status:             ALLOCATED
+cidr:               172.20.128.32/29
+source:             DN42

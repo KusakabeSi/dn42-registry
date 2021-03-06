@@ -1,0 +1,6 @@
+mntner:             NEX-MNT
+admin-c:            NEX-DN42
+tech-c:             NEX-DN42
+mnt-by:             NEX-MNT
+auth:               pgp-fingerprint 3E28CC62B1E061FD7D2CCEFE8222F5BC816ECDC4
+source:             DN42

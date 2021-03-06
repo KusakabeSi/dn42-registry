@@ -1,0 +1,7 @@
+mntner:             DROPBEAR-MNT
+admin-c:            DROPBEAR-DN42
+tech-c:             DROPBEAR-DN42
+mnt-by:             DROPBEAR-MNT
+source:             DN42
+auth:               pgp-fingerprint 3FDB7F47E2B2FC3FAC22B740125F6C10FF2B2681
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOcIEz22zj1wlt2ukuzcywyb9LJ26O0N/8ph9Vjm+KMyIeWu1/jWMlry85n0kN2XWpJ3jiW0EX/AGW8RU/wiwTxzzqpzLC3SI8lD1BjJu5m1c3YJTyLonDkRG4IC+6jdCQfVzdFs3ZNyRn8gHF4YRZiK1fm33c4zpYEUkANz+cOQR7q+8vg/1pdVz3pEPKq54Kdxoq3VPLZv0uqvzmdeHKodH+cFASSdAWb+1qtFKBCIi3LgfeK0qy6qkQCkYevdsHB1Ey/eQkwRQ1xHUpNWw8fE2A0VIwQ7jcWD3OGDqTORmonzWVtuTSVCBCO2eN3yHwNqprfJ3RO8DxC09xg32T

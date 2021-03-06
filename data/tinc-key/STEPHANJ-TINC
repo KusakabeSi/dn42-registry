@@ -1,0 +1,24 @@
+tinc-key:           STEPHANJ-TINC
+tinc-host:          stephanj
+remarks:            * This object was generated based on info from legacy
+remarks:            * wiki and existing host files
+compression:        9
+subnet:             172.22.255.195/32
+subnet:             fd04:de02:7af9:0:0:0:0:195/128
+tinc-address:       proxyvm.stejau.de
+admin-c:            STEPHANJ-DN42
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet = 172.22.255.195/32
+                    Subnet = fd04:de02:7af9:0:0:0:0:195/128
+                    Address = proxyvm.stejau.de
+                    Compression = 9
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEA0z8J02Icl+pSTL7pMhEC6XWzEog+MGkzqhXP+Qem2sTX6zZyW3K/
+                    JntMd6HYvN6By025sLCAYP+1/2FHfnUabe/6vLTRxfc/0wbhwv/41AugXyT7lz0R
+                    UdKErdrIgSQC/tjIsWh76al5s7Hw+Xx0vVCU3z7rVrIn3J2pct/ZZUva3LzgRB++
+                    W5czh78pTC5YZUe//2YZ5cvyp4WLOnunnzIkCTwGju93gwS0w2c3jzTnbTyHEE6Y
+                    tqbLvTyusYl07FDzRwG18qPaAPyAY5mglfgB2lxLlVOygF68IAIgPl9LLQ4f3TUD
+                    pTAb+qH67VC0gjN4KbTfz3NrypMslpEtCwIDAQAB
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

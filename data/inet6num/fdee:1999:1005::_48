@@ -1,0 +1,8 @@
+inet6num:           fdee:1999:1005:0000:0000:0000:0000:0000 - fdee:1999:1005:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:1999:1005::/48
+netname:            SEADOG007-NET-1
+admin-c:            SEADOG007-DN42
+tech-c:             SEADOG007-DN42
+mnt-by:             SEADOG007-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd00:1996:726::/48
+descr:              Peer with me at qunaergao@live.com
+origin:             AS4242422235
+mnt-by:             BOLD-MNT
+source:             DN42

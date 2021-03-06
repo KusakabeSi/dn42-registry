@@ -1,0 +1,8 @@
+inetnum:            172.22.146.192 - 172.22.146.223
+cidr:               172.22.146.192/27
+netname:            MANI-NETWORK
+admin-c:            MANI-DN42
+tech-c:             MANI-DN42
+mnt-by:             MANI-MNT
+status:             ASSIGNED
+source:             DN42

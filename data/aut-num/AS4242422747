@@ -1,0 +1,10 @@
+aut-num:            AS4242422747
+as-name:            ROT13-AS
+descr:              rot13 main ASN
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+remarks:            
+remarks:            *Peering policy coming sooner or later*
+remarks:            
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             DRATHIR-MNT
+descr:              drathir_test_network
+auth:               pgp-fingerprint E0FA119279134A6E47FE970FAEA339759F63B0FC
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDIrUdal4y1+Nj2hWrMwIzAAkdBaJy4Ws7GwgEwc5wJWRrJBErjUyPT24vds2vD8xbvbae/Dy6jbnjPKYI7Do6tn4TFOwzOuE07LPfSy0iJMsZPnMnv/3rGzsbNbdcbISKyUNy7NgiwZY3ChP/KNMuylVxKPpGlZvYCF/aC4ZCBoOwS741qsmGyfizmu5Aib83GSJBUiBdyEK2JJMKHv7xd7pwL5YE+vnJUKJchDfML1OzeDNEZHB4agfweyxCQk2s5zm7istR9BRkYJy6noLwVGEO1tGaKYlkTgPPzh94faUcbvYxeNBlkuvb+yZi399WkIITfbkvYyzk3z093rjcKq7n7cal9F7mG7Rx/mWvgh6pR/kd46uoQvXcYwr2F7qGcceEu5Z+7sXUqnnZy0hh7V0Eq3ibrMizk4qt7mQU0A+LK3MY/pdO1T/pvHm9HtBzGmToTdR9n1Orno+z3pL8ExY2KObXkwbqxEqxRfBmnVtw8ecxrMG9jKHK1rk9XT9bpfSPZu+O0yScu50M8o4dZhwZ1MsyR6PCAKK6GuK//F9gNeecGFBbA/raqV+8K79TyUYJcoIf5yIrO9STwFgKj6GYrajLm1bCMM+y2neIM0XneLqq3vv5ET/ihWcNaHB1EeBpTiE0WoWiHVG5s386UgiGJ6wYln5t8VNbpGz+q4Q==
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+source:             DN42

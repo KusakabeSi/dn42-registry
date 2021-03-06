@@ -1,0 +1,8 @@
+domain:             raider.dn42
+descr:              raider.dn42
+admin-c:            RAIDER-DN42
+tech-c:             RAIDER-DN42
+mnt-by:             LURKAT-MNT
+nserver:            first42.raider.dn42 172.23.82.1
+nserver:            second42.raider.dn42 172.23.82.129
+source:             DN42

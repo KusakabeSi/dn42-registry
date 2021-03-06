@@ -1,0 +1,9 @@
+domain:             coin.dn42
+descr:              The first payment solution in DN42!
+admin-c:            KAI-DN42
+org:                ORG-COIN
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.as4242422506.dn42
+nserver:            ns1.fastnameserver.eu
+source:             DN42

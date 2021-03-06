@@ -1,0 +1,4 @@
+route6:             fde8:ef06:b45a::/48
+origin:             AS4242421360
+mnt-by:             NOPE-MNT
+source:             DN42

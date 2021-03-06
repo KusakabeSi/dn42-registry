@@ -1,0 +1,10 @@
+inetnum:            172.22.141.160 - 172.22.141.175
+cidr:               172.22.141.160/28
+netname:            XUU-DE-DN42
+descr:              Xuu DE Network
+country:            DE
+admin-c:            SOURIS-DN42
+tech-c:             SOURIS-DN42
+mnt-by:             XUU-MNT
+status:             ASSIGNED
+source:             DN42

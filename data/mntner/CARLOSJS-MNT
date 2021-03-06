@@ -1,0 +1,7 @@
+mntner:             CARLOSJS-MNT
+admin-c:            CARLOSJS-DN42
+auth:               pgp-fingerprint 6BFEB26C2A48253FE01EEDC7A3064E4193E18A13
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAmSraiXqZLlHqTQUW/OqiH0rX3dokpG6O+gdPrigGxaiwrz41R6pvGHhbXNgcWH/VS+WsGJRNoVtVt8d/7ntjsrP2JrfP+zT6J6Ro6JTbK7FDn0byDEAVFgtTnJNLc4YMoKw7ByLsQaq3QxYY7FzJlW2ZJuZWVVbQeDMQzuFNUa8roJCO6smVZogMTaMN7Qn6vlcOTg04eg1NwT/2cJ/NtXF3HhdiQd6sLJMD0n8oeysCt+9Ge5i0UejJ3up0ZFAlhbpb9bCwoVFw2rNTZUJTt/JCCFSF/NRNl7K9GKiHuQhtpNEasQeRG92210pgz0vvkJ5i+Y7+WGs3A1X/+Gf66Q==
+tech-c:             CARLOSJS-DN42
+mnt-by:             CARLOSJS-MNT
+source:             DN42

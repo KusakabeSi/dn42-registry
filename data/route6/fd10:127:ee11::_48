@@ -1,0 +1,10 @@
+route6:             fd10:127:ee11::/48
+max-length:         64
+origin:             AS38173
+origin:             AS140936
+origin:             AS4242423088
+admin-c:            SUNNET-NEONETWORK
+tech-c:             SUNNET-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

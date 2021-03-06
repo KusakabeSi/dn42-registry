@@ -1,0 +1,4 @@
+route:              172.22.143.0/24
+origin:             AS4242420143
+mnt-by:             RADIOGUY-MNT
+source:             DN42

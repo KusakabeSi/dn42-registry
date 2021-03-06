@@ -1,0 +1,12 @@
+inet6num:           fd05:a588:da19:0000:0000:0000:0000:0000 - fd05:a588:da19:ffff:ffff:ffff:ffff:ffff
+netname:            ILEMONRAIN-NET6-DN42
+descr:              iLemonrain DN42 Network
+country:            CN
+admin-c:            ILEMONRAIN-DN42
+tech-c:             ILEMONRAIN-DN42
+mnt-by:             ILEMONRAIN-MNT
+nserver:            ns1.ilemonrain.dn42
+nserver:            ns2.ilemonrain.dn42
+status:             ASSIGNED
+cidr:               fd05:a588:da19::/48
+source:             DN42

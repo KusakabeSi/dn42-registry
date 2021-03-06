@@ -1,0 +1,4 @@
+route6:             fdd7:e654:c010::/48
+origin:             AS4242422424
+mnt-by:             PR0-MNT
+source:             DN42

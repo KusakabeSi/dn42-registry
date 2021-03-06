@@ -1,0 +1,4 @@
+route:              172.20.132.96/27
+origin:             AS4242423816
+mnt-by:             BEEFSTEAK-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdfd:03ba:342d:0000:0000:0000:0000:0000 - fdfd:03ba:342d:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfd:3ba:342d::/48
+netname:            KN-NETWORK6
+descr:              kn playground
+country:            DE
+admin-c:            KN-DN42
+tech-c:             KN-DN42
+mnt-by:             KN-MNT
+status:             ASSIGNED
+source:             DN42

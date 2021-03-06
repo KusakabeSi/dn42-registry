@@ -1,0 +1,5 @@
+route6:             fdee:70b9:860c::/48
+descr:              PROBSD-NET
+origin:             AS4242421406
+mnt-by:             LEWY-MNT
+source:             DN42

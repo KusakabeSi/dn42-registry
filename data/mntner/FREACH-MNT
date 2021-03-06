@@ -1,0 +1,6 @@
+mntner:             FREACH-MNT
+admin-c:            FREACH-DN42
+tech-c:             FREACH-DN42
+mnt-by:             FREACH-MNT
+auth:               pgp-fingerprint 9514B511EF8D84DFB6DD1E2894B57DC28AFD4DC4
+source:             DN42

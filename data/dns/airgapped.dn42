@@ -1,0 +1,11 @@
+domain:             airgapped.dn42
+descr:              airgapped.dn42 https://dn42.airgapped.io/
+org:                ORG-AIRGAPPED
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+nserver:            ns1.airgapped.dn42 172.22.50.53
+nserver:            ns1.airgapped.dn42 fd00:0801:3010:0000:0000:0000::53
+nserver:            ns2.airgapped.dn42 172.22.51.53
+nserver:            ns2.airgapped.dn42 fd00:0801:3020:0000:0000:0000::53
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.164.0 - 172.22.164.255
+netname:            DN42-DRIXTER-FIRST
+country:            PL
+admin-c:            DRIXTER-DN42
+tech-c:             DRIXTER-DN42
+mnt-by:             DRIXTER-MNT
+status:             ASSIGNED
+nserver:            ns1.e-utp.dn42
+cidr:               172.22.164.0/24
+source:             DN42

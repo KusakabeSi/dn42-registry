@@ -1,0 +1,7 @@
+aut-num:            AS4242421444
+as-name:            FISIX
+descr:              foo bar baz.
+admin-c:            FISIX-DN42
+tech-c:             FISIX-DN42
+mnt-by:             FISIX-MNT
+source:             DN42

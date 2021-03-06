@@ -1,0 +1,10 @@
+inet6num:           fd43:06d1:3ee2:0000:0000:0000:0000:0000 - fd43:06d1:3ee2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd43:6d1:3ee2::/48
+netname:            SANTOST12-NETWORK
+descr:              Network of SANTOST12
+country:            US
+admin-c:            SANTOST12-DN42
+tech-c:             SANTOST12-DN42
+mnt-by:             SANTOST12-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:192:cafe::/48
+origin:             AS4242420192
+mnt-by:             KEISI-MNT
+source:             DN42

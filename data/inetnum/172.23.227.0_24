@@ -1,0 +1,10 @@
+inetnum:            172.23.227.0 - 172.23.227.255
+netname:            MWD-DN42-2
+descr:              In DC
+country:            AU
+admin-c:            MWD-DN42
+tech-c:             MWD-DN42
+mnt-by:             MWD-MNT
+status:             ASSIGNED
+cidr:               172.23.227.0/24
+source:             DN42

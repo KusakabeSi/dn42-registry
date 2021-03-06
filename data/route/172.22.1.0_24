@@ -1,0 +1,6 @@
+route:              172.22.1.0/24
+origin:             AS76198
+origin:             AS4242422321
+mnt-by:             FRITZ-MNT
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

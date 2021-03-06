@@ -1,0 +1,8 @@
+inet6num:           fd13:ae3a:9022:0000:0000:0000:0000:0000 - fd13:ae3a:9022:ffff:ffff:ffff:ffff:ffff
+cidr:               fd13:ae3a:9022::/48
+netname:            YOUSONG-INET6
+admin-c:            YOUSONG-DN42
+tech-c:             YOUSONG-DN42
+mnt-by:             YOUSONG-MNT
+status:             ASSIGNED
+source:             DN42

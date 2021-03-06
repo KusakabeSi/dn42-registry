@@ -1,0 +1,4 @@
+route:              172.20.12.152/29
+origin:             AS4242422522
+mnt-by:             AM-MNT
+source:             DN42

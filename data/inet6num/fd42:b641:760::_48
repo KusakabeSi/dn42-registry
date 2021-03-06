@@ -1,0 +1,10 @@
+inet6num:           fd42:b641:0760:0000:0000:0000:0000:0000 - fd42:b641:0760:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:b641:760::/48
+netname:            YUYAN-DN42-IPV6
+descr:              Peer with me at sakura@alleysakura.com
+country:            CN
+admin-c:            YUYAN-DN42
+tech-c:             YUYAN-DN42
+mnt-by:             YUYAN-MNT
+status:             ASSIGNED
+source:             DN42

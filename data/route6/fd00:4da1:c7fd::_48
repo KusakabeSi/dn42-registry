@@ -1,0 +1,5 @@
+route6:             fd00:4da1:c7fd::/48
+origin:             AS4242422538
+max-length:         48
+mnt-by:             EAB-MNT
+source:             DN42

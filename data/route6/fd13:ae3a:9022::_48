@@ -1,0 +1,6 @@
+route6:             fd13:ae3a:9022::/48
+descr:              YOUSONG INET6 Network
+origin:             AS4242421043
+max-length:         48
+mnt-by:             YOUSONG-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             LLRZ-MNT
+descr:              Laterlab private training laboratory.
+admin-c:            FH-DN42
+tech-c:             FH-DN42
+mnt-by:             LLRZ-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEA0EymJoSaLb0BLKaHIVfRE0ugGUEj4dJZ+bfIxVhODxZr15mahibG1oUqymF8fZB7uAhjCnIjzh34PbpE40obe4FdcJszEtmBmd6RtpybIJlT/l8du7tbqvsl7SqSWOFgl4pnxoWYGlLNZZyPqTuDdBlUAEGSkxU2orWXIBWxK/0Ww22ItO6obA5kXO1kCTCEW4eSmdfXTFN462UWz8cSr6GXjkANChH3I+8/l6MhBQvphOcLB7HElAo4GYBXB8oCjUHtLage0+9+rM11gdKbDk7UgYZXQ5KHIPXyIpeqMiGFfKxKJAbRR3V6TRQ3E7+GjB1wkdpBUPghH4eDNlfUaFIb0XcAsFfkBRUbvBDTFGFmDah1ecvntPZiaLln40291uVMh1kXKVNnzNYmfdmePYapdP0/L2BtFGt6P39YFtygwFZE7dZWPzW2HpiGa35jLK/TWjLTe2fBw/Fp+WZ0UQL+JD3EQUMPl8vY6N9WNL5T8tCRYCXTiWko+KEW1tHNkF6j5QYeJ44/YGQqDqoJ8LYLZEAHLL+2xu+N9QfG2B1kzTrgGJ07bWcU3A5NIT4l9JQ8NrNsCqO5RWXn6wROTVtC38t7dAUKaVBWSildecsEJUCiId5WZTlUYnUmctv+sQDjD3zXDsxtzhBqCiinpBXAsChLximFhm61KxMC2V8= Hauptidentität
+source:             DN42

@@ -1,0 +1,10 @@
+aut-num:            AS4242421690
+as-name:            WNNET-A
+admin-c:            NEV-DN42
+tech-c:             NEV-DN42
+admin-c:            WILL-DN42
+tech-c:             WILL-DN42
+mnt-by:             NEV-MNT
+mnt-by:             WILL-MNT
+org:                ORG-WN-NETWORKS
+source:             DN42

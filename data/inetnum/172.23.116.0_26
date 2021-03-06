@@ -1,0 +1,8 @@
+inetnum:            172.23.116.0 - 172.23.116.63
+cidr:               172.23.116.0/26
+netname:            VOIDLABS-NET1
+country:            ES
+admin-c:            DEVNULL-DN42
+tech-c:             DEVNULL-DN42
+mnt-by:             VOIDLABS-MNT
+source:             DN42

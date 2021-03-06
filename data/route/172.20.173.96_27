@@ -1,0 +1,4 @@
+route:              172.20.173.96/27
+origin:             AS4242420196
+mnt-by:             LZ1OPS-MNT
+source:             DN42

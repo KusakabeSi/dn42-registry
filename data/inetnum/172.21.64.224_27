@@ -1,0 +1,9 @@
+inetnum:            172.21.64.224 - 172.21.64.255
+netname:            GIN42-INET4
+country:            DE
+admin-c:            GIN42-DN42
+tech-c:             GIN42-DN42
+mnt-by:             GIN42-MNT
+status:             ASSIGNED
+cidr:               172.21.64.224/27
+source:             DN42

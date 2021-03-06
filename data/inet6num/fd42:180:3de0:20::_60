@@ -1,0 +1,8 @@
+inet6num:           fd42:0180:3de0:0020:0000:0000:0000:0000 - fd42:0180:3de0:002f:ffff:ffff:ffff:ffff
+netname:            y.master.delegation-servers.dn42
+mnt-by:             JRB0001-MNT
+mnt-by:             YAMAKAJA-MNT
+mnt-by:             BURBLE-MNT
+status:             ASSIGNED PI
+cidr:               fd42:180:3de0:20::/60
+source:             DN42

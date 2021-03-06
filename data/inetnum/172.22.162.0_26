@@ -1,0 +1,11 @@
+inetnum:            172.22.162.0 - 172.22.162.63
+netname:            NICONEIKOWORKS-IPV4
+remarks:            I Always love Inori Minase
+descr:              Peer with me at root@niconiconi.us
+country:            CN
+admin-c:            NICONEIKOWORKS-DN42
+tech-c:             NICONEIKOWORKS-DN42
+mnt-by:             NICONEIKOWORKS-MNT
+status:             ASSIGNED
+cidr:               172.22.162.0/26
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd4c:2535:91::/48
+origin:             AS4242422232
+mnt-by:             NEVERBEHAVE-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.132.32/27
+origin:             AS4242421916
+mnt-by:             CAXAP-MNT
+source:             DN42

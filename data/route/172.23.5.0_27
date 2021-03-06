@@ -1,0 +1,4 @@
+route:              172.23.5.0/27
+origin:             AS4242423740
+mnt-by:             ROBOBO-MNT
+source:             DN42

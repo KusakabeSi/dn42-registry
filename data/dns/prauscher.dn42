@@ -1,0 +1,10 @@
+domain:             prauscher.dn42
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+nserver:            nameserver.prauscher.dn42 172.22.153.230
+nserver:            nameserver.prauscher.dn42 fdc1:31f:b14f:300::140
+ds-rdata:           61251 13 1 ba6ad7f9ff4e6db85d55592ffbaf442d6e73697a
+ds-rdata:           61251 13 2 c74a340691a38dc65dc7a51d68d489d4cb7a77e9b4e04d15e40fc6b1d66e45e2
+ds-rdata:           61251 13 4 2cbb3e8e3a15d72076571a514d7d27d4beb5c597f04fbdb8c0c30c94def0a637a7584bca1fc525fddfe3a3837a4ede73
+source:             DN42

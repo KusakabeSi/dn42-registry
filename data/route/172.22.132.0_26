@@ -1,0 +1,5 @@
+route:              172.22.132.0/26
+descr:              CALLUM-ROUTE
+origin:             AS4242421997
+mnt-by:             CALLUM-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             VICTOR-MNT
+admin-c:            VICTOR-DN42
+tech-c:             VICTOR-DN42
+mnt-by:             VICTOR-MNT
+auth:               pgp-fingerprint BB3987FDF21D5176C0C253A6A3923C699D1A3BDA
+auth:               pgp-fingerprint 3688B01C5936957FC679BFD335687D057E08CD21
+source:             DN42

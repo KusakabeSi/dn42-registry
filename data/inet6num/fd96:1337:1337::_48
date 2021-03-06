@@ -1,0 +1,11 @@
+inet6num:           fd96:1337:1337:0000:0000:0000:0000:0000 - fd96:1337:1337:ffff:ffff:ffff:ffff:ffff
+netname:            ANUBIOZ-NET
+descr:              Anubioz's NetWork
+country:            RU
+admin-c:            ANUBIOZ-DN42
+tech-c:             ANUBIOZ-DN42
+mnt-by:             ANUBIOZ-MNT
+nserver:            ns1.anubioz.dn42
+status:             ASSIGNED
+cidr:               fd96:1337:1337::/48
+source:             DN42

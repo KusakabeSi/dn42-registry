@@ -1,0 +1,12 @@
+inetnum:            172.22.149.112 - 172.22.149.127
+netname:            PDOSTAL-IP4PDNET
+nserver:            cucumber.pdostal.dn42
+nserver:            grape.pdostal.dn42
+descr:              Pavel Dostal's PDNET 172.22.149.112/28 block
+country:            CZ
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+status:             ASSIGNED
+cidr:               172.22.149.112/28
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            10.11.160.0 - 10.11.175.255
+cidr:               10.11.160.0/20
+netname:            ICVPN-BODENSEE
+nserver:            42.160.11.10.ipv4.registry-sync.dn42
+nserver:            42.224.15.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.0.0.e.e.5.b.1.0.7.1.f.e.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bodensee
+mnt-by:             DN42-MNT
+source:             ICVPN

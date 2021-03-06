@@ -1,0 +1,9 @@
+inet6num:           fd42:3677:0000:0000:0000:0000:0000:0000 - fd42:3677:0000:ffff:ffff:ffff:ffff:ffff
+netname:            ADNIDOR-NET
+country:            DE
+admin-c:            ADNIDOR-DN42
+tech-c:             ADNIDOR-DN42
+mnt-by:             ADNIDOR-MNT
+status:             ASSIGNED
+cidr:               fd42:3677::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.234.128 - 172.20.234.191
+netname:            JOMAT-3
+descr:              infra
+country:            IN
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.j.dn42
+status:             ASSIGNED
+cidr:               172.20.234.128/26
+source:             DN42

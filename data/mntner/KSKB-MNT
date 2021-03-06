@@ -1,0 +1,8 @@
+mntner:             KSKB-MNT
+admin-c:            KSKB-DN42
+tech-c:             KSKB-DN42
+mnt-by:             KSKB-MNT
+source:             DN42
+auth:               pgp-fingerprint 716846E71E56F088BDF42E695A6761FECF4CAA65
+auth:               ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCzdaBO/KbKaPZwN6mSx1isFyDJZ7zQ27+Fh9xKDmaffcKwGpXc9t0BkJwTzfWJ1nXWKIvh59JhfCXvf7heBfFZY0UDjKKmrT0C7mfVsJIlL6ZpMSJcAn/oOJlGY8PyqEntLYXS+UHjr5wJ2QOAN9oREbey413VPyG2XuQDnJWN0fly6o9/Lh9gyaX/ov2AyZSo54VwH20p2bjVVkV3RSBVv7NnKrzAOv5QgpOu+pDQyNQNajRqnNJQYQhn/KwDCVivwHwO8eyvAzocNw1sT+4AnuVezhd5VaTYyrbqkWfn4L9J80z87NfZfG1qjxZ5UGQads6OuaW6Ha2kX91zf/8F/5s7G0LUF1XTyzz/bwlO1qMn1rb0GiKB7SjCZOq2EuETs0MBbyZCUZUgu9EAO5Teg6llqo4NksJ1j1IWZ4vhOGlxEXLy+BW8GDp3y7ORdWYQX+paQNWWBtu16ShCpWtu74Yy4JWiSWtWnswC5yvvYx7DkZzlx5e5pfMa6sbKFN0=
+remarks:            NewPlayer

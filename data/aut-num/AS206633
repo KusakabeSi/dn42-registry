@@ -1,0 +1,8 @@
+aut-num:            AS206633
+as-name:            NULLROUTE-ARPA-AS
+descr:              nullroute.eu.org (Broken Symlink) Arpanet AS
+remarks:            ; This is a leaf AS and does not provide transit.
+admin-c:            GRAWITY-DN42
+tech-c:             GRAWITY-DN42
+mnt-by:             NULLROUTE-MNT
+source:             RIPE

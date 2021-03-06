@@ -1,0 +1,11 @@
+inetnum:            172.20.132.128 - 172.20.132.135
+netname:            BYRON-IPV4
+descr:              Byron's IP space
+remarks:            Peer with me at lby16616@gmail.com
+country:            CN
+admin-c:            BYRON-DN42
+tech-c:             BYRON-DN42
+mnt-by:             BYRON-MNT
+status:             ASSIGNED
+cidr:               172.20.132.128/29
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            10.16.192.0 - 10.16.255.255
+cidr:               10.16.192.0/18
+netname:            ICVPN-GLIENICKE-NORDBAHN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: glienicke-nordbahn
+mnt-by:             DN42-MNT
+source:             ICVPN

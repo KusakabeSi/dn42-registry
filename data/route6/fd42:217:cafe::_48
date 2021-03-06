@@ -1,0 +1,5 @@
+route6:             fd42:217:cafe::/48
+origin:             AS4242420217
+max-length:         48
+mnt-by:             NOYES-MNT
+source:             DN42

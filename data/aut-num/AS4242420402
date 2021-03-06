@@ -1,0 +1,24 @@
+aut-num:            AS4242420402
+as-name:            TUXFLUX-DUS1-AS
+descr:              TuxFlux DUS1 Presence
+remarks:            +------------------------------------------------+
+remarks:            + Peering Policy: Open, long distance explicitly +
+remarks:            +                 welcome                        +
+remarks:            + VPN Protocols: OpenVPN                         +
+remarks:            +                IPsec + GRE                     +
+remarks:            +                tinc                            +
+remarks:            +------------------------------------------------+
+remarks:            + Peering Contact:                               +
+remarks:            +       mail:marcel@straub-nv.de                 +
+remarks:            +       xmpp:marcel.straub@jabber.rwth-aachen.de +
+remarks:            +------------------------------------------------+
+remarks:            + Points of Presence:                            +
+remarks:            + DE | Duesseldorf | DataCenter 1 Gbit/s         +
+remarks:            + DE | Aachen      | Cable 128/10Mbit/s          +
+remarks:            +------------------------------------------------+
+remarks:            + Speedtest via http://dn42.straub-nv.de/test    +
+remarks:            +------------------------------------------------+
+admin-c:            TUXFLUX-DN42
+tech-c:             TUXFLUX-DN42
+mnt-by:             TUXFLUX-MNT
+source:             DN42

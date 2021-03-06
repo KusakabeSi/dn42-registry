@@ -1,0 +1,9 @@
+inetnum:            172.20.15.224 - 172.20.15.231
+cidr:               172.20.15.224/29
+netname:            MRXERMON-NETWORK-PEERING
+country:            DE
+admin-c:            MRXERMON-DN42
+tech-c:             MRXERMON-DN42
+mnt-by:             MRXERMON-MNT
+status:             ASSIGNED
+source:             DN42

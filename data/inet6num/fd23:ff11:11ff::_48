@@ -1,0 +1,10 @@
+inet6num:           fd23:ff11:11ff:0000:0000:0000:0000:0000 - fd23:ff11:11ff:ffff:ffff:ffff:ffff:ffff
+netname:            DAYI-IPV6
+descr:              Dayi Net
+country:            CN
+admin-c:            DAYI-DN42
+tech-c:             DAYI-DN42
+mnt-by:             DAYI-MNT
+status:             ASSIGNED
+cidr:               fd23:ff11:11ff::/48
+source:             DN42

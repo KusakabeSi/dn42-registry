@@ -1,0 +1,4 @@
+route6:             fdcf:de54:13ef::/48
+origin:             AS4242421508
+mnt-by:             SKID-MNT
+source:             DN42

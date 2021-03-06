@@ -1,0 +1,7 @@
+domain:             rbz.dn42
+descr:              rbz.ee
+admin-c:            REISENB-DN42
+tech-c:             REISENB-DN42
+mnt-by:             REISENB-MNT
+nserver:            ns1.rbz.dn42 172.23.188.53
+source:             DN42

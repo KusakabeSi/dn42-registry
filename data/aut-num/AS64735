@@ -1,0 +1,36 @@
+aut-num:            AS64735
+as-name:            PACKETPUSHERS-AS
+org:                ORG-PACKETPUSHERS
+remarks:            --------------------------------
+remarks:            Packet Pushers Community Network
+remarks:            --------------------------------
+remarks:            +-----------------------------------------------------------------+
+remarks:            | * Open peering policy                                           |
+remarks:            | * Supported methods:                                            |
+remarks:            |   + GRE, VTI (IPsec), 4in6, 6in4, IPIP                          |
+remarks:            |   + If we don't support a method you'd prefer to use, feel      |
+remarks:            |     free to email anyway; maybe we can work something out       |
+remarks:            | * For peering, email us at peering-pp-dn42@googlegroups.com     |
+remarks:            |                                                                 |
+remarks:            | * For good network discussion, feel free to chat with us on IRC |
+remarks:            |   at #packetpushers on freenode.                                |
+remarks:            |     + irc://irc.freenode.net/packetpushers                      |
+remarks:            +-----------------------------------------------------------------+
+remarks:            +-----------------------------------------------+
+remarks:            | Server                | Location              |
+remarks:            +-----------------------+-----------------------+
+remarks:            +-----------------------+-----------------------+
+remarks:            | h1.eu.pushernet.net   | Stavanger, Norway     |
+remarks:            +-----------------------+-----------------------+
+remarks:            | s1.co.pushernet.net   | Charleston, WV, US    |
+remarks:            +-----------------------+-----------------------+
+remarks:            | s1.fyv.pushernet.net  | NJ, US                |
+remarks:            +-----------------------+-----------------------+
+remarks:            | s1.tb.pushernet.net   | St. Louis, MO, US     |
+remarks:            +-----------------------+-----------------------+
+remarks:            +-----------------------+-----------------------+
+admin-c:            PACKETPUSHERS-DN42
+tech-c:             PACKETPUSHERS-DN42
+mnt-by:             COXLEY-MNT
+mnt-by:             TWISTBYRN-MNT
+source:             DN42

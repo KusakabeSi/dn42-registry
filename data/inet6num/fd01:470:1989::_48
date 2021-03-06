@@ -1,0 +1,9 @@
+inet6num:           fd01:0470:1989:0000:0000:0000:0000:0000 - fd01:0470:1989:ffff:ffff:ffff:ffff:ffff
+netname:            RAUSCH-NET
+cidr:               fd01:470:1989::/48
+country:            US
+admin-c:            KCR-DN42
+tech-c:             KCR-DN42
+mnt-by:             KCR-MNT
+status:             ALLOCATED
+source:             DN42

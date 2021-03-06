@@ -1,0 +1,5 @@
+route:              172.23.116.64/27
+descr:              Rapid Ninja Network4 0
+origin:             AS4242421335
+mnt-by:             RAPID-NINJA-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdf2:8800:6e97::/48
+origin:             AS4242422017
+mnt-by:             KYRIASIS-MNT
+source:             DN42

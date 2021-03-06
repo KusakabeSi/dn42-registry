@@ -1,0 +1,12 @@
+inet6num:           fd65:a890:5050:0000:0000:0000:0000:0000 - fd65:a890:5050:ffff:ffff:ffff:ffff:ffff
+netname:            GXA-NET
+descr:              GXA-NET v6
+country:            US
+admin-c:            GXA-DN42
+tech-c:             GXA-DN42
+mnt-by:             GXA-MNT
+nserver:            a.ns.sigterm.dn42
+nserver:            b.ns.sigterm.dn42
+status:             ASSIGNED
+cidr:               fd65:a890:5050::/48
+source:             DN42

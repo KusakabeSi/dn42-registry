@@ -1,0 +1,10 @@
+inet6num:           fd50:7506:0000:0000:0000:0000:0000:0000 - fd50:7506:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd50:7506::/48
+netname:            GCT-NETWORK
+descr:              gctrindade network
+country:            US
+admin-c:            GCT-DN42
+tech-c:             GCT-DN42
+mnt-by:             GCT-MNT
+status:             ASSIGNED
+source:             DN42

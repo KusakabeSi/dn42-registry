@@ -1,0 +1,11 @@
+inet6num:           fd42:4dd0:ff00:0000:0000:0000:0000:0000 - fd42:4dd0:ff00:ffff:ffff:ffff:ffff:ffff
+netname:            NET6-NULLL-ULA-DN42
+descr:              /dev/nulll ULA prefix
+country:            DE
+admin-c:            STV0G-DN42
+tech-c:             STV0G-DN42
+mnt-by:             NULLL-MNT
+status:             ASSIGNED
+cidr:               fd42:4dd0:ff00::/48
+nserver:            ns1.0l.dn42
+source:             DN42

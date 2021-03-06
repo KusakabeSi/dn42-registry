@@ -1,0 +1,8 @@
+inet6num:           fdaa:243c:4101:0000:0000:0000:0000:0000 - fdaa:243c:4101:ffff:ffff:ffff:ffff:ffff
+cidr:               fdaa:243c:4101::/48
+netname:            RMLHUK-NET-1
+admin-c:            RMLHUK-DN42
+tech-c:             RMLHUK-DN42
+mnt-by:             RMLHUK-MNT
+status:             ASSIGNED
+source:             DN42

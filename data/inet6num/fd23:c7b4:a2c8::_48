@@ -1,0 +1,10 @@
+inet6num:           fd23:c7b4:a2c8:0000:0000:0000:0000:0000 - fd23:c7b4:a2c8:ffff:ffff:ffff:ffff:ffff
+netname:            GRUENET-LABS
+descr:              gruetzkopf research labs
+country:            DE
+admin-c:            GRUETZKOPF-DN42
+tech-c:             GRUETZKOPF-DN42
+mnt-by:             GRUETZKOPF-MNT
+status:             ASSIGNED
+cidr:               fd23:c7b4:a2c8::/48
+source:             DN42

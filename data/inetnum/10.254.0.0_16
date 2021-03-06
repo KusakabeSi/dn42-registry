@@ -1,0 +1,7 @@
+inetnum:            10.254.0.0 - 10.254.255.255
+cidr:               10.254.0.0/16
+netname:            ICVPN-LJUBLJANA
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ljubljana
+mnt-by:             DN42-MNT
+source:             ICVPN

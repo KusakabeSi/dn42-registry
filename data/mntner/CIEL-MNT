@@ -1,0 +1,6 @@
+mntner:             CIEL-MNT
+admin-c:            CIEL-DN42
+tech-c:             CIEL-DN42
+auth:               pgp-fingerprint 68014DEC0A224515915BAACCE7C17D043257C532
+mnt-by:             CIEL-MNT
+source:             DN42

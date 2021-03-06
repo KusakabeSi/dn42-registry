@@ -1,0 +1,12 @@
+inetnum:            172.23.252.0 - 172.23.252.255
+nserver:            ns1.dns.dn42
+nserver:            ns2.dns.dn42
+netname:            NET-LEROY-DN42
+descr:              Leroy's Main Range
+country:            SG
+admin-c:            LEROY-DN42
+tech-c:             LEROY-DN42
+mnt-by:             LEROY-MNT
+status:             ASSIGNED
+cidr:               172.23.252.0/24
+source:             DN42

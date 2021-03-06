@@ -1,0 +1,9 @@
+inetnum:            172.20.177.128 - 172.20.177.159
+cidr:               172.20.177.128/27
+country:            US
+netname:            TECHMINER-V4
+admin-c:            EASTON-DN42
+tech-c:             EASTON-DN42
+mnt-by:             EASTON-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:7173:7800::/48
+descr:              qsx’ net
+origin:             AS4242427761
+mnt-by:             QSX-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             wheat.dn42
+admin-c:            WHEAT-DN42
+tech-c:             WHEAT-DN42
+mnt-by:             WHEAT-MNT
+nserver:            ns1.wheat.dn42 172.22.129.226
+nserver:            ns1.wheat.dn42 fd42:a66a:faaf:d001::1
+source:             DN42

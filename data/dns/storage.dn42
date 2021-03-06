@@ -1,0 +1,6 @@
+domain:             storage.dn42
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+nserver:            ns.2950.dn42
+source:             DN42

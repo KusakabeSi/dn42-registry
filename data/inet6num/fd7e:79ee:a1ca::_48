@@ -1,0 +1,8 @@
+inet6num:           fd7e:79ee:a1ca:0000:0000:0000:0000:0000 - fd7e:79ee:a1ca:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7e:79ee:a1ca::/48
+netname:            WOCKEY-NET-1
+admin-c:            WOCKEY-DN42
+tech-c:             WOCKEY-DN42
+mnt-by:             WOCKEY-MNT
+status:             ASSIGNED
+source:             DN42

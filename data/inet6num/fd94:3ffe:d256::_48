@@ -1,0 +1,9 @@
+inet6num:           fd94:3ffe:d256:0000:0000:0000:0000:0000 - fd94:3ffe:d256:ffff:ffff:ffff:ffff:ffff
+netname:            SOMA-NET6-1
+country:            HU
+admin-c:            NOC-DN42
+tech-c:             NOC-DN42
+mnt-by:             S-MNT
+status:             ASSIGNED
+cidr:               fd94:3ffe:d256::/48
+source:             DN42

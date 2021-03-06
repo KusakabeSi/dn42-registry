@@ -1,0 +1,12 @@
+inetnum:            172.23.172.0 - 172.23.172.255
+cidr:               172.23.172.0/24
+netname:            NET-IPV4-MAGLAB
+descr:              Magrathe Laboratories Network
+country:            DE
+org:                ORG-MAGLAB
+admin-c:            MAGLAB-DN42
+tech-c:             MAGLAB-DN42
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+status:             ASSIGNED
+source:             DN42

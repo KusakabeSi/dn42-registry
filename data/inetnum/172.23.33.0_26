@@ -1,0 +1,9 @@
+inetnum:            172.23.33.0 - 172.23.33.63
+cidr:               172.23.33.0/26
+netname:            BILL-NETWORK
+admin-c:            BILL-DN42
+tech-c:             BILL-DN42
+mnt-by:             BILL-MNT
+org:                ORG-BIDGROUP
+status:             ASSIGNED
+source:             DN42

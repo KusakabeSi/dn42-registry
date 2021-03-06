@@ -1,0 +1,7 @@
+mntner:             BGPTRACE-MNT
+descr:              BGPTRACE
+admin-c:            BGPTRACE-DN42
+tech-c:             BGPTRACE-DN42
+remarks:            BGPTRACE: Peering: Open
+mnt-by:             BGPTRACE-MNT
+source:             DN42

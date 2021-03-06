@@ -1,0 +1,10 @@
+inet6num:           fdfa:0043:8ed5:0000:0000:0000:0000:0000 - fdfa:0043:8ed5:ffff:ffff:ffff:ffff:ffff
+netname:            NET-JUE-TEST
+descr:              Some test network stuff
+country:            DE
+admin-c:            JUE-DN42
+tech-c:             JUE-DN42
+mnt-by:             JUE-MNT
+status:             ALLOCATED
+cidr:               fdfa:43:8ed5::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.111.192 - 172.22.111.223
+cidr:               172.22.111.192/27
+netname:            CATER-NETWORK
+admin-c:            CATER-DN42
+tech-c:             CATER-DN42
+mnt-by:             CATER-MNT
+nserver:            jesse.cater.dn42
+nserver:            walter.cater.dn42
+status:             ASSIGNED
+source:             DN42

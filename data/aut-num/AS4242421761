@@ -1,0 +1,7 @@
+aut-num:            AS4242421761
+as-name:            STREHI-AS2
+descr:              Strehi's dn42 AS @home
+admin-c:            STREHI-DN42
+tech-c:             STREHI-DN42
+mnt-by:             STREHI-DN42-MNT
+source:             DN42

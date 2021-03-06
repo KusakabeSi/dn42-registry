@@ -1,0 +1,11 @@
+aut-num:            AS4242420304
+as-name:            04DCO-AS
+remarks:            +---------------------------------+
+remarks:            |          Peering info:          |
+remarks:            |       https://04d.co/dn42       |
+remarks:            +---------------------------------+
+descr:              04dco AS
+admin-c:            04DCO-DN42
+tech-c:             04DCO-DN42
+mnt-by:             04DCO-MNT
+source:             DN42

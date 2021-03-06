@@ -1,0 +1,7 @@
+organisation:       ORG-MS
+org-name:           MSORG
+descr:              MS ORG
+admin-c:            MSNET-DN42
+tech-c:             MSNET-DN42
+mnt-by:             MSNET-MNT
+source:             DN42

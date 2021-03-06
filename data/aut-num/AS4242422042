@@ -1,0 +1,20 @@
+aut-num:            AS4242422042
+as-name:            KLEEN-AS
+admin-c:            KLEEN-DN42
+tech-c:             KLEEN-DN42
+mnt-by:             KLEEN-MNT
+remarks:            /-----------------------------------------\
+remarks:            |                                         |
+remarks:            | AS information like Points of Presence, |
+remarks:            | peering information, communities etc. : |
+remarks:            |                                         |
+remarks:            | https://wiki.kleen.ch/dn42/as4242422042 |
+remarks:            |                                         |
+remarks:            > --------------------------------------- <
+remarks:            |                                         |
+remarks:            | I am open for peerings. Please see the  |
+remarks:            | wiki page above for VPN techniques and  |
+remarks:            | parameters and contact me (KLEEN-DN42). |
+remarks:            |                                         |
+remarks:            \-----------------------------------------/
+source:             DN42

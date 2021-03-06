@@ -1,0 +1,10 @@
+inetnum:            172.20.143.0 - 172.20.143.15
+cidr:               172.20.143.0/28
+netname:            RIPNET
+admin-c:            RIPNET-DN42
+tech-c:             RIPNET-DN42
+mnt-by:             RIPNET-MNT
+nserver:            nsa.ripnet.dn42
+nserver:            nsb.ripnet.dn42
+status:             ASSIGNED
+source:             DN42

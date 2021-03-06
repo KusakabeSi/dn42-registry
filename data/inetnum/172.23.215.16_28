@@ -1,0 +1,10 @@
+inetnum:            172.23.215.16 - 172.23.215.31
+cidr:               172.23.215.16/28
+netname:            NCON-NETWORK
+descr:              NCON Network
+country:            AU
+admin-c:            NCON-DN42
+tech-c:             NCON-DN42
+mnt-by:             NCON-MNT
+status:             ASSIGNED
+source:             DN42

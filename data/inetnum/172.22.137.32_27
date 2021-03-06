@@ -1,0 +1,10 @@
+inetnum:            172.22.137.32 - 172.22.137.63
+cidr:               172.22.137.32/27
+netname:            POMOKE-NETWORK
+descr:              inet network of pomoke
+admin-c:            POMOKE-DN42
+tech-c:             POMOKE-DN42
+mnt-by:             POMOKE-MNT
+status:             ASSIGNED
+nserver:            ns-a.pomoke.dn42
+source:             DN42

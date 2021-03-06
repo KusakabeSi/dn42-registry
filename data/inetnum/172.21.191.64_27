@@ -1,0 +1,9 @@
+inetnum:            172.21.191.64 - 172.21.191.95
+cidr:               172.21.191.64/27
+nserver:            ns1.yamakaja.dn42
+netname:            YAMAKAJA-NET SERVICES
+admin-c:            YAMAKAJA-DN42
+tech-c:             YAMAKAJA-DN42
+mnt-by:             YAMAKAJA-MNT
+status:             ASSIGNED
+source:             DN42

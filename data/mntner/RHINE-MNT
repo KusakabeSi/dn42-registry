@@ -1,0 +1,8 @@
+mntner:             RHINE-MNT
+descr:              A Rhine Network
+admin-c:            RHINE-DN42
+tech-c:             RHINE-DN42
+mnt-by:             RHINE-MNT
+source:             DN42
+auth:               pgp-fingerprint 9956FF93055AC3D05DDF525DDEEF71E82BE81A10 
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEnu4T2qMH2Qp4St8hAacmS0+4VzrqLCcZhqbVGP2dQn

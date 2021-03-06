@@ -1,0 +1,10 @@
+inet6num:           fd6a:c707:c3c8:be2a:0000:0000:0000:0000 - fd6a:c707:c3c8:be2a:ffff:ffff:ffff:ffff
+cidr:               fd6a:c707:c3c8:be2a::/64
+netname:            ZERUKS NETWORK
+descr:              Network of Zeruks
+country:            ZA
+admin-c:            ZERUKS-DN42
+tech-c:             ZERUKS-DN42
+mnt-by:             ZERUKS-MNT
+status:             ASSIGNED
+source:             DN42

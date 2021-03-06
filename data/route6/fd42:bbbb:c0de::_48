@@ -1,0 +1,4 @@
+route6:             fd42:bbbb:c0de::/48
+origin:             AS4242420168
+mnt-by:             AX206G-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.53.64 - 172.20.53.95
+cidr:               172.20.53.64/27
+netname:            JSANDERS-NETWORK
+country:            US
+admin-c:            JSANDERS-DN42
+tech-c:             JSANDERS-DN42
+mnt-by:             JSANDERS-MNT
+status:             ASSIGNED
+source:             DN42

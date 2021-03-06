@@ -1,0 +1,160 @@
+#!/bin/sh
+##########################################################################
+#
+# This script will automatically bring the local git branch up to date
+# with any changes in the main registry repository and will then squash
+# the local changes together in to a single commit
+#
+# use './squash-my-commits -S' to sign the result with your pgp key
+#
+##########################################################################
+
+usage()
+{
+    echo "Usage: $0 [options]"
+    echo 'Options:'
+    echo ' -S,      sign the result with your pgp key'
+    echo ' --push,  force push result'
+    echo ' --ssh,   use ssh to fetch from the registry'
+    echo ' --https, use https to fetch from the registry'
+    echo 'Environment variables:'
+    echo ' DN42_REG_URL, set the registry URL to use'
+}
+
+##########################################################################
+# parse arguments
+
+for arg
+do
+    case "$arg" in
+
+        -S)
+            do_sign='-S'
+            ;;
+        --push)
+            do_push=1
+            ;;
+        --ssh)
+            echo 'Forcing use of SSH to fetch from registry'
+            reg_proto="ssh"
+            ;;
+        --https)
+            echo 'Forcing use of HTTPS to fetch from registry'
+            reg_proto="https"
+            ;;
+        --help)
+            usage
+            exit 0
+            ;;
+        *)
+            echo "Unknown option: $arg"
+            usage
+            exit 1
+            ;;
+
+    esac
+done
+
+##########################################################################
+
+# check for dn42registry remote, and add if missing
+git remote -v | grep dn42registry > /dev/null 2>&1
+if [ "$?" -ne 0 ]
+then
+
+    # was the URL specified directly ?
+    if [ -n "$DN42_REG_URL" ]
+    then
+        reg="$DN42_REG_URL"
+    else
+
+        if [ -z "$reg_proto" ]
+        then
+            # if the proto wasn't forced, try to guess it
+            git remote -v | grep 'https' > /dev/null 2>&1
+            if [ $? -eq 0 ]
+            then
+                reg_proto='https'
+            else
+                reg_proto='ssh'
+            fi
+        fi
+
+        case "$reg_proto" in
+            ssh)
+                reg='git@git.dn42.dev:dn42/registry.git'
+                ;;
+            https)
+                reg='https://git.dn42.dev/dn42/registry.git'
+                ;;
+            *)
+                echo 'ERROR: Unknown registry protocol'
+                exit 1
+                ;;
+        esac
+    fi
+
+    echo "Adding dn42registry remote: $reg"
+    git remote add dn42registry "$reg"
+fi
+
+##########################################################################
+
+# ensure the local branch is up to date 
+echo 'Rebasing local changes against the registry master'
+git fetch dn42registry master
+if [ $? -ne 0 ]
+then
+    echo 'ERROR: Failed to fetch registry master branch'
+    echo 'Hint: you can use --ssh/--https to force use of ssh or https'
+    echo 'If all else fails, you can also set the DN42_REG_URL'
+    echo 'environment variable to directly specify the URL to fetch'
+    exit 1
+fi
+
+# fail on errors from here onwards
+set -e
+
+git rebase dn42registry/master
+
+##########################################################################
+
+# find number of local commits
+count=$(git rev-list --count HEAD ^dn42registry/master)
+
+# if there are less then 2 local commits, there's nothing to do
+if [ "$count" -lt 2 ]
+then
+    echo "$count local commits found, no squash is required"
+    exit 0
+fi
+
+echo 'Squashing $count commits ...'
+
+# construct a new comment based on previous commits
+comment="squashed commit:
+
+$(git log --oneline HEAD ^dn42registry/master)"
+
+# and finally squash
+git reset --soft dn42registry/master
+git commit $do_sign -m "$comment"
+
+# show what happened
+echo '---'
+git log -n 1 --show-signature
+echo '---'
+
+##########################################################################
+
+# push changes if requested
+if [ "$do_push" -eq 1 ]
+then
+    echo 'Force pushing changes'
+    git push --force
+else
+    echo 'Remember to push your changes using: git push --force'
+fi
+
+##########################################################################
+# end of file

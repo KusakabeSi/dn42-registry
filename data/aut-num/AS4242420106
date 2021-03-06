@@ -1,0 +1,7 @@
+aut-num:            AS4242420106
+as-name:            AS-AFICS-TRANSIT
+descr:              EH16 transit network
+admin-c:            AFICS-DN42
+tech-c:             AFICS-DN42
+mnt-by:             AFICS-MNT
+source:             DN42

@@ -1,0 +1,13 @@
+inet6num:           fd00:aaaa:0253:0000:0000:0000:0000:0000 - fd00:aaaa:0253:ffff:ffff:ffff:ffff:ffff
+netname:            PLITC-NET
+descr:              Plominski IT Consulting (reserved for lxc-to-go)
+country:            DE
+admin-c:            PLOMINSKI-DN42
+tech-c:             PLOMINSKI-DN42
+mnt-by:             PLOMINSKI-MNT
+nserver:            dns1r1.de.plitc.eu
+nserver:            dns1r2.de.plitc.eu
+nserver:            dns1r3.de.plitc.eu
+status:             ALLOCATED
+cidr:               fd00:aaaa:253::/48
+source:             DN42

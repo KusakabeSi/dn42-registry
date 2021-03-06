@@ -1,0 +1,9 @@
+inetnum:            172.20.168.0 - 172.20.168.63
+netname:            DMESH-DN42
+descr:              Darknet
+country:            ES
+admin-c:            MILLAGUIE-DN42
+tech-c:             DEVNULL-DN42
+mnt-by:             NCN-MNT
+cidr:               172.20.168.0/26
+source:             DN42

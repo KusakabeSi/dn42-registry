@@ -1,0 +1,6 @@
+domain:             munsternet.dn42
+admin-c:            MUNSTERNET-DN42
+tech-c:             MUNSTERNET-DN42
+mnt-by:             MUNSTERNET-MNT
+nserver:            ns1.munsternet.dn42 fd05:a2d1:a767:53::1
+source:             DN42

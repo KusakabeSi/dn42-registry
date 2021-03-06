@@ -1,0 +1,6 @@
+domain:             chaosdorf.dn42
+nserver:            selene.chaosdorf.dn42 172.22.26.9
+mnt-by:             FEUERROT-MNT
+admin-c:            CHAOSDORF-DN42
+tech-c:             CHAOSDORF-DN42
+source:             DN42

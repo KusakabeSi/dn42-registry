@@ -1,0 +1,8 @@
+inet6num:           fd00:9990:0000:0000:0000:0000:0000:0000 - fd00:9990:0000:ffff:ffff:ffff:ffff:ffff
+netname:            TAYLES-NET6
+admin-c:            TAYLES-DN42
+tech-c:             TAYLES-DN42
+mnt-by:             TAYLES-MNT
+status:             ASSIGNED
+cidr:               fd00:9990::/48
+source:             DN42

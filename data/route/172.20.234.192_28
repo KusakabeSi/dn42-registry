@@ -1,0 +1,4 @@
+route:              172.20.234.192/28
+origin:             AS4242422289
+mnt-by:             ALBITZ-MNT
+source:             DN42

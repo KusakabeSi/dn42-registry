@@ -1,0 +1,8 @@
+inet6num:           fd42:c0de:0ca7:0000:0000:0000:0000:0000 - fd42:c0de:0ca7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:c0de:ca7::/48
+netname:            HASHQ-NET-1
+admin-c:            HASHQ-DN42
+tech-c:             HASHQ-DN42
+mnt-by:             HASHQ-MNT
+status:             ASSIGNED
+source:             DN42

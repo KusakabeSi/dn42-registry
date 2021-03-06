@@ -1,0 +1,8 @@
+inet6num:           fde0:ccf0:ac16:0000:0000:0000:0000:0000 - fde0:ccf0:ac16:ffff:ffff:ffff:ffff:ffff
+cidr:               fde0:ccf0:ac16::/48
+netname:            MOON-PROD-NET
+admin-c:            MOON-DN42
+tech-c:             MOON-DN42
+mnt-by:             MOON-MNT
+status:             ASSIGNED
+source:             DN42

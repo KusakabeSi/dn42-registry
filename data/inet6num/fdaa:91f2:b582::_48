@@ -1,0 +1,9 @@
+inet6num:           fdaa:91f2:b582:0000:0000:0000:0000:0000 - fdaa:91f2:b582:ffff:ffff:ffff:ffff:ffff
+netname:            SID-NET
+country:            LU
+admin-c:            SID-DN42
+tech-c:             SID-DN42
+mnt-by:             SID-MNT
+status:             ASSIGNED
+cidr:               fdaa:91f2:b582::/48
+source:             DN42

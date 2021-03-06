@@ -1,0 +1,4 @@
+route6:             fd2d:22:cafe::/48
+origin:             AS4242420013
+mnt-by:             W0H-MNT
+source:             DN42

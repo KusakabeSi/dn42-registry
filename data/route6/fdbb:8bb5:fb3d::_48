@@ -1,0 +1,5 @@
+route6:             fdbb:8bb5:fb3d::/48
+origin:             AS4242420074
+max-length:         48
+mnt-by:             SPLASH-MNT
+source:             DN42

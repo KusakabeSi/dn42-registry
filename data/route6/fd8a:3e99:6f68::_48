@@ -1,0 +1,4 @@
+route6:             fd8a:3e99:6f68::/48
+origin:             AS4242423943
+mnt-by:             SANSOM-MNT
+source:             DN42

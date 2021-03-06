@@ -1,0 +1,10 @@
+inet6num:           fd42:0023:0108:0000:0000:0000:0000:0000 - fd42:0023:0108:ffff:ffff:ffff:ffff:ffff
+netname:            TWI-DN42-V6-ULA
+descr:              Twi DN42 IPv6 ULA
+country:            DE
+admin-c:            TWI-DN42
+tech-c:             TWI-DN42
+mnt-by:             TWI-MNT
+status:             ASSIGNED
+cidr:               fd42:23:108::/48
+source:             DN42

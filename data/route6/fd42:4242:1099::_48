@@ -1,0 +1,5 @@
+route6:             fd42:4242:1099::/48
+origin:             AS4242421099
+max-length:         48
+mnt-by:             OWENSRESEARCH-MNT
+source:             DN42

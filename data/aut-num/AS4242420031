@@ -1,0 +1,12 @@
+aut-num:            AS4242420031
+as-name:            SLOTHLOGISTICS
+remarks:            * Open peering policy, please reach out!
+remarks:            * Peering: ops@slothlogistics.net
+remarks:            * NA Locations: Dallas, Seattle
+remarks:            * EU Locations: Rotterdam, London
+remarks:            * AP Locations: Tokyo
+descr:              The Sloth Backbone
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+source:             DN42

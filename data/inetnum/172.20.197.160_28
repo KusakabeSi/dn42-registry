@@ -1,0 +1,11 @@
+inetnum:            172.20.197.160 - 172.20.197.175
+netname:            NGW-NETWORK
+country:            CZ
+admin-c:            NGW-DN42
+tech-c:             NGW-DN42
+mnt-by:             NGW-MNT
+nserver:            ns1.ngw.dn42
+nserver:            ns2.ngw.dn42
+status:             ASSIGNED
+cidr:               172.20.197.160/28
+source:             DN42

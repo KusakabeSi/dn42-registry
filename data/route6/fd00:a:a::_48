@@ -1,0 +1,5 @@
+route6:             fd00:a:a::/48
+descr:              Route of cjr's network6
+origin:             AS4242420386
+mnt-by:             CJR-MNT
+source:             DN42

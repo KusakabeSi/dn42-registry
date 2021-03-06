@@ -1,0 +1,9 @@
+inet6num:           fdf8:52a8:1314:0000:0000:0000:0000:0000 - fdf8:52a8:1314:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf8:52a8:1314::/48
+netname:            FROGJIANG-IPV6
+admin-c:            FROGJIANG-DN42
+tech-c:             FROGJIANG-DN42
+mnt-by:             FROGJIANG-MNT
+nserver:            ns1.frogjiang.dn42
+status:             ASSIGNED
+source:             DN42

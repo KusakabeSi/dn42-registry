@@ -1,0 +1,8 @@
+inetnum:            172.20.59.160 - 172.20.59.167
+cidr:               172.20.59.160/29
+netname:            MURXMASTER4-NETWORK
+admin-c:            MURXMASTER-DN42
+tech-c:             MURXMASTER-DN42
+mnt-by:             MURXMASTER-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fdc5:ed74:2222:0000:0000:0000:0000:0000 - fdc5:ed74:2222:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:ed74:2222::/48
+netname:            VIRTUE-NETWORK
+country:            BV
+admin-c:            OCTET-DN42
+tech-c:             OCTET-DN42
+mnt-by:             OCTET-MNT
+status:             ASSIGNED
+source:             DN42

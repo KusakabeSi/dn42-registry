@@ -1,0 +1,12 @@
+inet6num:           fd1a:91bf:fc44:0000:0000:0000:0000:0000 - fd1a:91bf:fc44:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1a:91bf:fc44::/48
+netname:            JUNICAST-NETWORK IPv6
+descr:              Junicasts prefix
+country:            DE
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+status:             ASSIGNED
+nserver:            ns0.junicast.dn42
+nserver:            ns1.junicast.dn42
+source:             DN42

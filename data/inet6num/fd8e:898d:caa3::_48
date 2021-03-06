@@ -1,0 +1,8 @@
+inet6num:           fd8e:898d:caa3:0000:0000:0000:0000:0000 - fd8e:898d:caa3:ffff:ffff:ffff:ffff:ffff
+cidr:               fd8e:898d:caa3::/48
+netname:            GYHU-NET-1
+admin-c:            F4ZER-DN42
+tech-c:             F4ZER-DN42
+mnt-by:             F4ZER-MNT
+status:             ASSIGNED
+source:             DN42

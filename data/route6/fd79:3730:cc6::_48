@@ -1,0 +1,4 @@
+route6:             fd79:3730:cc6::/48
+origin:             AS4242421982
+mnt-by:             SCUTTLEBUG-MNT
+source:             DN42

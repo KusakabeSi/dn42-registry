@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:8443:dead:1337:da7a:beef:0000 - fd42:4242:8443:dead:1337:da7a:beef:0001
+netname:            FUSL-DN42-IPV6-IT-MIL-PEERING-FBNW
+descr:              FUSL-DN42-IPV6-IT-MIL-PEERING-FBNW
+country:            IT
+admin-c:            FUSL-DN42
+tech-c:             FUSL-DN42
+mnt-by:             FUSL-MNT
+status:             ASSIGNED
+cidr:               fd42:4242:8443:dead:1337:da7a:beef::/127
+source:             DN42

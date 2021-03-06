@@ -1,0 +1,11 @@
+inet6num:           fde6:d41f:f139:0000:0000:0000:0000:0000 - fde6:d41f:f139:ffff:ffff:ffff:ffff:ffff
+cidr:               fde6:d41f:f139::/48
+netname:            PIIRR-NET
+descr:              Network of piirr
+country:            DE
+admin-c:            PIIRR-DN42
+tech-c:             PIIRR-DN42
+mnt-by:             PIIRR-MNT
+status:             ASSIGNED
+nserver:            ns1.piirr.dn42
+source:             DN42

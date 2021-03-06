@@ -1,0 +1,6 @@
+route6:             fd2f:5119:f2c::/48
+origin:             AS65196
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bremen
+mnt-by:             DN42-MNT
+source:             ICVPN

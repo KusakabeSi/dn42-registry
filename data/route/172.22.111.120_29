@@ -1,0 +1,4 @@
+route:              172.22.111.120/29
+origin:             AS4242420823
+mnt-by:             N4N-MNT
+source:             DN42

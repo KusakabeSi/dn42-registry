@@ -1,0 +1,11 @@
+inet6num:           fd42:d6be:55ed:0000:0000:0000:0000:0000 - fd42:d6be:55ed:ffff:ffff:ffff:ffff:ffff
+netname:            NET-SUNDIN-DN42
+cidr:               fd42:d6be:55ed::/48
+descr:              Sundin's DN42 SE IPv6 Network
+country:            SE
+admin-c:            SUNDIN-DN42
+tech-c:             SUNDIN-DN42
+mnt-by:             SUNDIN-MNT
+status:             ASSIGNED
+policy:             ask
+source:             DN42

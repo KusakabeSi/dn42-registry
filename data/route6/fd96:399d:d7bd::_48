@@ -1,0 +1,5 @@
+route6:             fd96:399d:d7bd::/48
+origin:             AS46997
+max-length:         48
+mnt-by:             NATO-MNT
+source:             DN42

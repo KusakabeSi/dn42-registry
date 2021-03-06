@@ -1,0 +1,5 @@
+route:              172.22.74.0/24
+descr:              stephanj's network
+origin:             AS64674
+mnt-by:             STEPHANJ-DN42-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.2.0/27
+origin:             AS4242422604
+mnt-by:             ERITAP-MNT
+source:             DN42

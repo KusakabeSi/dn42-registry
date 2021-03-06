@@ -1,0 +1,5 @@
+route6:             fdb2:b297:900d::/48
+origin:             AS4242422024
+max-length:         48
+mnt-by:             GCC-MNT
+source:             DN42

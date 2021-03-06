@@ -1,0 +1,7 @@
+mntner:             R33INT-MNT
+admin-c:            R33INT-DN42
+tech-c:             R33INT-DN42
+mnt-by:             R33INT-MNT
+source:             DN42
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF7Z3MeTXjWSpdHViWXklV2N86MSeEh2EQARE8itr3Iq me@r33.space
+auth:               gpg-fingerprint EC6106E673280744C4C18F5A6A31701D1F74BCDA

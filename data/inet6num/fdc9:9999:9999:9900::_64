@@ -1,0 +1,12 @@
+inet6num:           fdc9:9999:9999:9900:0000:0000:0000:0000 - fdc9:9999:9999:9900:ffff:ffff:ffff:ffff
+netname:            IXNET-BACKBONE-V6
+country:            SG
+org:                ORG-IXNET
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+nserver:            ns1.ixnet.dn42
+nserver:            ns2.ixnet.dn42
+status:             ASSIGNED
+cidr:               fdc9:9999:9999:9900::/64
+source:             DN42

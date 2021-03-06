@@ -1,0 +1,9 @@
+inet6num:           fd21:a07e:735e:0000:0000:0000:0000:0000 - fd21:a07e:735e:ffff:ffff:ffff:ffff:ffff
+netname:            ANDI--V6
+descr:              andi- v6
+admin-c:            ANDI-DN42
+tech-c:             ANDI-DN42
+mnt-by:             ANDI--MNT
+status:             ASSIGNED
+cidr:               fd21:a07e:735e::/48
+source:             DN42

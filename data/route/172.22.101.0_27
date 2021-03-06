@@ -1,0 +1,4 @@
+route:              172.22.101.0/27
+origin:             AS4242420152
+mnt-by:             KIBO-MNT
+source:             DN42

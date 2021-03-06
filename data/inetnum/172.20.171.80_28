@@ -1,0 +1,10 @@
+inetnum:            172.20.171.80 - 172.20.171.95
+netname:            PROJECTMORI-NET
+country:            US
+admin-c:            MORI-DN42
+tech-c:             MORI-DN42
+mnt-by:             PROJECTMORI-MNT
+nserver:            ns1.projectmori.dn42
+status:             ASSIGNED
+cidr:               172.20.171.80/28
+source:             DN42

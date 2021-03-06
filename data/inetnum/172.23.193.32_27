@@ -1,0 +1,10 @@
+inetnum:            172.23.193.32 - 172.23.193.63
+cidr:               172.23.193.32/27
+netname:            JUNICAST-NET IPv4
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+status:             ASSIGNED
+nserver:            ns0.junicast.dn42
+nserver:            ns1.junicast.dn42
+source:             DN42

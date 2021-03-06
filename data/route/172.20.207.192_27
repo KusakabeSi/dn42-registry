@@ -1,0 +1,4 @@
+route:              172.20.207.192/27
+origin:             AS4242420737
+mnt-by:             TRUEWINTER-MNT
+source:             DN42

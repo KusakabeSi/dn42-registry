@@ -1,0 +1,11 @@
+inet6num:           fdb1:8565:c849:0000:0000:0000:0000:0000 - fdb1:8565:c849:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb1:8565:c849::/48
+netname:            JOT23-GLOBAL-NET
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+status:             ASSIGNED
+nserver:            ns1.jot23.dn42
+nserver:            ns2.jot23.dn42
+ds-rdata:           62054 8 2 2ff0c3f684128faad0eb0e2a46c071544e4881476c65adecfd6e0d26e965fbb8
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.255.240 - 172.20.255.243
+netname:            ANDI-INSANESPLASH-TRANSFER
+cidr:               172.20.255.240/30
+descr:              andi-
+country:            DE
+admin-c:            ANDI-DN42
+tech-c:             ANDI-DN42
+mnt-by:             ANDI--MNT
+status:             ALLOCATED
+source:             DN42

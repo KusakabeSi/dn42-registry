@@ -1,0 +1,9 @@
+domain:             miki.dn42
+admin-c:            MIKI-DN42
+tech-c:             MIKI-DN42
+mnt-by:             MIKI-MNT
+nserver:            ns1.miki.dn42 fdd8:2631:13ac::1
+nserver:            ns2.miki.dn42 fdd8:2631:13ac::2
+nserver:            ns1.miki.dn42 172.20.159.161
+nserver:            ns2.miki.dn42 172.20.159.162
+source:             DN42

@@ -1,0 +1,46 @@
+aut-num:            AS64720
+as-name:            PRAUSCHER-AS
+remarks:            +---------------------------------------------------+
+remarks:            | AS 64720                                          |
+remarks:            +----------------------+----------------------------+
+remarks:            | border routers       | contact                    |
+remarks:            +----------------------+----------------------------+
+remarks:            | rajesh.prauscher.de  | mail & xmpp:               |
+remarks:            |                      |  prauscher@prauscher.de    |
+remarks:            |                      | hackint: prauscher         |
+remarks:            +----------------------+----------------------------+
+remarks:            | willing to peer! to simplify this process, follow |
+remarks:            | some simple steps:                                |
+remarks:            | 1. check which of the border routers (see list    |
+remarks:            |    above) is closest using e.g. ping              |
+remarks:            | 2. contact me and include at least these          |
+remarks:            |    information:                                   |
+remarks:            |    * my endpoint (result of step 1)               |
+remarks:            |    * your contact information, including at least |
+remarks:            |      your nick, mail and gpg-key                  |
+remarks:            |    * information about the tunnel: IPv4 or        |
+remarks:            |      hostname of your endpoint and internal IPv4  |
+remarks:            |      if you prefer a specific lport for your      |
+remarks:            |      tunnel, please include this information!     |
+remarks:            |    * your as-number for bgp-setup                 |
+remarks:            |    to ease configuration please use the following |
+remarks:            |    format (each field seperated by whitespace):   |
+remarks:            |    NICK MAIL GPG AS YOUR_ENDPOINT INTERNAL IPV4   |
+remarks:            |    [PREFERED PORT]                                |
+remarks:            | 3. i will add configuration for the peering on my |
+remarks:            |    router. this includes generation of linklocal- |
+remarks:            |    IPv6-addresses for the tunnel aswell as the    |
+remarks:            |    static openvpn-key and adding needed settings  |
+remarks:            |    to the router.                                 |
+remarks:            | 4. you will receive a pgp-encrypted mail          |
+remarks:            |    including your openvpn-configuration and the   |
+remarks:            |    IPs to use in BGP-sessions                     |
+remarks:            | 5. you apply the settings, routing should go up   |
+remarks:            |                                                   |
+remarks:            | steps 3 and 4 are executed by a script you can    |
+remarks:            | find at github: http://goo.gl/DL30PA              |
+remarks:            +---------------------------------------------------+
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+source:             DN42

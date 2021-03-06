@@ -1,0 +1,6 @@
+route:              10.185.0.0/16
+origin:             AS65142
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: fulda
+mnt-by:             DN42-MNT
+source:             ICVPN

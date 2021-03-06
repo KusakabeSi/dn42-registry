@@ -1,0 +1,6 @@
+mntner:             ROBOTHAM-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDb8vNdFOpxiWpsZOfwMiL+fHKcn1eZybI8gmfzf98Mk trobotham@trobotham-ThinkPad-11e
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+source:             DN42

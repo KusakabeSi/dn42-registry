@@ -1,0 +1,5 @@
+route6:             fdff:feed:4242::/48
+descr:              Peer with me at telegram @dearroy
+origin:             AS4242420252
+mnt-by:             HEY-MNT
+source:             DN42

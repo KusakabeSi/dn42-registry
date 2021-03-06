@@ -1,0 +1,4 @@
+route:              172.20.246.192/27
+origin:             AS4242423920
+mnt-by:             KEBE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:beef:dead:0000:0000:0000:0000:0000 - fd42:beef:dead:ffff:ffff:ffff:ffff:ffff
+netname:            NET-MARIOS-IPV6-DN42
+descr:              Marios's IPv6 Lab
+country:            IE
+admin-c:            MARIOS-DN42
+tech-c:             MARIOS-DN42
+mnt-by:             MARIOS-MNT
+status:             ASSIGNED
+cidr:               fd42:beef:dead::/48
+source:             DN42

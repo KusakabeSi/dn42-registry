@@ -1,0 +1,6 @@
+route6:             fd68:edba:7c1a::/48
+origin:             AS4242423435
+admin-c:            DCVOIP-DN42
+tech-c:             DCVOIP-DN42
+mnt-by:             DCVOIP-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:ccc:fd::/64
+descr:              Magrathea Laboratories e.V.
+origin:             AS4242422800
+mnt-by:             MAJOR-MNT
+source:             DN42

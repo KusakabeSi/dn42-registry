@@ -1,0 +1,7 @@
+aut-num:            AS64684
+as-name:            FREESTATE-AS
+descr:              freestate AS-Number
+admin-c:            FREESTATE-DN42
+tech-c:             FREESTATE-DN42
+mnt-by:             FREESTATE-MNT
+source:             DN42

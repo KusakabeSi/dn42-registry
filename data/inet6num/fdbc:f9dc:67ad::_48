@@ -1,0 +1,21 @@
+inet6num:           fdbc:f9dc:67ad:0000:0000:0000:0000:0000 - fdbc:f9dc:67ad:ffff:ffff:ffff:ffff:ffff
+netname:            LANTIAN-IPV6
+descr:              Lan Tian's IP space
+remarks:            My network is open to peering; see https://lantian.pub/page/dn42
+remarks:            or directly contact me at b980120@hotmail.com
+country:            CN
+admin-c:            LANTIAN-DN42
+tech-c:             LANTIAN-DN42
+mnt-by:             LANTIAN-MNT
+nserver:            ns-anycast.lantian.dn42
+nserver:            ns1.lantian.dn42
+nserver:            ns2.lantian.dn42
+nserver:            ns3.lantian.dn42
+nserver:            ns4.lantian.dn42
+nserver:            ns5.lantian.dn42
+ds-rdata:           26282 13 1 2082c5567e15bcfe40c95f85d94dcac4f1c8f1e2
+ds-rdata:           26282 13 2 7b4f3b33aba8952869e910669323c12c0fa585fc144a410006f53b795f2b4cb1
+ds-rdata:           26282 13 4 d17e40fdde7f962b3030cb9ae4400fe39aa33b40d75f6681e0b1eee3464df5c3a018cfa805a8fe927a4f704a063554c3
+status:             ASSIGNED
+cidr:               fdbc:f9dc:67ad::/48
+source:             DN42

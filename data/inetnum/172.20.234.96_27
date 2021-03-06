@@ -1,0 +1,10 @@
+inetnum:            172.20.234.96 - 172.20.234.127
+netname:            X539-NET
+descr:              X539 Network
+country:            AU
+admin-c:            X539-DN42
+tech-c:             X539-DN42
+mnt-by:             X539-MNT
+status:             ASSIGNED
+cidr:               172.20.234.96/27
+source:             DN42

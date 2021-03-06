@@ -1,0 +1,7 @@
+mntner:             FRE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArwmY6+s7+tijgdhf10tiu+iBt7XLLooB5hQofkgSGPkXRItP4/Oozz3rO111n+m0ehm/hOpU7Z+jar68Roya1xQ110sGRk9QcPLSoOl3Zhd5kiSN2tmTBT4mMUV3Nj2qbbyRmHR1YHXzUNMJoaJx94khsoY1uulBjGlRrQDgZoEth+Wn2zG0X8SnxN5daELSRJ8xKOcz9AhigkkFz+WZNRDRvrGC2VXvtpWZNE16yN+kWOjvD2i8EBPpZ8qG5yID5L4xfWiKSAH1yoAOfWJYVWXBPnt3f9ynx9upPMU9dvVMqht3mif4mMu0iIL57eEQiliQbrpVw5O/fssL1U139w== racimegreen@gmail.com
+auth:               pgp-fingerprint E37C4D95A03B8191A1C09B0276268605572B1F2C
+admin-c:            RACIME-DN42
+tech-c:             RACIME-DN42
+mnt-by:             FRE-MNT
+source:             DN42

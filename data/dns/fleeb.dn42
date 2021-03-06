@@ -1,0 +1,7 @@
+domain:             fleeb.dn42
+descr:              fleeb network
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+nserver:            ns1.szf.dn42
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             frainz.dn42
+admin-c:            FRAINZ-DN42
+tech-c:             FRAINZ-DN42
+mnt-by:             FRAINZ-MNT
+nserver:            ns1.frainz.dn42 fda9:b90:2fab:1111::11
+source:             DN42

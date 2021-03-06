@@ -1,0 +1,4 @@
+route:              172.21.92.64/27
+origin:             AS4242423419
+mnt-by:             OKASHI-MNT
+source:             DN42

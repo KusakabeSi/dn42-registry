@@ -1,0 +1,8 @@
+inetnum:            172.21.74.32 - 172.21.74.47
+cidr:               172.21.74.32/28
+netname:            PONS-NETWORK
+admin-c:            PONS-DN42
+tech-c:             PONS-DN42
+mnt-by:             PONS-MNT
+status:             ASSIGNED
+source:             DN42

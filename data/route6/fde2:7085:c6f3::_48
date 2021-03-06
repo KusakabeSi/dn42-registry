@@ -1,0 +1,5 @@
+route6:             fde2:7085:c6f3::/48
+origin:             AS4242420195
+max-length:         48
+mnt-by:             TSYMQ00-MNT
+source:             DN42

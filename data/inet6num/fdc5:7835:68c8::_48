@@ -1,0 +1,10 @@
+inet6num:           fdc5:7835:68c8:0000:0000:0000:0000:0000 - fdc5:7835:68c8:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc5:7835:68c8::/48
+netname:            MOO-NETWORK
+descr:              Network of the mooniverse
+country:            DE
+admin-c:            MOO-DN42
+tech-c:             MOO-DN42
+mnt-by:             MOO-MNT
+status:             ASSIGNED
+source:             DN42

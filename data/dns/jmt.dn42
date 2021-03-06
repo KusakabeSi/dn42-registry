@@ -1,0 +1,10 @@
+domain:             jmt.dn42
+descr:              jmt.dn42
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.jmt.dn42 172.23.216.243
+nserver:            ns0.jmt.dn42 fddd:fe2f:de5a:300::53
+nserver:            ns1.jmt.dn42 172.23.216.243
+nserver:            ns1.jmt.dn42 fddd:fe2f:de5a:300::53
+source:             DN42

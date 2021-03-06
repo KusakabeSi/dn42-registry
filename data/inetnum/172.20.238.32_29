@@ -1,0 +1,9 @@
+inetnum:            172.20.238.32 - 172.20.238.39
+cidr:               172.20.238.32/29
+netname:            NESQUIIKHOST-V4-NET-1
+country:            FR
+admin-c:            NESQUIIKHOST-DN42
+tech-c:             NESQUIIKHOST-DN42
+mnt-by:             NESQUIIKHOST-MNT
+status:             ASSIGNED
+source:             DN42

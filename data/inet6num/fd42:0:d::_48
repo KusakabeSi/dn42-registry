@@ -1,0 +1,11 @@
+inet6num:           fd42:0000:000d:0000:0000:0000:0000:0000 - fd42:0000:000d:ffff:ffff:ffff:ffff:ffff
+netname:            HYHIX-NETWORK6
+descr:              hyhIX GD IPv6
+country:            CN
+admin-c:            HYHIX-DN42
+tech-c:             HYHIX-DN42
+mnt-by:             HYHIX-MNT
+nserver:            ns1.hyhix.dn42
+status:             ALLOCATED
+cidr:               fd42:0:d::/48
+source:             DN42

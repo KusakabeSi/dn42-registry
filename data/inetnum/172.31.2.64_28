@@ -1,0 +1,7 @@
+inetnum:            172.31.2.64 - 172.31.2.79
+cidr:               172.31.2.64/28
+netname:            CHAOSVPN-ARGV0X17
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,10 @@
+inet6num:           fd5b:d226:9706:0000:0000:0000:0000:0000 - fd5b:d226:9706:ffff:ffff:ffff:ffff:ffff
+cidr:               fd5b:d226:9706::/48
+netname:            NXTHOST-fd5b-d226-9706_48
+admin-c:            NXTHOST-DN42
+tech-c:             NXTHOST-DN42
+mnt-by:             NXTHOST-MNT
+nserver:            ns1.nxthost.dn42
+nserver:            ns2.nxthost.dn42
+status:             ASSIGNED
+source:             DN42

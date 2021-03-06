@@ -1,0 +1,8 @@
+aut-num:            AS4242420199
+as-name:            IXNET-AS
+descr:              IX Network Studio Backbone
+org:                ORG-IXNET
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+domain:             tshdw.dn42
+descr:              Tshdw DNS
+admin-c:            TSHDW-DN42
+tech-c:             TSHDW-DN42
+mnt-by:             TSHDW-MNT
+nserver:            ns1.tshdw.dn42 172.22.111.112
+nserver:            ns2.tshdw.dn42 172.22.111.113
+nserver:            ns3.tshdw.dn42 172.22.111.114
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             macsbone.dn42
+admin-c:            BERNHARD-DN42
+tech-c:             BERNHARD-DN42
+mnt-by:             MCBONE-MNT
+nserver:            ns.macsbone.dn42 172.21.64.34
+source:             DN42

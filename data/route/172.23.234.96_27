@@ -1,0 +1,5 @@
+route:              172.23.234.96/27
+descr:              PPPINGME 1st Network
+origin:             AS4242421777
+mnt-by:             PPPINGME-MNT
+source:             DN42

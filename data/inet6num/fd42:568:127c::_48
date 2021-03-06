@@ -1,0 +1,12 @@
+inet6num:           fd42:0568:127c:0000:0000:0000:0000:0000 - fd42:0568:127c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:568:127c::/48
+netname:            AOTOKI-NETWORK
+descr:              Network of Aotoki
+country:            TW
+admin-c:            AOTOKI-DN42
+tech-c:             AOTOKI-DN42
+mnt-by:             AOTOKI-MNT
+nserver:            ns1.aotoki.dn42
+nserver:            ns2.aotoki.dn42
+status:             ASSIGNED
+source:             DN42

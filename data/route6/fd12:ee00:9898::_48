@@ -1,0 +1,4 @@
+route6:             fd12:ee00:9898::/48
+origin:             AS4242423640
+mnt-by:             HESSENET-MNT
+source:             DN42

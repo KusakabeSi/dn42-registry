@@ -1,0 +1,8 @@
+as-set:             AS-VITALE-CLIENTS
+descr:              Clients connected behind this network
+members:            AS4242421987
+members:            AS4242423036
+admin-c:            SCARLET-DN42
+tech-c:             SCARLET-DN42
+mnt-by:             VITALE-MNT
+source:             DN42

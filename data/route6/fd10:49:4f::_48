@@ -1,0 +1,4 @@
+route6:             fd10:49:4f::/48
+origin:             AS4242420630
+mnt-by:             SKYNET-MNT
+source:             DN42

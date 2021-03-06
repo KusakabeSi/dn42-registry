@@ -1,0 +1,5 @@
+route6:             fd42:1234:1997::/48
+descr:              CALLUM-ROUTE6
+origin:             AS4242421997
+mnt-by:             CALLUM-MNT
+source:             DN42

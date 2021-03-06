@@ -1,0 +1,11 @@
+inetnum:            172.22.153.0 - 172.22.153.255
+netname:            PRAUSCHER-DARMNET-IP4NET
+descr:              Homenetwork of prauscher in Darmstadt
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               172.22.153.0/24
+source:             DN42
+nserver:            stuart.prauscher.dn42

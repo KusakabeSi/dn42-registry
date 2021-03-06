@@ -1,0 +1,6 @@
+route6:             fdea:d017:225::/48
+origin:             AS4242422250
+mnt-by:             MISAKA-MNT
+admin-c:            MISAKA-DN42
+tech-c:             MISAKA-DN42
+source:             DN42

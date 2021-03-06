@@ -1,0 +1,8 @@
+inetnum:            172.22.110.208 - 172.22.110.215
+cidr:               172.22.110.208/29
+netname:            BJOERRRRN-NETWORK
+admin-c:            BJOERRRRN-DN42
+tech-c:             BJOERRRRN-DN42
+mnt-by:             BJOERRRRN-MNT
+status:             ASSIGNED
+source:             DN42

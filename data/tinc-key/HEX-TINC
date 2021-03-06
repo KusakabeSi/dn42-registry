@@ -1,0 +1,21 @@
+tinc-key:           HEX-TINC
+tinc-host:          hex
+compression:        0
+subnet:             172.22.255.179/32
+tinc-address:       hex.srv.welterde.de
+port:               656
+admin-c:            WELTERDE-DN42
+mnt-by:             DUMMY-MNT
+tinc-file:          
+                    Subnet=172.22.255.179/32
+                    Address=hex.srv.welterde.de
+                    Port=656
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAvDBkK+ctIqrkas+DAgwKMnHA2VA1tLN66JIWNXQjoTHrp0bzyjgJ
+                    80ZoOpHZPqTgkNkdgAwBiRXVxoLMvtJfv2YuibCk/ravUXx/OamKU+6IREwf9jNi
+                    kttE5mdO/N+/3nnT+94ZJKpxJeTFV8S/rjjG1sd7qX/R6EspZvLtlJzC49SCK/3y
+                    BPumRna2a4dd5yfpe9fHUB529uIAfm6r3zUq/IWO936IAwcfjPbDR5d0SBwTuMte
+                    JOovmhbFFAYG6sOTP3eAzcO8ijoSUyIqbzMEV65icXLhSK+Rd0vV+S5JlLvhhlgo
+                    Hl0gwEihSr7jN5SYZBoihkWVibZgMZUXewIDAQAB
+                    -----END RSA PUBLIC KEY-----
+source:             DN42

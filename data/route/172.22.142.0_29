@@ -1,0 +1,5 @@
+route:              172.22.142.0/29
+descr:              QUORRA
+origin:             AS4242422441
+mnt-by:             FCON-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdd9:be:a2a::/48
+origin:             AS4242421177
+max-length:         48
+mnt-by:             A2X-MNT
+source:             DN42

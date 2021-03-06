@@ -1,0 +1,19 @@
+tinc-key:           DEFIANTPORT2-TINC
+tinc-host:          defiantport2
+tinc-file:          
+                    Subnet = 172.23.3.148/32
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIICCgKCAgEAr+1zgiTwY6NXxKg6u99Hk8aSU10ApUAUZj/nVSv0fdfA2XXK6g75
+                    wp399H5cEkFOTkqoXlHjvyEIrMDhr525AJL8cCempmBYqmq1NhY1VlOkk+WZgEQ6
+                    GsdLJXL1rE0zboStyxE3IK5Pv27D+6BnVPYxZlMeD/X/IRcgGNoTwEJgqx14/9I6
+                    L1NaHekZdhS3F8WpkC98sJ2bZ4EECTtktBPTLIGp084dPQ3AySzxsCeBHg7+Apm4
+                    ual+vvB9+B7X/Sq9givRIyfBQZsoEdHohDLqqXxamd05rTu+PreuY1shiaL/sILD
+                    +kPJU46YzchC4Aag9btDmcIj9G/tsdXeCfFppi0ZAE/rYj0PF+mB+raxgQxeGEqn
+                    JF3HSFrKXW773OR4lvhOaM866JawlnQOkXbrrFH7LQhn5/f0OKhloaloR8mJ8D92
+                    pq0a2LH5N+y+idyQ1bhXaLuDDNRfsex+8pwuclgyrfarYqaRDx6vPMTrhKXbYyZr
+                    1Clai4r3tg841iAyYoMy+fG7PozebTyZn6DNKuTwG2Sy050RThr0VSi0wKXME+Lj
+                    3SFgXGESmJcqQEp7EZdOQXBMBX29496QvF9ket+AIplDbe9q8DC6EcRRH3Lahq4Y
+                    GSrO9t7mKa6yEtLDBFbqKDAgwgsxh4l9EDqrMwIVSYbfcWLYgNIOpEsCAwEAAQ==
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

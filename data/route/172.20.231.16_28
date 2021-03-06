@@ -1,0 +1,5 @@
+route:              172.20.231.16/28
+descr:              CK NETWORK
+origin:             AS4242420488
+mnt-by:             CK-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             prooops.dn42
+admin-c:            BODEMS-DN42
+tech-c:             BODEMS-DN42
+mnt-by:             BODEMS-MNT
+nserver:            ns0.bodems.dn42
+nserver:            ns1.bodems.dn42
+source:             DN42

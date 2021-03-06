@@ -1,0 +1,10 @@
+inet6num:           fd42:5aaf:9fe8:0000:0000:0000:0000:0000 - fd42:5aaf:9fe8:ffff:ffff:ffff:ffff:ffff
+netname:            SZF-NET6
+country:            DE
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+nserver:            ns1.szf.dn42
+status:             ASSIGNED
+cidr:               fd42:5aaf:9fe8::/48
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:fdac:1111::/48
+origin:             AS4242421404
+mnt-by:             FILIP-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+inet6num:           fdef:17a0:fff1:0000:0000:0000:0000:0000 - fdef:17a0:fff1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:17a0:fff1::/48
+netname:            ICVPN-ULM
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ulm
+mnt-by:             DN42-MNT
+source:             ICVPN

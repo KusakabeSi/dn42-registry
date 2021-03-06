@@ -1,0 +1,11 @@
+inet6num:           fdc8:dc88:ee11:0000:0000:0000:0000:0000 - fdc8:dc88:ee11:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc8:dc88:ee11::/48
+netname:            SUNNET-NETWORK
+descr:              SUNNET-NETWORK-IPV6
+country:            CN
+admin-c:            SUNNET-DN42
+tech-c:             SUNNET-DN42
+mnt-by:             SUNNET-MNT
+nserver:            ns1.sun.dn42
+status:             ASSIGNED
+source:             DN42

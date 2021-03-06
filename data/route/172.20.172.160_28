@@ -1,0 +1,4 @@
+route:              172.20.172.160/28
+origin:             AS4242423251
+mnt-by:             JUMPNET-MNT
+source:             DN42

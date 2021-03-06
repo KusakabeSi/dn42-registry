@@ -1,0 +1,4 @@
+route:              172.22.137.64/29
+origin:             AS4242421149
+mnt-by:             DEPACH-MNT
+source:             DN42

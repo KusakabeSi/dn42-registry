@@ -1,0 +1,11 @@
+inet6num:           fdac:0f3f:e7e2:0000:0000:0000:0000:0000 - fdac:0f3f:e7e2:ffff:ffff:ffff:ffff:ffff
+netname:            JC-IX-NET-V6-DN42
+descr:              JCHOME DN42 IPv6 PI
+country:            DE
+admin-c:            JCHOME-DN42
+tech-c:             JCHOME-DN42
+mnt-by:             JCIX-MNT
+nserver:            ns1.jchome.dn42
+status:             ASSIGNED
+cidr:               fdac:f3f:e7e2::/48
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0053:0000:0000:0000:0000:0000 - fd10:0127:0053:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:53::/48
+netname:            JerryXiao6
+admin-c:            JERRYXIAO-NEONETWORK
+tech-c:             JERRYXIAO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

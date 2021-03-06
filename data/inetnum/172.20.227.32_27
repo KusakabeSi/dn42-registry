@@ -1,0 +1,8 @@
+inetnum:            172.20.227.32 - 172.20.227.63
+cidr:               172.20.227.32/27
+netname:            CROSS-NETWORK
+admin-c:            HCROSS-DN42
+tech-c:             HCROSS-DN42
+mnt-by:             HCROSS-MNT
+status:             ASSIGNED
+source:             DN42

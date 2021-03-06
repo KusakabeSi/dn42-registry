@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0233:0000:0000:0000:0000:0000 - fd10:0127:0233:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:233::/48
+netname:            Magicneko Asia address occupied
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

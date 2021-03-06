@@ -1,0 +1,7 @@
+mntner:             BAKABYTE-MNT
+descr:              Bakabyte Maintainer
+admin-c:            BAKABYTE-DN42
+tech-c:             BAKABYTE-DN42
+mnt-by:             BAKABYTE-MNT
+auth:               pgp-fingerprint A54B509ECEC3B55AA205979B4E5FFB57078B663B
+source:             DN42

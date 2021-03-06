@@ -1,0 +1,11 @@
+inet6num:           fd42:4242:1099:0000:0000:0000:0000:0000 - fd42:4242:1099:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:1099::/48
+netname:            OWENSRESEARCH-NETWORK
+descr:              OWENSRESEARCH v6 ULA
+country:            US
+admin-c:            OWENSRESEARCH-DN42
+tech-c:             OWENSRESEARCH-DN42
+mnt-by:             OWENSRESEARCH-MNT
+nserver:            ns1.owensresearch.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,15 @@
+aut-num:            AS4242428988
+as-name:            Ovear-Network
+descr:              Ovear's DN42 Network
+remarks:            I am happy to peer with you. OpenVPN
+remarks:            --- Location ---
+remarks:            Los Angeles, USA
+remarks:            Vienna, Austria
+remarks:            --- Contact ---
+remarks:            Telegram          [@ovearj](https://telegram.me/ovearj)
+remarks:            Email             root [at] ovear.info
+remarks:            ---------------
+admin-c:            OVEAR-DN42
+tech-c:             OVEAR-DN42
+mnt-by:             OVEAR-MNT
+source:             DN42

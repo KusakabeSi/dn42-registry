@@ -1,0 +1,8 @@
+inetnum:            172.20.191.96 - 172.20.191.127
+cidr:               172.20.191.96/27
+netname:            PROTOCON-NET
+admin-c:            PROTOCALL7-DN42
+tech-c:             PROTOCALL7-DN42
+mnt-by:             PROTOCON-MNT
+status:             ASSIGNED
+source:             DN42

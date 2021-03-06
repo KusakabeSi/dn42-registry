@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:ee11:0000:0000:0000:0000:0000 - fd10:0127:ee11:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:ee11::/48
+netname:            SUNNET
+admin-c:            SUNNET-NEONETWORK
+tech-c:             SUNNET-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

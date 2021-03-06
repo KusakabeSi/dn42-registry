@@ -1,0 +1,11 @@
+inet6num:           fdb6:70fb:3966:0000:0000:0000:0000:0000 - fdb6:70fb:3966:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb6:70fb:3966::/48
+netname:            JASON-IPV6NETWORK
+descr:              Jason R&D Network
+country:            CN
+admin-c:            JASON-DN42
+tech-c:             JASON-DN42
+mnt-by:             JASON-MNT
+status:             ASSIGNED
+nserver:            ns1.jason.dn42
+source:             DN42

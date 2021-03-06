@@ -1,0 +1,5 @@
+route:              172.23.63.0/24
+descr:              STL-NET
+origin:             AS4242423006
+mnt-by:             STLNET-MNT
+source:             DN42

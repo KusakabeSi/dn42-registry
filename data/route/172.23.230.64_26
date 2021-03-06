@@ -1,0 +1,4 @@
+route:              172.23.230.64/26
+origin:             AS4242421824
+mnt-by:             NETSPEEDY-MNT
+source:             DN42

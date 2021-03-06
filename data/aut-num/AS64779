@@ -1,0 +1,7 @@
+aut-num:            AS64779
+as-name:            THEJETSET-AS
+descr:              Thejetset's DN42 AS
+admin-c:            THEJETSET-DN42
+tech-c:             THEJETSET-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

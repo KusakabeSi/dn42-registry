@@ -1,0 +1,9 @@
+inetnum:            172.20.50.128 - 172.20.50.191
+netname:            SHEOGORATH-0
+country:            DE
+admin-c:            SHEOGORATH-DN42
+tech-c:             SHEOGORATH-DN42
+mnt-by:             SHEOGORATH-MNT
+status:             ALLOCATED
+cidr:               172.20.50.128/26
+source:             DN42

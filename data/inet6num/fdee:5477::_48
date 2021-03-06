@@ -1,0 +1,11 @@
+inet6num:           fdee:5477:0000:0000:0000:0000:0000:0000 - fdee:5477:0000:ffff:ffff:ffff:ffff:ffff
+netname:            CHELLENE-IPV6-NET
+descr:              challene ipv6 net
+country:            MY
+admin-c:            CHALLENE-DN42
+tech-c:             CHALLENE-DN42
+mnt-by:             CHALLENE-MNT
+nserver:            ns.challene.dn42
+status:             ALLOCATED
+cidr:               fdee:5477::/48
+source:             DN42

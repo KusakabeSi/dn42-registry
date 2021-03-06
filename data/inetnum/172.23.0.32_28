@@ -1,0 +1,11 @@
+inetnum:            172.23.0.32 - 172.23.0.47
+netname:            TOMBII-DN42-ANYCAST
+country:            SE
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+nserver:            ns2.tombii.dn42
+status:             ALLOCATED
+cidr:               172.23.0.32/28
+source:             DN42

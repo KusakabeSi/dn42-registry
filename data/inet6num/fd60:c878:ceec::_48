@@ -1,0 +1,9 @@
+inet6num:           fd60:c878:ceec:0000:0000:0000:0000:0000 - fd60:c878:ceec:ffff:ffff:ffff:ffff:ffff
+netname:            DELTA-IP6-2
+country:            DE
+admin-c:            DELTA-DN42
+tech-c:             DELTA-DN42
+mnt-by:             DELTA-MNT
+status:             ASSIGNED
+cidr:               fd60:c878:ceec::/48
+source:             DN42

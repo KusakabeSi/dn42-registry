@@ -1,0 +1,18 @@
+inetnum:            172.20.49.32 - 172.20.49.63
+netname:            MEDIA24-RU-MSK-N4
+country:            RU
+admin-c:            FFAMAX-DN42
+tech-c:             FFAMAX-DN42
+mnt-by:             FFAMAX-MNT
+status:             ASSIGNED
+remarks:            -- 172.20.49.63 - lo42@r1-n4
+remarks:            -- 172.20.49.32/30 - AS4242423827-grawity
+remarks:            -- 172.20.49.36/30 - free
+remarks:            -- 172.20.49.40/30 - AS4242423905 - dn42-de01.weiti.org
+remarks:            -- 172.20.49.44/30 - AS4242423905 - dn42-fr01.weiti.org
+remarks:            -- 172.20.49.48/30 - AS4242423905 - dn42-uk01.weiti.org
+remarks:            -- 172.20.49.52/30 - _______ - ______
+remarks:            -- 172.20.49.56/30 - AS4242421339 - it.dn42.twink0r.net - twink0r
+remarks:            -- 172.20.49.60/30 - 4242427761 - blackhole.qsuscs.de - qsx
+cidr:               172.20.49.32/27
+source:             DN42

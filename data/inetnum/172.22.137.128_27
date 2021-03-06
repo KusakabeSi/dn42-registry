@@ -1,0 +1,10 @@
+inetnum:            172.22.137.128 - 172.22.137.159
+cidr:               172.22.137.128/27
+netname:            CARAK-NET
+descr:              carak.fr DN42 experimental network
+country:            FR
+admin-c:            CARAK-DN42
+tech-c:             CARAK-DN42
+mnt-by:             CARAK-MNT
+status:             ASSIGNED
+source:             DN42

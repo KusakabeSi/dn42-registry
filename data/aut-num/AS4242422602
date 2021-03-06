@@ -1,0 +1,7 @@
+aut-num:            AS4242422602
+as-name:            Global Route Collector
+descr:              https://git.dn42.us/burble/grc
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+mnt-by:             BURBLE-MNT
+source:             DN42

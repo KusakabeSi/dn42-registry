@@ -1,0 +1,4 @@
+route6:             fd42:cde1:1::/48
+origin:             AS4242423967
+mnt-by:             MEB-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.46.80/28
+origin:             AS4242421408
+mnt-by:             BL4CKOUT-MNT
+source:             DN42

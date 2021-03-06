@@ -1,0 +1,6 @@
+domain:             57n.dn42
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             IRL-MNT
+nserver:            ns1.57n.dn42 172.23.153.254
+source:             DN42

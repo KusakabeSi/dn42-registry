@@ -1,0 +1,10 @@
+inetnum:            172.20.31.0 - 172.20.31.63
+netname:            ROBOTHAM-NETWORK
+admin-c:            ROBOTHAM-DN42
+tech-c:             ROBOTHAM-DN42
+mnt-by:             ROBOTHAM-MNT
+nserver:            ns1.robotham.dn42
+nserver:            ns2.robotham.dn42
+status:             ASSIGNED
+cidr:               172.20.31.0/26
+source:             DN42

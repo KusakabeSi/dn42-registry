@@ -1,0 +1,13 @@
+inetnum:            172.22.115.0 - 172.22.115.127
+netname:            NET-DALUNNETA-DN42
+descr:              Dalun DN42 Server Network
+country:            TW
+country:            JP
+country:            HK
+country:            US
+admin-c:            DALUN-DN42
+tech-c:             DALUN-DN42
+status:             ASSIGNED
+mnt-by:             DALUN-MNT
+cidr:               172.22.115.0/25
+source:             DN42

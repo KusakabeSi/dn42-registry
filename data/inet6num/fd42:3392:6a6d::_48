@@ -1,0 +1,12 @@
+inet6num:           fd42:3392:6a6d:0000:0000:0000:0000:0000 - fd42:3392:6a6d:ffff:ffff:ffff:ffff:ffff
+netname:            AVI-DN24NET6
+descr:              AVI-DN24NET6WORK
+country:            IN
+admin-c:            AVI-DN42
+tech-c:             AVI-DN42
+mnt-by:             AVI-MNT
+nserver:            ns1.avi.dn42
+nserver:            ns2.avi.nd42
+status:             ASSIGNED
+cidr:               fd42:3392:6a6d::/48
+source:             DN42

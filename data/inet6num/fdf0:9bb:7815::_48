@@ -1,0 +1,8 @@
+inet6num:           fdf0:09bb:7815:0000:0000:0000:0000:0000 - fdf0:09bb:7815:ffff:ffff:ffff:ffff:ffff
+cidr:               fdf0:9bb:7815::/48
+netname:            RELIGHT-NETWORK
+admin-c:            RELIGHT-DN42
+tech-c:             RELIGHT-DN42
+mnt-by:             RELIGHT-MNT
+status:             ASSIGNED
+source:             DN42

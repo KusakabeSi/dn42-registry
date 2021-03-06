@@ -1,0 +1,9 @@
+domain:             l4rs.dn42
+admin-c:            L4RS-DN42
+tech-c:             L4RS-DN42
+mnt-by:             L4RS-MNT
+nserver:            ns1.l4rs.dn42 172.20.160.61
+nserver:            ns1.l4rs.dn42 fd6e:cab2:576b:53::1
+nserver:            ns2.l4rs.dn42 172.20.160.62
+nserver:            ns2.l4rs.dn42 fd6e:cab2:576b:53::2
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd48:f77d:8142:0000:0000:0000:0000:0000 - fd48:f77d:8142:ffff:ffff:ffff:ffff:ffff
+cidr:               fd48:f77d:8142::/48
+netname:            DEBOERDN2000-NET-1
+admin-c:            DEBOERDN2000-DN42
+tech-c:             DEBOERDN2000-DN42
+mnt-by:             DEBOERDN2000-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+inetnum:            172.31.1.120 - 172.31.1.120
+cidr:               172.31.1.120/32
+netname:            CHAOSVPN-REMUS
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

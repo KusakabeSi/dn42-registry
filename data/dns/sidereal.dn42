@@ -1,0 +1,9 @@
+domain:             sidereal.dn42
+admin-c:            SIDEREAL-DN42
+tech-c:             SIDEREAL-DN42
+mnt-by:             SIDEREAL-MNT
+nserver:            ns1.sidereal.dn42 172.23.199.67
+nserver:            ns1.sidereal.dn42 fdc9:67ea:76a5:1::3
+nserver:            ns2.sidereal.dn42 172.23.199.68
+nserver:            ns2.sidereal.dn42 fdc9:67ea:76a5:1::4
+source:             DN42

@@ -1,0 +1,19 @@
+aut-num:            AS4242423618
+as-name:            Jerry-AS
+descr:              Jerry Network
+remarks:            +-------------------------------------------------+
+remarks:            |                  Jerry Network                  |
+remarks:            +-------------------------------------------------+
+remarks:            | * Peering                                       |
+remarks:            |   - New peers are always welcome                |
+remarks:            |   - Node information and peering policy at      |
+remarks:            |   - https://jerryxiao.cc/dn42                   |
+remarks:            +-------------------------------------------------+
+remarks:            | * Feel free to contact me:                      |
+remarks:            |   - IRC:   JerryXiao@hackint                    |
+remarks:            |   - EMAIL: dn42@mail.jerryxiao.cc               |
+remarks:            +-------------------------------------------------+
+admin-c:            JERRY-DN42
+tech-c:             JERRY-DN42
+mnt-by:             JERRY-MNT
+source:             DN42

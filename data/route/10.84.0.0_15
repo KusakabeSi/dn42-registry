@@ -1,0 +1,6 @@
+route:              10.84.0.0/15
+origin:             AS65038
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: darmstadt
+mnt-by:             DN42-MNT
+source:             ICVPN

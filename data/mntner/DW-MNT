@@ -1,0 +1,6 @@
+mntner:             DW-MNT
+admin-c:            DW-DN42
+tech-c:             DW-DN42
+mnt-by:             DW-MNT
+auth:               pgp-fingerprint 616C0C0CD8CA227A1298BDE12683A93D26F62A04
+source:             DN42

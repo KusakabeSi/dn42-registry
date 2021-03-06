@@ -1,0 +1,9 @@
+inetnum:            172.20.20.96 - 172.20.20.127
+cidr:               172.20.20.96/27
+netname:            SIRMYSTERION-NET
+country:            CA
+admin-c:            SIRMYSTERION-DN42
+tech-c:             SIRMYSTERION-DN42
+mnt-by:             SIRMYSTERION-MNT
+status:             ASSIGNED
+source:             DN42

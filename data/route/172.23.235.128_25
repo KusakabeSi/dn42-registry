@@ -1,0 +1,5 @@
+route:              172.23.235.128/25
+descr:              TBSPACE Network
+origin:             AS76190
+mnt-by:             TBSPACE-MNT
+source:             DN42

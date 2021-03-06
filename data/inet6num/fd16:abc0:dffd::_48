@@ -1,0 +1,8 @@
+inet6num:           fd16:abc0:dffd:0000:0000:0000:0000:0000 - fd16:abc0:dffd:ffff:ffff:ffff:ffff:ffff
+cidr:               fd16:abc0:dffd::/48
+netname:            LANAO-NET-1
+admin-c:            TOBIKRIS-DN42
+tech-c:             TOBIKRIS-DN42
+mnt-by:             LANAO-MNT
+status:             ASSIGNED
+source:             DN42

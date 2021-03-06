@@ -1,0 +1,10 @@
+inetnum:            172.20.135.192 - 172.20.135.199
+netname:            JETBA-NETWORK
+descr:              Network of Nothing
+country:            FI
+admin-c:            JETBA-DN42
+tech-c:             JETBA-DN42
+mnt-by:             JETBA-MNT
+status:             ASSIGNED PI
+cidr:               172.20.135.192/29
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd08:a855:d4c7:0000:0000:0000:0000:0000 - fd08:a855:d4c7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd08:a855:d4c7::/48
+netname:            DW-NETWORK
+descr:              IPv6
+country:            CN
+admin-c:            DW-DN42
+tech-c:             DW-DN42
+mnt-by:             DW-MNT
+status:             ASSIGNED
+source:             DN42

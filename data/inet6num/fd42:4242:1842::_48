@@ -1,0 +1,9 @@
+inet6num:           fd42:4242:1842:0000:0000:0000:0000:0000 - fd42:4242:1842:ffff:ffff:ffff:ffff:ffff
+netname:            NET-WHSINTH-V6
+country:            TH
+admin-c:            WHS-DN42
+tech-c:             WHS-DN42
+mnt-by:             WHS-MNT
+status:             ASSIGNED
+cidr:               fd42:4242:1842::/48
+source:             DN42

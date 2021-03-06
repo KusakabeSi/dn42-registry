@@ -1,0 +1,4 @@
+route6:             fd42:128:26::/48
+origin:             AS4242420128
+mnt-by:             JPLITZA-MNT
+source:             DN42

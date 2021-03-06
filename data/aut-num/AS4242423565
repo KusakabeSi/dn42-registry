@@ -1,0 +1,7 @@
+aut-num:            AS4242423565
+as-name:            BAUDLORD-AS
+descr:              baudlord.dn42 network
+admin-c:            BAUDLORD-DN42
+tech-c:             BAUDLORD-DN42
+mnt-by:             BAUDLORD-MNT
+source:             DN42

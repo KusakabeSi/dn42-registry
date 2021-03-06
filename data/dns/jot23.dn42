@@ -1,0 +1,8 @@
+domain:             jot23.dn42
+admin-c:            TOMKEP-DN42
+tech-c:             TOMKEP-DN42
+mnt-by:             TOMKEP-MNT
+nserver:            ns1.jot23.dn42 fdb1:8565:c849::53
+nserver:            ns2.jot23.dn42 fddd:fdef:2ea1::53
+ds-rdata:           34165 8 2 83d856c14ee8ecb511f8fa881a979411bc13204e98e742a309a85d05ccd50876
+source:             DN42

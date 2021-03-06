@@ -1,0 +1,8 @@
+inetnum:            172.20.2.64 - 172.20.2.95
+cidr:               172.20.2.64/27
+netname:            OLDHOME-NETWORK
+admin-c:            ALANJCASTONGUAY-DN42
+tech-c:             ALANJCASTONGUAY-DN42
+mnt-by:             ALANJCASTONGUAY-MNT
+status:             ASSIGNED
+source:             DN42

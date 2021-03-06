@@ -1,0 +1,7 @@
+aut-num:            AS4242423036
+as-name:            ACCELERATOR-AS
+descr:              Accelerator's corner of the web
+admin-c:            ACCELERATOR-DN42
+tech-c:             ACCELERATOR-DN42
+mnt-by:             ACCELERATOR-MNT
+source:             DN42

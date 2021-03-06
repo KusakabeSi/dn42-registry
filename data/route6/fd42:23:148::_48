@@ -1,0 +1,5 @@
+route6:             fd42:23:148::/48
+descr:              feuerrot v6 Network
+origin:             AS76140
+mnt-by:             FEUERROT-MNT
+source:             DN42

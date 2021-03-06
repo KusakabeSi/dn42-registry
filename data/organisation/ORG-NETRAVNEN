@@ -1,0 +1,8 @@
+organisation:       ORG-NETRAVNEN
+org-name:           NETRAVNEN Organization
+admin-c:            ORG-NETRAVNEN-DN42
+tech-c:             ORG-NETRAVNEN-DN42
+abuse-c:            ORG-NETRAVNEN-DN42
+e-mail:             dn42@netravnen.de
+mnt-by:             NETRAVNEN-MNT
+source:             DN42

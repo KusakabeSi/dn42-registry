@@ -1,0 +1,5 @@
+route:              172.21.99.0/27
+descr:              YAIX
+origin:             AS0
+mnt-by:             IMLONGHAO-MNT
+source:             DN42

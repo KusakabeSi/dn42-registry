@@ -1,0 +1,9 @@
+inetnum:            172.22.148.128 - 172.22.148.159
+cidr:               172.22.148.128/27
+netname:            LLEVI-NETWORK
+admin-c:            LLEVI-DN42
+tech-c:             LLEVI-DN42
+mnt-by:             LLEVI-MNT
+country:            HU
+status:             ASSIGNED
+source:             DN42

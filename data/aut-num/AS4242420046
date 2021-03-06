@@ -1,0 +1,10 @@
+aut-num:            AS4242420046
+as-name:            DELTAMAN-AS
+remarks:            +--------------------------------------------------+
+remarks:            | See AS4242420045 for more info                   |
+remarks:            +--------------------------------------------------+
+descr:              DELTAMAN-AS
+admin-c:            DELTAMAN-DN42
+tech-c:             DELTAMAN-DN42
+mnt-by:             DELTAMAN-MNT
+source:             DN42

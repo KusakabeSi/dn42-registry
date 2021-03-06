@@ -1,0 +1,7 @@
+mntner:             FNK-MNT
+descr:              FNK
+admin-c:            FNK-DN42
+tech-c:             FNK-DN42
+mnt-by:             FNK-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgNfFo4ShupaxmnvydfKkLHB4nOF/DTJFQtlowVLsJk/r3CG8kGF9Iwj0zy92LnDunyw1a4BygHNLWh7Wkno438HlBms5uCbS2oM904DKFjfvCYtj7gtBTmXfO0wp0Geyw3zuwydykput7Q/ItL2mND5P1bKxYgL+BxiuxpvxzjSfJABFWTDjU2tJMIzw7YQIKOPnXYD7+76C9AOhH7WgIq6+Xte48wfO77y1UUl7i/PpyQzqxD+tVFNeoYH17jM4c5Dx3ED4FiKCG7hwOwzm6/26QHYI+R6YjsZssGSyg2MadVhCfmjvcTihr0d/IbIJevT0Rl9av/F5Qi8UlBuuF root@localhost.localdomain
+source:             DN42

@@ -1,0 +1,9 @@
+inet6num:           fd91:9191:9191:0000:0000:0000:0000:0000 - fd91:9191:9191:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:9191:9191::/48
+netname:            NEVLEZAY-NETWORK
+descr:              Network of Ne-vlezay80
+admin-c:            NEVLEZAY-DN42
+tech-c:             NEVLEZAY-DN42
+mnt-by:             NEVLEZAY-MNT
+status:             ASSIGNED
+source:             DN42

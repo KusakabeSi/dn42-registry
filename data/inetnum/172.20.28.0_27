@@ -1,0 +1,11 @@
+inetnum:            172.20.28.0 - 172.20.28.31
+netname:            AGH-NET4
+descr:              agh's ipv4 network
+country:            DE
+admin-c:            AGH-DN42
+tech-c:             AGH-DN42
+mnt-by:             AGH-MNT
+nserver:            ns1.agh.dn42
+status:             ASSIGNED
+cidr:               172.20.28.0/27
+source:             DN42

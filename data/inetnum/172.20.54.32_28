@@ -1,0 +1,12 @@
+inetnum:            172.20.54.32 - 172.20.54.47
+netname:            PER01-KAWAIIHOSTING
+descr:              KawaiiHosting Perth - Bentley
+country:            AU
+admin-c:            VSQUARE-DN42
+tech-c:             VSQUARE-DN42
+mnt-by:             KAWAIIHOSTING-MNT
+nserver:            ns1.kawaiihosting.dn42
+nserver:            ns2.kawaiihosting.dn42
+status:             ALLOCATED
+cidr:               172.20.54.32/28
+source:             DN42

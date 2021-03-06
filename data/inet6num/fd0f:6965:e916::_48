@@ -1,0 +1,8 @@
+inet6num:           fd0f:6965:e916:0000:0000:0000:0000:0000 - fd0f:6965:e916:ffff:ffff:ffff:ffff:ffff
+cidr:               fd0f:6965:e916::/48
+netname:            ONVOX-NET-1
+admin-c:            JVOSS-DN42
+tech-c:             JVOSS-DN42
+mnt-by:             ONVOX-MNT
+status:             ASSIGNED
+source:             DN42

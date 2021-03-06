@@ -1,0 +1,10 @@
+inet6num:           fd92:8ef5:a5db:0000:0000:0000:0000:0000 - fd92:8ef5:a5db:ffff:ffff:ffff:ffff:ffff
+netname:            TURLUX-NET6
+country:            FR
+admin-c:            TURLUX-DN42
+tech-c:             TURLUX-DN42
+mnt-by:             TURLUX-MNT
+nserver:            ns1.turlux.dn42
+status:             ASSIGNED
+cidr:               fd92:8ef5:a5db::/48
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             paste.dn42
+descr:              pastebin
+admin-c:            TOMBII-DN42
+tech-c:             TOMBII-DN42
+mnt-by:             TOMBII-DN42-MNT
+nserver:            ns1.tombii.dn42
+nserver:            ns1.tombii.dn42
+source:             DN42

@@ -1,0 +1,13 @@
+mntner:             SARU-MNT
+auth:               pgp-fingerprint AF3165DE7ABAD04F9250756E9147806CAF74BA71
+remarks:            ## most git commits signed with subkey below ##
+auth:               pgp-fingerprint 58C64BFA32613A034171C73351171AD7A66BDD51
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDc1pzrYuslts5paFWkNHi3n/My7FJmuEJ2MYq6TT97LAX4LHP003WH1p3EqLrfnOCSJv9rZeSB669wLmkyR2ha7GJiXb3u8KeuKnck9dv8GtqYy8hBq0WbvK8tDXNFsJcGLBYvNd0LksUaOCXgx0l6Haz12DLc24WADQC5ZCrIJpybBDfYER/3VAzNkAoPdcrDQ8dUF6ceFq07J6+wRZrWkY1r/XJrdlylaeL9V2upxY9K/EVU9qetAXiVQEFUdp8K/Q/QRJDa4ogDinD56VQrfDTjulnHJVK7q+ENm1hQR2nfPv2+I4quFjfr4MmSdUgaaQBuT7i6vRf/alC9dGMf DN42
+remarks:            ## for DN42 CA ##
+remarks:            pin-sha256:tTVKBPJn+lA2cqR1K7Dn6PHFnW19a29Enw3ixgYlY2E=
+remarks:            ## for ASIX ##
+remarks:            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCru/iumrZ/wNzwK73DKVnas1MCBi1u1DDc+U67bQrXO3o9A9N+6IYG3rQQXMhLNKlUKRhFnLx5iolREB2BhjKlfKNsmY369DZtWi1usnzj3SwKoBXI28OyFwPL9w+X9nqUuMpp26SL1Hj0ZOmy4iKviyDWE29oll6FwfyEkFKwlziDGzNlG9Mlz4BFP2Q5dts4YPJpHxGZddWwEUIPwganNNDYSX0s6EZaQK3VFoyxISuETTFY3pREDriLclDPC54FONmrrAM1rGI8DchK7rQeXEbyk/wNtnYygtEJQAPpU0ErknHNGeYdW/gWmmfjlY7lSI+42jjE1U6mdsU2RwrT DN42-ASIX
+admin-c:            DANNYAAM-DN42
+tech-c:             DANNYAAM-DN42
+mnt-by:             SARU-MNT
+source:             DN42

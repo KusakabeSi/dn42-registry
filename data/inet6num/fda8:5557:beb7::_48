@@ -1,0 +1,11 @@
+inet6num:           fda8:5557:beb7:0000:0000:0000:0000:0000 - fda8:5557:beb7:ffff:ffff:ffff:ffff:ffff
+netname:            LEBHERZ-V6-1
+descr:              LEBHERZ-IPv6-1
+country:            DE
+admin-c:            LEBHERZ-DN42
+tech-c:             LEBHERZ-DN42
+mnt-by:             DE-LEBHERZ-MNT
+nserver:            ns1.lebherz.dn42
+status:             ASSIGNED
+cidr:               fda8:5557:beb7::/48
+source:             DN42

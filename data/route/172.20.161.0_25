@@ -1,0 +1,5 @@
+route:              172.20.161.0/25
+descr:              SUM FOR UA-NET-1
+origin:             AS4242420113
+mnt-by:             SAMODID-MNT
+source:             DN42

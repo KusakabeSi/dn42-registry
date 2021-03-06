@@ -1,0 +1,9 @@
+inetnum:            172.20.251.128 - 172.20.251.255
+netname:            DRIZZLELAKE-NET
+country:            US
+admin-c:            DRIZZLELAKE-DN42
+tech-c:             DRIZZLELAKE-DN42
+mnt-by:             DRIZZLELAKE-MNT
+status:             ASSIGNED
+cidr:               172.20.251.128/25
+source:             DN42

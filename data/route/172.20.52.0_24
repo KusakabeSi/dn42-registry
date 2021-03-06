@@ -1,0 +1,4 @@
+route:              172.20.52.0/24
+origin:             AS4242423723
+mnt-by:             KRSTN-MNT
+source:             DN42

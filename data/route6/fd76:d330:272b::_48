@@ -1,0 +1,5 @@
+route6:             fd76:d330:272b::/48
+origin:             AS4242423925
+max-length:         48
+mnt-by:             RHINE-MNT
+source:             DN42

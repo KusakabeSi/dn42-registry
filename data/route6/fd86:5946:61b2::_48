@@ -1,0 +1,5 @@
+route6:             fd86:5946:61b2::/48
+origin:             AS4242421273
+max-length:         48
+mnt-by:             SPENCERCW-MNT
+source:             DN42

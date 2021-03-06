@@ -1,0 +1,10 @@
+inet6num:           fd91:5e17:f5f8:0000:0000:0000:0000:0000 - fd91:5e17:f5f8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd91:5e17:f5f8::/48
+netname:            JAYWIRE-NET6
+descr:              Jaywire's IPV6 Network
+country:            US
+admin-c:            JAYWIRE-DN42
+tech-c:             JAYWIRE-DN42
+mnt-by:             JAYWIRE-MNT
+status:             ASSIGNED
+source:             DN42

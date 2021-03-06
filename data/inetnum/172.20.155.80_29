@@ -1,0 +1,11 @@
+inetnum:            172.20.155.80 - 172.20.155.87
+netname:            PUDDING-IPV4
+remarks:            PUDDING-NETWORK
+descr:              PUDDING-NETWORK
+country:            CN
+admin-c:            PUDDING-DN42
+tech-c:             PUDDING-DN42
+mnt-by:             PUDDING-MNT
+status:             ASSIGNED
+cidr:               172.20.155.80/29
+source:             DN42

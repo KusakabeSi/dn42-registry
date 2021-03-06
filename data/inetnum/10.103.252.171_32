@@ -1,0 +1,7 @@
+inetnum:            10.103.252.171 - 10.103.252.171
+cidr:               10.103.252.171/32
+netname:            CHAOSVPN-TASTY-BAGELS
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

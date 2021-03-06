@@ -1,0 +1,6 @@
+domain:             nerdinger.dn42
+admin-c:            KRSTN-DN42
+tech-c:             KRSTN-DN42
+mnt-by:             KRSTN-MNT
+nserver:            ns1.nerdinger.dn42 172.20.50.1
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.21.66.32/27
+origin:             AS4242421119
+mnt-by:             TBSO-MNT
+source:             DN42

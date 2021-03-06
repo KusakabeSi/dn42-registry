@@ -1,0 +1,10 @@
+inet6num:           fdcd:eb58:c24a:6798:0000:0000:0000:0000 - fdcd:eb58:c24a:6798:ffff:ffff:ffff:ffff
+nserver:            ns1.voxility.dn42
+cidr:               fdcd:eb58:c24a:6798::/64
+netname:            VOXILITY-V6-NET-1
+country:            US
+admin-c:            VOXILITY-DN42
+tech-c:             VOXILITY-DN42
+mnt-by:             VOXILITY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inet6num:           fd40:aac4:93b0:0000:0000:0000:0000:0000 - fd40:aac4:93b0:ffff:ffff:ffff:ffff:ffff
+cidr:               fd40:aac4:93b0::/48
+netname:            HELCAR-NETWORK
+descr:              IPv6 network of Helcar
+country:            FR
+admin-c:            AEGIAP-DN42
+tech-c:             AEGIAP-DN42
+mnt-by:             HELCAR-MNT
+status:             ASSIGNED
+nserver:            ns1.helcar.dn42
+source:             DN42

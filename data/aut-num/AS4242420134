@@ -1,0 +1,7 @@
+aut-num:            AS4242420134
+as-name:            NOP-TEST
+descr:              nop test
+admin-c:            MC36-DN42
+tech-c:             MC36-DN42
+mnt-by:             NOP-MNT
+source:             DN42

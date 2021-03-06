@@ -1,0 +1,10 @@
+inetnum:            172.20.227.240 - 172.20.227.255
+netname:            TALNET-V4
+country:            DE
+admin-c:            TAL-DN42
+tech-c:             TAL-DN42
+mnt-by:             TAL-MNT
+nserver:            ns.tal.dn42
+status:             ASSIGNED
+cidr:               172.20.227.240/28
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fdd4:42d8:c154::/48
+origin:             AS4242422801
+mnt-by:             PETROS-MNT
+source:             DN42

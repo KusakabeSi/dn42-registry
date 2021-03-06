@@ -1,0 +1,5 @@
+route:              172.20.21.32/27
+descr:              CloudySkies
+origin:             AS4242423581
+mnt-by:             CLOUDYSKIES-MNT
+source:             DN42

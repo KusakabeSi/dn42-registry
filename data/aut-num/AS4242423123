@@ -1,0 +1,7 @@
+aut-num:            AS4242423123
+as-name:            MIID-AS
+descr:              miid.fr ASN
+admin-c:            MIID-DN42
+tech-c:             MIID-DN42
+mnt-by:             MIID-MNT
+source:             DN42

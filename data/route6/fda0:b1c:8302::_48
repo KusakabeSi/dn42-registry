@@ -1,0 +1,4 @@
+route6:             fda0:b1c:8302::/48
+origin:             AS4242421065
+mnt-by:             MARKMCN-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd00:f100:fe00:2e10::/64
+descr:              JMLIBER Home Network
+origin:             AS4242422282
+mnt-by:             JMLIBER-MNT
+source:             DN42

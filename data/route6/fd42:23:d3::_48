@@ -1,0 +1,4 @@
+route6:             fd42:23:d3::/48
+origin:             AS4242420075
+mnt-by:             D3NON-MNT
+source:             DN42

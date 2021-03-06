@@ -1,0 +1,9 @@
+inet6num:           fded:727b:6c7a:0000:0000:0000:0000:0000 - fded:727b:6c7a:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:727b:6c7a::/48
+netname:            ARITE-NETWORK-V6
+country:            NL
+admin-c:            ARITE-DN42
+tech-c:             ARITE-DN42
+mnt-by:             ARITE-MNT
+status:             ASSIGNED
+source:             DN42

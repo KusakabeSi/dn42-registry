@@ -1,0 +1,10 @@
+inetnum:            172.22.43.0 - 172.22.43.255
+netname:            WL-DN42
+descr:              _ wl
+country:            CX
+admin-c:            ALICEWL-DN42
+tech-c:             ALICEWL-DN42
+status:             ASSIGNED
+mnt-by:             ALICE-DN42-MNT
+cidr:               172.22.43.0/24
+source:             DN42

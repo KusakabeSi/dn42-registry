@@ -1,0 +1,4 @@
+route:              172.20.167.176/29
+origin:             AS4242421302
+mnt-by:             PIIRR-MNT
+source:             DN42

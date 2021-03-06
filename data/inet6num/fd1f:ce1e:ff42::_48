@@ -1,0 +1,12 @@
+inet6num:           fd1f:ce1e:ff42:0000:0000:0000:0000:0000 - fd1f:ce1e:ff42:ffff:ffff:ffff:ffff:ffff
+cidr:               fd1f:ce1e:ff42::/48
+netname:            MAX-NETWORK
+descr:              Network of max
+country:            DE
+admin-c:            MAX-DN42
+tech-c:             MAX-DN42
+mnt-by:             MAX-MNT
+status:             ASSIGNED
+nserver:            ns1.max.dn42
+nserver:            ns2.max.dn42
+source:             DN42

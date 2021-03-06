@@ -1,0 +1,8 @@
+domain:             sis.dn42
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+nserver:            ns.sis.dn42 fd42:2950::53
+nserver:            ns.sis.dn42 172.23.234.200
+source:             DN42

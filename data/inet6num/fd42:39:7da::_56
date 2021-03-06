@@ -1,0 +1,8 @@
+inet6num:           fd42:0039:07da:0000:0000:0000:0000:0000 - fd42:0039:07da:00ff:ffff:ffff:ffff:ffff
+cidr:               fd42:39:7da::/56
+netname:            LOINTAIN
+admin-c:            ALEXSHPILKIN-DN42
+tech-c:             ALEXSHPILKIN-DN42
+mnt-by:             LOINTAIN-MNT
+status:             ASSIGNED
+source:             DN42

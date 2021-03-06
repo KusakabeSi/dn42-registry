@@ -1,0 +1,9 @@
+inetnum:            172.20.48.64 - 172.20.48.127
+netname:            ASX-NET
+status:             ALLOCATED PA
+mnt-by:             ASX-MNT
+country:            HU
+admin-c:            MARK-DN42
+tech-c:             MARK-DN42
+cidr:               172.20.48.64/26
+source:             DN42

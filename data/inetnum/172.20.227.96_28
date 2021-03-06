@@ -1,0 +1,9 @@
+inetnum:            172.20.227.96 - 172.20.227.111
+cidr:               172.20.227.96/28
+netname:            D120-NETWORK
+admin-c:            JOMAN-DN42
+tech-c:             JOMAN-DN42
+mnt-by:             JOMAN-MNT
+mnt-by:             LUELISTAN-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.132.96 - 172.20.132.127
+cidr:               172.20.132.96/27
+netname:            BEEFSTEAK-NETWORK
+admin-c:            BEEFSTEAK-DN42
+tech-c:             BEEFSTEAK-DN42
+mnt-by:             BEEFSTEAK-MNT
+status:             ASSIGNED
+source:             DN42

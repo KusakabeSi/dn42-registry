@@ -1,0 +1,8 @@
+aut-num:            AS64665
+as-name:            SCHRODINGER-AS
+descr:              Schrodinger's home AS
+admin-c:            SCHRODINGER-DN42
+tech-c:             SCHRODINGER-DN42
+mnt-by:             SCHRODINGER-MNT
+remarks:            Home
+source:             DN42

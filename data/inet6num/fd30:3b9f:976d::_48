@@ -1,0 +1,10 @@
+inet6num:           fd30:3b9f:976d:0000:0000:0000:0000:0000 - fd30:3b9f:976d:ffff:ffff:ffff:ffff:ffff
+netname:            NET-SIMPLX-V6
+descr:              SimplexLAB, LLC
+country:            NL
+admin-c:            YEGORG-DN42
+tech-c:             YEGORG-DN42
+mnt-by:             YEGORG-MNT
+status:             ALLOCATED
+cidr:               fd30:3b9f:976d::/48
+source:             DN42

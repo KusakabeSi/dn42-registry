@@ -1,0 +1,8 @@
+inetnum:            172.22.116.96 - 172.22.116.127
+cidr:               172.22.116.96/27
+netname:            BRADLEYCLAUS-NETWORK
+admin-c:            BRADLEYCLAUS-DN42
+tech-c:             BRADLEYCLAUS-DN42
+mnt-by:             BRADLEYCLAUS-MNT
+status:             ASSIGNED
+source:             DN42

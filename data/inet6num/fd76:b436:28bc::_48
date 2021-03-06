@@ -1,0 +1,9 @@
+inet6num:           fd76:b436:28bc:0000:0000:0000:0000:0000 - fd76:b436:28bc:ffff:ffff:ffff:ffff:ffff
+netname:            GIGA-IP6-NET
+country:            DE
+admin-c:            GIGA-DN42
+tech-c:             GIGA-DN42
+mnt-by:             GIGA-MNT
+status:             ASSIGNED
+cidr:               fd76:b436:28bc::/48
+source:             DN42

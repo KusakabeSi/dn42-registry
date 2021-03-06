@@ -1,0 +1,6 @@
+mntner:             AIRGAPPED-PERCY-MNT
+admin-c:            AIRGAPPED-PERCY-DN42
+tech-c:             AIRGAPPED-PERCY-DN42
+mnt-by:             AIRGAPPED-PERCY-MNT
+auth:               gpg-fingerprint 497067ADD14A62E32333F619479386C144E56663
+source:             DN42

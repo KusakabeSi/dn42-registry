@@ -1,0 +1,25 @@
+aut-num:            AS4242423778
+as-name:            Q3KNET-AS
+descr:              q3k's network
+admin-c:            Q3K-DN42
+tech-c:             Q3K-DN42
+mnt-by:             Q3K-MNT
+remarks:            =================================
+remarks:            _____ _               _
+remarks:            __ _|___ /| | ___ __   ___| |_
+remarks:            / _` | |_ \| |/ / '_ \ / _ \ __|
+remarks:            | (_| |___) |   <| | | |  __/ |_
+remarks:            \__, |____/|_|\_\_| |_|\___|\__|
+remarks:            |_|
+remarks:            ---------------------------------
+remarks:            Backbone network between DN42,
+remarks:            HSWAN, The Warsaw Hackerspace
+remarks:            and Tog.ie.
+remarks:            e-mail: q3k@q3k.org
+remarks:            ---------------------------------
+remarks:            Presence & Peering:
+remarks:            - LON OpenVPN/IPSec/GRE
+remarks:            - WAW OpenVPN/IPSec/GRE/Physical
+remarks:            - DUB Physical
+remarks:            =================================
+source:             DN42

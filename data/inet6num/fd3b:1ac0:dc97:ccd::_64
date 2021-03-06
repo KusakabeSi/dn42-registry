@@ -1,0 +1,10 @@
+inet6num:           fd3b:1ac0:dc97:0ccd:0000:0000:0000:0000 - fd3b:1ac0:dc97:0ccd:ffff:ffff:ffff:ffff
+netname:            ADRA-NET6
+descr:              Just a random v6 network on here
+country:            FR
+admin-c:            ADRA-DN42
+tech-c:             ADRA-DN42
+mnt-by:             ADRA-MNT
+status:             ASSIGNED
+cidr:               fd3b:1ac0:dc97:ccd::/64
+source:             DN42

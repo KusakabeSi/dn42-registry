@@ -1,0 +1,10 @@
+inetnum:            172.20.35.0 - 172.20.35.255
+netname:            BGPTRACE-AS
+descr:              BGPTRACE
+country:            KR
+admin-c:            BGPTRACE-DN42
+tech-c:             BGPTRACE-DN42
+mnt-by:             BGPTRACE-MNT
+status:             ALLOCATED
+cidr:               172.20.35.0/24
+source:             DN42

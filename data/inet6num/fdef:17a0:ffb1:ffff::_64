@@ -1,0 +1,7 @@
+inet6num:           fdef:17a0:ffb1:ffff:0000:0000:0000:0000 - fdef:17a0:ffb1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdef:17a0:ffb1:ffff::/64
+netname:            ICVPN-BIELEFELD
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bielefeld
+mnt-by:             DN42-MNT
+source:             ICVPN

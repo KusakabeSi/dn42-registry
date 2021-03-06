@@ -1,0 +1,5 @@
+route6:             fd66:5dc9:d084::/48
+origin:             AS4242420299
+max-length:         48
+mnt-by:             YUYUKO-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd10:a433:4b7d:0000:0000:0000:0000:0000 - fd10:a433:4b7d:ffff:ffff:ffff:ffff:ffff
+netname:            LSS233-NEKO6
+descr:              You can contact with me at i@lss233.com
+country:            CN
+admin-c:            LSS233-DN42
+tech-c:             LSS233-DN42
+mnt-by:             LSS233-MNT
+status:             ASSIGNED
+cidr:               fd10:a433:4b7d::/48
+source:             DN42

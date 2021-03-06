@@ -1,0 +1,4 @@
+registry:           AFRINIC
+url:                whois://whois.afrinic.net
+mnt-by:             DN42-MNT
+source:             DN42

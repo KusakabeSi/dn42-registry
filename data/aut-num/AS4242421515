@@ -1,0 +1,7 @@
+aut-num:            AS4242421515
+as-name:            ELNAPPO-AS
+descr:              elnappo AS
+admin-c:            ELNAPPO-DN42
+tech-c:             ELNAPPO-DN42
+mnt-by:             ELNAPPO-MNT
+source:             DN42

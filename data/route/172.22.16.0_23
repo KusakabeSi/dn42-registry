@@ -1,0 +1,5 @@
+route:              172.22.16.0/23
+descr:              Astro at home
+origin:             AS64616
+mnt-by:             ASTRO-MNT
+source:             DN42

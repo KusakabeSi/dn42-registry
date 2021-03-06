@@ -1,0 +1,14 @@
+inetnum:            172.22.188.192 - 172.22.188.223
+netname:            NJIS-TEST
+descr:              NaN
+country:            LI
+country:            CH
+country:            FR
+country:            MD
+country:            DE
+admin-c:            FE42-DN42
+tech-c:             FE42-DN42
+mnt-by:             NJIS-MNT
+status:             ASSIGNED
+cidr:               172.22.188.192/27
+source:             DN42

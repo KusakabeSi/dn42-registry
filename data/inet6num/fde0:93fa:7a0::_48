@@ -1,0 +1,12 @@
+inet6num:           fde0:93fa:07a0:0000:0000:0000:0000:0000 - fde0:93fa:07a0:ffff:ffff:ffff:ffff:ffff
+netname:            IXP-NET-IPV6
+descr:              DN42 IXP Networks
+remarks:            Parent prefix for internet exchange point networks
+remarks:            For use simply allocate sub-prefix and document the sub-prefix in the registry
+remarks:            
+remarks:             usecase are any shared layer-2 domain that more than 2 people can connect to
+policy:             open
+mnt-by:             DN42-MNT
+source:             DN42
+cidr:               fde0:93fa:7a0::/48
+status:             ALLOCATED

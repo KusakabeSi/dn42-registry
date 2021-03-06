@@ -1,0 +1,9 @@
+aut-num:            AS4242421420
+as-name:            CHAOSTREFF-AT-AS
+descr:              chaostreff.at
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+mnt-by:             AFICS-MNT
+mnt-by:             ROTTY-MNT
+source:             DN42

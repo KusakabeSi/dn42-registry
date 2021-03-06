@@ -1,0 +1,8 @@
+inetnum:            172.20.164.96 - 172.20.164.127
+cidr:               172.20.164.96/27
+netname:            ZYRA-NETWORK
+admin-c:            ZYRADYL-DN42
+tech-c:             ZYRADYL-DN42
+mnt-by:             ZYRADYL-MNT
+status:             ASSIGNED
+source:             DN42

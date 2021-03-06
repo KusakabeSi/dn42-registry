@@ -1,0 +1,10 @@
+inetnum:            172.20.16.0 - 172.20.16.127
+cidr:               172.20.16.0/25
+netname:            NAIVE-VM-NETWORK
+country:            US
+admin-c:            ZHAOFENG-DN42
+tech-c:             ZHAOFENG-DN42
+mnt-by:             ZHAOFENG-MNT
+nserver:            ns1.zhaofeng.dn42
+status:             ASSIGNED
+source:             DN42

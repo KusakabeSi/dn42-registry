@@ -1,0 +1,6 @@
+route:              10.172.0.0/16
+origin:             AS65022
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: trier
+mnt-by:             DN42-MNT
+source:             ICVPN

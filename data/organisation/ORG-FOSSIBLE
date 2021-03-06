@@ -1,0 +1,9 @@
+organisation:       ORG-FOSSIBLE
+org-name:           Fossible.sh Community
+descr:              Fossible.sh DN42 Research Network
+e-mail:             hostmaster@fossible.sh
+www:                https://fossible.sh
+admin-c:            DELEGAO-DN42
+tech-c:             DELEGAO-DN42
+mnt-by:             DELEGAO-MNT
+source:             DN42

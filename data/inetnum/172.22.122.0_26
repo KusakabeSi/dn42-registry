@@ -1,0 +1,10 @@
+inetnum:            172.22.122.0 - 172.22.122.63
+netname:            GATUNO-NETWORK
+country:            MX
+admin-c:            GATUNO-DN42
+tech-c:             GATUNO-DN42
+mnt-by:             GATUNO-MNT
+status:             ASSIGNED
+cidr:               172.22.122.0/26
+source:             DN42
+nserver:            ns1.gatuno.dn42

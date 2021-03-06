@@ -1,0 +1,7 @@
+mntner:             ICECAT-MNT
+descr:              NextMoe Intermediate Access Project
+admin-c:            ICECAT-DN42
+tech-c:             ICECAT-DN42
+mnt-by:             ICECAT-MNT
+source:             DN42
+auth:               pgp-fingerprint 9E36EBBCE520F74779F0BFFD9E1B111EDB23F381

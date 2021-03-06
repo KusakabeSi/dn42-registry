@@ -1,0 +1,5 @@
+route:              172.20.205.0/24
+descr:              Lab Net
+origin:             AS4242421049
+mnt-by:             LEVING-MNT
+source:             DN42

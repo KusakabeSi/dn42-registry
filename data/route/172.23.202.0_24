@@ -1,0 +1,4 @@
+route:              172.23.202.0/24
+origin:             AS4242420000
+mnt-by:             PYROPETER-MNT
+source:             DN42

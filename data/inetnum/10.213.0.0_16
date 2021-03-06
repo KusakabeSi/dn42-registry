@@ -1,0 +1,8 @@
+inetnum:            10.213.0.0 - 10.213.255.255
+cidr:               10.213.0.0/16
+netname:            ICVPN-DIEPHOLZ
+nserver:            2.0.213.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: diepholz
+mnt-by:             DN42-MNT
+source:             ICVPN

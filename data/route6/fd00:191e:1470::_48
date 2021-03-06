@@ -1,0 +1,5 @@
+route6:             fd00:191e:1470::/48
+origin:             AS4242421470
+max-length:         48
+mnt-by:             FSTAB-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fded:fd48:3355:0000:0000:0000:0000:0000 - fded:fd48:3355:ffff:ffff:ffff:ffff:ffff
+cidr:               fded:fd48:3355::/48
+netname:            LAGERTONNE-NETWORK
+descr:              Network of Lagertonne
+country:            DE
+admin-c:            LAGERTONNE-DN42
+tech-c:             LAGERTONNE-DN42
+mnt-by:             LAGERTONNE-MNT
+status:             ASSIGNED
+source:             DN42

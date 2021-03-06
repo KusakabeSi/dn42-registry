@@ -1,0 +1,5 @@
+route6:             fd86:bad:11b7::/48
+origin:             AS4242421080
+max-length:         56
+mnt-by:             JLU5-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.21.66.96 - 172.21.66.127
+cidr:               172.21.66.96/27
+netname:            SOASURS-NETWORK
+admin-c:            SOASURS-DN42
+tech-c:             SOASURS-DN42
+mnt-by:             SOASURS-MNT
+status:             ASSIGNED
+source:             DN42

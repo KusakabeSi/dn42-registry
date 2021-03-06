@@ -1,0 +1,4 @@
+route6:             fd5e:6ea6:f0a1::/48
+origin:             AS4242423331
+mnt-by:             CRABNECK-MNT
+source:             DN42

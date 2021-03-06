@@ -1,0 +1,4 @@
+route:              172.20.142.0/27
+origin:             AS4242420886
+mnt-by:             TIGER-MNT
+source:             DN42

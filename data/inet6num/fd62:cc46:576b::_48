@@ -1,0 +1,9 @@
+inet6num:           fd62:cc46:576b:0000:0000:0000:0000:0000 - fd62:cc46:576b:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:cc46:576b::/48
+netname:            SOASURS-NETWORK
+descr:              SOASURS Networks
+admin-c:            SOASURS-DN42
+tech-c:             SOASURS-DN42
+mnt-by:             SOASURS-MNT
+status:             ASSIGNED
+source:             DN42

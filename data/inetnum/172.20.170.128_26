@@ -1,0 +1,10 @@
+inetnum:            172.20.170.128 - 172.20.170.191
+netname:            KWQ-CORE
+descr:              For AS4242420296
+country:            AU
+admin-c:            DAURNIMATOR-DN42
+tech-c:             DAURNIMATOR-DN42
+mnt-by:             DAURNIMATOR-MNT
+status:             ASSIGNED
+cidr:               172.20.170.128/26
+source:             DN42

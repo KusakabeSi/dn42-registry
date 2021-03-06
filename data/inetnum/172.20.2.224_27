@@ -1,0 +1,11 @@
+inetnum:            172.20.2.224 - 172.20.2.255
+netname:            PROBSD-NET
+descr:              PROBSD
+nserver:            ns1.probsd.dn42
+country:            PL
+admin-c:            LEWY-DN42
+tech-c:             LEWY-DN42
+mnt-by:             LEWY-MNT
+status:             ASSIGNED PI
+cidr:               172.20.2.224/27
+source:             DN42

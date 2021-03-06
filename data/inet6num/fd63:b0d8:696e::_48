@@ -1,0 +1,9 @@
+inet6num:           fd63:b0d8:696e:0000:0000:0000:0000:0000 - fd63:b0d8:696e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd63:b0d8:696e::/48
+netname:            CYPHERPUNK-V6-NET-1
+country:            NL
+admin-c:            CYPHERPUNK-DN42
+tech-c:             CYPHERPUNK-DN42
+mnt-by:             CYPHERPUNK-MNT
+status:             ASSIGNED
+source:             DN42

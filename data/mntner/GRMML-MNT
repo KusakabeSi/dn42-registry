@@ -1,0 +1,14 @@
+mntner:             GRMML-MNT
+auth:               pgp-fingerprint 344d6549b6453198943b00bacac9b858f0bac5f1
+remarks:            |MNT Key Pin|
+remarks:            pin-sha256:Z/4keXgkM9tjGyTPfcSjmVSIoJUMWPCLWB9locqCOwg=
+remarks:            pin-sha256:JSBEEUKnMbcrKqVSVXEdCG0khExigRPp4IpXAzULnSo=
+remarks:            pin-sha256:CXs0ErFa+Vbrg6iMY3PiB+O1HAmkp4rDSXVzRySN5I8=
+remarks:            pin-sha256:oTH4eWNEI1eRJBT4kgN0/reGnLuGpRFtdZ1M7Loipd0=
+remarks:            pin-sha256:xu8VWxpzpuBgwcsmQn71MLih3d94glI50QotzoWax3A=
+remarks:            pin-sha256:JSBEEUKnMbcrKqVSVXEdCG0khExigRPp4IpXAzULnSo=
+remarks:            pin-sha256:8Kz7eIOMvG7anXMxQzLZdwadgeUXsd9sKfNKv3mt0Rs=
+admin-c:            GRMML-DN42
+tech-c:             GRMML-DN42
+mnt-by:             GRMML-MNT
+source:             DN42

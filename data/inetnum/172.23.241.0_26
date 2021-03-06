@@ -1,0 +1,11 @@
+inetnum:            172.23.241.0 - 172.23.241.63
+netname:            HEYLAX-IPV4
+remarks:            Peer with me at telegram @dearroy
+descr:              Peer with me at telegram @dearroy
+country:            US
+admin-c:            ROY-DN42
+tech-c:             ROY-DN42
+mnt-by:             HEY-MNT
+status:             ASSIGNED
+cidr:               172.23.241.0/26
+source:             DN42

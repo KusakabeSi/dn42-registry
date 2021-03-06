@@ -1,0 +1,10 @@
+inetnum:            172.22.0.0 - 172.22.0.255
+cidr:               172.22.0.0/24
+netname:            NET-ANY22-DN42
+descr:              Anycast services
+remarks:            * Reserved for anycast services, typically a /32 for each service
+remarks:            * Please ask on the mailing list for allocations in this range
+mnt-by:             DN42-MNT
+policy:             ask
+status:             ALLOCATED
+source:             DN42

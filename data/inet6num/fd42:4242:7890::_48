@@ -1,0 +1,8 @@
+inet6num:           fd42:4242:7890:0000:0000:0000:0000:0000 - fd42:4242:7890:ffff:ffff:ffff:ffff:ffff
+netname:            WOLFLAB
+admin-c:            TW-DN42
+tech-c:             TW-DN42
+mnt-by:             WOLFLAB-MNT
+status:             ASSIGNED
+cidr:               fd42:4242:7890::/48
+source:             DN42

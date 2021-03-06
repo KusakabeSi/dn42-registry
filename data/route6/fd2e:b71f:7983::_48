@@ -1,0 +1,5 @@
+route6:             fd2e:b71f:7983::/48
+origin:             AS4242422752
+max-length:         48
+mnt-by:             DELTADELTA-MNT
+source:             DN42

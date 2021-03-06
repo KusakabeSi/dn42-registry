@@ -1,0 +1,7 @@
+aut-num:            AS4242420589
+as-name:            DEKTHEP-AS
+descr:              AS for DEKTHEP DN42 Network
+admin-c:            DEKTHEP-DN42
+tech-c:             DEKTHEP-DN42
+mnt-by:             DEKTHEP-MNT
+source:             DN42

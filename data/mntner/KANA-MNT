@@ -1,0 +1,7 @@
+mntner:             KANA-MNT
+descr:              kana no network
+admin-c:            KANA-DN42
+tech-c:             KANA-DN42
+mnt-by:             KANA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAjf3f5CeFfKDNR+IoU9jq+fxFVlWWO2e05ctPiLfA8G+fIvq3wHsdqmiEvoVG9iLVBxnGqq8C3LBhjfCgJwLHwaqzbYCrpiCsK/zrIjIp5BKzFgOCwGkpkGo0fOdHVxTWAnJ4jALffldX42HR9cGEMALEd8pCZG9YcJVQkaarqF/WzgyFwJGIMRwmOROEg/TYrGh8r5MGnwvOsVQQeyJ2xuMoJaCekqyEocte5w3wOdT+ZDPSMiClBPnqS+WgPFSwSc47AS2eH+/HqpxG6F7xtbYxDFQtGfQVkzo9VhN/4qCP0sOsuj/Y/uDC+HZqtYCQAzR2e9/Szg0n6zm2fzmajw==
+source:             DN42

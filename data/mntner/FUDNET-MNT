@@ -1,0 +1,6 @@
+mntner:             FUDNET-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLXYSftqLTXmHtwagaxP/X+lKV5ZtwSmgFoSk0kY52EZHdJgV7MDPj2M4nt+AlLXInhNevtEGGs7D0a3P1VA2VvckGCeL4p2KsOcBrCKs85ctHwOCo3eveoXOGg+Jo0HuLgl0zH0tI6uSOW2HfCGg+/7zb3kA5iQW5zGBienAtjvGx48P3r2ENYNdJEu3HcRjuzU7yzIXrD43uRuD4EWg0ud2F6ApG1Kqh/wmqWUstp88S3F1CsS/O5++Id590aRKgChglyqpJOLApaMFQtlS7DMbOcQPgPyki9wp0vmg++NLNgDpk8cJTTK0T8TwEVgmJxK6d4UmngK9e16WzQs6F tim.e.nelson@gmail.com
+admin-c:            FUDNET-DN42
+tech-c:             FUDNET-DN42
+mnt-by:             FUDNET-MNT
+source:             DN42

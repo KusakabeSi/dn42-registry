@@ -1,0 +1,9 @@
+route6:             fd9d:5e08:b9f9:c3::/64
+max-length:         64
+origin:             AS64654
+origin:             AS4242422718
+origin:             AS4242422480
+descr:              CHAOSVPN-ORBITER
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

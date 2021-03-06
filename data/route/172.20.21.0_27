@@ -1,0 +1,4 @@
+route:              172.20.21.0/27
+origin:             AS4242420260
+mnt-by:             INTERACTIVELABS-MNT
+source:             DN42

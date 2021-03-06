@@ -1,0 +1,9 @@
+inet6num:           fd3d:1282:9113:0000:0000:0000:0000:0000 - fd3d:1282:9113:ffff:ffff:ffff:ffff:ffff
+cidr:               fd3d:1282:9113::/48
+netname:            LOR6-DN42-NET-1
+descr:              Red IPv6 LaOtraRed 1
+admin-c:            LMITA-DN42
+tech-c:             LMITA-DN42
+mnt-by:             LAOTRARED-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.23.231.0/26
+descr:              Narnia IPv4 Route
+origin:             AS4242422037
+mnt-by:             NARNIA-MNT
+source:             DN42

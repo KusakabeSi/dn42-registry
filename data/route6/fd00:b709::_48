@@ -1,0 +1,5 @@
+route6:             fd00:b709::/48
+descr:              BT709 Communications
+origin:             AS4242421103
+mnt-by:             BT709-MNT
+source:             DN42

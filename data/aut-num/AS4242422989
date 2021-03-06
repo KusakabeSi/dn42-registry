@@ -1,0 +1,7 @@
+aut-num:            AS4242422989
+as-name:            CDR-AS1
+descr:              Cas de Reuver AS1
+admin-c:            CDR-DN42
+tech-c:             CDR-DN42
+mnt-by:             CDR-MNT
+source:             DN42

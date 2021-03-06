@@ -1,0 +1,11 @@
+inetnum:            172.22.118.0 - 172.22.118.31
+netname:            LINUTUX-NETWORK
+descr:              Primary
+country:            DE
+admin-c:            LINUTUX-DN42
+tech-c:             LINUTUX-DN42
+mnt-by:             LINUTUX-MNT
+nserver:            linutux.dn42
+status:             ASSIGNED
+cidr:               172.22.118.0/27
+source:             DN42

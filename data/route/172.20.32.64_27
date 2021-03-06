@@ -1,0 +1,4 @@
+route:              172.20.32.64/27
+origin:             AS4242420640
+mnt-by:             CKL-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+role:               RoutedBits Networks
+nic-hdl:            ORG-ROUTEDBITS-DN42
+abuse-mailbox:      dn42@onvox.net
+org:                ORG-ROUTEDBITS
+admin-c:            JVOSS-DN42
+admin-c:            CPAGE-DN42
+tech-c:             JVOSS-DN42
+tech-c:             CPAGE-DN42
+mnt-by:             ROUTEDBITS-MNT
+source:             DN42

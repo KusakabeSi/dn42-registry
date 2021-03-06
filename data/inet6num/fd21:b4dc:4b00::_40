@@ -1,0 +1,7 @@
+inet6num:           fd21:b4dc:4b00:0000:0000:0000:0000:0000 - fd21:b4dc:4bff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd21:b4dc:4b00::/40
+netname:            ICVPN-STUTTGART
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: stuttgart
+mnt-by:             DN42-MNT
+source:             ICVPN

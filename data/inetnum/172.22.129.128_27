@@ -1,0 +1,10 @@
+inetnum:            172.22.129.128 - 172.22.129.159
+cidr:               172.22.129.128/27
+netname:            BAKKERNET-MILANO
+descr:              Bakker Network in Milano, Italy
+country:            IT
+admin-c:            RICK-DN42
+tech-c:             RICK-DN42
+mnt-by:             RICK-MNT
+status:             ASSIGNED
+source:             DN42

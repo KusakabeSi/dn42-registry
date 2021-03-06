@@ -1,0 +1,10 @@
+inetnum:            172.20.39.32 - 172.20.39.63
+cidr:               172.20.39.32/27
+netname:            NFEED-NETWORK
+admin-c:            NFEED-DN42
+tech-c:             NFEED-DN42
+mnt-by:             NFEED-MNT
+nserver:            ns1.nfeed.dn42
+nserver:            ns2.nfeed.dn42
+status:             ASSIGNED
+source:             DN42

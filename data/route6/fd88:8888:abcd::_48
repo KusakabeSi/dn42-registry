@@ -1,0 +1,4 @@
+route6:             fd88:8888:abcd::/48
+origin:             AS4242420448
+mnt-by:             FRYGUY-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.47.128/28
+origin:             AS4242420210
+mnt-by:             WHMCR-MNT
+source:             DN42

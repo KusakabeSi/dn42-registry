@@ -1,0 +1,5 @@
+route6:             fdc8:6f52:c4fe::/48
+origin:             AS4242422327
+max-length:         48
+mnt-by:             XELZA-MNT
+source:             DN42

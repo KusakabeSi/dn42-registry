@@ -1,0 +1,10 @@
+inetnum:            172.22.101.80 - 172.22.101.95
+netname:            PHAUX-UNO-DN42-NET
+descr:              Phaux.uno DN42 IPv4 Space
+country:            US
+admin-c:            PHAUX-DN42
+tech-c:             PHAUX-DN42
+mnt-by:             PHAUX-MNT
+status:             ALLOCATED
+cidr:               172.22.101.80/28
+source:             DN42

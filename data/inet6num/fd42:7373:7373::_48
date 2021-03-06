@@ -1,0 +1,12 @@
+inet6num:           fd42:7373:7373:0000:0000:0000:0000:0000 - fd42:7373:7373:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:7373:7373::/48
+netname:            PZWA-NETWORK
+descr:              Network of KaoniLasi
+country:            CN
+admin-c:            PZWA-DN42
+tech-c:             PZWA-DN42
+mnt-by:             PZWA-MNT
+nserver:            ns1.pzwa.dn42
+nserver:            ns2.pzwa.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             hampton.dn42
+admin-c:            HAMPTON-DN42
+tech-c:             HAMPTON-DN42
+mnt-by:             HAMMYNET-MNT
+nserver:            blue.ns.hampton.dn42 172.21.67.146
+nserver:            blue.ns.hampton.dn42 fdae:43fb:3ab7::53
+source:             DN42

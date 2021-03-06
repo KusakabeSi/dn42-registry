@@ -1,0 +1,10 @@
+inet6num:           fd18:18d9:adde:0000:0000:0000:0000:0000 - fd18:18d9:adde:003f:ffff:ffff:ffff:ffff
+netname:            ATR-IPV6-ASIA
+descr:              ATR Asia Transit
+country:            CN
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+status:             ASSIGNED
+cidr:               fd18:18d9:adde::/58
+source:             DN42

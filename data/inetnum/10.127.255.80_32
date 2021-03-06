@@ -1,0 +1,8 @@
+inetnum:            10.127.255.80 - 10.127.255.80
+cidr:               10.127.255.80/32
+netname:            NeoSystem
+admin-c:            NEO-CHEN-NEONETWORK
+tech-c:             NEO-CHEN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,9 @@
+inetnum:            172.22.128.128 - 172.22.128.159
+cidr:               172.22.128.128/27
+netname:            PESCO-NETWORK
+descr:              pesco's fancy pants personal network
+admin-c:            PESCO-DN42
+tech-c:             PESCO-DN42
+mnt-by:             PESCO-MNT
+status:             ASSIGNED
+source:             DN42

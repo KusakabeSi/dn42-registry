@@ -1,0 +1,8 @@
+inet6num:           fd42:76b8:1c05:0000:0000:0000:0000:0000 - fd42:76b8:1c05:ffff:ffff:ffff:ffff:ffff
+netname:            WOPR Production
+admin-c:            WISP-DN42
+tech-c:             WISP-DN42
+mnt-by:             WISP-MNT
+status:             ASSIGNED
+cidr:               fd42:76b8:1c05::/48
+source:             DN42

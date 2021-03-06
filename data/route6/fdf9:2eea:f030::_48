@@ -1,0 +1,5 @@
+route6:             fdf9:2eea:f030::/48
+origin:             AS4242422004
+max-length:         56
+mnt-by:             IWASINNAMUKNOW-MNT
+source:             DN42

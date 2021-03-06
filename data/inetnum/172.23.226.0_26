@@ -1,0 +1,12 @@
+inetnum:            172.23.226.0 - 172.23.226.63
+cidr:               172.23.226.0/26
+netname:            ILEMONRAIN-DN42-NET
+country:            CN
+descr:              iLemonrain DN42 Network
+status:             ASSIGNED
+admin-c:            ILEMONRAIN-DN42
+tech-c:             ILEMONRAIN-DN42
+mnt-by:             ILEMONRAIN-MNT
+nserver:            ns1.ilemonrain.dn42
+nserver:            ns2.ilemonrain.dn42
+source:             DN42

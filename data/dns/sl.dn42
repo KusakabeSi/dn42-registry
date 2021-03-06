@@ -1,0 +1,8 @@
+domain:             sl.dn42
+descr:              SlothLogistics Main Domain
+admin-c:            CHARLESTHESLOTH-DN42
+tech-c:             CHARLESTHESLOTH-DN42
+mnt-by:             SLOTHLOGISTICS-MNT
+nserver:            ns1.sl.dn42 172.22.150.126
+nserver:            ns2.sl.dn42 172.22.150.114
+source:             DN42

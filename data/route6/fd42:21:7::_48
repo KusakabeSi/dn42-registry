@@ -1,0 +1,5 @@
+route6:             fd42:21:7::/48
+descr:              fmauNeko's V6 ROA
+origin:             AS4242422107
+mnt-by:             FMAUNEKO-MNT
+source:             DN42

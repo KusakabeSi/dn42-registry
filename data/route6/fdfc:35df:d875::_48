@@ -1,0 +1,5 @@
+route6:             fdfc:35df:d875::/48
+origin:             AS4242421592
+max-length:         48
+mnt-by:             CAMELUSFERUS-MNT
+source:             DN42

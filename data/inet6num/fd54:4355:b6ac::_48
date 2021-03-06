@@ -1,0 +1,10 @@
+inet6num:           fd54:4355:b6ac:0000:0000:0000:0000:0000 - fd54:4355:b6ac:ffff:ffff:ffff:ffff:ffff
+cidr:               fd54:4355:b6ac::/48
+netname:            BLING-NETWORK-IPV6
+descr:              Bling Network IPV6 Block
+country:            CN
+admin-c:            PAIZI-DN42
+tech-c:             PAIZI-DN42
+mnt-by:             BLING-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+mntner:             BURBLE-MNT
+descr:              burble.dn42 https://dn42.burble.com/
+admin-c:            BURBLE-DN42
+tech-c:             BURBLE-DN42
+auth:               pgp-fingerprint 1C08F282095CCDA432AECC657B9FE8780CFB6593
+remarks:            pin-sha256:wvRr/PBVJzuHVpVOhP4Uqi324nYIixppDXIRas4jd8s=
+mnt-by:             BURBLE-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.22.130.0 - 172.22.130.7
+cidr:               172.22.130.0/29
+netname:            XXSLDN-LAB-V4-2
+country:            DE
+admin-c:            XXSL-DN42
+tech-c:             XXSL-DN42
+mnt-by:             XXSLDN-MNT
+nserver:            ns.xxsl.dn42
+status:             ASSIGNED
+source:             DN42

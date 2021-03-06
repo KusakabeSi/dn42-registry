@@ -1,0 +1,7 @@
+mntner:             RC-MNT
+descr:              Maintainer for HOMELAB
+admin-c:            RC-DN42
+auth:               pgp-fingerprint 48FD4023EBF88F6A42C45220D9A61D8533F4703E
+tech-c:             RC-DN42
+mnt-by:             RC-MNT
+source:             DN42

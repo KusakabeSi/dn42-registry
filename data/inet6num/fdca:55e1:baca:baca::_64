@@ -1,0 +1,7 @@
+inet6num:           fdca:55e1:baca:baca:0000:0000:0000:0000 - fdca:55e1:baca:baca:ffff:ffff:ffff:ffff
+cidr:               fdca:55e1:baca:baca::/64
+netname:            ICVPN-KASSEL
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kassel
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,4 @@
+route:              172.23.223.96/27
+origin:             AS4242423794
+mnt-by:             MATTCODE-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.163.128 - 172.20.163.143
+netname:            MILKCRATE-NETWORK
+country:            US
+admin-c:            LINKLER-DN42
+tech-c:             LINKLER-DN42
+mnt-by:             LINKLER-MNT
+status:             ASSIGNED
+cidr:               172.20.163.128/28
+source:             DN42

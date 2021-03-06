@@ -1,0 +1,8 @@
+domain:             kilobyte.dn42
+descr:              main domain
+admin-c:            KILOBYTE-DN42
+tech-c:             KILOBYTE-DN42
+mnt-by:             KILOBYTE-MNT
+nserver:            ns1.kilobyte.dn42 172.23.100.170
+nserver:            ns1.kilobyte.dn42 fd33:9493:a6ed::170
+source:             DN42

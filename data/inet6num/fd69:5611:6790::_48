@@ -1,0 +1,10 @@
+inet6num:           fd69:5611:6790:0000:0000:0000:0000:0000 - fd69:5611:6790:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:5611:6790::/48
+netname:            Q1X-NETWORK
+descr:              Network of Q1X
+country:            US
+admin-c:            Q1X-DN42
+tech-c:             Q1X-DN42
+mnt-by:             Q1X-MNT
+status:             ASSIGNED
+source:             DN42

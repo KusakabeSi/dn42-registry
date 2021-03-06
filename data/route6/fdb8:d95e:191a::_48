@@ -1,0 +1,5 @@
+route6:             fdb8:d95e:191a::/48
+origin:             AS4242422866
+max-length:         48
+mnt-by:             OCEANLY-MNT
+source:             DN42

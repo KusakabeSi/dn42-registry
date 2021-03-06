@@ -1,0 +1,4 @@
+route6:             fd70:726f:662e::/48
+origin:             AS4242421225
+mnt-by:             MORIARTY-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+aut-num:            AS4242420035
+as-name:            V2-AS
+descr:              V2 Core network
+org:                ORG-V2
+admin-c:            ALISTAIR-DN42
+tech-c:             ALISTAIR-DN42
+remarks:            Peering: a@v2.pw
+mnt-by:             V2-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.22.189.112/29
+origin:             AS209557
+origin:             AS4242420507
+mnt-by:             YI-MNT
+mnt-by:             HONDA-MNT
+source:             DN42

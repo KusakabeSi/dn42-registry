@@ -1,0 +1,7 @@
+aut-num:            AS64754
+as-name:            ZGILES-HN-AS
+descr:              ZGILES HOME NETWORK
+admin-c:            ZGILES-DN42
+tech-c:             ZGILES-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

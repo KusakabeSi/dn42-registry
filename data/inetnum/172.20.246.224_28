@@ -1,0 +1,10 @@
+inetnum:            172.20.246.224 - 172.20.246.239
+netname:            FNORDEINGANG-NETWORK
+country:            DE
+org:                ORG-FNORDEINGANG
+admin-c:            BUNSEN-DN42
+tech-c:             BUNSEN-DN42
+mnt-by:             BUNSEN-MNT
+status:             ASSIGNED
+cidr:               172.20.246.224/28
+source:             DN42

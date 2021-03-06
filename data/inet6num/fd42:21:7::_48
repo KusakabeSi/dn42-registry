@@ -1,0 +1,11 @@
+inet6num:           fd42:0021:0007:0000:0000:0000:0000:0000 - fd42:0021:0007:ffff:ffff:ffff:ffff:ffff
+netname:            FMAUNEKO-NET6
+descr:              fmauNeko's V6 Network
+country:            FR
+admin-c:            FMAUNEKO-DN42
+tech-c:             FMAUNEKO-DN42
+mnt-by:             FMAUNEKO-MNT
+nserver:            ns1.dissidence.dn42
+status:             ASSIGNED
+cidr:               fd42:21:7::/48
+source:             DN42

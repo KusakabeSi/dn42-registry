@@ -1,0 +1,10 @@
+inet6num:           fd36:4184:7cc9:0000:0000:0000:0000:0000 - fd36:4184:7cc9:ffff:ffff:ffff:ffff:ffff
+netname:            BERKAY-IP6-NET
+country:            NL
+admin-c:            BERKAY-DN42
+tech-c:             BERKAY-DN42
+mnt-by:             BERKAY-MNT
+nserver:            ns1.cagir.dn42
+status:             ALLOCATED
+cidr:               fd36:4184:7cc9::/48
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            10.127.13.0 - 10.127.13.255
+cidr:               10.127.13.0/24
+netname:            Ndoskrnls LAN
+admin-c:            NDOSKRNL-NEONETWORK
+tech-c:             NDOSKRNL-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

@@ -1,0 +1,9 @@
+domain:             tiger.dn42
+admin-c:            TIGER-DN42
+tech-c:             TIGER-DN42
+mnt-by:             TIGER-MNT
+nserver:            ns1.tiger.dn42 172.20.142.1
+nserver:            ns1.tiger.dn42 fd7c:dfc0:d347::1
+nserver:            ns2.tiger.dn42 172.20.142.2
+nserver:            ns2.tiger.dn42 fd7c:dfc0:d347::2
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.21.120.0/24
+origin:             AS4242422058
+max-length:         27
+mnt-by:             RMLHUK-MNT
+source:             DN42

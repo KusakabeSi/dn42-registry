@@ -1,0 +1,11 @@
+inetnum:            172.23.2.0 - 172.23.2.31
+cidr:               172.23.2.0/27
+netname:            ERITAP-IPV4-NET-1
+country:            NL
+nserver:            ns.eritap.dn42
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+org:                ORG-ERITAP
+status:             ASSIGNED
+source:             DN42

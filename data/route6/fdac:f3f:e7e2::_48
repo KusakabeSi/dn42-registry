@@ -1,0 +1,5 @@
+route6:             fdac:f3f:e7e2::/48
+descr:              v6 jc IX
+origin:             AS4242422333
+mnt-by:             JCIX-MNT
+source:             DN42

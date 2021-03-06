@@ -1,0 +1,8 @@
+aut-num:            AS4242420330
+as-name:            NL-ZUID-ROUTE-SERVER
+org:                ORG-NL-ZUID
+descr:              NL Zuid Route Server
+admin-c:            NL-ZUID-DN42
+tech-c:             NL-ZUID-DN42
+mnt-by:             MARLINC-MNT
+source:             DN42

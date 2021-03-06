@@ -1,0 +1,18 @@
+aut-num:            AS4242423687
+as-name:            IMOTO-JP-AS
+descr:              IMOTO NETWORK JAPAN BRANCH AS
+admin-c:            KINO-DN42
+tech-c:             KINO-DN42
+mnt-by:             IMOTO-MNT
+remarks:            ---------------------------------
+remarks:            Peering requests welcome !
+remarks:            - preferring OpenVPN TAP (Layer2) tunnels
+remarks:            - IPv4 and IPv6
+remarks:            ---------------------------------
+remarks:            We also maintain those networks:
+remarks:            AS64686 IMOTO NETWORK BACKBONE
+remarks:            AS4242423687 IMOTO NETWORK JAPAN BRANCH AS
+remarks:            AS4242423688 IMOTO NETWORK CHINA BRANCH AS
+remarks:            AS4242423689 IMOTO NETWORK UNITED STATES BRANCH AS
+remarks:            ---------------------------------
+source:             DN42

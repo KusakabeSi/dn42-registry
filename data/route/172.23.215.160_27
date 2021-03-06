@@ -1,0 +1,5 @@
+route:              172.23.215.160/27
+descr:              nop
+origin:             AS4242421955
+mnt-by:             NOP-MNT
+source:             DN42

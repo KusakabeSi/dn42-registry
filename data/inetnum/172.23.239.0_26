@@ -1,0 +1,12 @@
+inetnum:            172.23.239.0 - 172.23.239.63
+cidr:               172.23.239.0/26
+netname:            AMNET-NETWORK
+descr:              Network of Dekinw for Server in node-tha1
+country:            TH
+admin-c:            AMNET-DN42
+tech-c:             AMNET-DN42
+mnt-by:             AMNET-MNT
+nserver:            ns1.amnet.dn42
+nserver:            ns2.amnet.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+domain:             eban.dn42
+admin-c:            EBAN-DN42
+tech-c:             EBAN-DN42
+mnt-by:             EBAN-MNT
+nserver:            ns1.eban.dn42 fdcf:cafe:eba::1
+source:             DN42

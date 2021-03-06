@@ -1,0 +1,4 @@
+route:              172.22.137.128/27
+origin:             AS4242421208
+mnt-by:             CARAK-MNT
+source:             DN42

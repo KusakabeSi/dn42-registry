@@ -1,0 +1,7 @@
+domain:             tcdue.dn42
+admin-c:            TCDUE-DN42
+tech-c:             TCDUE-DN42
+mnt-by:             TCDUE-MNT
+nserver:            dns.tcdue.dn42 172.20.191.65
+nserver:            dns.tcdue.dn42 fd42:fe56:7891::1
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.178.64 - 172.22.178.127
+netname:            TRILADER-NET
+descr:              dn42 IP space for TRILADER
+country:            DE
+admin-c:            TRILADER-DN42
+tech-c:             TRILADER-DN42
+mnt-by:             RMLH-MNT
+mnt-by:             TRILADER-MNT
+status:             ASSIGNED
+cidr:               172.22.178.64/26
+source:             DN42

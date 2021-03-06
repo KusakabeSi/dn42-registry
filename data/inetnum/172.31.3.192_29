@@ -1,0 +1,7 @@
+inetnum:            172.31.3.192 - 172.31.3.199
+cidr:               172.31.3.192/29
+netname:            CHAOSVPN-SPLINTER
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

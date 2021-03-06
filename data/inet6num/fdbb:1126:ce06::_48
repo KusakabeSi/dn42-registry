@@ -1,0 +1,11 @@
+inet6num:           fdbb:1126:ce06:0000:0000:0000:0000:0000 - fdbb:1126:ce06:ffff:ffff:ffff:ffff:ffff
+cidr:               fdbb:1126:ce06::/48
+netname:            HACKALOT-NETWORK
+descr:              Hackalot is a hackerspace located in Eindhoven, NL
+country:            NL
+admin-c:            XESXEN-DN42
+tech-c:             XESXEN-DN42
+mnt-by:             XESXEN-MNT
+status:             ASSIGNED
+org:                ORG-HACKALOT
+source:             DN42

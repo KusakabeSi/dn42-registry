@@ -1,0 +1,4 @@
+route:              172.20.34.0/26
+origin:             AS4242423966
+mnt-by:             TI-MNT
+source:             DN42

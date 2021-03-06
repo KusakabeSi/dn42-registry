@@ -1,0 +1,5 @@
+route6:             fd8f:e080:bfad::/48
+origin:             AS4242423337
+max-length:         48
+mnt-by:             PERKSCO-MNT
+source:             DN42

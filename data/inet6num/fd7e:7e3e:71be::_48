@@ -1,0 +1,10 @@
+inet6num:           fd7e:7e3e:71be:0000:0000:0000:0000:0000 - fd7e:7e3e:71be:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7e:7e3e:71be::/48
+netname:            INL-NETWORK
+descr:              INL Network
+country:            TH
+admin-c:            INL-DN42
+tech-c:             INL-DN42
+mnt-by:             INL-MNT
+status:             ASSIGNED
+source:             DN42

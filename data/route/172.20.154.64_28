@@ -1,0 +1,4 @@
+route:              172.20.154.64/28
+origin:             AS4242423221
+mnt-by:             PN-MNT
+source:             DN42

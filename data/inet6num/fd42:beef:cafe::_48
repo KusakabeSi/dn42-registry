@@ -1,0 +1,10 @@
+inet6num:           fd42:beef:cafe:0000:0000:0000:0000:0000 - fd42:beef:cafe:ffff:ffff:ffff:ffff:ffff
+netname:            CSMITH-HOME-V6
+descr:              csmith's home v6
+country:            US
+admin-c:            CSMITH-DN42
+tech-c:             CSMITH-DN42
+mnt-by:             CSMITH-MNT
+status:             ASSIGNED
+cidr:               fd42:beef:cafe::/48
+source:             DN42

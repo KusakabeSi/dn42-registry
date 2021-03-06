@@ -1,0 +1,7 @@
+mntner:             MFK-MNT
+descr:              Marcels MNT
+admin-c:            MFK-DN42
+tech-c:             MFK-DN42
+mnt-by:             MFK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGbRsoPoGmEtaXQ064oEtfK1MJLZat15XZcxONw41MgV
+source:             DN42

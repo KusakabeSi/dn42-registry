@@ -1,0 +1,5 @@
+route6:             fd23:2a7a:15ae::/48
+origin:             AS4242420286
+max-length:         48
+mnt-by:             BAKABYTE-MNT
+source:             DN42

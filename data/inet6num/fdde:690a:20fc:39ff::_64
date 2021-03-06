@@ -1,0 +1,9 @@
+inet6num:           fdde:690a:20fc:39ff:0000:0000:0000:0000 - fdde:690a:20fc:39ff:ffff:ffff:ffff:ffff
+cidr:               fdde:690a:20fc:39ff::/64
+netname:            REACT-IPV6
+country:            HK
+admin-c:            REACT-DN42
+tech-c:             REACT-DN42
+mnt-by:             REACT-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             max.dn42
+admin-c:            MAX-DN42
+tech-c:             MAX-DN42
+mnt-by:             MAX-MNT
+nserver:            ns1.max.dn42 fd1f:ce1e:ff42:53::1
+nserver:            ns2.max.dn42 fd1f:ce1e:ff42:53::2
+source:             DN42

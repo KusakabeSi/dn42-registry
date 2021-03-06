@@ -1,0 +1,6 @@
+route:              172.23.78.0/27
+descr:              FROGJIANG
+remarks:            Tokyo'cold
+origin:             AS4242421180
+mnt-by:             FROGJIANG-MNT
+source:             DN42

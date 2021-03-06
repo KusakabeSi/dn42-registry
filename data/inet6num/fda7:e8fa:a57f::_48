@@ -1,0 +1,10 @@
+inet6num:           fda7:e8fa:a57f:0000:0000:0000:0000:0000 - fda7:e8fa:a57f:ffff:ffff:ffff:ffff:ffff
+netname:            MRF-DN42
+descr:              mrf's ipv6
+country:            PL
+admin-c:            MRF-DN42
+tech-c:             MRF-DN42
+mnt-by:             MRF-MNT
+status:             ASSIGNED PA
+cidr:               fda7:e8fa:a57f::/48
+source:             DN42

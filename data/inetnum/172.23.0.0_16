@@ -1,0 +1,15 @@
+inetnum:            172.23.0.0 - 172.23.255.255
+cidr:               172.23.0.0/16
+netname:            NET-BLK316-DN42
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 e91c0281e705317968c76689e4f36bf2207c90bdfaad071693bb9a999d15778f
+ds-rdata:           3096 10 2 631b00ba00cf80a8300b356bcca2fde4c844f6ff707a2d98b4518c72e0643467
+status:             ALLOCATED
+policy:             open
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

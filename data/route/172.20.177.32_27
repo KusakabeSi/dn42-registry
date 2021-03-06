@@ -1,0 +1,4 @@
+route:              172.20.177.32/27
+origin:             AS4242422341
+mnt-by:             ZOTAN-MNT
+source:             DN42

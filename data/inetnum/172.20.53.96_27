@@ -1,0 +1,10 @@
+inetnum:            172.20.53.96 - 172.20.53.127
+cidr:               172.20.53.96/27
+descr:              Transfer Network
+netname:            KIOUBIT-NETWORK-TRANSFER
+nserver:            ns1.kioubit.dn42
+status:             ASSIGNED
+admin-c:            KIOUBIT-DN42
+tech-c:             KIOUBIT-DN42
+mnt-by:             KIOUBIT-MNT
+source:             DN42

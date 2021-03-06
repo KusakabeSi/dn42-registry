@@ -1,0 +1,10 @@
+inetnum:            172.22.131.0 - 172.22.131.31
+netname:            NET-EKMANHOSTING-000
+descr:              EkmanHosting
+country:            NO
+admin-c:            EKMAN-DN42
+tech-c:             EKMAN-DN42
+mnt-by:             EKMAN-MNT
+status:             ASSIGNED
+cidr:               172.22.131.0/27
+source:             DN42

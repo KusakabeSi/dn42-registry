@@ -1,0 +1,10 @@
+inet6num:           fd42:2950:0203:0000:0000:0000:0000:0000 - fd42:2950:0203:ffff:ffff:ffff:ffff:ffff
+netname:            SIS-DN42-INET6-BLK3
+descr:              SIS DN42 IPv6
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               fd42:2950:203::/48
+source:             DN42

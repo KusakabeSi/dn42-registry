@@ -1,0 +1,4 @@
+route6:             fd42:2605:5062::/48
+origin:             AS4242422605
+mnt-by:             BJ-MNT
+source:             DN42

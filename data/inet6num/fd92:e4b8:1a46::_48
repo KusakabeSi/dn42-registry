@@ -1,0 +1,8 @@
+inet6num:           fd92:e4b8:1a46:0000:0000:0000:0000:0000 - fd92:e4b8:1a46:ffff:ffff:ffff:ffff:ffff
+netname:            Z23-NET
+admin-c:            Z23-DN42
+tech-c:             Z23-DN42
+mnt-by:             Z23-MNT
+status:             ASSIGNED
+cidr:               fd92:e4b8:1a46::/48
+source:             DN42

@@ -1,0 +1,9 @@
+mntner:             HASHQ-MNT
+admin-c:            HASHQ-DN42
+tech-c:             HASHQ-DN42
+mnt-by:             HASHQ-MNT
+remarks:            SSH Key:
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACgQD6AA1yIQ7XBcbzGUbJ2zZeUT/pxChIfDqfXRu0ZNm/mTmCEMEWR5cTuVbCJaE0+a+kFun/yaFQ0qrr4xiOTaRUjBmZYEu395u8lUITbhnI+wRRMJ9xyNVyZsH06Pkh3dx1WPp6fHnRMVcZlIn0Yy9MiubLjEAXGpwniuRmrCJipyTm9gtFQRZ8iFPxkFQHlWRmffLjvkYFklsWnmTlMUm9Lc4PUsctS9QK7QSXlGedb+yw0UEmGEGFiJifglJVZkW/DDBdchnFph8OLkCg/PNtmLq+21F5avc4bc/dQEHkhIvBm5xCjfEqMZJrmtA59RG3DqEgMpj+wfP6+JVJDlxaAjAPuK7tbYHbePa2y/b0+hfPxE1hOjaxustIsUHkBZgVbSu1ykA5XKzYWq/tjzMfIq7HPFYhzSX9Q9a2UnY3VOYZ5RNzr4f9Akr8p/+pAL8GvGsZwjuMuSPKfX+JXyWJV2cRBylPwLh9BziZCEYFsXdTcl11YsFtxQPBA+rjSSGdtxA9MpytuTjgvFnwmcXDUEpgx46vYf0oz2xzhLFTlipAWLemRRj4HFpJ4FCN71ZWawEWHfojI0AmjdZV5u5T3tVDK2v79ExGh4uTTYiT+tYAMBRRjf27OXJW3jQWYgZq3ZPrNCbGmWb+QfszyUyUq83jnJWyApGKT0JPzq6rPl+Gd9AmVQR/SCUeOhzzjKndN3XQ2blV8CdKkPMtqwIDRmHVXNeEVyixpsZncwTiLWMTlG4dn98UezfvEDIKoSM9SNyapHVpWyClxrZaO3T20Ps8rp83R7DVIsyJ/6ppdFBSJqM9mVobFlvzqPieRFbdSuS4nqtWW8fed938SSmD hs@blue
+remarks:            PGP Fingerprint:
+auth:               pgp-fingerprint 0B5CEA0245C84EB3ED1CDC01076A9CB64B2DD365
+source:             DN42

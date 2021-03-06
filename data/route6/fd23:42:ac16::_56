@@ -1,0 +1,6 @@
+route6:             fd23:42:ac16::/56
+origin:             AS64616
+admin-c:            ASTRO-DN42
+tech-c:             ASTRO-DN42
+mnt-by:             ASTRO-MNT
+source:             DN42

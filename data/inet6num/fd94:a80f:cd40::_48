@@ -1,0 +1,8 @@
+inet6num:           fd94:a80f:cd40:0000:0000:0000:0000:0000 - fd94:a80f:cd40:ffff:ffff:ffff:ffff:ffff
+cidr:               fd94:a80f:cd40::/48
+netname:            SHARP-NET-1
+admin-c:            SHARP-DN42
+tech-c:             SHARP-DN42
+mnt-by:             SHARP-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             NARNIA-MNT
+descr:              Narnia Maintainer Object
+admin-c:            NARNIA-DN42
+tech-c:             NARNIA-DN42
+mnt-by:             NARNIA-MNT
+auth:               pgp-fingerprint CFF4E176D294DAEDF6033FE2360F8D38A5326F5B
+source:             DN42

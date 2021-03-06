@@ -1,0 +1,10 @@
+inetnum:            172.21.64.32 - 172.21.64.63
+netname:            NET-MCBONE-001
+country:            DE
+admin-c:            BERNHARD-DN42
+tech-c:             BERNHARD-DN42
+mnt-by:             MCBONE-MNT
+status:             ASSIGNED
+nserver:            ns.macsbone.dn42
+cidr:               172.21.64.32/27
+source:             DN42

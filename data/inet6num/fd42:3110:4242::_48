@@ -1,0 +1,10 @@
+inet6num:           fd42:3110:4242:0000:0000:0000:0000:0000 - fd42:3110:4242:ffff:ffff:ffff:ffff:ffff
+netname:            SVTH-NETWORK
+country:            DE
+admin-c:            SVTH-DN42
+tech-c:             SVTH-DN42
+mnt-by:             SVTH-MNT
+nserver:            ns1.svth.dn42
+status:             ASSIGNED
+cidr:               fd42:3110:4242::/48
+source:             DN42

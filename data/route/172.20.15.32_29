@@ -1,0 +1,4 @@
+route:              172.20.15.32/29
+origin:             AS4242423766
+mnt-by:             TETSAI-MNT
+source:             DN42

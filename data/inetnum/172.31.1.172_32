@@ -1,0 +1,7 @@
+inetnum:            172.31.1.172 - 172.31.1.172
+cidr:               172.31.1.172/32
+netname:            CHAOSVPN-T0RM3NT
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

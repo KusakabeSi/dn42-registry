@@ -1,0 +1,7 @@
+domain:             librehs.dn42
+admin-c:            LIBREHS-DN42
+tech-c:             LIBREHS-DN42
+mnt-by:             LIBREHS-MNT
+nserver:            ns1.librehs.dn42 fd46:e3dc:db4a:1::1
+nserver:            ns.yukipedia.cf
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.227.112/28
+origin:             AS4242423636
+mnt-by:             SHIKI-MNT
+source:             DN42

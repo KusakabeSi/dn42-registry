@@ -1,0 +1,6 @@
+route:              172.22.152.128/25
+descr:              FLAT-ROUTE
+origin:             AS4242421093
+mnt-by:             IRL-MNT
+mnt-by:             ANA-MNT
+source:             DN42

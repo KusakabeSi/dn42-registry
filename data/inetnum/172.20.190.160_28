@@ -1,0 +1,10 @@
+inetnum:            172.20.190.160 - 172.20.190.175
+netname:            DRATHIR-DN42-FUSL-UA-IEV-INET
+descr:              DRATHIR-DN42-FUSL-UA-IEV-INET
+country:            UA
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+status:             ALLOCATED
+cidr:               172.20.190.160/28
+source:             DN42

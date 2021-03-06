@@ -1,0 +1,10 @@
+inet6num:           fd7b:7d64:4dae:0000:0000:0000:0000:0000 - fd7b:7d64:4dae:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7b:7d64:4dae::/48
+netname:            TOINUX-NET6-1
+admin-c:            TOINUX-DN42
+tech-c:             TOINUX-DN42
+mnt-by:             TOINUX-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            ns1.toinux.dn42
+nserver:            ns2.toinux.dn42

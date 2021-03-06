@@ -1,0 +1,7 @@
+mntner:             MITORAJ-MNT
+admin-c:            MITORAJ-DN42
+tech-c:             MITORAJ-DN42
+mnt-by:             MITORAJ-MNT
+auth:               PGPKEY-F3AE3B34
+auth:               ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIrgcI7NvJWFMfze7x/ZJ/sJj/1pCaww3XT37C0pHdJQfs2Khw4PpfPpUvsfkSA82mqO5hh8jKrxd8vmSHJBQkk=
+source:             DN42

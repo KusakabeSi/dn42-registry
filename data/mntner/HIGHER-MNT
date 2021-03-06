@@ -1,0 +1,6 @@
+mntner:             HIGHER-MNT
+admin-c:            HIGHER-DN42
+tech-c:             HIGHER-DN42
+mnt-by:             HIGHER-MNT
+source:             DN42
+auth:               gpg-fingerprint 39E500F47D38A456D8B04C98FC55A89E223F059F

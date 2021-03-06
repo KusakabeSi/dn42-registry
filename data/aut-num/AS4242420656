@@ -1,0 +1,8 @@
+aut-num:            AS4242420656
+as-name:            AS-AIRGAPPED
+admin-c:            AIRGAPPED-ADMIN-DN42
+tech-c:             AIRGAPPED-TECH-DN42
+mnt-by:             AIRGAPPED-MNT
+mp-import:          afi any.unicast from AS4242420656 accept ANY
+mp-export:          afi any.unicast to AS4242420656 announce ANY
+source:             DN42

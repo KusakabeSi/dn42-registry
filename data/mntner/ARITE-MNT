@@ -1,0 +1,8 @@
+mntner:             ARITE-MNT
+descr:              ARITE-MNT
+admin-c:            ARITE-DN42
+tech-c:             ARITE-DN42
+mnt-by:             ARITE-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3BJPO7rcUuS0TBf1zt9naNM7TdSw0dOPl1/+LOXhU8Msc2NB6qs/HXbn9bXbclJv46/rP6DIjCnJZjbeE+CtA24w8ztWmfFkV3LqmG+CEYQRxnXcpbTjdjOFq8P+/F3NmZdhpTpRpzEVFv1+daynbsZe0SYNP7Rbz6QFlFDPZsNS7BLcbbTgU2Pl6koFjaVbeSDUs/lzy1LdpY63v4wkRoNf4zNKMtI/IPa0XQ62cxzQWx+O4udYwS1b0QE4iX6bmxIZhaxus8GWsgdheb0eoi8nhVc9LJEncIUEfst4vY2bjHMI1YJYZc9pMKML4pVhf5DiiSM6ZNNaFOMExFXMZ0uf/f70jhud1QhTgMAuqYnmWMrVirEPva0HmIj90z87KJQbUUj9y5ntyg3tE2IcUd2O8c7BxfdpC996rodNqJDnZkYDWduYkZgOl7PAzLkMTTrBw3O6uU7gP56mqkwkjIjbS2FcD+WkY3sWaoSLt9KmEiAJEIQeSne2C/gIuMklJily4a/ttjf6TMrTFR3s2KwtqKM3VqUNoWEqoe7EPMOIz2DAcbheyqrLx32vyMmskZX+tUw4jaJdaOSyYXDeoyJERfHW8yEu2Ks0dtI98dhafOuv8Si8IwQ4xzhgz6A+8DrQhO+Tr3v4/1dMHIzKaRz22zyqqSSRDKB8UL+qqbQ==
+auth:               pgp-fingerprint: 54098A17B49128D2735974C106762287C15F472B
+source:             DN42

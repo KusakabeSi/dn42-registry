@@ -1,0 +1,7 @@
+inetnum:            172.31.0.64 - 172.31.0.64
+cidr:               172.31.0.64/32
+netname:            CHAOSVPN-BASE42-KANEDA
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

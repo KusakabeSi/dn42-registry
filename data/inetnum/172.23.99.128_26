@@ -1,0 +1,10 @@
+inetnum:            172.23.99.128 - 172.23.99.191
+cidr:               172.23.99.128/26
+netname:            BECKFAN-NET
+admin-c:            BECKFAN-DN42
+tech-c:             BECKFAN-DN42
+mnt-by:             BECKFAN-MNT
+nserver:            ns1.fan.dn42
+nserver:            ns2.fan.dn42
+status:             ASSIGNED
+source:             DN42

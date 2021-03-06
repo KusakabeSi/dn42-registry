@@ -1,0 +1,7 @@
+inetnum:            10.11.112.0 - 10.11.127.255
+cidr:               10.11.112.0/20
+netname:            ICVPN-HEILIGENHAUS
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: heiligenhaus
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,11 @@
+inet6num:           fdbe:9dd8:7dbd:0000:0000:0000:0000:0000 - fdbe:9dd8:7dbd:ffff:ffff:ffff:ffff:ffff
+netname:            NET-CHAOSTREFF
+descr:              Chaostreff
+country:            AT
+admin-c:            JOMAT-DN42
+tech-c:             JOMAT-DN42
+mnt-by:             JOMAT-MNT
+nserver:            ns0.at.dn42
+status:             ASSIGNED
+cidr:               fdbe:9dd8:7dbd::/48
+source:             DN42

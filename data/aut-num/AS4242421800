@@ -1,0 +1,7 @@
+aut-num:            AS4242421800
+as-name:            MTNS-COLLECTOR-AS
+descr:              BGPlay Collector AS
+admin-c:            LM-DN42
+tech-c:             LM-DN42
+mnt-by:             MTNS-MNT
+source:             DN42

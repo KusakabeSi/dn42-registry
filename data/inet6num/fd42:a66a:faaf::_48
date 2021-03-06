@@ -1,0 +1,8 @@
+inet6num:           fd42:a66a:faaf:0000:0000:0000:0000:0000 - fd42:a66a:faaf:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:a66a:faaf::/48
+netname:            WHEAT-NET
+descr:              WHEAT-NET
+admin-c:            WHEAT-DN42
+tech-c:             WHEAT-DN42
+mnt-by:             WHEAT-MNT
+source:             DN42

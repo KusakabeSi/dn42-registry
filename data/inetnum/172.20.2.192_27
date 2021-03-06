@@ -1,0 +1,10 @@
+inetnum:            172.20.2.192 - 172.20.2.223
+cidr:               172.20.2.192/27
+netname:            CASTLE-NETWORK
+admin-c:            ANAND-DN42
+tech-c:             ANAND-DN42
+mnt-by:             ANAND-MNT
+nserver:            ns1.redeye.dn42
+nserver:            ns2.redeye.dn42
+status:             ASSIGNED
+source:             DN42

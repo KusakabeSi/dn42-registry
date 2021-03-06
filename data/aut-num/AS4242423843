@@ -1,0 +1,28 @@
+aut-num:            AS4242423843
+as-name:            MCBONE CORE NETWORK
+remarks:            +----------------------------------------------+
+remarks:            * Open Peering Policy, for now only OpenVPN.
+remarks:            * GRE and IPsec later
+remarks:            * For peering contact me at dn42@macsbone.net
+remarks:            * or via IRC macness @ hackint
+remarks:            +----------------------------------------------+
+remarks:            Server     | Location
+remarks:            ------------------------------------------------
+remarks:            DE-FAL1    | Falkenstein, Germany (Hetzner RZ15)
+remarks:            DE-FAL2    | Falkenstein, Germany (Hetzner RZ20)
+remarks:            DE-FRA1    | Frankfurt, Germany
+remarks:            UK-LON1    | London, United Kingdom
+remarks:            NL-AMS1    | Amsterdam, Netherlands
+remarks:            ------------------------------------------------
+remarks:            BGP Communities in addition to dn42
+remarks:            ------------------------------------------------
+remarks:            23843:5001 - Route orginated in Frankfurt
+remarks:            23843:5002 - Route orginated in Falkenstein
+remarks:            23843:5003 - Route originated in London
+remarks:            23848:5004 - Route originated in Amsterdam
+remarks:            ------------------------------------------------
+remarks:            +----------------------------------------------+
+admin-c:            BERNHARD-DN42
+tech-c:             BERNHARD-DN42
+mnt-by:             MCBONE-MNT
+source:             DN42

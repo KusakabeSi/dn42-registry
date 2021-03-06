@@ -1,0 +1,7 @@
+inet6num:           fddb:02cb:9699:0000:0000:0000:0000:0000 - fddb:02cb:9699:ffff:ffff:ffff:ffff:ffff
+cidr:               fddb:2cb:9699::/48
+netname:            ICVPN-FRANKENBERG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankenberg
+mnt-by:             DN42-MNT
+source:             ICVPN

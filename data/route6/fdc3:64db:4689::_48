@@ -1,0 +1,5 @@
+route6:             fdc3:64db:4689::/48
+origin:             AS4242423375
+max-length:         48
+mnt-by:             CREATIX-MNT
+source:             DN42

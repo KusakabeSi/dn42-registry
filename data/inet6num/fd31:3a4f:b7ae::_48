@@ -1,0 +1,10 @@
+inet6num:           fd31:3a4f:b7ae:0000:0000:0000:0000:0000 - fd31:3a4f:b7ae:ffff:ffff:ffff:ffff:ffff
+cidr:               fd31:3a4f:b7ae::/48
+netname:            FICO-NETWORK
+admin-c:            FICO-DN42
+tech-c:             FICO-DN42
+mnt-by:             FICO-MNT
+nserver:            ns1.ficonet.dn42
+nserver:            ns2.ficonet.dn42
+status:             ASSIGNED
+source:             DN42

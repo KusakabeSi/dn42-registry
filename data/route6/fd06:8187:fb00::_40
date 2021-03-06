@@ -1,0 +1,6 @@
+route6:             fd06:8187:fb00::/40
+origin:             AS65026
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: frankfurt
+mnt-by:             DN42-MNT
+source:             ICVPN

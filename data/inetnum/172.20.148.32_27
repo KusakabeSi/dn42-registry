@@ -1,0 +1,9 @@
+inetnum:            172.20.148.32 - 172.20.148.63
+netname:            INSTIPOD-NET1
+country:            US
+admin-c:            INSTIPOD-DN42
+tech-c:             INSTIPOD-DN42
+mnt-by:             INSTIPOD-MNT
+status:             ASSIGNED
+cidr:               172.20.148.32/27
+source:             DN42

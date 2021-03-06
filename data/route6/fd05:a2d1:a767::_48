@@ -1,0 +1,5 @@
+route6:             fd05:a2d1:a767::/48
+origin:             AS4242422237
+max-length:         48
+mnt-by:             MUNSTERNET-MNT
+source:             DN42

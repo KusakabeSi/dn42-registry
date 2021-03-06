@@ -1,0 +1,11 @@
+inetnum:            172.22.118.64 - 172.22.118.95
+cidr:               172.22.118.64/27
+remarks:            HELLO WORLD !!!
+netname:            BESTFENG-DN42
+descr:              Peer with me at 2560893687@qq.com
+country:            CN
+admin-c:            BESTFENG-DN42
+tech-c:             BESTFENG-DN42
+mnt-by:             BESTFENG-MNT
+status:             ASSIGNED
+source:             DN42

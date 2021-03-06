@@ -1,0 +1,4 @@
+route:              172.20.58.160/27
+origin:             AS4242420813
+mnt-by:             NEXUS-MNT
+source:             DN42

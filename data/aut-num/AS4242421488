@@ -1,0 +1,10 @@
+aut-num:            AS4242421488
+as-name:            KOALA-AS
+descr:              AS4242421488
+mp-import:          afi ipv6.unicast from AS4242421488:AS-TRANSIT accept { fd00::/8^+ }
+mp-export:          afi ipv6.unicast to AS4242421488:AS-TRANSIT announce { fd00::/8^+ }
+admin-c:            KOALA-DN42
+tech-c:             KOALA-DN42
+mnt-by:             KOALA-MNT
+source:             DN42
+remarks:            Open for peering: https://koala.gq/dn42/

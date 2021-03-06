@@ -1,0 +1,10 @@
+inetnum:            172.20.231.32 - 172.20.231.63
+netname:            SVINSON-NET1
+admin-c:            SVINSON-DN42
+tech-c:             SVINSON-DN42
+mnt-by:             SVINSON-MNT
+nserver:            dns1.svinson.dn42
+nserver:            dns2.svinson.dn42
+status:             ASSIGNED
+cidr:               172.20.231.32/27
+source:             DN42

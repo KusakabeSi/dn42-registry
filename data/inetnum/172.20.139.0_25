@@ -1,0 +1,11 @@
+inetnum:            172.20.139.0 - 172.20.139.127
+netname:            DILIGENT-NETWORKS-NET-172-20-139-0-25
+cidr:               172.20.139.0/25
+descr:              Diligent Networks Prefix 172.20.139.0/25
+country:            US
+admin-c:            AHLBERG-DN42
+tech-c:             AHLBERG-DN42
+mnt-by:             DILIGENT-NETWORKS-MNT
+nserver:            google-public-dns-a.google.com
+status:             ALLOCATED
+source:             DN42

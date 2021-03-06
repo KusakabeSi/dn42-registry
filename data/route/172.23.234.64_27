@@ -1,0 +1,4 @@
+route:              172.23.234.64/27
+origin:             AS4242428989
+mnt-by:             SPIN-MNT
+source:             DN42

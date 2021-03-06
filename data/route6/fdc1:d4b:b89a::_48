@@ -1,0 +1,4 @@
+route6:             fdc1:d4b:b89a::/48
+origin:             AS4242423556
+mnt-by:             TSYS-MNT
+source:             DN42

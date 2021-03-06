@@ -1,0 +1,4 @@
+route6:             fdb5:48f5:d278::/48
+origin:             AS4242423156
+mnt-by:             BUROA-MNT
+source:             DN42

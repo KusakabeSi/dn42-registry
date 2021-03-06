@@ -1,0 +1,10 @@
+inetnum:            172.22.16.0 - 172.22.17.255
+nserver:            pimp.sin.dn42
+netname:            NET-ASTRO-DN42
+country:            DE
+admin-c:            ASTRO-DN42
+tech-c:             ASTRO-DN42
+mnt-by:             ASTRO-MNT
+status:             ASSIGNED
+cidr:               172.22.16.0/23
+source:             DN42

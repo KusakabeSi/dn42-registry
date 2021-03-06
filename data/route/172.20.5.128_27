@@ -1,0 +1,4 @@
+route:              172.20.5.128/27
+origin:             AS4242420161
+mnt-by:             ZZZ-MNT
+source:             DN42

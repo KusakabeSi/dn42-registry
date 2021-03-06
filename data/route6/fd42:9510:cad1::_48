@@ -1,0 +1,4 @@
+route6:             fd42:9510:cad1::/48
+origin:             AS4242420237
+mnt-by:             CARLOSJS-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.4.128 - 172.20.4.191
+netname:            DIEMACO-NET4
+descr:              DIEMACO-NET4
+country:            CA
+admin-c:            DIEMACO-DN42
+tech-c:             DIEMACO-DN42
+mnt-by:             DIEMACO-MNT
+status:             ALLOCATED
+cidr:               172.20.4.128/26
+source:             DN42

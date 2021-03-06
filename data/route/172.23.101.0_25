@@ -1,0 +1,5 @@
+route:              172.23.101.0/25
+descr:              LXNET-MAIN
+origin:             AS4242422200
+mnt-by:             LYREX-MNT
+source:             DN42

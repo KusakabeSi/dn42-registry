@@ -1,0 +1,7 @@
+domain:             ffge
+nserver:            247.0.28.10.ipv4.registry-sync.dn42
+nserver:            1.0.0.0.0.0.0.0.0.0.0.0.7.0.f.f.9.0.2.0.9.2.b.a.e.7.4.7.0.a.d.f.ipv6.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: gelsenkirchen
+mnt-by:             DN42-MNT
+source:             ICVPN

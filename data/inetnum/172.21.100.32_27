@@ -1,0 +1,11 @@
+inetnum:            172.21.100.32 - 172.21.100.63
+netname:            OVEAR-NETWORK
+country:            CN
+admin-c:            OVEAR-DN42
+tech-c:             OVEAR-DN42
+mnt-by:             OVEAR-MNT
+nserver:            ns1.ovear.dn42
+nserver:            ns2.ovear.dn42
+status:             ASSIGNED
+cidr:               172.21.100.32/27
+source:             DN42

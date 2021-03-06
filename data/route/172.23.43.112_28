@@ -1,0 +1,4 @@
+route:              172.23.43.112/28
+origin:             AS4242421814
+mnt-by:             ASTRONET-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             joseng.dn42
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+nserver:            ns1.joseng.dn42 172.20.13.250
+nserver:            ns1.joseng.dn42 fdc3:10cd:ae9b::a
+source:             DN42

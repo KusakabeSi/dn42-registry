@@ -1,0 +1,10 @@
+inet6num:           fd42:8a73:3fbb:0000:0000:0000:0000:0000 - fd42:8a73:3fbb:ffff:ffff:ffff:ffff:ffff
+netname:            NET-IP6-AIYION
+descr:              Aiyions network
+country:            DE
+admin-c:            AIYION-DN42
+tech-c:             AIYION-DN42
+mnt-by:             AIYION-MNT
+status:             ASSIGNED
+cidr:               fd42:8a73:3fbb::/48
+source:             DN42

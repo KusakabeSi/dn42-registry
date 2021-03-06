@@ -1,0 +1,7 @@
+domain:             42islife.dn42
+admin-c:            42ISLIFE-DN42
+tech-c:             42ISLIFE-DN42
+mnt-by:             42ISLIFE-MNT
+nserver:            ns1.42islife.dn42 172.20.175.129
+nserver:            ns1.42islife.dn42 fd09:d32f:5a03::1337
+source:             DN42

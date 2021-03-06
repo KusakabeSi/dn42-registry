@@ -1,0 +1,11 @@
+inetnum:            172.20.190.80 - 172.20.190.87
+netname:            PSM-DN42
+descr:              PSM-DN42
+country:            SE
+admin-c:            PSM-DN42
+tech-c:             PSM-DN42
+nserver:            ns1.psm.dn42
+mnt-by:             PSM-MNT
+status:             ASSIGNED
+cidr:               172.20.190.80/29
+source:             DN42

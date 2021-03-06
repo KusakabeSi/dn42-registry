@@ -1,0 +1,5 @@
+route6:             fd0b:10c0:9966::/48
+descr:              HONDA iPv6
+origin:             AS4242420506
+mnt-by:             HONDA-MNT
+source:             DN42

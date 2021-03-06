@@ -1,0 +1,13 @@
+inet6num:           fd81:edb3:71d8:0000:0000:0000:0000:0000 - fd81:edb3:71d8:ffff:ffff:ffff:ffff:ffff
+cidr:               fd81:edb3:71d8::/48
+netname:            ILDIX-NETWORK
+descr:              Ilmenau dn42 Internet Exchange Network
+country:            DE
+admin-c:            CLERIE-DN42
+admin-c:            NEX-DN42
+tech-c:             CLERIE-DN42
+tech-c:             NEX-DN42
+mnt-by:             CLERIE-MNT
+mnt-by:             NEX-MNT
+status:             ASSIGNED
+source:             DN42

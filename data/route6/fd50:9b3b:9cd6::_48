@@ -1,0 +1,5 @@
+route6:             fd50:9b3b:9cd6::/48
+origin:             AS4242421227
+max-length:         48
+mnt-by:             RBRANDON81-MNT
+source:             DN42

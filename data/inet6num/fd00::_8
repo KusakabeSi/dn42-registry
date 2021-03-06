@@ -1,0 +1,15 @@
+inet6num:           fd00:0000:0000:0000:0000:0000:0000:0000 - fdff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+cidr:               fd00::/8
+netname:            ROOT-DN42-ULA
+descr:              DN42 ULA Address Space
+remarks:            Only /48 prefixes may be allocated out of this range.
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 9057500a3b6e09bf45a60ed8891f2e649c6812d5d149c45a3c560fa0a6195c49
+ds-rdata:           3096 10 2 23fb364c82e6ed1c30b18c635f58dca58bbeb2e069bbd9d90ab9a90f66b948d2
+status:             ALLOCATED
+policy:             open
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

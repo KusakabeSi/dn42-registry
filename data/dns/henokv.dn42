@@ -1,0 +1,9 @@
+domain:             henokv.dn42
+admin-c:            HENOKV-DN42
+tech-c:             HENOKV-DN42
+mnt-by:             HENOKV-MNT
+nserver:            ns1.henokv.dn42 172.20.62.29
+nserver:            ns2.henokv.dn42 172.20.62.30
+nserver:            ns1.henokv.dn42 fdd9:078f:0427::29
+nserver:            ns2.henokv.dn42 fdd9:078f:0427::30
+source:             DN42

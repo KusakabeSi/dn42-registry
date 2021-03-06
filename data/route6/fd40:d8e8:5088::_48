@@ -1,0 +1,5 @@
+route6:             fd40:d8e8:5088::/48
+origin:             AS4242422644
+max-length:         48
+mnt-by:             FOXO-MNT
+source:             DN42

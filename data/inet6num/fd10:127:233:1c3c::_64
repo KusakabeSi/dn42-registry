@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0233:1c3c:0000:0000:0000:0000 - fd10:0127:0233:1c3c:ffff:ffff:ffff:ffff
+cidr:               fd10:127:233:1c3c::/64
+netname:            MagicNeko-CN office node(name:liqingge)
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

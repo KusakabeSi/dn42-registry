@@ -1,0 +1,5 @@
+route6:             fd42:23:cda::/48
+origin:             AS4242420101
+origin:             AS65038
+mnt-by:             HEXA-MNT
+source:             DN42

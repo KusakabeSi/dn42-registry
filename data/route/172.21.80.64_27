@@ -1,0 +1,4 @@
+route:              172.21.80.64/27
+origin:             AS4242423618
+mnt-by:             JERRY-MNT
+source:             DN42

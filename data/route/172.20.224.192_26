@@ -1,0 +1,4 @@
+route:              172.20.224.192/26
+origin:             AS4242422833
+mnt-by:             XNOE-MNT
+source:             DN42

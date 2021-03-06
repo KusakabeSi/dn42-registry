@@ -1,0 +1,10 @@
+inetnum:            172.23.233.0 - 172.23.233.255
+netname:            ICEZ-V4-DN42
+descr:              icez network IPv4 allocation for DN42
+country:            TH
+admin-c:            ICEZ-DN42
+tech-c:             ICEZ-DN42
+mnt-by:             ICEZ-MNT
+status:             ASSIGNED
+cidr:               172.23.233.0/24
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.242.0 - 172.20.242.127
+cidr:               172.20.242.0/25
+netname:            W0H-TRANSFERNET
+admin-c:            W0H-DN42
+tech-c:             W0H-DN42
+mnt-by:             W0H-MNT
+status:             ASSIGNED
+source:             DN42

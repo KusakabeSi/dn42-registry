@@ -1,0 +1,10 @@
+inet6num:           fd42:0d42:0511:0000:0000:0000:0000:0000 - fd42:0d42:0511:ffff:ffff:ffff:ffff:ffff
+netname:            MORTZEL-NET-6001
+descr:              Mortzel IPv6 Network 001
+country:            DE
+admin-c:            MORTZEL-DN42
+tech-c:             MORTZEL-DN42
+mnt-by:             MORTZEL-MNT
+status:             ASSIGNED
+cidr:               fd42:d42:511::/48
+source:             DN42

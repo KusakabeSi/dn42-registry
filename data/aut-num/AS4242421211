@@ -1,0 +1,7 @@
+aut-num:            AS4242421211
+as-name:            SKYBW-AS
+descr:              SKYBW ROUTER 1
+admin-c:            SKYBW-DN42
+tech-c:             SKYBW-DN42
+mnt-by:             SKYBW-MNT
+source:             DN42

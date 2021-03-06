@@ -1,0 +1,11 @@
+inetnum:            172.20.229.0 - 172.20.229.63
+netname:            LUELISTAN-NETWORK
+descr:              luelistans legacy-netz
+country:            DE
+admin-c:            LUELISTAN-DN42
+tech-c:             LUELISTAN-DN42
+mnt-by:             LUELISTAN-MNT
+nserver:            ns1.teamwiki.net
+status:             ASSIGNED
+cidr:               172.20.229.0/26
+source:             DN42

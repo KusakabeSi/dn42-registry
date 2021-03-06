@@ -1,0 +1,7 @@
+aut-num:            AS4242420216
+as-name:            HELCAR-AS
+descr:              Peer with me at aegiap+dn42@xvc0.net
+admin-c:            AEGIAP-DN42
+tech-c:             AEGIAP-DN42
+mnt-by:             HELCAR-MNT
+source:             DN42

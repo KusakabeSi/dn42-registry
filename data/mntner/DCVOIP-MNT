@@ -1,0 +1,8 @@
+mntner:             DCVOIP-MNT
+descr:              DC VoIP Data Network
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAlWbxIu+/OR+tZ75xRIDrlisfXWWZc1q+kIJcVevhYkmcP6ezTAOhTGmYHq/ZMM/T9/gfyzNZvgGMdNvz5ce6n8xOMPzRajp0XqiiRFEkfu2WsaKnhckyDQvwA54V38N53Znv2YpVkBZ0thnYVGGL8lb8O09fOYU6R9OOYzzvms4Kzh5tlYjXUA5K/WsLcEP0TTvffIxCmIZqjV1aJxrYLH5tNH205r6VPxygf5HdTlboS1CqO2/jAMcgVjCrBsBfRMRdTNnS4SniUrvi5Oj8YR7T33Cmhfy1z4/O+xjrSqcgWUxs1cCkR5jNOWN0AzVUTil2vnsSFlsXAngLRRgwxw==
+auth:               pgp-fingerprint C8FD1A516D789FE0AAC1425C0A9E8D430A6C8471
+admin-c:            DCVOIP-DN42
+tech-c:             DCVOIP-DN42
+mnt-by:             DCVOIP-MNT
+source:             DN42

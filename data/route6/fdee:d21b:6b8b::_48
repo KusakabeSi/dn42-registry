@@ -1,0 +1,5 @@
+route6:             fdee:d21b:6b8b::/48
+origin:             AS4242422502
+max-length:         48
+mnt-by:             TRIS-MNT
+source:             DN42

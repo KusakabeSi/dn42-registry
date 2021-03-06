@@ -1,0 +1,9 @@
+inet6num:           fd85:050d:222d:0000:0000:0000:0000:0000 - fd85:050d:222d:ffff:ffff:ffff:ffff:ffff
+cidr:               fd85:50d:222d::/48
+netname:            ELOKIANO-NET
+country:            CL
+admin-c:            ELOKIANO-DN42
+tech-c:             ELOKIANO-DN42
+mnt-by:             ELOKIANO-MNT
+status:             ASSIGNED
+source:             DN42

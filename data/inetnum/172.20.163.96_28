@@ -1,0 +1,8 @@
+inetnum:            172.20.163.96 - 172.20.163.111
+cidr:               172.20.163.96/28
+netname:            SUPERNOC-NETWORK-1
+admin-c:            SNOC-DN42
+tech-c:             SNOC-DN42
+mnt-by:             SNOC-MNT
+status:             ASSIGNED
+source:             DN42

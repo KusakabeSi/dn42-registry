@@ -1,0 +1,6 @@
+domain:             arg.dn42
+admin-c:            ARG-DN42
+tech-c:             ARG-DN42
+mnt-by:             ARG-MNT
+nserver:            ns.nia.dn42
+source:             DN42

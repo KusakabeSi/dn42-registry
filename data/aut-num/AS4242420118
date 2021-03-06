@@ -1,0 +1,7 @@
+aut-num:            AS4242420118
+as-name:            ZLD-AS
+descr:              AS for ZLD network
+admin-c:            ZLD-DN42
+tech-c:             ZLD-DN42
+mnt-by:             ZLD-MNT
+source:             DN42

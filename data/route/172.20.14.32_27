@@ -1,0 +1,5 @@
+route:              172.20.14.32/27
+origin:             AS4242423914
+max-length:         28
+mnt-by:             KIOUBIT-MNT
+source:             DN42

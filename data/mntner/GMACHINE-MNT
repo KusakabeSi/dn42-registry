@@ -1,0 +1,7 @@
+mntner:             GMACHINE-MNT
+descr:              Gmachine Maintenance Object
+auth:               pgp-fingerprint FB0D5C3DE7AC1FA3B5397C6471BA60D402E7CBAF
+admin-c:            GMACHINE-DN42
+tech-c:             GMACHINE-DN42
+mnt-by:             GMACHINE-MNT
+source:             DN42

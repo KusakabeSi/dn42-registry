@@ -1,0 +1,10 @@
+inet6num:           fd62:cd4d:28a1:0000:0000:0000:0000:0000 - fd62:cd4d:28a1:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:cd4d:28a1::/48
+netname:            DONUTS-NET
+descr:              Network for donuts
+country:            US
+admin-c:            DONUTS-DN42
+tech-c:             DONUTS-DN42
+mnt-by:             DONUTS-MNT
+status:             ASSIGNED
+source:             DN42

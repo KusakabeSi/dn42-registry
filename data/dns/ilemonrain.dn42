@@ -1,0 +1,10 @@
+domain:             ilemonrain.dn42
+descr:              iLemonrain DN42 Domain
+admin-c:            ILEMONRAIN-DN42
+tech-c:             ILEMONRAIN-DN42
+mnt-by:             ILEMONRAIN-MNT
+nserver:            ns1.ilemonrain.dn42 172.23.226.1
+nserver:            ns2.ilemonrain.dn42 172.23.226.2
+nserver:            ns1.ilemonrain.dn42 fd05:a588:da19::1
+nserver:            ns2.ilemonrain.dn42 fd05:a588:da19::2
+source:             DN42

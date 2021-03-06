@@ -1,0 +1,12 @@
+inet6num:           fd42:4242:0339:0000:0000:0000:0000:0000 - fd42:4242:0339:ffff:ffff:ffff:ffff:ffff
+netname:            PDOSTAL-IP6
+descr:              Pavel Dostal's fd42:4242:0339::/48 block
+country:            CZ
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+nserver:            cucumber.dn42
+nserver:            grape.dn42
+status:             ASSIGNED
+cidr:               fd42:4242:339::/48
+source:             DN42

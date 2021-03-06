@@ -1,0 +1,8 @@
+domain:             searx.dn42
+nserver:            ns1.lossy-network.dn42
+nserver:            ns2.lossy-network.dn42
+remarks:            metasearch engine
+admin-c:            HEXA-DN42
+tech-c:             HEXA-DN42
+mnt-by:             HEXA-MNT
+source:             DN42

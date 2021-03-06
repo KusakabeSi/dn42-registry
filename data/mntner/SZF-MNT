@@ -1,0 +1,8 @@
+mntner:             SZF-MNT
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+remarks:            pin-sha256:p1XFa+dBnm7OOLIqsd0DuWKUwB+7Piv8eehrMQyuINw=
+remarks:            ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAET1Dg3oYllPeIWdu41c04/JAvw4SYHr/oAVPMhYZsDnCdtvbAeNhdKtBTNpS1oquWVYRrOWVJ0+VmZyEjTFUoX4QGIamcShukhEakMfQNeqv79wn0OoWP2zY5780uxqGB4PSrsoLyLVXzcxOiRhMQaoA9v/P0R5kN8WW5Pz+3fHA5JhQ== szf
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+4Bk6YbW8PPUFYgh2FHDo/XRWunBIOArynj6BRwL4GITwU59Hn7mb51l9CJRezBI5NTTyiQpyb2wM239ikh1MJFzDjoU/kqgJiohk2kxAludKWUU4kELfqOlqTFA2hdhwq6OvmUMWZpPJHEahEGFSi7iw26MDSrw3CP2quS7X2WvgrgKvi0zlz9IKJalTW78BJcK2NIhT6o2w0Kxipzk1DJNhYmdKTlCAM/1art9aM6k1139qpqNsjrSlBYBLsL7nvb/rsN1FnzZqZqJs/43W54hDLLMEWwZaBLSkfEHEoLmOVITox7k9Wdeas0beNalocC/Vd2zaGCOAU6gB4/KzxiDXf24sv6hMkjeOVXOpS5PT909CHSdX4zkvEeC7jqgsdTviwgZ5dLveFof5XWxCBauixcTBWwoUz36Pwuhb67+5uH8ZIdJCL9J6Y8ad6cEEA8jCdjW87Ou1WmGUqzZ9CImLTyXnQfHbs0Spf3Osc3xwP7T5NNL9QBnJ9o3Wp81fawRsGN4b9tK61RczNOB6hJ1oFn2j4w+f76uVAJf0lv+HGUzhsWW6SSERxsFhKHCkek1eH9kIlDDB2/THGFzREby5W5rlxXrqqcdM1+H/AiUoHQ8vRWPNPFItCL+k1QAhRwnAgcRB0S/OYc+NOLxgjCwWyWr7+u2ZX+MICEm/Kw== szf
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.2.96 - 172.20.2.127
+cidr:               172.20.2.96/27
+netname:            SKRTM-NETWORK
+admin-c:            SKRTM-DN42
+tech-c:             SKRTM-DN42
+mnt-by:             SKRTM-MNT
+status:             ASSIGNED
+source:             DN42

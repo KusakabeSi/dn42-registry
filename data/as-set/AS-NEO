@@ -1,0 +1,6 @@
+as-set:             AS-NEO
+descr:              NEO Network AS set
+members:            AS4242421123
+members:            AS4242421121
+mnt-by:             NEO-MNT
+source:             DN42

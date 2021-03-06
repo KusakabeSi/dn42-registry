@@ -1,0 +1,9 @@
+inetnum:            172.22.64.0 - 172.22.127.255
+cidr:               172.22.64.0/18
+netname:            NET-BLK26418-DN42
+descr:              DN42 native address space
+remarks:            * Default allocation /27, never more than /24
+policy:             open
+mnt-by:             DN42-MNT
+status:             ALLOCATED
+source:             DN42

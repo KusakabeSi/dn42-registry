@@ -1,0 +1,5 @@
+route6:             fdd3:8430:5ba1::/48
+origin:             AS4242420380
+max-length:         48
+mnt-by:             FRALINSKY-MNT
+source:             DN42

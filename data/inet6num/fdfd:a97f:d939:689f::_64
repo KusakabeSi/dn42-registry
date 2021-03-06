@@ -1,0 +1,12 @@
+inet6num:           fdfd:a97f:d939:689f:0000:0000:0000:0000 - fdfd:a97f:d939:689f:ffff:ffff:ffff:ffff
+netname:            CHENG-IPV6
+descr:              Peer with me at admin@byxong.com
+country:            CN
+admin-c:            CHENG-DN42
+tech-c:             CHENG-DN42
+mnt-by:             CHENG-MNT
+nserver:            ns1.cheng.dn42
+nserver:            ns2.cheng.dn42
+status:             ASSIGNED
+cidr:               fdfd:a97f:d939:689f::/64
+source:             DN42

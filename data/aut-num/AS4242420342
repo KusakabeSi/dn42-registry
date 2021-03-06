@@ -1,0 +1,8 @@
+aut-num:            AS4242420342
+as-name:            MOJO-AS
+descr:              MOJO NET
+org:                ORG-MOJO
+admin-c:            MOJO-DN42
+tech-c:             MOJO-DN42
+mnt-by:             MOJO-MNT
+source:             DN42

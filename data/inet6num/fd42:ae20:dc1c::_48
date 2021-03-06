@@ -1,0 +1,9 @@
+inet6num:           fd42:ae20:dc1c:0000:0000:0000:0000:0000 - fd42:ae20:dc1c:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ae20:dc1c::/48
+netname:            PF-IPV6
+country:            DE
+admin-c:            PF-DN42
+tech-c:             PF-DN42
+mnt-by:             PF-MNT
+status:             ASSIGNED
+source:             DN42

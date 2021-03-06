@@ -1,0 +1,4 @@
+route6:             fd15:fe2c:d179::/48
+origin:             AS4242422027
+mnt-by:             RDBCN-MNT
+source:             DN42

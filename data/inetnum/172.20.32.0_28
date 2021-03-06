@@ -1,0 +1,10 @@
+inetnum:            172.20.32.0 - 172.20.32.15
+cidr:               172.20.32.0/28
+netname:            PZWA-NETWORK
+admin-c:            PZWA-DN42
+tech-c:             PZWA-DN42
+mnt-by:             PZWA-MNT
+nserver:            ns1.pzwa.dn42
+nserver:            ns2.pzwa.dn42
+status:             ASSIGNED
+source:             DN42

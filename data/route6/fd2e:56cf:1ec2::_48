@@ -1,0 +1,4 @@
+route6:             fd2e:56cf:1ec2::/48
+origin:             AS4242423225
+mnt-by:             IRONFLAKE-MNT
+source:             DN42

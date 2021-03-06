@@ -1,0 +1,4 @@
+route6:             fd42:b50d:baad::/48
+origin:             AS4242420775
+mnt-by:             TEEED-MNT
+source:             DN42

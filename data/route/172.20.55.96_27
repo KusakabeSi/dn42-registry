@@ -1,0 +1,5 @@
+route:              172.20.55.96/27
+descr:              Libkao's SoftRouter
+origin:             AS4242423722
+mnt-by:             LIBKAO-MNT
+source:             DN42

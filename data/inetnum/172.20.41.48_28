@@ -1,0 +1,10 @@
+inetnum:            172.20.41.48 - 172.20.41.63
+cidr:               172.20.41.48/28
+netname:            WYCHLW-NETWORK
+admin-c:            WYCHLW-DN42
+tech-c:             WYCHLW-DN42
+mnt-by:             WYCHLW-MNT
+status:             ASSIGNED
+source:             DN42
+country:            cn
+nserver:            ns1.wcysite.dn42

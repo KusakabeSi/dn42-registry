@@ -1,0 +1,10 @@
+inet6num:           fd4b:bae2:2594:0000:0000:0000:0000:0000 - fd4b:bae2:2594:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4b:bae2:2594::/48
+netname:            WP140Z-IP6-NET
+descr:              IPv6 network of wp140z
+country:            US
+admin-c:            WP140Z-DN42
+tech-c:             WP140Z-DN42
+mnt-by:             WP140Z-MNT
+status:             ASSIGNED
+source:             DN42

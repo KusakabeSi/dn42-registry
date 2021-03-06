@@ -1,0 +1,5 @@
+route6:             fd42:c0de:6a6d::/48
+descr:              iczero-v6-route
+origin:             AS4242423782
+mnt-by:             VALORAN-MNT
+source:             DN42

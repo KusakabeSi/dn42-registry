@@ -1,0 +1,8 @@
+domain:             overclocked.dn42
+descr:              0v3rCl0kEd's website
+admin-c:            0V3RCL0KED-DN42
+tech-c:             0V3RCL0KED-DN42
+mnt-by:             0V3RCL0KED-MNT
+nserver:            ns1.overclocked.dn42 172.22.151.97
+nserver:            ns1.overclocked.dn42 fdb1:e13c:31ce::2
+source:             DN42

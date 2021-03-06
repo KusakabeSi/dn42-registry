@@ -1,0 +1,6 @@
+mntner:             EQUINOX-DN42-MNT
+descr:              Equinox maintainter object
+admin-c:            EQUINOX-DN42
+tech-c:             EQUINOX-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

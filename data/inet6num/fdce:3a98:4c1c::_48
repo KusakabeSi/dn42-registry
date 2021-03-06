@@ -1,0 +1,11 @@
+inet6num:           fdce:3a98:4c1c:0000:0000:0000:0000:0000 - fdce:3a98:4c1c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdce:3a98:4c1c::/48
+netname:            CPERRIN-NETWORK
+descr:              Network of CPERRIN
+country:            DE
+admin-c:            CPERRIN-DN42
+tech-c:             CPERRIN-DN42
+mnt-by:             CPERRIN-MNT
+nserver:            ns01.cperrin.dn42
+status:             ASSIGNED
+source:             DN42

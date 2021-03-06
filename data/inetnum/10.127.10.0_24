@@ -1,0 +1,8 @@
+inetnum:            10.127.10.0 - 10.127.10.255
+cidr:               10.127.10.0/24
+netname:            Lan Tian LAN
+admin-c:            LAN-TIAN-NEONETWORK
+tech-c:             LAN-TIAN-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

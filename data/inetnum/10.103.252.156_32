@@ -1,0 +1,7 @@
+inetnum:            10.103.252.156 - 10.103.252.156
+cidr:               10.103.252.156/32
+netname:            CHAOSVPN-CHAOSYAO-LP
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

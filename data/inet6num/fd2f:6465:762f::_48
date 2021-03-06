@@ -1,0 +1,11 @@
+inet6num:           fd2f:6465:762f:0000:0000:0000:0000:0000 - fd2f:6465:762f:ffff:ffff:ffff:ffff:ffff
+netname:            EASTBIT-DN42-ULA-IP6NET
+descr:              EastBit's ULA IPv6 network
+country:            DE
+admin-c:            EASTBIT-DN42
+tech-c:             EASTBIT-DN42
+status:             ASSIGNED
+nserver:            ns1.eastbit.dn42
+cidr:               fd2f:6465:762f::/48
+mnt-by:             DUMMY-MNT
+source:             DN42

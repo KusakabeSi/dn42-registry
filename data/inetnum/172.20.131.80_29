@@ -1,0 +1,9 @@
+inetnum:            172.20.131.80 - 172.20.131.87
+cidr:               172.20.131.80/29
+netname:            JOSENG_SG1-NETWORK
+country:            DE
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

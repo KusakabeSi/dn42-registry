@@ -1,0 +1,22 @@
+aut-num:            AS64712
+as-name:            FRITZ-AS
+remarks:            Transit from AS4242420000
+mp-import:          afi ipv4 from AS4242420000 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to AS4242420000 announce { 172.22.40.0/23, 172.22.58.0/24, 172.22.119.128/26, 172.23.192.0/24 }
+mp-import:          afi ipv6 from AS4242420000 accept { fc00::/7^+ }
+mp-export:          afi ipv6 to AS4242420000 announce { fdb3:d376:9939::/48 }
+remarks:            Transit from AS4242423759
+mp-import:          afi ipv4 from AS4242423759     accept   { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to   AS4343433759     announce { 172.22.40.0/23, 172.22.58.0/24, 172.22.119.128/26, 172.23.192.0/24 }
+remarks:            Transit from AS4242423843
+mp-import:          afi ipv4 from AS4242423843 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to AS4242423843 announce { 172.22.40.0/23, 172.22.58.0/24, 172.22.119.128/26, 172.23.192.0/24 }
+remarks:            Transit for AS76198
+mp-import:          afi ipv4 from AS76198 accept { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-export:          afi ipv4 to AS76198 announce { 172.16.0.0/12^+, 10.0.0.0/8^+ }
+mp-import:          afi ipv6 from AS76198 accept { fc00::/7^+ }
+mp-export:          afi ipv6 from AS76198 announce { fc00::/7^+ }
+admin-c:            FRITZ-DN42
+tech-c:             FRITZ-DN42
+mnt-by:             FRITZ-MNT
+source:             DN42

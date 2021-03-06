@@ -1,0 +1,9 @@
+inetnum:            172.22.105.0 - 172.22.105.15
+netname:            THEJIMBOB-NET
+country:            AU
+admin-c:            SFLETCHER-DN42
+tech-c:             SFLETCHER-DN42
+mnt-by:             THEJIMBOB-MNT
+status:             ASSIGNED
+cidr:               172.22.105.0/28
+source:             DN42

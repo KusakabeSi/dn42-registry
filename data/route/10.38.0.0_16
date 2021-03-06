@@ -1,0 +1,6 @@
+route:              10.38.0.0/16
+origin:             AS65380
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: braunschweig
+mnt-by:             DN42-MNT
+source:             ICVPN

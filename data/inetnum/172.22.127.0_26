@@ -1,0 +1,10 @@
+inetnum:            172.22.127.0 - 172.22.127.63
+cidr:               172.22.127.0/26
+netname:            YANGFL-NETWORK
+admin-c:            YANGFL-DN42
+tech-c:             YANGFL-DN42
+mnt-by:             YANGFL-MNT
+nserver:            ns1.yangfl.dn42
+nserver:            ns2.yangfl.dn42
+status:             ASSIGNED
+source:             DN42

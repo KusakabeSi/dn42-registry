@@ -1,0 +1,9 @@
+inet6num:           fd1d:4b09:8446:0000:0000:0000:0000:0000 - fd1d:4b09:8446:0000:ffff:ffff:ffff:ffff
+netname:            NET6-TA
+country:            NG
+admin-c:            TA-DN42
+tech-c:             TA-DN42
+mnt-by:             TA-MNT
+status:             ALLOCATED
+cidr:               fd1d:4b09:8446::/64
+source:             DN42

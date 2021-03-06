@@ -1,0 +1,10 @@
+inet6num:           fdc2:1708:72bc:0000:0000:0000:0000:0000 - fdc2:1708:72bc:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc2:1708:72bc::/48
+netname:            ENP2S0-V6-NET-1
+descr:              enp2s0's core allocation
+country:            US
+admin-c:            ENP2S0-DN42
+tech-c:             ENP2S0-DN42
+mnt-by:             ENP2S0-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.23.230.0 - 172.23.230.63
+cidr:               172.23.230.0/26
+netname:            KUSTAV DN42 POOL
+admin-c:            KUSTAV-DN42
+tech-c:             KUSTAV-DN42
+mnt-by:             KUS-MNT
+status:             ASSIGNED
+source:             DN42

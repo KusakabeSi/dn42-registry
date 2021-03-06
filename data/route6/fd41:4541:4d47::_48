@@ -1,0 +1,5 @@
+route6:             fd41:4541:4d47::/48
+origin:             AS4242421048
+max-length:         48
+mnt-by:             ADAMG-MNT
+source:             DN42

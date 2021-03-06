@@ -1,0 +1,4 @@
+route:              172.20.143.128/25
+origin:             AS4242422575
+mnt-by:             ECOR-MNT
+source:             DN42

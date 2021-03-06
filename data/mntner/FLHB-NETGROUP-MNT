@@ -1,0 +1,10 @@
+mntner:             FLHB-NETGROUP-MNT
+auth:               MTN-FRITZ
+auth:               PGPKEY-758AF1B8
+auth:               MTN-FLHB-NETGROUP
+admin-c:            FRITZ-DN42
+admin-c:            PYROPETER-DN42
+mnt-by:             FRITZ-MNT
+mnt-by:             PYROPETER-MNT
+mnt-by:             FLHB-NETGROUP-MNT
+source:             DN42

@@ -1,0 +1,9 @@
+route:              172.22.0.43/32
+descr:              dn42 anycast whois
+origin:             AS4242420101
+mnt-by:             HEXA-MNT
+origin:             AS4242423723
+mnt-by:             KRSTN-MNT
+origin:             AS4242422601
+mnt-by:             BURBLE-MNT
+source:             DN42

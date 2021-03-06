@@ -1,0 +1,8 @@
+inetnum:            10.214.0.0 - 10.214.255.255
+cidr:               10.214.0.0/16
+netname:            ICVPN-KARLSRUHE
+nserver:            3.0.214.10.ipv4.registry-sync.dn42
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: karlsruhe
+mnt-by:             DN42-MNT
+source:             ICVPN

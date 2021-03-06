@@ -1,0 +1,10 @@
+inetnum:            172.20.142.0 - 172.20.142.31
+cidr:               172.20.142.0/27
+netname:            TIGER-NETWORK
+admin-c:            TIGER-DN42
+tech-c:             TIGER-DN42
+mnt-by:             TIGER-MNT
+nserver:            ns1.tiger.dn42
+nserver:            ns2.tiger.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,6 @@
+route:              172.20.148.64/29
+origin:             AS4242422144
+mnt-by:             TUX333-MNT
+source:             DN42
+admin-c:            TUX333-DN42
+tech-c:             TUX333-DN42

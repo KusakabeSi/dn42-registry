@@ -1,0 +1,11 @@
+inetnum:            172.20.227.176 - 172.20.227.191
+netname:            DATAHOLE-NETWORK
+descr:              Datahole Networks
+country:            DE
+admin-c:            DATAHOLE-DN42
+tech-c:             DATAHOLE-DN42
+mnt-by:             DATAHOLE-MNT
+nserver:            ns1.datahole.dn42
+status:             ASSIGNED
+cidr:               172.20.227.176/28
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdce:3a98:4c1c::/48
+origin:             AS4242423735
+max-length:         48
+mnt-by:             CPERRIN-MNT
+source:             DN42

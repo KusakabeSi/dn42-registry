@@ -1,0 +1,7 @@
+aut-num:            AS4242420844
+as-name:            PASTA-AS
+descr:              Just pasta
+admin-c:            PASTA-DN42
+tech-c:             PASTA-DN42
+mnt-by:             PASTA-MNT
+source:             DN42

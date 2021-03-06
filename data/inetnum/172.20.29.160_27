@@ -1,0 +1,9 @@
+inetnum:            172.20.29.160 - 172.20.29.191
+cidr:               172.20.29.160/27
+netname:            Agrume-NETWORK
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+org:                ORG-UPEC
+status:             ASSIGNED
+source:             DN42

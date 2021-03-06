@@ -1,0 +1,8 @@
+aut-num:            AS4242421401
+as-name:            JUNICAST-AS
+descr:              AS from junicast - happy peering
+remarks:            peering requests: jochen@winteltosh.de
+admin-c:            JUNICAST-DN42
+tech-c:             JUNICAST-DN42
+mnt-by:             JUNICAST-MNT
+source:             DN42

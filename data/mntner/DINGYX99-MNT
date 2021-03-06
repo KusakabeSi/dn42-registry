@@ -1,0 +1,7 @@
+mntner:             DINGYX99-MNT
+admin-c:            DINGYX99-DN42
+tech-c:             DINGYX99-DN42
+mnt-by:             DINGYX99-MNT
+source:             DN42
+auth:               pgp-fingerprint 8CB67955B97403E004496D6BC9D80665CDB231C2
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK7G5AO0SwD9ZPqj+BfWP4sJ9JA2lBG+JiAC0IJSlPDA

@@ -1,0 +1,7 @@
+domain:             neo.dn42
+descr:              neo.dn42 - powered by Biscuit
+admin-c:            BISCUIT-DN42
+tech-c:             BISCUIT-DN42
+mnt-by:             BISCUIT-MNT
+nserver:            neo.yt
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.20.28.192/27
+origin:             AS4242423350
+mnt-by:             ZERTAP-MNT
+source:             DN42

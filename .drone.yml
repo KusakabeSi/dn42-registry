@@ -1,0 +1,17 @@
+---
+kind: pipeline
+type: docker
+name: pull-checks
+
+steps:
+- name: squashbot
+  image: dn42/pipeline
+  environment:
+   SQUASHBOT_TOKEN:
+     from_secret: SQUASHBOT_TOKEN
+  commands:
+   - /scripts/squashbot
+
+trigger:
+  event:
+  - pull_request

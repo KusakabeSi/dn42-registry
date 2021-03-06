@@ -1,0 +1,5 @@
+route6:             fd54:fe4b:9ed1::/48
+origin:             AS4242421722
+max-length:         48
+mnt-by:             TCHEKDA-MNT
+source:             DN42

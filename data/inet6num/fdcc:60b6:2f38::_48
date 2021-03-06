@@ -1,0 +1,10 @@
+inet6num:           fdcc:60b6:2f38:0000:0000:0000:0000:0000 - fdcc:60b6:2f38:ffff:ffff:ffff:ffff:ffff
+netname:            FCON-DN42
+descr:              FCON
+country:            LU
+admin-c:            SINCLAIR-DN42
+tech-c:             SINCLAIR-DN42
+mnt-by:             FCON-MNT
+status:             ASSIGNED
+cidr:               fdcc:60b6:2f38::/48
+source:             DN42

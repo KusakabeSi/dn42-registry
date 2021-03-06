@@ -1,0 +1,7 @@
+domain:             wcysite.dn42
+admin-c:            WYCHLW-DN42
+tech-c:             WYCHLW-DN42
+mnt-by:             WYCHLW-MNT
+nserver:            ns1.wcysite.dn42 172.20.41.49
+nserver:            ns1.wcysite.dn42 fdf6:0774:73c3:53::1
+source:             DN42

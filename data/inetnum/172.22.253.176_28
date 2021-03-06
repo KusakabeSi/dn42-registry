@@ -1,0 +1,10 @@
+inetnum:            172.22.253.176 - 172.22.253.191
+netname:            MTAK-TRANSFER-1-IP4NET
+descr:              mtak dn42 transfer netblock
+admin-c:            MTAK-DN42
+tech-c:             MTAK-DN42
+status:             ASSIGNED
+nserver:            ns1.mtak.dn42
+cidr:               172.22.253.176/28
+mnt-by:             DUMMY-MNT
+source:             DN42

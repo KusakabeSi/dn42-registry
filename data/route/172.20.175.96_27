@@ -1,0 +1,4 @@
+route:              172.20.175.96/27
+origin:             AS4242421508
+mnt-by:             SKID-MNT
+source:             DN42

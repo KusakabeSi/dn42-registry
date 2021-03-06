@@ -1,0 +1,10 @@
+inet6num:           fd42:0023:0118:0000:0000:0000:0000:0000 - fd42:0023:0118:ffff:ffff:ffff:ffff:ffff
+netname:            PMENKE-DN42-V6-ULA
+country:            DE
+admin-c:            PMENKE-DN42
+tech-c:             PMENKE-DN42
+mnt-by:             PMENKE-MNT
+status:             ASSIGNED
+nserver:            ns1.pmenke.dn42
+cidr:               fd42:23:118::/48
+source:             DN42

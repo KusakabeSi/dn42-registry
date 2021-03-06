@@ -1,0 +1,4 @@
+route:              172.22.132.64/28
+origin:             AS4242422128
+mnt-by:             AMNET-MNT
+source:             DN42

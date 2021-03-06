@@ -1,0 +1,15 @@
+inet6num:           fd46:aa43:0000:0000:0000:0000:0000:0000 - fd46:aa43:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            DIVISION-NET
+descr:              The Division Network - AUTHORISED USE ONLY
+policy:             ask
+remarks:            This block will be reserved for future expansion.
+remarks:            You may ask for PA allocation.
+country:            HK
+org:                ORG-LIFEDIO
+admin-c:            LIFEHOME-DN42
+tech-c:             LIFEHOME-DN42
+mnt-by:             LIFEDIO-MNT
+nserver:            ns-division.lifeho.me
+status:             ALLOCATED PI
+cidr:               fd46:aa43::/32
+source:             DN42

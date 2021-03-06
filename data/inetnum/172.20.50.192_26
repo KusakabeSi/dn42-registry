@@ -1,0 +1,10 @@
+inetnum:            172.20.50.192 - 172.20.50.255
+netname:            KHANAGE-TEST
+descr:              Khanage Subnet
+country:            AU
+admin-c:            KHANAGE-DN42
+tech-c:             KHANAGE-DN42
+mnt-by:             KHANAGE-MNT
+status:             ASSIGNED PI
+cidr:               172.20.50.192/26
+source:             DN42

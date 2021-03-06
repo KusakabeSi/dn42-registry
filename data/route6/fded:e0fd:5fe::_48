@@ -1,0 +1,5 @@
+route6:             fded:e0fd:5fe::/48
+origin:             AS4242420565
+max-length:         64
+mnt-by:             E1MO-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.22.180.64/26
+origin:             AS4242422032
+mnt-by:             LAPISBLUE27-MNT
+source:             DN42

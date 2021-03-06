@@ -1,0 +1,4 @@
+route:              172.20.2.128/26
+origin:             AS4242421191
+mnt-by:             YAMAKAJA-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.239.128 - 172.20.239.191
+netname:            LFNET-HOME
+descr:              LittleFox' home network
+country:            DE
+admin-c:            LITTLEFOX-DN42
+tech-c:             LITTLEFOX-DN42
+mnt-by:             LFNET-MNT
+nserver:            karl.home.lf-net.dn42
+status:             ASSIGNED
+cidr:               172.20.239.128/26
+source:             DN42

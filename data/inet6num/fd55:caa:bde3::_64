@@ -1,0 +1,7 @@
+inet6num:           fd55:0caa:bde3:0000:0000:0000:0000:0000 - fd55:0caa:bde3:0000:ffff:ffff:ffff:ffff
+cidr:               fd55:caa:bde3::/64
+netname:            CHAOSVPN-BUZO
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

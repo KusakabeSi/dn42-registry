@@ -1,0 +1,7 @@
+inet6num:           fd25:1952:c72e:0000:0000:0000:0000:0000 - fd25:1952:c72e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd25:1952:c72e::/48
+netname:            ICVPN-LAUSITZ
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: lausitz
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,6 @@
+mntner:             SKY-MNT
+admin-c:            SKY-DN42
+tech-c:             SKY-DN42
+mnt-by:             SKY-MNT
+auth:               pgp-fingerprint 015B9CA103C9F411E2DA18DB007047636606C9D1
+source:             DN42

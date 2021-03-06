@@ -1,0 +1,8 @@
+inetnum:            172.23.151.160 - 172.23.151.175
+cidr:               172.23.151.160/28
+netname:            RAITO-NETWORK
+admin-c:            RAITO-DN42
+tech-c:             RAITO-DN42
+mnt-by:             RAITO-MNT
+status:             ASSIGNED
+source:             DN42

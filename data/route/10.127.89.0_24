@@ -1,0 +1,8 @@
+route:              10.127.89.0/24
+max-length:         29
+origin:             AS4201270003
+admin-c:            CHENX97-NEONETWORK
+tech-c:             CHENX97-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

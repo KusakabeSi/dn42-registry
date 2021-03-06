@@ -1,0 +1,7 @@
+mntner:             ALANJCASTONGUAY-MNT
+admin-c:            ALANJCASTONGUAY-DN42
+tech-c:             ALANJCASTONGUAY-DN42
+mnt-by:             ALANJCASTONGUAY-MNT
+source:             DN42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZ3/lDv0TjIgRCFi42RESJKk8C2g0ZBOhgtYPvMaDGOrcQVD34FUP0Lb22D2t/q8vxPBif5byth2tLcpcJ48Nc2Wu+t2KkaMHi7fjdxIT3s4wV7K826KP6KdT9b2bTm5u0t8zrq74/S1kMJJynjSBdR2rw1Z7wFHAZmGVviDNIfMSs+DusGhPZHYwkv0mg0jG90/s2nreec7nwatZEtgykAAndGLOJSN1wNjNghiuNrPd9afwx8Tu5x26SAmnp1qKGRMr8mN68dtGxvweaY93ioXZ3Jn0uBlz/8PoH+GqFB4MC1R4RVwcB0b9twjcwQO3dY6AHo1beir1zzuXglwFT
+auth:               pgp-fingerprint 0C502E5CF180B8201AE457E07DEB85B927A243B8

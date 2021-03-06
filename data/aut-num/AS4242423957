@@ -1,0 +1,11 @@
+aut-num:            AS4242423957
+as-name:            BYRN-DN42
+remarks:            ***************************************************
+remarks:            * For Peering contact me @ byrn.baker@gmail.com   *
+remarks:            * 3 Nodes @ eu.byrnbaker.me (DE) us.byrnbaker.me (NY) ca1.byrnbaker.me (CA)   *
+remarks:            (DE) and (NY) nodes are digitaloceans Data Centers and (CA) is located in Toronto
+remarks:            ***************************************************
+admin-c:            BYRN-DN42
+tech-c:             BYRN-DN42
+mnt-by:             BYRN-MNT
+source:             DN42

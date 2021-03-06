@@ -1,0 +1,5 @@
+route:              172.20.229.0/26
+descr:              Luelistans legacy-route
+origin:             AS4242420203
+mnt-by:             LUELISTAN-MNT
+source:             DN42

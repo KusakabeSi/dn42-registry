@@ -1,0 +1,12 @@
+inetnum:            172.21.66.128 - 172.21.66.159
+netname:            MITSUHA-NET-DN42-POOL
+descr:              Mitsuha Networks Pool
+country:            CH
+admin-c:            MITSUHA-DN42
+tech-c:             MITSUHA-DN42
+mnt-by:             MITSUHA-MNT
+nserver:            ns1.mitsuha.dn42
+nserver:            ns2.mitsuha.dn42
+status:             ALLOCATED
+cidr:               172.21.66.128/27
+source:             DN42

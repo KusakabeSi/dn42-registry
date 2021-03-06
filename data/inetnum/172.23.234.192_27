@@ -1,0 +1,12 @@
+inetnum:            172.23.234.192 - 172.23.234.223
+netname:            SIS-DN42-INET4-BLK1
+descr:              legacy IP block 1
+country:            DE
+admin-c:            CR-DN42
+tech-c:             CR-DN42
+mnt-by:             SIS-MNT
+org:                ORG-SIS
+status:             ASSIGNED
+cidr:               172.23.234.192/27
+nserver:            ns.sis.dn42
+source:             DN42

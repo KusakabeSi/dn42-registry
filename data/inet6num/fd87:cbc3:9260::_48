@@ -1,0 +1,9 @@
+inet6num:           fd87:cbc3:9260:0000:0000:0000:0000:0000 - fd87:cbc3:9260:ffff:ffff:ffff:ffff:ffff
+netname:            ASX-NET
+country:            HU
+admin-c:            MARK-DN42
+tech-c:             MARK-DN42
+mnt-by:             ASX-MNT
+status:             ALLOCATED PA
+cidr:               fd87:cbc3:9260::/48
+source:             DN42

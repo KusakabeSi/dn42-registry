@@ -1,0 +1,8 @@
+organisation:       ORG-MAGLAB
+org-name:           Magrathea Laboratories e.V.
+descr:              A hackerspace in Fulda, Germany.
+admin-c:            MAGLAB-DN42
+tech-c:             MAGLAB-DN42
+mnt-by:             MAJOR-MNT
+mnt-by:             FOOKER-MNT
+source:             DN42

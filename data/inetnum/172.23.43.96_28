@@ -1,0 +1,14 @@
+inetnum:            172.23.43.96 - 172.23.43.111
+netname:            WOLF-NET
+descr:              WhiteWolf's ZA Net
+country:            ZA
+admin-c:            WOLF-DN42
+tech-c:             WOLF-DN42
+mnt-by:             WOLF-MNT
+status:             ALLOCATED
+nserver:            hail.wolf.dn42
+nserver:            rain.wolf.dn42
+nserver:            snow.wolf.dn42
+nserver:            sleet.wolf.dn42
+cidr:               172.23.43.96/28
+source:             DN42

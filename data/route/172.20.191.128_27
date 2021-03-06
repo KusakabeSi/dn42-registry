@@ -1,0 +1,4 @@
+route:              172.20.191.128/27
+origin:             AS4242420780
+mnt-by:             UFFSALOT-MNT
+source:             DN42

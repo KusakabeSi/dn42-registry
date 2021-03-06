@@ -1,0 +1,5 @@
+route6:             fd9a:d414:cf1c::/48
+descr:              MAUL6-NET
+origin:             AS4242420248
+mnt-by:             MAULI-MNT
+source:             DN42

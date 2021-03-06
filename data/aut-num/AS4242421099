@@ -1,0 +1,14 @@
+aut-num:            AS4242421099
+as-name:            Owens Research Network
+admin-c:            OWENSRESEARCH-DN42
+tech-c:             OWENSRESEARCH-DN42
+mnt-by:             OWENSRESEARCH-MNT
+source:             DN42
+remarks:            -----------------------------------
+remarks:            **Open to peering with Wireguard!**
+remarks:            Email: justin@owensresearch.org
+remarks:            -----------------------------------
+remarks:            Routing Policy and Information:
+remarks:            https://owensresearch.dn42
+remarks:            https://owensresearch.org
+remarks:            -----------------------------------

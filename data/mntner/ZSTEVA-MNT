@@ -1,0 +1,6 @@
+mntner:             ZSTEVA-MNT
+admin-c:            ZSTEVA-DN42
+tech-c:             ZSTEVA-DN42
+mnt-by:             ZSTEVA-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4uqrkjJrpLiJeuP0BTf18ki7GI4cX8sGumJjw9X2FVKlA3sncnT15fWp4CFpQwTqeqYdl5Aw63sj7fpwBD4fVJyjn1op/tE+pUyjb0OVCRAUWh7426o+qQfYpsukQjcubvyg5K4rGM5rUyiV1YI0QNBStLDFpQ1Rr6CRB/1t0votNwO9FA7iX8KvAMFk8yoCXzIcHO2i3hsb7cMmSnR5sF9g1yNRqIaPsCcz32U5HA8QZci8Df7NotFXct6tboK+EcbNzlUExaBN/8NdKn4jNzEcomGfbaLFGu7dunPUFk64Kg5ykM/41AUxbhZrz49YkmIUZbp/jgNrT8w39KwGZzfLyEbT+/b5j7YGEWtAtQEKIfxQ2zJwKCWRgPoOa4S5r1D5rjzcCrBEwmb6ulWHA2vMtBziMDpf9aCAeb/cMp/XAw5x8wPO74ZVwbN8aLEhO9Pc1H/RGLRopJJluYblT3DzoHIEqLTvInlkkJ7OBLmWE9+dNdrVOmk5K7oL9oyiE5F02TyqYgdmJUtJjW3bGz980mTQ5b7+HD40Uh5XFvVrTtUDwmCbK89e+bFppt0r0Th2bIrHMl9H1hJ+WShPqdBnF6RF2UHx04sYapEx1B7vTNvsxs/MDhgbZETf1yqWJPKAtqHuagC6w8tzd6b40/X40BlLzg78lRrKFhKS23w== dn42@zsteva.info
+source:             DN42

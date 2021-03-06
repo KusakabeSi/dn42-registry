@@ -1,0 +1,5 @@
+route:              172.21.67.32/27
+descr:              Pavel Dostál's PDOSTAL 172.21.67.32/27 route
+origin:             AS4242420339
+mnt-by:             PDOSTAL-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.24.0/23
+descr:              HOME-NET-AND-LAB
+origin:             AS4242423991
+mnt-by:             ANDI--MNT
+source:             DN42

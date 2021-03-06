@@ -1,0 +1,6 @@
+route6:             fdef:17a0:ffb1::/48
+origin:             AS65529
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bielefeld
+mnt-by:             DN42-MNT
+source:             ICVPN

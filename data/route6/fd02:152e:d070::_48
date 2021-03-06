@@ -1,0 +1,5 @@
+route6:             fd02:152e:d070::/48
+origin:             AS4242421719
+max-length:         48
+mnt-by:             GOFORCEX-MNT
+source:             DN42

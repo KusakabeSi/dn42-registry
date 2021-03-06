@@ -1,0 +1,11 @@
+inetnum:            172.20.129.128 - 172.20.129.159
+netname:            WORX-NET
+descr:              WORX Main IPv4 allocation
+country:            DE
+admin-c:            WORX-DN42
+tech-c:             WORX-DN42
+mnt-by:             WORX-MNT
+nserver:            ns1.worx.dn42
+status:             ASSIGNED
+cidr:               172.20.129.128/27
+source:             DN42

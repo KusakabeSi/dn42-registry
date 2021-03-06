@@ -1,0 +1,5 @@
+route6:             fdac:ebc8:c8ba::/48
+origin:             AS4242421296
+max-length:         48
+mnt-by:             FANTASQUEX-MNT
+source:             DN42

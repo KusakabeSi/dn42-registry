@@ -1,0 +1,8 @@
+domain:             felix.dn42
+descr:              Felix DNS
+admin-c:            FELIX-DN42
+tech-c:             FELIX-DN42
+mnt-by:             FELIX-MNT
+nserver:            ns1.felix.dn42 172.21.121.2
+nserver:            ns1.felix.dn42 fd42:9707:96bd::2
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fdc6:6093:bfda::/48
+origin:             AS4242420723
+max-length:         48
+mnt-by:             DROPBEAR-MNT
+source:             DN42

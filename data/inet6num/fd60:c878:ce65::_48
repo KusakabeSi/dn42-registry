@@ -1,0 +1,10 @@
+inet6num:           fd60:c878:ce65:0000:0000:0000:0000:0000 - fd60:c878:ce65:ffff:ffff:ffff:ffff:ffff
+netname:            DELTA-IP6
+status:             ALLOCATED
+descr:              my first V6
+country:            DE
+admin-c:            DELTA-DN42
+tech-c:             DELTA-DN42
+mnt-by:             DELTA-MNT
+cidr:               fd60:c878:ce65::/48
+source:             DN42

@@ -1,0 +1,6 @@
+route:              10.60.0.0/16
+origin:             AS65060
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: freiburg
+mnt-by:             DN42-MNT
+source:             ICVPN

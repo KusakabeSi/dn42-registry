@@ -1,0 +1,5 @@
+route6:             fd42:0:c::/48
+descr:              hyhIX HK
+origin:             AS4242420988
+mnt-by:             HYHIX-MNT
+source:             DN42

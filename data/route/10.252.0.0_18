@@ -1,0 +1,6 @@
+route:              10.252.0.0/18
+origin:             AS64861
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: celle
+mnt-by:             DN42-MNT
+source:             ICVPN

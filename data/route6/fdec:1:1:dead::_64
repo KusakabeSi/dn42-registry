@@ -1,0 +1,5 @@
+route6:             fdec:1:1:dead::/64
+descr:              Wunixs Lab network
+origin:             AS4242422015
+mnt-by:             WUNIX-MNT
+source:             DN42

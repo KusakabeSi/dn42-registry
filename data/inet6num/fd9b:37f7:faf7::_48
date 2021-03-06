@@ -1,0 +1,11 @@
+inet6num:           fd9b:37f7:faf7:0000:0000:0000:0000:0000 - fd9b:37f7:faf7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9b:37f7:faf7::/48
+netname:            NEX-NETWORK
+descr:              Network of nex
+country:            DE
+admin-c:            NEX-DN42
+tech-c:             NEX-DN42
+mnt-by:             NEX-MNT
+status:             ASSIGNED
+nserver:            ns1.nex.dn42
+source:             DN42

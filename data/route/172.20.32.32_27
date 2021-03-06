@@ -1,0 +1,4 @@
+route:              172.20.32.32/27
+origin:             AS4242423140
+mnt-by:             XESXEN-MNT
+source:             DN42

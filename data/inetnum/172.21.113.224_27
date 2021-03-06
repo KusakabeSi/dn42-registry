@@ -1,0 +1,8 @@
+inetnum:            172.21.113.224 - 172.21.113.255
+cidr:               172.21.113.224/27
+netname:            AZIMUTH-4NET
+admin-c:            ZENITHAL-DN42
+tech-c:             ZENITHAL-DN42
+mnt-by:             ZENITHAL-MNT
+status:             ASSIGNED
+source:             DN42

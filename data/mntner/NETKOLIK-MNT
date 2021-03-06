@@ -1,0 +1,6 @@
+mntner:             NETKOLIK-MNT
+admin-c:            NETKOLIK-DN42
+tech-c:             NETKOLIK-DN42
+mnt-by:             NETKOLIK-MNT
+auth:               pgp-fingerprint 3594127E1F6C02B9211CDB0FA685269E84979AFC
+source:             DN42

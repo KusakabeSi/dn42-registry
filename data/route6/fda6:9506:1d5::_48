@@ -1,0 +1,6 @@
+route6:             fda6:9506:1d5::/48
+descr:              Oxygen233 Network
+origin:             AS4242422541
+origin:             AS4242422545
+mnt-by:             OXYGEN233-MNT
+source:             DN42

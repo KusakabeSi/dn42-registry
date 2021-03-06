@@ -1,0 +1,6 @@
+domain:             gergernet.dn42
+admin-c:            GERGER-DN42
+tech-c:             GERGER-DN42
+mnt-by:             GERGERNET-MNT
+nserver:            tirpitz.gergernet.dn42 172.22.110.1
+source:             DN42

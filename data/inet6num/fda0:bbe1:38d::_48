@@ -1,0 +1,10 @@
+inet6num:           fda0:bbe1:038d:0000:0000:0000:0000:0000 - fda0:bbe1:038d:ffff:ffff:ffff:ffff:ffff
+netname:            TRRUNDES-V6
+descr:              Homenetwork
+country:            NO
+admin-c:            TRRUNDE-DN42
+tech-c:             TRRUNDE-DN42
+mnt-by:             TRRUNDE-MNT
+status:             ASSIGNED
+cidr:               fda0:bbe1:38d::/48
+source:             DN42

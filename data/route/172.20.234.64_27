@@ -1,0 +1,4 @@
+route:              172.20.234.64/27
+origin:             AS4242421297
+mnt-by:             SBERNAUER-MNT
+source:             DN42

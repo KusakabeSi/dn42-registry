@@ -1,0 +1,11 @@
+inet6num:           fd9d:d085:ba76:0000:0000:0000:0000:0000 - fd9d:d085:ba76:ffff:ffff:ffff:ffff:ffff
+cidr:               fd9d:d085:ba76::/48
+netname:            XNOE-NETWORK
+descr:              Network of Xnoe
+country:            GB
+admin-c:            XNOE-DN42
+tech-c:             XNOE-DN42
+mnt-by:             XNOE-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            rin.ns.xnoe.dn42

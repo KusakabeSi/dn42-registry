@@ -1,0 +1,5 @@
+route6:             fdef:c0f:fe::/48
+descr:              Bodems IPv6 ULA-Net
+origin:             AS76124
+mnt-by:             BODEMS-MNT
+source:             DN42

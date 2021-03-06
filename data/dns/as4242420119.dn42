@@ -1,0 +1,10 @@
+domain:             as4242420119.dn42
+nserver:            ns1.as4242420119.dn42 fd42:5d71:219:0:216:3eff:fea6:7fb
+nserver:            ns2.as4242420119.dn42 fd42:5d71:219:0:216:3eff:fe0b:66af
+nserver:            ns1.as4242420119.dn42 172.20.1.252
+nserver:            ns2.as4242420119.dn42 172.20.1.253
+ds-rdata:           27958 13 2 8ca148aa8598e8ca22d8989ef7598df8d3d78dcb1053f82e67ca9969832eefcd
+admin-c:            JRB0001-DN42
+tech-c:             JRB0001-DN42
+mnt-by:             JRB0001-MNT
+source:             DN42

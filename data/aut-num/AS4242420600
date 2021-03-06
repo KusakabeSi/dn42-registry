@@ -1,0 +1,7 @@
+aut-num:            AS4242420600
+as-name:            FOT-AS
+descr:              AS-FOT
+admin-c:            FOT-DN42
+tech-c:             FOT-DN42
+mnt-by:             FOT-MNT
+source:             DN42

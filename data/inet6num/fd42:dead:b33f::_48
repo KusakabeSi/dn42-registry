@@ -1,0 +1,9 @@
+inet6num:           fd42:dead:b33f:0000:0000:0000:0000:0000 - fd42:dead:b33f:ffff:ffff:ffff:ffff:ffff
+netname:            KR4SH-NETWORK
+country:            DE
+admin-c:            KR4SH-DN42
+tech-c:             KR4SH-DN42
+mnt-by:             KR4SH-MNT
+status:             ASSIGNED
+cidr:               fd42:dead:b33f::/48
+source:             DN42

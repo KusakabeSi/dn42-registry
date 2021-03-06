@@ -1,0 +1,4 @@
+route:              172.21.64.192/27
+origin:             AS4242423843
+mnt-by:             MCBONE-MNT
+source:             DN42

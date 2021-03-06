@@ -1,0 +1,5 @@
+route6:             fdc7:d436:6765::/48
+origin:             AS4242422340
+max-length:         48
+mnt-by:             ROBOTHAM-MNT
+source:             DN42

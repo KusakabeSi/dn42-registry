@@ -1,0 +1,5 @@
+route:              172.20.128.96/29
+descr:              SNEK Network IPV4
+origin:             AS4242420206
+mnt-by:             SNEK-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             upec.dn42
+admin-c:            NICOLAS-DN42
+tech-c:             NICOLAS-DN42
+mnt-by:             NICOLAS-MNT
+org:                ORG-UPEC
+nserver:            ns1.upec.dn42 172.20.29.129
+nserver:            ns1.upec.dn42 fd42:4242:2405:53::1
+source:             DN42

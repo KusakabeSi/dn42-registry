@@ -1,0 +1,7 @@
+mntner:             ALANYHQ-MNT
+descr:              Alanyhq Networks
+admin-c:            ALANYHQ-DN42
+tech-c:             ALANYHQ-DN42
+mnt-by:             ALANYHQ-MNT
+auth:               pgp-fingerprint 2A6FDB893B6B1ED1ABB743D208062812DE24A974
+source:             DN42

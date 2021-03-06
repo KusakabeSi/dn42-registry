@@ -1,0 +1,8 @@
+domain:             baka.dn42
+admin-c:            BAKABYTE-DN42
+tech-c:             BAKABYTE-DN42
+mnt-by:             BAKABYTE-MNT
+org:                ORG-BAKABYTE
+nserver:            ns.baka.dn42 172.23.128.100
+nserver:            ns.baka.dn42 fd23:2a7a:15ae::2
+source:             DN42

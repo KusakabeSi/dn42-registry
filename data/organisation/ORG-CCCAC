@@ -1,0 +1,13 @@
+organisation:       ORG-CCCAC
+org-name:           CCCAC
+www:                https://aachen.ccc.de/
+e-mail:             admins@aachen.ccc.de
+descr:              Chaos Computer Club Aachen e.V.
+admin-c:            SPQ-DN42
+admin-c:            FEUERROT-DN42
+tech-c:             SPQ-DN42
+tech-c:             FEUERROT-DN42
+mnt-by:             SPQ-MNT
+mnt-by:             FEUERROT-MNT
+mnt-by:             ND-MNT
+source:             DN42

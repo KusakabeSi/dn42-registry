@@ -1,0 +1,11 @@
+inet6num:           fd42:c0ff:eeee:0000:0000:0000:0000:0000 - fd42:c0ff:eeee:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:c0ff:eeee::/48
+netname:            BIRB-NETWORK-1
+country:            HU
+admin-c:            BIRB-DN42
+tech-c:             BIRB-DN42
+mnt-by:             BIRB-MNT
+nserver:            ns1.birb.dn42
+nserver:            ns2.birb.dn42
+status:             ASSIGNED
+source:             DN42

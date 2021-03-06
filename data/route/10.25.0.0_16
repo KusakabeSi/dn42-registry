@@ -1,0 +1,6 @@
+route:              10.25.0.0/16
+origin:             AS64858
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: bingen
+mnt-by:             DN42-MNT
+source:             ICVPN

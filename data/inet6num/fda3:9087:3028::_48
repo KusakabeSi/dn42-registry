@@ -1,0 +1,12 @@
+inet6num:           fda3:9087:3028:0000:0000:0000:0000:0000 - fda3:9087:3028:ffff:ffff:ffff:ffff:ffff
+netname:            KNS-NET6
+descr:              KNS-NET6
+country:            LT
+admin-c:            KNS-DN42
+tech-c:             KNS-DN42
+mnt-by:             KNS-MNT
+nserver:            ns1.kns.dn42
+nserver:            ns2.kns.dn42
+status:             ASSIGNED
+cidr:               fda3:9087:3028::/48
+source:             DN42

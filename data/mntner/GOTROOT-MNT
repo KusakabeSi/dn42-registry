@@ -1,0 +1,8 @@
+mntner:             GOTROOT-MNT
+descr:              Got root?
+admin-c:            KTIMS-DN42
+tech-c:             KTIMS-DN42
+mnt-by:             GOTROOT-MNT
+auth:               pgp-fingerprint 80E5069A6947766D9DF85037614D04B9CAD75674
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDah7IjxQb7P9/6UG0KFb+obB/NBhjBYj18AnlTCrxNe
+source:             DN42

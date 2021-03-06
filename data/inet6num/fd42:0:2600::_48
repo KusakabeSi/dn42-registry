@@ -1,0 +1,10 @@
+inet6num:           fd42:0000:2600:0000:0000:0000:0000:0000 - fd42:0000:2600:ffff:ffff:ffff:ffff:ffff
+netname:            N0WUN-NET6-DN42
+descr:              Noone's IPv6 network
+country:            US
+admin-c:            N0WUN-DN42
+tech-c:             N0WUN-DN42
+mnt-by:             N0WUN-MNT
+status:             ALLOCATED
+cidr:               fd42:0:2600::/48
+source:             DN42

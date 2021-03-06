@@ -1,0 +1,8 @@
+mntner:             SIDEREAL-MNT
+remarks:            pin-sha256:6Y2T/3n/yrtPDdklIvBoHkIhb1Ud+DcwGqwJXREJAIA=
+auth:               pgp-fingerprint FC4AEE6E1D8735BB7570B1D4276BB4D416F480F6
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuokodDcemxHlOyEzJVABycTf763kdpBQgac49AyUuS1pRLPKtbub3Fv1GlmEkcKwM2vc5JWkyi/qGIZXC1a3TbjBI8Bmps+7dQpTsQRl1jYdUxdWHF+QRGh6amU0t89zNJfd6gGXi4UjxA4sfGu5+uFnsgdb4Iw2FUuygFL6Fcs/5XFzxb2xSvrHRX7t9Wajzmvu5Jl4owmRv6q2Ww/zhcbnObiGQlx6ZX/wh8vJ9h/fDZwZYceso+oqyEVuuied1FR3woCtnaNEaOxt1MDnkyFJKm6x4vXs5rfOtlikX2h5DcUd4w+mud+eTdcJltCDVz2lXH6YtVIzI/M3/UcDT
+admin-c:            SIDEREAL-DN42
+tech-c:             SIDEREAL-DN42
+mnt-by:             SIDEREAL-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+route6:             fd10:127:308::/48
+max-length:         64
+origin:             AS4242420308
+admin-c:            CLEMENT-VILLISEK-NEONETWORK
+tech-c:             CLEMENT-VILLISEK-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

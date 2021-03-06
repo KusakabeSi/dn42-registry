@@ -1,0 +1,10 @@
+inet6num:           fdd6:6392:5e0c:0000:0000:0000:0000:0000 - fdd6:6392:5e0c:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd6:6392:5e0c::/48
+netname:            ELISE-NETWORK
+descr:              Personal Network of @EliseZeroTwo
+country:            DE
+admin-c:            ELISE-DN42
+tech-c:             ELISE-DN42
+mnt-by:             ELISE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.50.64 - 172.20.50.127
+netname:            NET-3STADT
+cidr:               172.20.50.64/26
+descr:              3-Stadt Net
+country:            DE
+admin-c:            3STADT-DN42
+tech-c:             3STADT-DN42
+mnt-by:             3STADT-MNT
+status:             ASSIGNED
+source:             DN42

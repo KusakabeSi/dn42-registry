@@ -1,0 +1,7 @@
+mntner:             WRMSR-MNT
+admin-c:            WRMSR-DN42
+tech-c:             WRMSR-DN42
+mnt-by:             WRMSR-MNT
+auth:               pgp-fingerprint F6D71F94208FD10B42F48C0C49235D0D4F8ACED4
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIhTIFb8sZ8yheRCXkFP1A6sINgPq6HTmim4EIul/sfF
+source:             DN42

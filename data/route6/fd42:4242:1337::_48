@@ -1,0 +1,4 @@
+route6:             fd42:4242:1337::/48
+origin:             AS4242420414
+mnt-by:             PANKY-MNT
+source:             DN42

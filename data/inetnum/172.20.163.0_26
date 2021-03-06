@@ -1,0 +1,9 @@
+inetnum:            172.20.163.0 - 172.20.163.63
+netname:            MATER-IPV4
+country:            US
+admin-c:            MATER-DN42
+tech-c:             MATER-DN42
+mnt-by:             MATER-MNT
+status:             ASSIGNED
+cidr:               172.20.163.0/26
+source:             DN42

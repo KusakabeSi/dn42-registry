@@ -1,0 +1,4 @@
+route6:             fd68:beef:c0de::/48
+origin:             AS4242423969
+mnt-by:             FSNX-MNT
+source:             DN42

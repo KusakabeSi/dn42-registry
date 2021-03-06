@@ -1,0 +1,12 @@
+inetnum:            172.23.215.192 - 172.23.215.223
+netname:            KAI-HOME
+descr:              Home Network
+country:            DE
+admin-c:            KAI-DN42
+tech-c:             KAI-DN42
+mnt-by:             KAI-MNT
+nserver:            dn42-ns1.as4242422506.dn42
+nserver:            ns1.fastnameserver.eu
+status:             ASSIGNED
+cidr:               172.23.215.192/27
+source:             DN42

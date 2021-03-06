@@ -1,0 +1,11 @@
+inet6num:           fd3b:6bc4:49ef:0000:0000:0000:0000:0000 - fd3b:6bc4:49ef:ffff:ffff:ffff:ffff:ffff
+netname:            SCARLET-KOUMAKAN-NETWORK-IPV6
+descr:              RemiIO's Koumakan Network.
+remarks:            Peer me at i@linux.dog
+country:            CN
+admin-c:            REMI-DN42
+tech-c:             REMI-DN42
+mnt-by:             REMI-MNT
+status:             ASSIGNED
+cidr:               fd3b:6bc4:49ef::/48
+source:             DN42

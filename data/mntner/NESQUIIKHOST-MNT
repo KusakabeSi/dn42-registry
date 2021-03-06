@@ -1,0 +1,6 @@
+mntner:             NESQUIIKHOST-MNT
+admin-c:            NESQUIIKHOST-DN42
+tech-c:             NESQUIIKHOST-DN42
+mnt-by:             NESQUIIKHOST-MNT
+source:             DN42
+auth:               pgp-fingerprint 66B56707E718E9E6EBF478B9E0924D60ACE76FB8

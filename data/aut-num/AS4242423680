@@ -1,0 +1,7 @@
+aut-num:            AS4242423680
+as-name:            NETRUNNER-AS
+descr:              NetRunner dn42 experiments
+admin-c:            NETRUNNER-DN42
+tech-c:             NETRUNNER-DN42
+mnt-by:             NETRUNNER-MNT
+source:             DN42

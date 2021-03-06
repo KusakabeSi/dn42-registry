@@ -1,0 +1,21 @@
+aut-num:            AS213262
+as-name:            MOE-AS
+admin-c:            MOE-NEONETWORK
+tech-c:             MOE-NEONETWORK
+descr:              Moe Overflow Electric
+remarks:            Moe 42 Laboratory
+org:                ORG-MOE
+remarks:            -------------------------------------------------
+remarks:            ----------- UPSTREAM/PEER/DOWNSTREAM ------------
+remarks:            -------------------------------------------------
+mp-import:          afi ipv4.unicast from AS-ANY accept ANY
+mp-export:          afi ipv4.unicast to AS-ANY announce ANY
+mp-import:          afi ipv6.unicast from AS-ANY accept ANY
+mp-export:          afi ipv6.unicast to AS-ANY announce ANY
+remarks:            -------------------------------------------------
+remarks:            -------------------------------------------------
+remarks:            Peering Policy: Open(DN42, NeoNetwork, Internet)
+remarks:            Check https://as213262.peeringdb.com/ for Peering
+remarks:            -------------------------------------------------
+mnt-by:             MOE42-MNT
+source:             RIPE

@@ -1,0 +1,7 @@
+inetnum:            172.31.0.31 - 172.31.0.31
+cidr:               172.31.0.31/32
+netname:            CHAOSVPN-H4
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

@@ -1,0 +1,8 @@
+inetnum:            172.22.110.216 - 172.22.110.223
+cidr:               172.22.110.216/29
+netname:            NATO-NET-1
+admin-c:            NATO-DN42
+tech-c:             NATO-DN42
+mnt-by:             NATO-MNT
+status:             ASSIGNED
+source:             DN42

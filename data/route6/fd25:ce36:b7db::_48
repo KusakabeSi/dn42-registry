@@ -1,0 +1,5 @@
+route6:             fd25:ce36:b7db::/48
+descr:              SnapServ Ltd
+origin:             AS4242420800
+mnt-by:             SNAPSERV-MNT
+source:             DN42

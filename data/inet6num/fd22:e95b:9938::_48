@@ -1,0 +1,13 @@
+inet6num:           fd22:e95b:9938:0000:0000:0000:0000:0000 - fd22:e95b:9938:ffff:ffff:ffff:ffff:ffff
+cidr:               fd22:e95b:9938::/48
+netname:            CLOUDYSKIES-NET
+descr:              CloudySkies
+country:            US
+org:                ORG-CLOUDYSKIES
+admin-c:            CLOUDYSKIES-DN42
+tech-c:             CLOUDYSKIES-DN42
+mnt-by:             CLOUDYSKIES-MNT
+nserver:            ns1.cloudyskies.dn42
+nserver:            ns2.cloudyskies.dn42
+status:             ASSIGNED
+source:             DN42

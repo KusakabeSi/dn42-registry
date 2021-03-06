@@ -1,0 +1,6 @@
+route:              10.234.0.0/15
+origin:             AS65533
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: kreisgt
+mnt-by:             DN42-MNT
+source:             ICVPN

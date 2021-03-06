@@ -1,0 +1,9 @@
+inet6num:           fd62:7eab:c85f:0000:0000:0000:0000:0000 - fd62:7eab:c85f:ffff:ffff:ffff:ffff:ffff
+cidr:               fd62:7eab:c85f::/48
+netname:            WORTTIR-NET-1
+country:            FR
+admin-c:            WORTTIR-DN42
+tech-c:             WORTTIR-DN42
+mnt-by:             WORTTIR-MNT
+status:             ASSIGNED
+source:             DN42

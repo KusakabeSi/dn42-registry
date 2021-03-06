@@ -1,0 +1,11 @@
+inetnum:            172.23.145.0 - 172.23.145.255
+netname:            LZ-IPV4
+remarks:            Peer with me at zhengbenyu@foxmial.com
+descr:              Peer with me at zhengbenyu@foxmail.com
+country:            CN
+admin-c:            MICROLZ-DN42
+tech-c:             MICROLZ-DN42
+mnt-by:             LZ-MNT
+status:             ASSIGNED
+cidr:               172.23.145.0/24
+source:             DN42

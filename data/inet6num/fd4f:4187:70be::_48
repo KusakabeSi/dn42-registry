@@ -1,0 +1,9 @@
+inet6num:           fd4f:4187:70be:0000:0000:0000:0000:0000 - fd4f:4187:70be:ffff:ffff:ffff:ffff:ffff
+netname:            ZEBMCCORKLE-NL-IP6
+country:            NL
+admin-c:            ZEBMCCORKLE-DN42
+tech-c:             ZEBMCCORKLE-DN42
+mnt-by:             ZEBMCCORKLE-MNT
+status:             ASSIGNED
+cidr:               fd4f:4187:70be::/48
+source:             DN42

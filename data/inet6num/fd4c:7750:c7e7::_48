@@ -1,0 +1,12 @@
+inet6num:           fd4c:7750:c7e7:0000:0000:0000:0000:0000 - fd4c:7750:c7e7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd4c:7750:c7e7::/48
+netname:            EASTBOUND-NET-V6-1
+descr:              IPv6 block for EASTBOUND-NET
+country:            AU
+admin-c:            EASTBOUND-DN42
+tech-c:             EASTBOUND-DN42
+mnt-by:             EASTBOUND-MNT
+status:             ASSIGNED
+nserver:            ns1.eb.dn42
+nserver:            ns2.eb.dn42
+source:             DN42

@@ -1,0 +1,8 @@
+aut-num:            AS64613
+as-name:            DIVISION-AS
+descr:              Division-NET AS
+org:                ORG-LIFEDIO
+admin-c:            LIFEHOME-DN42
+tech-c:             LIFEHOME-DN42
+mnt-by:             LIFEDIO-MNT
+source:             DN42

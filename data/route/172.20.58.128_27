@@ -1,0 +1,4 @@
+route:              172.20.58.128/27
+origin:             AS4242420138
+mnt-by:             HARDB1T-MNT
+source:             DN42

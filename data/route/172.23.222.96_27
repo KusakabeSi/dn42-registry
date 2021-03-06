@@ -1,0 +1,4 @@
+route:              172.23.222.96/27
+origin:             AS4242422520
+mnt-by:             YF-MNT
+source:             DN42

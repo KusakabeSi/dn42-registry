@@ -1,0 +1,5 @@
+route:              172.20.155.80/29
+origin:             AS4242420506
+descr:              PUDDING-NET
+mnt-by:             PUDDING-MNT
+source:             DN42

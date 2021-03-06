@@ -1,0 +1,8 @@
+domain:             phowork.dn42
+admin-c:            CARLOTRONICS-DN42
+tech-c:             CARLOTRONICS-DN42
+mnt-by:             CARLOTRONICS-MNT
+nserver:            ns1.phowork.dn42 172.20.29.226
+nserver:            ns2.phowork.dn42 172.20.29.227
+org:                ORG-PHOWORK
+source:             DN42

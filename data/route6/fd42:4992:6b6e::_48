@@ -1,0 +1,4 @@
+route6:             fd42:4992:6b6e::/48
+origin:             AS4242428201
+mnt-by:             WOLF-MNT
+source:             DN42

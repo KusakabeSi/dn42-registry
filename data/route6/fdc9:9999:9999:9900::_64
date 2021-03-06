@@ -1,0 +1,4 @@
+route6:             fdc9:9999:9999:9900::/64
+origin:             AS4242420199
+mnt-by:             IXNET-MNT
+source:             DN42

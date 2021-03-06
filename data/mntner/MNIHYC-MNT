@@ -1,0 +1,7 @@
+mntner:             MNIHYC-MNT
+admin-c:            MNIHYC-DN42
+tech-c:             MNIHYC-DN42
+mnt-by:             MNIHYC-MNT
+source:             DN42
+auth:               pgp-fingerprint E8F974EC53F6232ADD09CF57427A7CB21DF42434
+remarks:            mnihyc

@@ -1,0 +1,9 @@
+inetnum:            172.21.67.160 - 172.21.67.175
+cidr:               172.21.67.160/28
+netname:            MOZZNET-NETWORK
+admin-c:            MOZZNET-DN42
+tech-c:             MOZZNET-DN42
+mnt-by:             MOZZNET-MNT
+status:             ASSIGNED
+nserver:            helium.ns.mozzarella.dn42
+source:             DN42

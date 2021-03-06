@@ -1,0 +1,9 @@
+inetnum:            172.21.93.0 - 172.21.93.31
+cidr:               172.21.93.0/27
+netname:            5670-V4-NET
+country:            DE
+admin-c:            FAIRY-DN42
+tech-c:             FAIRY-DN42
+mnt-by:             5670-MNT
+status:             ASSIGNED
+source:             DN42

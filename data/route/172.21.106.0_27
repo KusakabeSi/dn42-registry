@@ -1,0 +1,5 @@
+route:              172.21.106.0/27
+descr:              TAYLES-NETWORK2
+origin:             AS4242429990
+mnt-by:             TAYLES-MNT
+source:             DN42

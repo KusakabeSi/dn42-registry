@@ -1,0 +1,5 @@
+route6:             fdce:d01:12e5::/48
+origin:             AS4242420982
+max-length:         48
+mnt-by:             W4XZR-MNT
+source:             DN42

@@ -1,0 +1,7 @@
+domain:             zeitgeist.dn42
+admin-c:            W0H-DN42
+tech-c:             W0H-DN42
+mnt-by:             W0H-MNT
+nserver:            ns1.dns.dn42
+nserver:            ns2.dns.dn42
+source:             DN42

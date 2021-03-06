@@ -1,0 +1,11 @@
+inetnum:            172.21.111.0 - 172.21.111.255
+netname:            DDEV-IP2
+descr:              testing net for ddev-mnt
+country:            DE
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+nserver:            ns1.ddev.dn24
+status:             ASSIGNED
+cidr:               172.21.111.0/24
+source:             DN42

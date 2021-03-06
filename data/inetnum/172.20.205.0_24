@@ -1,0 +1,10 @@
+inetnum:            172.20.205.0 - 172.20.205.255
+netname:            GDN42LAB-NET
+descr:              Laboratory Net
+country:            DE
+admin-c:            LEVING-DN42
+tech-c:             LEVING-DN42
+mnt-by:             LEVING-MNT
+status:             ALLOCATED
+cidr:               172.20.205.0/24
+source:             DN42

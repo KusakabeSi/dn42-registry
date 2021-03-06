@@ -1,0 +1,7 @@
+domain:             flat.dn42
+admin-c:            IRL-DN42
+tech-c:             IRL-DN42
+mnt-by:             IRL-MNT
+mnt-by:             ANA-MNT
+nserver:            ns1.flat.dn42 172.20.203.66
+source:             DN42

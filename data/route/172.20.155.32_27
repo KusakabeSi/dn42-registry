@@ -1,0 +1,4 @@
+route:              172.20.155.32/27
+origin:             AS4242423156
+mnt-by:             BUROA-MNT
+source:             DN42

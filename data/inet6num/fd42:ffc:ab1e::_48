@@ -1,0 +1,10 @@
+inet6num:           fd42:0ffc:ab1e:0000:0000:0000:0000:0000 - fd42:0ffc:ab1e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:ffc:ab1e::/48
+netname:            GENOFIRE-NETWORK
+descr:              Network of genofire
+country:            DE
+admin-c:            GENOFIRE-DN42
+tech-c:             GENOFIRE-DN42
+mnt-by:             GENOFIRE-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd86:5946:61b2:0000:0000:0000:0000:0000 - fd86:5946:61b2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:5946:61b2::/48
+netname:            SPENCERCW-NETWORK
+admin-c:            SPENCERCW-DN42
+tech-c:             SPENCERCW-DN42
+mnt-by:             SPENCERCW-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route:              172.20.206.128/25
+descr:              Khaled
+origin:             AS4242420136
+mnt-by:             KHALED-MNT
+source:             DN42

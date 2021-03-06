@@ -1,0 +1,9 @@
+inetnum:            172.20.251.0 - 172.20.251.127
+netname:            SNOWLAKE-NET
+country:            US
+admin-c:            SNOWLAKE-DN42
+tech-c:             SNOWLAKE-DN42
+mnt-by:             SNOWLAKE-MNT
+status:             ASSIGNED
+cidr:               172.20.251.0/25
+source:             DN42

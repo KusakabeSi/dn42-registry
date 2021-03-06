@@ -1,0 +1,6 @@
+mntner:             GDEV-MNT
+admin-c:            GDEV-DN42
+tech-c:             GDEV-DN42
+mnt-by:             GDEV-MNT
+auth:               pgp-fingerprint AE26279AAFAC72896C8B4FB8C223B52BE9A29355
+source:             DN42

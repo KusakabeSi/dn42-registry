@@ -1,0 +1,8 @@
+inet6num:           fd7c:9293:9293:0000:0000:0000:0000:0000 - fd7c:9293:9293:ffff:ffff:ffff:ffff:ffff
+cidr:               fd7c:9293:9293::/48
+netname:            NET-DALUNNET6A-DN42
+admin-c:            DALUN-DN42
+tech-c:             DALUN-DN42
+mnt-by:             DALUN-MNT
+status:             ASSIGNED
+source:             DN42

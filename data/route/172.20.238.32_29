@@ -1,0 +1,4 @@
+route:              172.20.238.32/29
+origin:             AS4242423652
+mnt-by:             NESQUIIKHOST-MNT
+source:             DN42

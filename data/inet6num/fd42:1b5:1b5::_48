@@ -1,0 +1,9 @@
+inet6num:           fd42:01b5:01b5:0000:0000:0000:0000:0000 - fd42:01b5:01b5:ffff:ffff:ffff:ffff:ffff
+netname:            LUGINBASH-NET
+country:            DE
+admin-c:            LUGINBASH-DN42
+tech-c:             LUGINBASH-DN42
+mnt-by:             LUGINBASH-MNT
+status:             ASSIGNED
+cidr:               fd42:1b5:1b5::/48
+source:             DN42

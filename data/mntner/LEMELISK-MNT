@@ -1,0 +1,7 @@
+mntner:             LEMELISK-MNT
+admin-c:            LEMELISK-DN42
+tech-c:             LEMELISK-DN42
+mnt-by:             LEMELISK-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJgSNpLlkCEEwGeWSPAqsgY75fsTSkWUwV6lji2MHxK/ lemelisk@dn42
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDIXLxKLR4azxwQZth44hBoxQI8n2zEAGcZ5CwDzZX5WNoBRG5tZhOnN9HK/OkzSH2Z/P0MSajdDrWwGboNZp7hRygvMtWMfF1PX4vZa1z69KkFwv/PXLJEOHrr138evL5ufK26PQNyUIErBsF92e+bpUhG0MdarHZLeyBZHOnIP2iQDBZ1NnCKoDrhNY3KuUVo+WHCzPqeYSX5sbdzS15b1gebq3/Qy9cP5u1HCevRyPdooCRzJ09ZwqS4vpqBmeM6b7FBj0CB+ipJ8OO7CUaMnPMR1uozB1EzhgWHhiBlY2bEI/ucVjuj8UizCty56RNDyWYRe0KmQHIMbp2FZuk5 lemelisk@dn42
+source:             DN42

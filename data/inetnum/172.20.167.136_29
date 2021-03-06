@@ -1,0 +1,9 @@
+inetnum:            172.20.167.136 - 172.20.167.143
+netname:            LHS-NL-NETWORK
+country:            NL
+admin-c:            KEVIT-DN42
+tech-c:             KEVIT-DN42
+mnt-by:             LHS-MNT
+status:             ASSIGNED
+cidr:               172.20.167.136/29
+source:             DN42

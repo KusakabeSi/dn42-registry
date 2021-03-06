@@ -1,0 +1,9 @@
+inetnum:            172.23.225.0 - 172.23.225.255
+netname:            NET-DERF-DN42
+country:            DE
+admin-c:            DERF-DN42
+tech-c:             DERF-DN42
+mnt-by:             DERF-MNT
+status:             ASSIGNED
+cidr:               172.23.225.0/24
+source:             DN42

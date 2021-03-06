@@ -1,0 +1,7 @@
+mntner:             IVIP-MNT
+descr:              IVIP
+admin-c:            IVIP-DN42
+tech-c:             IVIP-DN42
+mnt-by:             IVIP-MNT
+auth:               pgp-fingerprint A82E6E376249254B34918A2A83833EAB735CA699
+source:             DN42

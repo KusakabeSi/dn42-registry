@@ -1,0 +1,5 @@
+route6:             fdd4:23a3:9727::/48
+origin:             AS4242422339
+max-length:         48
+mnt-by:             NOCTIS-MNT
+source:             DN42

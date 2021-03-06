@@ -1,0 +1,12 @@
+inet6num:           fd42:0023:0139:0000:0000:0000:0000:0000 - fd42:0023:0139:ffff:ffff:ffff:ffff:ffff
+netname:            LOLLO-DN42-V6
+descr:              Lollo's ipv6 network
+country:            FR
+admin-c:            LOLLO-DN42
+tech-c:             LOLLO-DN42
+mnt-by:             LOLLO-MNT
+nserver:            ns0.lollo.dn42
+nserver:            ns1.lollo.dn42
+status:             ASSIGNED
+cidr:               fd42:23:139::/48
+source:             DN42

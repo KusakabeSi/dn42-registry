@@ -1,0 +1,6 @@
+domain:             ip4.dn42
+admin-c:            ZOTAN-DN42
+tech-c:             ZOTAN-DN42
+mnt-by:             ZOTAN-MNT
+nserver:            ns1.zotan.dn42
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd0c:62d:8e7::/48
+origin:             AS4242423371
+mnt-by:             BAT-MNT
+source:             DN42

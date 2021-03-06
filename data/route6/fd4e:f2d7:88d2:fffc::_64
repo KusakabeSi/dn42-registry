@@ -1,0 +1,6 @@
+route6:             fd4e:f2d7:88d2:fffc::/64
+origin:             AS64899
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: saar
+mnt-by:             DN42-MNT
+source:             ICVPN

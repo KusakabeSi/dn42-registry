@@ -1,0 +1,9 @@
+inet6num:           fd54:e317:217a:0000:0000:0000:0000:0000 - fd54:e317:217a:ffff:ffff:ffff:ffff:ffff
+netname:            NET-PHYSTRAX-001
+country:            GB
+admin-c:            MADYODA-DN42
+tech-c:             MADYODA-DN42
+mnt-by:             PHYSTRAX-MNT
+status:             ASSIGNED
+cidr:               fd54:e317:217a::/48
+source:             DN42

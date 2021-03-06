@@ -1,0 +1,9 @@
+inet6num:           fdee:d21b:6b8b:0000:0000:0000:0000:0000 - fdee:d21b:6b8b:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:d21b:6b8b::/48
+netname:            TRIS-NET-1
+admin-c:            TRIS-DN42
+tech-c:             TRIS-DN42
+mnt-by:             TRIS-MNT
+nserver:            ns1.tris.dn42
+status:             ASSIGNED
+source:             DN42

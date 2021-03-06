@@ -1,0 +1,4 @@
+registry:           ARIN
+url:                whois://whois.arin.net
+mnt-by:             DN42-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             SERNET-MNT
+admin-c:            HAKSRPD-DN42
+tech-c:             HAKSRPD-DN42
+mnt-by:             SERNET-MNT
+source:             DN42
+auth:               pgp-fingerprint 29E507919AAA2EBAC209658EA79D5869700BC8BE

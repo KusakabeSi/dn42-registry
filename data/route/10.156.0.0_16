@@ -1,0 +1,6 @@
+route:              10.156.0.0/16
+origin:             AS65120
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: glwupper
+mnt-by:             DN42-MNT
+source:             ICVPN

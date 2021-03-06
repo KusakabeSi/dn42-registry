@@ -1,0 +1,26 @@
+aut-num:            AS4242421050
+as-name:            NAPSTERBATER-AS
+descr:              NAPSTERBATERs Network
+admin-c:            NAPSTERBATER-DN42
+tech-c:             NAPSTERBATER-DN42
+mnt-by:             NAPSTERBATER-MNT
+mp-import:          afi any.unicast from AS4242421050:AS-TRANSIT accept ANY
+mp-export:          afi any.unicast to AS4242421050:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS4242421050:AS-PEER accept PeerAS
+mp-export:          afi any.unicast to AS4242421050:AS-PEER announce AS4242421050
+source:             DN42
+remarks:            --------------------------------------------------------
+remarks:            Contact for peering : bjackson@napshome.net | IRC : Napsterbater
+remarks:            --------------------------------------------------------
+remarks:            Peering Info :
+remarks:            - Primarily Wireguard, OpenVPN if necessary, maybe others? Just ask!
+remarks:            - Support Multi-Protocol over BGPv6
+remarks:            - Transit, Peering, or Downstream available.
+remarks:            --------------------------------------------------------
+remarks:            Looking glass available: lg.napshome.dn42 lg.dn42.napshome.net
+remarks:            --------------------------------------------------------
+remarks:            Peering Location :
+remarks:            Atlanta, GA, US: atl1-us.dn42.napshome.net
+remarks:            Frankfurt, DE  : ffm1-de.dn42.napshome.net
+remarks:            Manchester. UK : mcr1-uk.dn42.napshome.net
+remarks:            --------------------------------------------------------

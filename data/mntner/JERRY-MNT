@@ -1,0 +1,6 @@
+mntner:             JERRY-MNT
+admin-c:            JERRY-DN42
+tech-c:             JERRY-DN42
+mnt-by:             JERRY-MNT
+auth:               pgp-fingerprint 186242204A2EC70438E9CE3B9D9CE43650FF2BAA
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242421664
+as-name:            CAFAI-AS
+descr:              CAFAI's AS
+admin-c:            CAFAI-DN42
+tech-c:             GU1-DN42
+mnt-by:             GU1-MNT
+source:             DN42

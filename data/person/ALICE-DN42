@@ -1,0 +1,5 @@
+person:             ALICE
+contact:            mailto:foo@bar.de
+nic-hdl:            ALICE-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+domain:             fsnx.dn42
+descr:              FSNX Network
+admin-c:            FSNX-DN42
+tech-c:             FSNX-DN42
+mnt-by:             FSNX-MNT
+nserver:            ns1.fsnx.dn42 172.21.64.17
+nserver:            ns1.fsnx.dn42 fd68:beef:c0de::1
+source:             DN42

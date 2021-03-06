@@ -1,0 +1,9 @@
+inetnum:            172.20.181.192 - 172.20.181.255
+netname:            RUDIS-NET
+country:            DE
+admin-c:            RUDIS-DN42
+tech-c:             RUDIS-DN42
+mnt-by:             RUDIS-MNT
+status:             ASSIGNED
+cidr:               172.20.181.192/26
+source:             DN42

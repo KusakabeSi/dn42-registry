@@ -1,0 +1,4 @@
+route:              172.22.40.0/23
+origin:             AS64712
+mnt-by:             FRITZ-MNT
+source:             DN42

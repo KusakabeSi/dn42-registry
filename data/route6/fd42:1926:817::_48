@@ -1,0 +1,4 @@
+route6:             fd42:1926:817::/48
+origin:             AS4242421926
+mnt-by:             ZHAOFENG-MNT
+source:             DN42

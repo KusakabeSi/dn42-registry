@@ -1,0 +1,4 @@
+route6:             fd78:1878:3450::/48
+origin:             AS4242421841
+mnt-by:             MT-MNT
+source:             DN42

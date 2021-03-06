@@ -1,0 +1,10 @@
+inet6num:           fd78:1878:3450:0000:0000:0000:0000:0000 - fd78:1878:3450:ffff:ffff:ffff:ffff:ffff
+cidr:               fd78:1878:3450::/48
+netname:            MASCHINENRAUM-NETWORK
+descr:              Network of Maschinenraum
+country:            DE
+admin-c:            MT-DN42
+tech-c:             MT-DN42
+mnt-by:             MT-MNT
+status:             ASSIGNED
+source:             DN42

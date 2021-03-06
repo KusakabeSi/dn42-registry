@@ -1,0 +1,17 @@
+aut-num:            AS4242420888
+as-name:            CORE-AS-MINKENSTEIN
+descr:              Minkenstein-DN42-Core
+remarks:            =-------------------------------------------=
+remarks:            =      --OpenVPN and FastD Peering--        =
+remarks:            =  --Direct Peering over KleyRex @ FFM-1--  =
+remarks:            =  --Direct Peering over IX - NL-ZUID.NL--  =
+remarks:            =-------------------------------------------=
+remarks:            = Locations:                                =
+remarks:            = Frankfurt/Main FFM-1 (NewColo) @ 10Gbit   =
+remarks:            = Frankfurt/Main FFM-2 (Interwerk) @ 1Gbit  =
+remarks:            = Peering Contact: MINKENSTEIN-DN42         =
+remarks:            =-------------------------------------------=
+admin-c:            MINKENSTEIN-DN42
+tech-c:             MINKENSTEIN-DN42
+mnt-by:             MINKENSTEIN-MNT
+source:             DN42

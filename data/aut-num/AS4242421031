@@ -1,0 +1,7 @@
+aut-num:            AS4242421031
+as-name:            KOE-AS
+descr:              BGP FUN
+admin-c:            KOE-DN42
+tech-c:             KOE-DN42
+mnt-by:             KOE-MNT
+source:             DN42

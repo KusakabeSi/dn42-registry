@@ -1,0 +1,5 @@
+route6:             fdc6:9675:ebda::/48
+origin:             AS4242423376
+max-length:         48
+mnt-by:             VICTOR-MNT
+source:             DN42

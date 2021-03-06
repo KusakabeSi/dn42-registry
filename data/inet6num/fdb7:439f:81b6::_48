@@ -1,0 +1,11 @@
+inet6num:           fdb7:439f:81b6:0000:0000:0000:0000:0000 - fdb7:439f:81b6:ffff:ffff:ffff:ffff:ffff
+netname:            DRATHIR-DN42-FLORIANB-AT-INET6
+descr:              DRATHIR-DN42-FLORIANB-AT-INET6
+country:            AT
+admin-c:            DRATHIR-DN42
+tech-c:             DRATHIR-DN42
+mnt-by:             DRATHIR-MNT
+nserver:            ns1.drathir.dn42
+status:             ALLOCATED
+cidr:               fdb7:439f:81b6::/48
+source:             DN42

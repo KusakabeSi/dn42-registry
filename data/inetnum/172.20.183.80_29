@@ -1,0 +1,10 @@
+inetnum:            172.20.183.80 - 172.20.183.87
+netname:            GEDIX-TRANSFER-NET
+descr:              Geix routing transfer net
+country:            DE
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+status:             ALLOCATED PA
+cidr:               172.20.183.80/29
+source:             DN42

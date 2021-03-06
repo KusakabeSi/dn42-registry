@@ -1,0 +1,4 @@
+route:              172.20.48.224/27
+origin:             AS4242421938
+mnt-by:             BABBLE-MNT
+source:             DN42

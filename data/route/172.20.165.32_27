@@ -1,0 +1,4 @@
+route:              172.20.165.32/27
+origin:             AS4242423189
+mnt-by:             MARLIN-MNT
+source:             DN42

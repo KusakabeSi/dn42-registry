@@ -1,0 +1,8 @@
+mntner:             CLOUDFILES-MNT
+admin-c:            CLOUDFILES-DN42
+tech-c:             CLOUDFILES-DN42
+mnt-by:             CLOUDFILES-MNT
+auth:               pgp-fingerprint B944FB6B98712FD606DC702E9E50769F9346F8BD
+remarks:            OpenPGP key can be optained with WKD searching for dn42@cloudfiles.at.
+remarks:            gpg --auto-key-locate wkd --locate-key dn42@cloudfiles.at
+source:             DN42

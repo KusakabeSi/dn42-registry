@@ -1,0 +1,5 @@
+route:              172.20.191.192/27
+origin:             AS4242422464
+max-length:         29
+mnt-by:             MOE-MNT
+source:             DN42

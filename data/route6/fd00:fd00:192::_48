@@ -1,0 +1,5 @@
+route6:             fd00:fd00:192::/48
+descr:              AS4242423560 announcement for OHNX-NET6-NA
+origin:             AS4242423560
+mnt-by:             OHNX-MNT
+source:             DN42

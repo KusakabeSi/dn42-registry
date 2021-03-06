@@ -1,0 +1,7 @@
+mntner:             TSHDW-MNT
+admin-c:            TSHDW-DN42
+tech-c:             TSHDW-DN42
+mnt-by:             TSHDW-MNT
+auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPOVSu6jE8bpQThOmIzcmdnaXnRELdPeY6YK96EXEudt
+auth:               pgp-fingerprint 8FF32BFE5C537FB23550C200EC9346E7BBFCBBDE
+source:             DN42

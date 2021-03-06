@@ -1,0 +1,7 @@
+aut-num:            AS64764
+as-name:            MARGASH-AS
+descr:              Margash's AS
+admin-c:            MARGASH-DN42
+tech-c:             MARGASH-DN42
+mnt-by:             MARGASH-MNT
+source:             DN42

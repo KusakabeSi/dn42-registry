@@ -1,0 +1,10 @@
+inetnum:            172.20.155.32 - 172.20.155.63
+cidr:               172.20.155.32/27
+netname:            BUROA-NETWORK
+descr:              Network of Buroa
+country:            US
+admin-c:            BUROA-DN42
+tech-c:             BUROA-DN42
+mnt-by:             BUROA-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route:              172.23.173.192/27
+origin:             AS4242420081
+mnt-by:             DIRKS-MNT
+source:             DN42

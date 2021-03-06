@@ -1,0 +1,9 @@
+inet6num:           fd42:0dee:0dee:0000:0000:0000:0000:0000 - fd42:0dee:0dee:ffff:ffff:ffff:ffff:ffff
+netname:            COMPUGLOBAL-600
+country:            DE
+admin-c:            DEEGEE-DN42
+tech-c:             DEEGEE-DN42
+mnt-by:             COMPUGLOBAL-MNT
+status:             ASSIGNED
+cidr:               fd42:dee:dee::/48
+source:             DN42

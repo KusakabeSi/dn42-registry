@@ -1,0 +1,4 @@
+route6:             fd42:470:ed5d::/48
+origin:             AS4242422065
+mnt-by:             AMBROSE-MNT
+source:             DN42

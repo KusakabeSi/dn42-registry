@@ -1,0 +1,8 @@
+domain:             eritap.dn42
+admin-c:            ERITAP-DN42
+tech-c:             ERITAP-DN42
+mnt-by:             ERITAP-MNT
+org:                ORG-ERITAP
+nserver:            ns.eritap.dn42 172.23.2.2
+nserver:            ns.eritap.dn42 fd32:8411:abab::53
+source:             DN42

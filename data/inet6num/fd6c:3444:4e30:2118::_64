@@ -1,0 +1,11 @@
+inet6num:           fd6c:3444:4e30:2118:0000:0000:0000:0000 - fd6c:3444:4e30:2118:ffff:ffff:ffff:ffff
+netname:            NET-DARKSNOW-DN42
+cidr:               fd6c:3444:4e30:2118::/64
+descr:              darksnow
+country:            FR
+admin-c:            CLEMATIS-DN42
+tech-c:             CLEMATIS-DN42
+mnt-by:             CLEMATIS-MNT
+status:             ASSIGNED
+nserver:            ns1.darksnow.dn42
+source:             DN42

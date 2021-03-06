@@ -1,0 +1,7 @@
+domain:             giga.dn42
+admin-c:            GIGA-DN42
+tech-c:             GIGA-DN42
+mnt-by:             GIGA-MNT
+nserver:            ns1.giga.dn42 172.22.116.1
+nserver:            ns1.giga.dn42 fd76:b436:28bc::1
+source:             DN42

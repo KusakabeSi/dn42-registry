@@ -1,0 +1,10 @@
+inet6num:           fd10:7053:49de:0000:0000:0000:0000:0000 - fd10:7053:49de:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:7053:49de::/48
+netname:            JOSENG-NETWORK
+descr:              Network of joseng
+country:            DE
+admin-c:            JOSENG-DN42
+tech-c:             JOSENG-DN42
+mnt-by:             JOSENG-MNT
+status:             ASSIGNED
+source:             DN42

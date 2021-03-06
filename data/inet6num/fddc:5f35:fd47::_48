@@ -1,0 +1,11 @@
+inet6num:           fddc:5f35:fd47:0000:0000:0000:0000:0000 - fddc:5f35:fd47:ffff:ffff:ffff:ffff:ffff
+cidr:               fddc:5f35:fd47::/48
+netname:            SKY-DN42-NET
+descr:              Sky's Network on DN42
+country:            AU
+admin-c:            SKY-DN42
+tech-c:             SKY-DN42
+mnt-by:             SKY-MNT
+nserver:            ns1.sky.dn42
+status:             ASSIGNED
+source:             DN42

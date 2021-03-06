@@ -1,0 +1,10 @@
+inet6num:           fd42:1130:0000:0000:0000:0000:0000:0000 - fd42:1130:0000:ffff:ffff:ffff:ffff:ffff
+netname:            BONJOU2333-IPV6
+descr:              Peer with me at bonjou2333@gmail.com
+country:            CN
+admin-c:            BONJOU2333-DN42
+tech-c:             BONJOU2333-DN42
+mnt-by:             BONJOU2333-MNT
+status:             ASSIGNED
+cidr:               fd42:1130::/48
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fd42:4242:0443:0000:0000:0000:0000:0000 - fd42:4242:0443:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:4242:443::/48
+netname:            PATRYK-NETWORK
+country:            GB
+admin-c:            PATRYK-DN42
+tech-c:             PATRYK-DN42
+mnt-by:             PATRYK-MNT
+status:             ASSIGNED
+nserver:            ns1.patryk.dn42
+source:             DN42

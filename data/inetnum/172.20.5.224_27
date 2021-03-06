@@ -1,0 +1,8 @@
+inetnum:            172.20.5.224 - 172.20.5.255
+netname:            GRAHAMC-DN42
+admin-c:            GRAHAMC-DN42
+tech-c:             GRAHAMC-DN42
+mnt-by:             GRAHAMC-MNT
+status:             ASSIGNED
+cidr:               172.20.5.224/27
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.20.238.128 - 172.20.238.159
+netname:            JELLYCHOU-IPV4
+country:            CN
+admin-c:            JELLYCHOU-DN42
+tech-c:             JELLYCHOU-DN42
+mnt-by:             JELLYCHOU-MNT
+status:             ASSIGNED
+cidr:               172.20.238.128/27
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.235.64 - 172.20.235.95
+netname:            DYNAMICT-NET1
+descr:              DynamICT firstnet (172.20.235.64/27)
+country:            SE
+admin-c:            KJT6-DN42
+tech-c:             KJT6-DN42
+mnt-by:             DYNAMICT-MNT
+nserver:            ns1.dynamict.local
+status:             ASSIGNED PI
+cidr:               172.20.235.64/27
+source:             DN42

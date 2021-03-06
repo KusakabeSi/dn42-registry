@@ -1,0 +1,9 @@
+inetnum:            172.20.135.128 - 172.20.135.191
+country:            DE
+admin-c:            OBBI-DN42
+tech-c:             OBBI-DN42
+mnt-by:             OBBI-MNT
+status:             ALLOCATED
+cidr:               172.20.135.128/26
+netname:            Unnamed 172.20.135.128/26 Network
+source:             DN42

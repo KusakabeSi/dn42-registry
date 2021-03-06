@@ -1,0 +1,8 @@
+aut-num:            AS64513
+org:                ORG-CCCHB
+as-name:            KPJ-AS
+descr:              Kpj's home AS
+admin-c:            KPJ-DN42
+tech-c:             KPJ-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.177.64 - 172.20.177.95
+nserver:            ns1.voxility.dn42
+cidr:               172.20.177.64/27
+netname:            VOXILITY-V4-NET-1
+country:            US
+admin-c:            VOXILITY-DN42
+tech-c:             VOXILITY-DN42
+mnt-by:             VOXILITY-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.241.0 - 172.22.241.255
+netname:            NET-SPRINGFIELD-DN42
+descr:              Springfield-Net
+country:            VG
+admin-c:            GOTTESHAND-DN42
+tech-c:             GOTTESHAND-DN42
+mnt-by:             SPRINGFIELD-MNT
+nserver:            ns3.welterde.dn42
+status:             ASSIGNED
+cidr:               172.22.241.0/24
+source:             DN42

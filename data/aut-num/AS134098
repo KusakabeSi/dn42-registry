@@ -1,0 +1,9 @@
+aut-num:            AS134098
+as-name:            SYLVEON-AS-AP
+admin-c:            LICSON-NEONETWORK
+tech-c:             LICSON-NEONETWORK
+descr:              Licson Internet Service
+remarks:            Sylveon Network (Hong Kong) Limited.
+remarks:            This was created to fix missing object from neonetwork.
+mnt-by:             DN42-MNT
+source:             APNIC

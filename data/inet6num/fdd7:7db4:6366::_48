@@ -1,0 +1,8 @@
+inet6num:           fdd7:7db4:6366:0000:0000:0000:0000:0000 - fdd7:7db4:6366:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd7:7db4:6366::/48
+netname:            MARSHY-V6-NET
+admin-c:            MARSHY-DN42
+mnt-by:             MARSHY-MNT
+nserver:            ns1.marshy.dn42
+status:             ASSIGNED
+source:             DN42

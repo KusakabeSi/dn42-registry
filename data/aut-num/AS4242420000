@@ -1,0 +1,8 @@
+aut-num:            AS4242420000
+org:                ORG-CCCHB
+as-name:            PYROPETER-AS
+descr:              PyroPeters AS
+admin-c:            PYROPETER-DN42
+tech-c:             PYROPETER-DN42
+mnt-by:             PYROPETER-MNT
+source:             DN42

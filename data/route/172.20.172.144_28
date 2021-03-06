@@ -1,0 +1,5 @@
+route:              172.20.172.144/28
+descr:              LBOT NET
+origin:             AS4242420447
+mnt-by:             LBOT-MNT
+source:             DN42

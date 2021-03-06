@@ -1,0 +1,8 @@
+route6:             fd10:127:1919::/48
+max-length:         64
+origin:             AS4201270003
+admin-c:            CHENX97-NEONETWORK
+tech-c:             CHENX97-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

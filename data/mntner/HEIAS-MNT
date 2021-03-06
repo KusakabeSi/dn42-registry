@@ -1,0 +1,6 @@
+mntner:             HEIAS-MNT
+admin-c:            HEIAS-DN42
+tech-c:             HEIAS-DN42
+mnt-by:             HEIAS-MNT
+auth:               pgp-fingerprint 7E4043F939659E585CDD8D2ADDB8F6381DCBF6FD
+source:             DN42

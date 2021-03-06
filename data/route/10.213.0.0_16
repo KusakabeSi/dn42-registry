@@ -1,0 +1,6 @@
+route:              10.213.0.0/16
+origin:             AS65501
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: diepholz
+mnt-by:             DN42-MNT
+source:             ICVPN

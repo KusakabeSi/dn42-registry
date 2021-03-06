@@ -1,0 +1,7 @@
+mntner:             YELLOWLM-MNT
+admin-c:            YELLOWLM-DN42
+tech-c:             YELLOWLM-DN42
+mnt-by:             YELLOWLM-MNT
+org:                ORG-YELLOWLM
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCU5yVy2GrUw5/xX8OHxStAovU+3hconJTd1mghgFZH9/H1B8nMO784BI4ATvjXH5cAxo3265mwFUUTmkzWAqL+0ojjnSPNb2XPBuNglhiDslOR9eQ1jkinzC/GC9ToJE6ARNSFN7vo1XCjxNRGaIUMgzThs3BNb6izanA2SRRhJrcpcGMH98slpmrROSlMgOaSDjuOrljj9AKGWpvLhugC8vqYA+oTCUe68DCc6VlefdB17u8zUH4KxWdImj/gmmM/XSPm7lecGCefQtrmj0wwEH9a4BDizqkjNuknOcx2kzdkogQWIv34OUlqRCLLxeec/Vkh97Kw1GVhEk2vvN789aKH2MuBhx2mubWItu9HA5MUFTpYzrH7h5RLSnJKoMr+9gK9sxUeMDqeGk7Jf0SL8j8i8kyY9SDBj9U8msyNFa5VqJTgA0WrY9l5cRsUZBfQ4Ss1brkWXix5BSXOnD8Uooy1CE7kNoLx8JhTEr69OPewGQAMH2S3y7FzBUhGCAE= Landmark@t400.yellowlm.net
+source:             DN42

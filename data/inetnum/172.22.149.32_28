@@ -1,0 +1,8 @@
+inetnum:            172.22.149.32 - 172.22.149.47
+cidr:               172.22.149.32/28
+netname:            IRONFLAKE-NETWORK
+admin-c:            KEGERUNEKU-DN42
+tech-c:             KEGERUNEKU-DN42
+mnt-by:             IRONFLAKE-MNT
+status:             ASSIGNED
+source:             DN42

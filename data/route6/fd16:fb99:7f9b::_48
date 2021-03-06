@@ -1,0 +1,5 @@
+route6:             fd16:fb99:7f9b::/48
+origin:             AS4242422227
+max-length:         48
+mnt-by:             WXMN-MNT
+source:             DN42

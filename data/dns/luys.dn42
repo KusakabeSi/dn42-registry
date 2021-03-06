@@ -1,0 +1,8 @@
+domain:             luys.dn42
+admin-c:            LUYS-DN42
+tech-c:             LUYS-DN42
+mnt-by:             LUYS-MNT
+org:                ORG-LUYS
+nserver:            ns1.luys.dn42 172.20.53.251
+nserver:            ns2.luys.dn42 172.20.53.252
+source:             DN42

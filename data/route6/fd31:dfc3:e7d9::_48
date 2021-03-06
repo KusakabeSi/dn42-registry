@@ -1,0 +1,5 @@
+route6:             fd31:dfc3:e7d9::/48
+descr:              LBOT NET6
+origin:             AS4242420447
+mnt-by:             LBOT-MNT
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd0a:3599:3930::/58
+descr:              ATR Europe
+origin:             AS4242421233
+mnt-by:             ATR-MNT
+source:             DN42

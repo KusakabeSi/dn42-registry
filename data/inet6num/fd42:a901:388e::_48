@@ -1,0 +1,12 @@
+inet6num:           fd42:a901:388e:0000:0000:0000:0000:0000 - fd42:a901:388e:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:a901:388e::/48
+netname:            INTERACTIVELABS-NET6
+country:            AU
+admin-c:            GISH-DN42
+tech-c:             GISH-DN42
+org:                ORG-INTERACTIVELABS
+mnt-by:             INTERACTIVELABS-MNT
+nserver:            ns1.interactivelabs.dn42
+nserver:            ns2.interactivelabs.dn42
+status:             ASSIGNED
+source:             DN42

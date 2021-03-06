@@ -1,0 +1,8 @@
+inet6num:           fd57:76a3:2ef4:0000:0000:0000:0000:0000 - fd57:76a3:2ef4:ffff:ffff:ffff:ffff:ffff
+cidr:               fd57:76a3:2ef4::/48
+netname:            R8-NET-1
+admin-c:            R8-DN42
+tech-c:             R8-DN42
+mnt-by:             R8-MNT
+status:             ASSIGNED
+source:             DN42

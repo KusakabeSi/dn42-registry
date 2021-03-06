@@ -1,0 +1,6 @@
+route:              10.67.0.0/16
+origin:             AS64885
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: rothenburg
+mnt-by:             DN42-MNT
+source:             ICVPN

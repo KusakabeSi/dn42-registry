@@ -1,0 +1,4 @@
+route:              172.20.139.160/28
+origin:             AS4242423944
+mnt-by:             TOHUTOHU-MNT
+source:             DN42

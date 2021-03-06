@@ -1,0 +1,10 @@
+inetnum:            172.23.194.0 - 172.23.195.255
+netname:            HSMR-DN42-IP4NET
+descr:              Hackerspace Marburg (HSMR) - various fnord
+country:            DE
+admin-c:            HSMR-DN42
+tech-c:             OLEANDER-DN42
+status:             ASSIGNED
+cidr:               172.23.194.0/23
+mnt-by:             DUMMY-MNT
+source:             DN42

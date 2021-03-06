@@ -1,0 +1,10 @@
+inetnum:            172.20.170.192 - 172.20.170.223
+cidr:               172.20.170.192/27
+netname:            NET-HESSNET-00
+country:            DK
+admin-c:            GRAFFEN-DN42
+tech-c:             GRAFFEN-DN42
+mnt-by:             HESSNET-MNT
+nserver:            ns1.hessnet.dn42
+status:             ASSIGNED
+source:             DN42

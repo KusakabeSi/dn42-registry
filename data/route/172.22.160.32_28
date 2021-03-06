@@ -1,0 +1,4 @@
+route:              172.22.160.32/28
+origin:             AS4242421632
+mnt-by:             CAP-MNT
+source:             DN42

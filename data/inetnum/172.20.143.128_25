@@ -1,0 +1,9 @@
+inetnum:            172.20.143.128 - 172.20.143.255
+cidr:               172.20.143.128/25
+netname:            ECOR-NETWORK
+admin-c:            DFF3BC-DN42
+tech-c:             DFF3BC-DN42
+mnt-by:             ECOR-MNT
+org:                ORG-ECOR
+status:             ASSIGNED
+source:             DN42

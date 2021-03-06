@@ -1,0 +1,13 @@
+inet6num:           0000:0000:0000:0000:0000:0000:0000:0000 - ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+netname:            IANA-RESERVED
+descr:              IANA Reserved Space
+remarks:            This space is reserved by RFC4291.
+remarks:            
+remarks:            Because portions are not routable inside dn42
+remarks:            reservations are not allowed at this level.
+remarks:            
+remarks:            Open policy can be found inside fd00::/8
+mnt-by:             DN42-MNT
+policy:             reserved
+cidr:               ::/0
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.20.32 - 172.20.20.47
+netname:            DACR-NETWORK
+descr:              DACR IPv4
+country:            HU
+admin-c:            DACR-DN42
+tech-c:             DACR-DN42
+mnt-by:             DACR-MNT
+status:             ASSIGNED
+cidr:               172.20.20.32/28
+source:             DN42

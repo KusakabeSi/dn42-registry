@@ -1,0 +1,7 @@
+domain:             nw.dn42
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+nserver:            ns1.nw.dn42 172.20.217.53
+nserver:            ns1.nw.dn42 fd42:217:cafe::53
+source:             DN42

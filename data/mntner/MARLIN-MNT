@@ -1,0 +1,8 @@
+mntner:             MARLIN-MNT
+admin-c:            MARLIN-DN42
+tech-c:             MARLIN-DN42
+mnt-by:             MARLIN-MNT
+source:             DN42
+auth:               pgp-fingerprint 2B04210F46CFD6080647A0B8FB5EC04DEB5D9175
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDScp/HV0hw9EF7UFpjV2zSALAXB39f4tho3w/nhC4qYwxwySL9ghptzqeCyuVXUKgfTR30CYpmYhOtWyDnDYcgwrmQ/dQcJH9cP6S26m/PR1xir3Xd8BEMOySnuaH9QOLpgNk4QJIqR3J3rbQ+k2wydosQXv3/eidy3iFA7VH1GMxeEoYIPFtiAGVaQYTr4rzBYDGAzDwWaUvabtRzCLjkaqVzRdKUxGuZUVR7fMw9Ylq83FyGUsjvxhXqxpDmRZ1WA+J2H9Vh1bW3PFZkyx527/dPzkLCIzwxAj4V7HaObY3UbHdytASd1OVKdgPLmh8hiJ4CbFjLG7bjcEs1ajTd/pyWuo5QJUcSJ1UyQV65rkR5tKlVMVtthcb1muecSQOdZt7NLsEINeOXIRcjPiDiLs//iYLsD2GD8iBOds4d+GMEqh+ig4G608+eYCERE35zpwLhKIq5V2h6So/y3awS7HrUwFQA4R1yWVhGn/lTdVlRxI5WKWAnOKev3AShx38=
+remarks:            pin-sha256:o1lfYvcdcYy81UIuZMZO1CkCLX+vJOdD5GLw1cmeStU=

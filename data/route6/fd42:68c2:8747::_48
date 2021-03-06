@@ -1,0 +1,4 @@
+route6:             fd42:68c2:8747::/48
+origin:             AS4242421178
+mnt-by:             DOZENCLOUD-MNT
+source:             DN42

@@ -1,0 +1,15 @@
+inetnum:            10.0.0.0 - 10.255.255.255
+cidr:               10.0.0.0/8
+netname:            BLK-FREIFUNK
+descr:              Freifunk Intercity-VPN
+remarks:            Registry at https://github.com/freifunk/icvpn-meta
+nserver:            b.delegation-servers.dn42
+nserver:            j.delegation-servers.dn42
+nserver:            k.delegation-servers.dn42
+ds-rdata:           64441 10 2 8a39e9df85a73f1982e43c9139e095e8548451d2048d92c2703869ef8bfebbb4
+ds-rdata:           3096 10 2 1fa3673dc2cf9ffa82b429bf25405b44931460b7263a081d586cc61f003a10a2
+status:             ALLOCATED
+policy:             closed
+org:                ORG-DN42
+mnt-by:             DN42-MNT
+source:             DN42

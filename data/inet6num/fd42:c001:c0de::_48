@@ -1,0 +1,10 @@
+inet6num:           fd42:c001:c0de:0000:0000:0000:0000:0000 - fd42:c001:c0de:ffff:ffff:ffff:ffff:ffff
+netname:            WOJIA-NETWORK
+country:            BE
+admin-c:            WOJIA-DN42
+tech-c:             WOJIA-DN42
+mnt-by:             WOJIA-MNT
+nserver:            ns1.wojia.dn42
+status:             ASSIGNED
+cidr:               fd42:c001:c0de::/48
+source:             DN42

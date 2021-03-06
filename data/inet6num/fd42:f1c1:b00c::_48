@@ -1,0 +1,10 @@
+inet6num:           fd42:f1c1:b00c:0000:0000:0000:0000:0000 - fd42:f1c1:b00c:ffff:ffff:ffff:ffff:ffff
+netname:            FIKIBOOK-NET
+descr:              Fikicha Home Network
+country:            BG
+admin-c:            VALFIK-DN42
+tech-c:             VALFIK-DN42
+mnt-by:             FIKICH-MNT
+status:             ASSIGNED
+cidr:               fd42:f1c1:b00c::/48
+source:             DN42

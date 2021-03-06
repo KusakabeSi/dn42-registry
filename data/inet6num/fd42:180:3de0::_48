@@ -1,0 +1,7 @@
+inet6num:           fd42:0180:3de0:0000:0000:0000:0000:0000 - fd42:0180:3de0:ffff:ffff:ffff:ffff:ffff
+netname:            NET-CORESVCS6-DN42
+descr:              DN42 Core Services IPv6 Block
+mnt-by:             DN42-MNT
+status:             ALLOCATED PI
+cidr:               fd42:180:3de0::/48
+source:             DN42

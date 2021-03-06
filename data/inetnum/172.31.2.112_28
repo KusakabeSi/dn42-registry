@@ -1,0 +1,7 @@
+inetnum:            172.31.2.112 - 172.31.2.127
+cidr:               172.31.2.112/28
+netname:            CHAOSVPN-BUZO
+status:             ASSIGNED
+remarks:            Imported from chaosvpn, do not edit!
+mnt-by:             DN42-MNT
+source:             CHAOSVPN

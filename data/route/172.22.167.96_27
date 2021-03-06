@@ -1,0 +1,4 @@
+route:              172.22.167.96/27
+origin:             AS4242422526
+mnt-by:             ANILLC-MNT
+source:             DN42

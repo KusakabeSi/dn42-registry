@@ -1,0 +1,4 @@
+route6:             fd42:6:e160::/48
+origin:             AS4242423160
+mnt-by:             ENS160-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd42:cd49:2dd2:0000:0000:0000:0000:0000 - fd42:cd49:2dd2:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:cd49:2dd2::/48
+netname:            TDS-NET
+admin-c:            TDS-DN42
+tech-c:             TDS-DN42
+mnt-by:             TDS-MNT
+status:             ASSIGNED
+source:             DN42

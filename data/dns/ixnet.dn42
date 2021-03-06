@@ -1,0 +1,8 @@
+domain:             ixnet.dn42
+descr:              IX Network Main Domain
+admin-c:            HOWARD-DN42
+tech-c:             HOWARD-DN42
+mnt-by:             IXNET-MNT
+nserver:            ns1.ixnet.dn42 172.21.88.129
+nserver:            ns1.ixnet.dn42 fdc9:9999:9999:9900::1
+source:             DN42

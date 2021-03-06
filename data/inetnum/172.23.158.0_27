@@ -1,0 +1,10 @@
+inetnum:            172.23.158.0 - 172.23.158.31
+netname:            HOMELAB-NETWORK
+descr:              HOMELAB NETWORK
+country:            RO
+admin-c:            RC-DN42
+tech-c:             RC-DN42
+mnt-by:             RC-MNT
+status:             ASSIGNED
+cidr:               172.23.158.0/27
+source:             DN42

@@ -1,0 +1,12 @@
+inetnum:            172.20.245.224 - 172.20.245.255
+netname:            WEEJITS-IE1-NET
+descr:              Weejits IE-1 VPNs
+country:            IE
+admin-c:            KSM-DN42
+tech-c:             KSM-DN42
+mnt-by:             WEEJITS-MNT
+nserver:            ns1.weejits.dn42
+nserver:            ns2.weejits.dn42
+status:             ASSIGNED
+cidr:               172.20.245.224/27
+source:             DN42

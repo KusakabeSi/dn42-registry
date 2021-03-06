@@ -1,0 +1,8 @@
+inet6num:           fda0:add0:0dec:0000:0000:0000:0000:0000 - fda0:add0:0dec:ffff:ffff:ffff:ffff:ffff
+netname:            GROKSTER-NET
+admin-c:            GROKSTER-DN42
+tech-c:             GROKSTER-DN42
+mnt-by:             GROKSTER-MNT
+status:             ALLOCATED
+cidr:               fda0:add0:dec::/48
+source:             DN42

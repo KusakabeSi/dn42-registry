@@ -1,0 +1,4 @@
+route:              172.23.160.0/26
+origin:             AS4242422801
+mnt-by:             PETROS-MNT
+source:             DN42

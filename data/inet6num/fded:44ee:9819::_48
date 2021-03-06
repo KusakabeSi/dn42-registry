@@ -1,0 +1,10 @@
+inet6num:           fded:44ee:9819:0000:0000:0000:0000:0000 - fded:44ee:9819:ffff:ffff:ffff:ffff:ffff
+netname:            TCATM-DN42-ULA-IP6NET
+descr:              tcatm's IPv6 ULA
+country:            DE
+admin-c:            TCATM-DN42
+tech-c:             TCATM-DN42
+status:             ASSIGNED
+cidr:               fded:44ee:9819::/48
+mnt-by:             DUMMY-MNT
+source:             DN42

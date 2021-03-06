@@ -1,0 +1,11 @@
+inet6num:           fd32:c1ee:db11:0000:0000:0000:0000:0000 - fd32:c1ee:db11:ffff:ffff:ffff:ffff:ffff
+cidr:               fd32:c1ee:db11::/48
+netname:            LALAKIS-NETWORK
+descr:              network of lalakis
+admin-c:            LALAKIS-DN42
+country:            GR
+tech-c:             LALAKIS-DN42
+mnt-by:             LALAKIS-MNT
+status:             ASSIGNED
+source:             DN42
+nserver:            lalakis-2.lalakis.dn42

@@ -1,0 +1,8 @@
+domain:             mirror.dn42
+descr:              Mirror DNS
+admin-c:            MEPHISTO-DN42
+tech-c:             MEPHISTO-DN42
+mnt-by:             FFRGB-MNT
+nserver:            ns1.mirror.dn42 172.23.207.1
+nserver:            ns1.mirror.dn42 fd42:b60d:6174::1
+source:             DN42

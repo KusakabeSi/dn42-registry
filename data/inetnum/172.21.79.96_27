@@ -1,0 +1,10 @@
+inetnum:            172.21.79.96 - 172.21.79.127
+cidr:               172.21.79.96/27
+netname:            FICO-NETWORK
+admin-c:            FICO-DN42
+tech-c:             FICO-DN42
+mnt-by:             FICO-MNT
+nserver:            ns1.ficonet.dn42
+nserver:            ns2.ficonet.dn42
+status:             ASSIGNED
+source:             DN42

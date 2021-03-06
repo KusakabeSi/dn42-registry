@@ -1,0 +1,5 @@
+route:              172.20.46.0/26
+descr:              MAJOR-NET
+origin:             AS4242422600
+mnt-by:             MAJOR-MNT
+source:             DN42

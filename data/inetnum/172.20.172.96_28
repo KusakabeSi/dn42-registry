@@ -1,0 +1,10 @@
+inetnum:            172.20.172.96 - 172.20.172.111
+netname:            BAKKERNET-HOME
+descr:              Bakker Home Network
+country:            NL
+admin-c:            RICK-DN42
+tech-c:             RICK-DN42
+mnt-by:             RICK-MNT
+status:             ASSIGNED
+cidr:               172.20.172.96/28
+source:             DN42

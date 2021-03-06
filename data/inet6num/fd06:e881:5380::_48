@@ -1,0 +1,12 @@
+inet6num:           fd06:e881:5380:0000:0000:0000:0000:0000 - fd06:e881:5380:ffff:ffff:ffff:ffff:ffff
+cidr:               fd06:e881:5380::/48
+netname:            FSC-NETWORK
+descr:              Network of FSC
+country:            DE
+admin-c:            FSC-DN42
+tech-c:             FSC-DN42
+mnt-by:             SCIX-MNT
+nserver:            ns1.scix.cc
+nserver:            ns2.scix.cc
+status:             ASSIGNED
+source:             DN42

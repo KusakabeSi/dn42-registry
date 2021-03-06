@@ -1,0 +1,10 @@
+inet6num:           fd96:5241:4544:0000:0000:0000:0000:0000 - fd96:5241:4544:ffff:ffff:ffff:ffff:ffff
+cidr:               fd96:5241:4544::/48
+netname:            RAEDNETWORK
+descr:              Network of RAED
+country:            US
+admin-c:            RAED-DN42
+tech-c:             RAED-DN42
+mnt-by:             RAED-MNT
+status:             ASSIGNED
+source:             DN42

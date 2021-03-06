@@ -1,0 +1,6 @@
+mntner:             TBSO-MNT
+admin-c:            TBSO-DN42
+tech-c:             TBSO-DN42
+mnt-by:             TBSO-MNT
+source:             DN42
+auth:               pgp-fingerprint D21BDFF07BEA48AEE3D18963B2901A6779701786

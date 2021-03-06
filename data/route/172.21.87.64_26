@@ -1,0 +1,4 @@
+route:              172.21.87.64/26
+origin:             AS4242420571
+mnt-by:             CAICAI-MNT
+source:             DN42

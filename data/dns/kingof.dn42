@@ -1,0 +1,7 @@
+domain:             kingof.dn42
+descr:              King of dn42
+admin-c:            DOVY-DN42
+tech-c:             DOVY-DN42
+mnt-by:             DOVY-MNT
+nserver:            ns1.kingof.dn42 172.22.115.4
+source:             DN42

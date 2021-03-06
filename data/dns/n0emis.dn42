@@ -1,0 +1,7 @@
+domain:             n0emis.dn42
+admin-c:            N0EMIS-DN42
+tech-c:             N0EMIS-DN42
+mnt-by:             N0EMIS-MNT
+nserver:            ns1.n0emis.dn42 fdf4:2331:fa09::1
+nserver:            ns1.n0emis.dn42 172.20.190.96
+source:             DN42

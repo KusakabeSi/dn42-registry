@@ -1,0 +1,10 @@
+inet6num:           fdc2:752c:29d1:0000:0000:0000:0000:0000 - fdc2:752c:29d1:ffff:ffff:ffff:ffff:ffff
+cidr:               fdc2:752c:29d1::/48
+netname:            SHIKI-NETWORK
+descr:              Network of shiki
+country:            US
+admin-c:            SHIKI-DN42
+tech-c:             SHIKI-DN42
+mnt-by:             SHIKI-MNT
+status:             ASSIGNED
+source:             DN42

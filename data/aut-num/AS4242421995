@@ -1,0 +1,18 @@
+aut-num:            AS4242421995
+as-name:            DNTNET-AS1
+descr:              DNTNET-AS1
+remarks:            Open for peers
+remarks:            Website: http://dntnet.com
+remarks:            --------------------------------------------------
+remarks:            Uplinks
+remarks:            --------------------------------------------------
+remarks:            1) Montreal, Quebec (OpenVPN)
+remarks:            2) Pheonix, Arizona (OpenVPN)
+remarks:            3) Los Angeles, California (OpenVPN)
+remarks:            4) London, United Kingdom (OpenVPN)
+remarks:            5) Rotterdam, Netherlands (OpenVPN or GRE + IPSEC)
+remarks:            --------------------------------------------------
+admin-c:            ALEX-DN42
+tech-c:             ALEX-DN42
+mnt-by:             ALEX-MNT
+source:             DN42

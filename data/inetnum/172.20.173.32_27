@@ -1,0 +1,9 @@
+inetnum:            172.20.173.32 - 172.20.173.63
+netname:            MARTINS-NET
+country:            CH
+admin-c:            MARTINS-DN42
+tech-c:             MARTINS-DN42
+mnt-by:             MARTINS-MNT
+status:             ASSIGNED
+cidr:               172.20.173.32/27
+source:             DN42

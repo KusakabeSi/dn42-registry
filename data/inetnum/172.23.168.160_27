@@ -1,0 +1,10 @@
+inetnum:            172.23.168.160 - 172.23.168.191
+netname:            NET-WOLFEN
+descr:              Wolfen Range 1
+country:            AE
+admin-c:            WOLFEN-DN42
+tech-c:             WOLFEN-DN42
+mnt-by:             WOLFEN-MNT
+status:             ASSIGNED
+cidr:               172.23.168.160/27
+source:             DN42

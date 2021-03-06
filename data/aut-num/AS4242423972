@@ -1,0 +1,7 @@
+aut-num:            AS4242423972
+as-name:            ROBCO
+descr:              Mucking about in BGP
+admin-c:            CHAIRMAN-DN42
+tech-c:             CHAIRMAN-DN42
+mnt-by:             CHAIRMAN-MNT
+source:             DN42

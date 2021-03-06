@@ -1,0 +1,10 @@
+inetnum:            172.23.163.192 - 172.23.163.255
+admin-c:            MARLINC-DN42
+descr:              Home network
+tech-c:             MARLINC-DN42
+mnt-by:             MARLINC-MNT
+status:             ALLOCATED
+nserver:            ns1.nl-zuid.dn42
+cidr:               172.23.163.192/26
+netname:            Unnamed 172.23.163.192/26 Network
+source:             DN42

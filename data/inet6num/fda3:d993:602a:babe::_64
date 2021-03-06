@@ -1,0 +1,10 @@
+inet6num:           fda3:d993:602a:babe:0000:0000:0000:0000 - fda3:d993:602a:babe:ffff:ffff:ffff:ffff
+cidr:               fda3:d993:602a:babe::/64
+netname:            NAB-NETWORK
+descr:              Network of NAB
+country:            GB
+admin-c:            NAB-DN42
+tech-c:             NAB-DN42
+mnt-by:             NAB-MNT
+status:             ASSIGNED
+source:             DN42

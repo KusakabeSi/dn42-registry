@@ -1,0 +1,11 @@
+inet6num:           fd86:0bad:11b7:0000:0000:0000:0000:0000 - fd86:0bad:11b7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd86:bad:11b7::/48
+netname:            JLU5-NET
+descr:              jlu5 R&D network
+country:            CA
+admin-c:            JLU5-DN42
+tech-c:             JLU5-DN42
+mnt-by:             JLU5-MNT
+nserver:            ns1.jlu5.dn42
+status:             ASSIGNED
+source:             DN42

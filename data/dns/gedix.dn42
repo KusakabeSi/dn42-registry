@@ -1,0 +1,8 @@
+domain:             gedix.dn42
+descr:              gedix dn domain
+admin-c:            NLDDEV1-DN42
+tech-c:             NLDDEV1-DN42
+mnt-by:             DDEV-MNT
+nserver:            ns1.ddev.dn42
+nserver:            ns2.ddev.dn42
+source:             DN42

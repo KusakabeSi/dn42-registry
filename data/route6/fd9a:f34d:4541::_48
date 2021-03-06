@@ -1,0 +1,5 @@
+route6:             fd9a:f34d:4541::/48
+descr:              LXNET6-MAIN
+origin:             AS4242422200
+mnt-by:             LYREX-MNT
+source:             DN42

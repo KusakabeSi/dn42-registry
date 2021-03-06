@@ -1,0 +1,12 @@
+inet6num:           fd3b:ba37:f906:0000:0000:0000:0000:0000 - fd3b:ba37:f906:000f:ffff:ffff:ffff:ffff
+netname:            WWF-NETWORKS
+descr:              WorldWideFoo
+country:            DE
+admin-c:            BLACKSHAPE-DN42
+tech-c:             BLACKSHAPE-DN42
+mnt-by:             SPIELWIESE-MNT
+nserver:            ns1.spielwiese.dn42
+nserver:            ns2.spielwiese.dn42
+status:             ASSIGNED
+cidr:               fd3b:ba37:f906::/60
+source:             DN42

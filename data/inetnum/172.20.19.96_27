@@ -1,0 +1,8 @@
+inetnum:            172.20.19.96 - 172.20.19.127
+cidr:               172.20.19.96/27
+netname:            MOON_PROD-NET
+admin-c:            MOON-DN42
+tech-c:             MOON-DN42
+mnt-by:             MOON-MNT
+status:             ASSIGNED
+source:             DN42

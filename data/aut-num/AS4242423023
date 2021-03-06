@@ -1,0 +1,7 @@
+aut-num:            AS4242423023
+as-name:            XTN1-AS
+descr:              OS23 AS
+admin-c:            OS23-DN42
+tech-c:             OS23-DN42
+mnt-by:             XTN1-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+aut-num:            AS64731
+as-name:            SRN-AS
+descr:              SRN's dn42 ASN
+remarks:            nothing special
+admin-c:            SRN-DN42
+tech-c:             SRN-DN42
+mnt-by:             DUMMY-MNT
+source:             DN42

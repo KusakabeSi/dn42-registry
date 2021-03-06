@@ -1,0 +1,4 @@
+route:              172.22.149.0/28
+origin:             AS4242423320
+mnt-by:             POTATSO-MNT
+source:             DN42

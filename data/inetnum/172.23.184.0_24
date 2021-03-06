@@ -1,0 +1,13 @@
+inetnum:            172.23.184.0 - 172.23.184.255
+netname:            POLYNOME-DN42-IP4NET
+descr:              polynome's private address space
+country:            FR
+admin-c:            POLYNOME-DN42
+tech-c:             POLYNOME-DN42
+mnt-by:             POLYNOME-MNT
+status:             ASSIGNED
+nserver:            topeka.polynome.dn42
+nserver:            chateau.polynome.dn42
+nserver:            beta.synhacx.dn42
+cidr:               172.23.184.0/24
+source:             DN42

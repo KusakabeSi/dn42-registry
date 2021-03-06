@@ -1,0 +1,7 @@
+inet6num:           fd73:0111:e824:0000:0000:0000:0000:0000 - fd73:0111:e824:ffff:ffff:ffff:ffff:ffff
+cidr:               fd73:111:e824::/48
+netname:            ICVPN-OSTHOLSTEIN
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: ostholstein
+mnt-by:             DN42-MNT
+source:             ICVPN

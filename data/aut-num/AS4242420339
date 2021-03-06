@@ -1,0 +1,7 @@
+aut-num:            AS4242420339
+as-name:            PDOSTAL-AS
+descr:              Pavel Dostal's dn42 AS number
+admin-c:            PDOSTAL-DN42
+tech-c:             PDOSTAL-DN42
+mnt-by:             PDOSTAL-MNT
+source:             DN42

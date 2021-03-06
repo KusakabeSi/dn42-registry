@@ -1,0 +1,6 @@
+route6:             fd42:4242:2233::/48
+origin:             AS4242422233
+mnt-by:             HANKB-MNT
+admin-c:            HANKB-DN42
+tech-c:             HANKB-DN42
+source:             DN42

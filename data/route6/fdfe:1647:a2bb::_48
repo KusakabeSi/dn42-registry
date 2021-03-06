@@ -1,0 +1,5 @@
+route6:             fdfe:1647:a2bb::/48
+descr:              Arendtsen-DN42 ipv6
+origin:             AS4242421978
+mnt-by:             ARENDTSEN-MNT
+source:             DN42

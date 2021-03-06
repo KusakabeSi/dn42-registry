@@ -1,0 +1,8 @@
+inetnum:            172.21.120.0 - 172.21.120.255
+cidr:               172.21.120.0/24
+netname:            RMLHUK-NETWORK
+admin-c:            RMLHUK-DN42
+tech-c:             RMLHUK-DN42
+mnt-by:             RMLHUK-MNT
+status:             ASSIGNED
+source:             DN42

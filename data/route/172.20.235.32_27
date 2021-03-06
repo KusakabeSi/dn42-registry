@@ -1,0 +1,4 @@
+route:              172.20.235.32/27
+origin:             AS4242423807
+mnt-by:             KR4SH-MNT
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd42:9564:c802::/48
+origin:             AS4242421055
+mnt-by:             TMWAWPL-MNT
+source:             DN42

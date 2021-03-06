@@ -1,0 +1,15 @@
+aut-num:            AS4242421233
+as-name:            ATR-OPEN
+descr:              ATR's Open Exchange Network
+admin-c:            ALLENZ-DN42
+tech-c:             ALLENZ-DN42
+mnt-by:             ATR-MNT
+remarks:            ------------------------------------------
+remarks:            -- Open for new peer, OpenVPN prefered. --
+remarks:            -- Broader nodes located in multiple    --
+remarks:            -- locations, CN,JP,AU,US,EU, etc.      --
+remarks:            ------------------------------------------
+remarks:            -- Feel free to contact me for setting  --
+remarks:            -- up new peers. Email: allen@moe.cat   --
+remarks:            ------------------------------------------
+source:             DN42

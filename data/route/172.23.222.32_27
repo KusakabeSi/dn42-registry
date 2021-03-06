@@ -1,0 +1,4 @@
+route:              172.23.222.32/27
+origin:             AS4242421907
+mnt-by:             MRGHOSH-MNT
+source:             DN42

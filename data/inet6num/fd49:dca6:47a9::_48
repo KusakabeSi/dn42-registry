@@ -1,0 +1,10 @@
+inet6num:           fd49:dca6:47a9:0000:0000:0000:0000:0000 - fd49:dca6:47a9:ffff:ffff:ffff:ffff:ffff
+netname:            THEROYALSTUDENT-NET
+descr:              The Royal Network
+country:            SG
+admin-c:            THEROYALSTUDENT-DN42
+tech-c:             THEROYALSTUDENT-DN42
+mnt-by:             THEROYALSTUDENT-MNT
+status:             ALLOCATED PA
+cidr:               fd49:dca6:47a9::/48
+source:             DN42

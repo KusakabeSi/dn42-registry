@@ -1,0 +1,11 @@
+inetnum:            172.20.151.0 - 172.20.151.255
+netname:            LIME-NET
+descr:              Network of LIMENET
+country:            IN
+admin-c:            LIMENET-DN42
+tech-c:             LIMENET-DN42
+mnt-by:             LIMENET-MNT
+nserver:            ns1.limenet.dn42
+status:             ASSIGNED
+cidr:               172.20.151.0/24
+source:             DN42

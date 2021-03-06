@@ -1,0 +1,8 @@
+inetnum:            10.127.4.0 - 10.127.4.255
+cidr:               10.127.4.0/24
+netname:            MagicNeko-Asia Backbone node(name:houraisankaguya+fujiwaranomokou)
+admin-c:            MAGICNEKO-NEONETWORK
+tech-c:             MAGICNEKO-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

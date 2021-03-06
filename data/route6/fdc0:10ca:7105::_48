@@ -1,0 +1,4 @@
+route6:             fdc0:10ca:7105::/48
+origin:             AS4242423173
+mnt-by:             COLOCATIOUS-MNT
+source:             DN42

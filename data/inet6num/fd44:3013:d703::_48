@@ -1,0 +1,10 @@
+inet6num:           fd44:3013:d703:0000:0000:0000:0000:0000 - fd44:3013:d703:ffff:ffff:ffff:ffff:ffff
+cidr:               fd44:3013:d703::/48
+netname:            PHILCGN-NETWORK
+descr:              Network of PHILCGN
+country:            DE
+admin-c:            PHILCGN-DN42
+tech-c:             PHILCGN-DN42
+mnt-by:             PHILCGN-MNT
+status:             ASSIGNED
+source:             DN42

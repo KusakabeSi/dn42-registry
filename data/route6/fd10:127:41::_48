@@ -1,0 +1,8 @@
+route6:             fd10:127:41::/48
+max-length:         64
+origin:             AS4201270001
+admin-c:            SEPTS-NEONETWORK
+tech-c:             SEPTS-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

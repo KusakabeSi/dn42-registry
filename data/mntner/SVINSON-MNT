@@ -1,0 +1,7 @@
+mntner:             SVINSON-MNT
+auth:               pgp-fingerprint 662D1DB6ABE53BA9564F222F6C5F9242D608664B
+auth:               PGPKEY-D608664B
+admin-c:            SVINSON-DN42
+tech-c:             SVINSON-DN42
+mnt-by:             SVINSON-MNT
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             OCTET-MNT
+auth:               pgp-fingerprint CAFF23C3E4C2E30E867055334D25FBE3B86722C8
+admin-c:            OCTET-DN42
+tech-c:             OCTET-DN42
+mnt-by:             OCTET-MNT
+source:             DN42

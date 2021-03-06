@@ -1,0 +1,10 @@
+inet6num:           fde3:4c0d:2836:0000:0000:0000:0000:0000 - fde3:4c0d:2836:ffff:ffff:ffff:ffff:ffff
+cidr:               fde3:4c0d:2836::/48
+netname:            MARGAU-NETWORK
+descr:              margau Test-Network
+country:            DE
+admin-c:            MARGAU-DN42
+tech-c:             MARGAU-DN42
+mnt-by:             MARGAU-MNT
+status:             ASSIGNED
+source:             DN42

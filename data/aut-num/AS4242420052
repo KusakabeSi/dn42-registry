@@ -1,0 +1,8 @@
+aut-num:            AS4242420052
+as-name:            HUCKLOWNET
+descr:              HucklowNet rural ISP first AS
+org:                ORG-HUCKLOWNET
+admin-c:            HUCKLOWNET-DN42
+tech-c:             HUCKLOWNET-DN42
+mnt-by:             HUCKLOWNET-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inetnum:            172.20.34.160 - 172.20.34.175
+cidr:               172.20.34.160/28
+netname:            ALWAYSLIVID-NETWORK
+descr:              AlwaysLivid's Home Network
+country:            GR
+admin-c:            ALWAYSLIVID-DN42
+tech-c:             ALWAYSLIVID-DN42
+mnt-by:             ALWAYSLIVID-MNT
+status:             ASSIGNED
+source:             DN42

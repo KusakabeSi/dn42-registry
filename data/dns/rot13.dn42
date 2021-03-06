@@ -1,0 +1,6 @@
+domain:             rot13.dn42
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+nserver:            ns1.fnord.dn42
+source:             DN42

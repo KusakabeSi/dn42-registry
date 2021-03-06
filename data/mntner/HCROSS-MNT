@@ -1,0 +1,6 @@
+mntner:             HCROSS-MNT
+admin-c:            HCROSS-DN42
+tech-c:             HCROSS-DN42
+mnt-by:             HCROSS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAiT4yDzNLmlTDMFg+q8rF6WMfKojmxkBdJXdUQiS04NJnt/mFpmnigM6x5hemNcOd1FGFxiYmj3AyRWL0xMcqrIK2eodW3VjYAYJLobS0hD9FqIlOkdNuPNj3hm3tHe/O6ybomfnPDJ00oeNXxuDywAWsO/UTrF0CJYTNuJJj6m4lbIm0HpvHAdYsHlF7y+k1661RK1rkgySRxv9BOm/VXdWMpDnXCcZ6mhNrbT/WE+2onpt7r5yDvhdkcLTDxrHmTUDOVFYcRqFeVJiYmkWO+T622mmsdxOY0LRtelbP9uASJzFyTWaO/pAmjWr/G+iapy48by4Nr4jCM3YDQUIP7w== DN42
+source:             DN42

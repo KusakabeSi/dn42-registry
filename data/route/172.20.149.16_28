@@ -1,0 +1,4 @@
+route:              172.20.149.16/28
+origin:             AS4242420308
+mnt-by:             VILLISEK-MNT
+source:             DN42

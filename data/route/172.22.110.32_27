@@ -1,0 +1,4 @@
+route:              172.22.110.32/27
+origin:             AS4242420808
+mnt-by:             RTXUX-MNT
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.22.123.0 - 172.22.123.255
+netname:            ALANYHQ-NET-IPV4
+descr:              Alanyhq Networks IPv4
+country:            CN
+admin-c:            ALANYHQ-DN42
+tech-c:             ALANYHQ-DN42
+mnt-by:             ALANYHQ-MNT
+nserver:            ns.alanyhq.dn42
+status:             ASSIGNED
+cidr:               172.22.123.0/24
+source:             DN42

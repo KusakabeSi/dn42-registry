@@ -1,0 +1,7 @@
+mntner:             IEDON-MNT
+descr:              iEdon Networks
+admin-c:            IEDON-DN42
+tech-c:             IEDON-DN42
+mnt-by:             IEDON-MNT
+auth:               pgp-fingerprint A0CF279B15163F1BD9EB244EBBAB331462E5ECCA
+source:             DN42

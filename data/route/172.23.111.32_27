@@ -1,0 +1,4 @@
+route:              172.23.111.32/27
+origin:             AS4242421177
+mnt-by:             A2X-MNT
+source:             DN42

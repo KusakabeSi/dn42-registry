@@ -1,0 +1,6 @@
+domain:             lxnet.dn42
+admin-c:            LYREX-DN42
+tech-c:             LYREX-DN42
+mnt-by:             LYREX-MNT
+nserver:            ns1.lxnet.dn42 172.23.101.1
+source:             DN42

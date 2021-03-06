@@ -1,0 +1,4 @@
+route:              172.20.59.128/28
+origin:             AS4242421514
+mnt-by:             SFN-MNT
+source:             DN42

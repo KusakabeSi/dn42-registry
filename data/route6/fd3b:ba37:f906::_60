@@ -1,0 +1,5 @@
+route6:             fd3b:ba37:f906::/60
+descr:              WorldWideFoo
+origin:             AS4242420257
+mnt-by:             SPIELWIESE-MNT
+source:             DN42

@@ -1,0 +1,16 @@
+tinc-key:           DOWNHILL-TINC
+tinc-host:          geekhabitat
+tinc-file:          
+                    Compression=9
+                    Subnet=172.22.255.177/32
+                    Address=88.198.175.17
+                    -----BEGIN RSA PUBLIC KEY-----
+                    MIIBCgKCAQEAwxY6ejnPrLES3rojV0ori0xWxaZU6yxleFv8d2S+z/9HlvZ7d6ZB
+                    rjkDIWLOIC8C/fsl9MsS9r0SkAialFOQcT0RbbedM99vP9ERn1XeEZHMW59avGgD
+                    Tp1JKi7c0IMVz4qGrdaA+IOYNxLxboohU4LgeDBriGfQFU0vx+s7tfz+fIyeJXmF
+                    O2BI+ueJe8D6kvAZ/BiZmIHTg+Icj2TAcdZntiCGny2v1XvTuhbzV3FiOIMV7Nim
+                    SE/IxPDoJ+Bp3IjlAaWKlVXptxVnMR41/t/aNYGlsOcwBr7gRZZExkG7wvKtWdYp
+                    4gWeRTqvWhiwt+T0OoFFZM0D1X4sS6/A1QIDAQAB
+                    -----END RSA PUBLIC KEY-----
+mnt-by:             DUMMY-MNT
+source:             DN42

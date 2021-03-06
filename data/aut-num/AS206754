@@ -1,0 +1,10 @@
+aut-num:            AS206754
+as-name:            AWM2-AS
+org:                ORG-V2
+descr:              Alistair Mackenzie
+admin-c:            ALISTAIR-DN42
+remarks:            Peering: a@v2.pw
+remarks:            IRC: Alistair
+tech-c:             ALISTAIR-DN42
+mnt-by:             V2-MNT
+source:             RIPE

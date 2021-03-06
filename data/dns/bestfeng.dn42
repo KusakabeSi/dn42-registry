@@ -1,0 +1,8 @@
+domain:             bestfeng.dn42
+admin-c:            BESTFENG-DN42
+tech-c:             BESTFENG-DN42
+mnt-by:             BESTFENG-MNT
+nserver:            ns1.bestfeng.dn42 172.22.118.118
+nserver:            ns1.bestfeng.dn42 fdbb:baba:2222::22
+remarks:            DNS hosted by bestfeng.dn42
+source:             DN42

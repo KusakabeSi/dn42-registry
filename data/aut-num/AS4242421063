@@ -1,0 +1,8 @@
+aut-num:            AS4242421063
+as-name:            ZIIS-AS
+descr:              AS for ZIIS Network
+admin-c:            ZIIS-DN42
+tech-c:             ZIIS-DN42
+mnt-by:             ZIIS-MNT
+geo-loc:            51.500N 0.000W LON1
+source:             DN42

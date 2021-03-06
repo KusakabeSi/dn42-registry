@@ -1,0 +1,6 @@
+domain:             mcd1992.dn42
+admin-c:            MCD1992-DN42
+tech-c:             MCD1992-DN42
+mnt-by:             MCD1992-MNT
+nserver:            ns1.mcd1992.dn42 fd69:1691:1691:53::1
+source:             DN42

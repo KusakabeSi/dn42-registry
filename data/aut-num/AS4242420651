@@ -1,0 +1,7 @@
+aut-num:            AS4242420651
+as-name:            MATTPROD-AS
+descr:              MattProd AS
+admin-c:            MATTPROD-DN42
+tech-c:             MATTPROD-DN42
+mnt-by:             MATTPROD-MNT
+source:             DN42

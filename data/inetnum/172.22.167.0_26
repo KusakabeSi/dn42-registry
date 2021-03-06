@@ -1,0 +1,10 @@
+inetnum:            172.22.167.0 - 172.22.167.63
+netname:            DZX-NET-00
+descr:              DZX-NET-00
+country:            BE
+admin-c:            DAZAX-DN42
+tech-c:             DAZAX-DN42
+mnt-by:             DZXNET-MNT
+status:             ALLOCATED
+cidr:               172.22.167.0/26
+source:             DN42

@@ -1,0 +1,13 @@
+inetnum:            172.22.77.32 - 172.22.77.47
+netname:            KSKB-IPV4
+remarks:            Peer with me at mailto:si@kskb.eu.org or https://t.me/KusakabeSi
+descr:              Peer with me at mailto:si@kskb.eu.org or https://t.me/KusakabeSi
+country:            TW
+admin-c:            KSKB-DN42
+tech-c:             KSKB-DN42
+mnt-by:             KSKB-MNT
+nserver:            ns1.kskb.dn42
+nserver:            ns2.kskb.dn42
+status:             ASSIGNED
+cidr:               172.22.77.32/28
+source:             DN42

@@ -1,0 +1,7 @@
+aut-num:            AS4242422842
+as-name:            OUTBANDNET
+descr:              Outband networks
+admin-c:            RUSTY-DN42
+tech-c:             RUSTY-DN42
+mnt-by:             OUTBAND-MNT
+source:             DN42

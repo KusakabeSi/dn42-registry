@@ -1,0 +1,10 @@
+inet6num:           fd1f:1d9c:5f85:0000:0000:0000:0000:0000 - fd1f:1d9c:5f85:ffff:ffff:ffff:ffff:ffff
+netname:            MB-1-DN42-6
+descr:              private network
+admin-c:            MB-DN42
+country:            DE
+tech-c:             MB-DN42
+mnt-by:             MB-MNT
+status:             ASSIGNED
+cidr:               fd1f:1d9c:5f85::/48
+source:             DN42

@@ -1,0 +1,11 @@
+inetnum:            172.20.53.128 - 172.20.53.255
+netname:            LUYS-IPV4
+descr:              Luys, Network.
+country:            CN
+org:                ORG-LUYS
+admin-c:            LUYS-DN42
+tech-c:             LUYS-DN42
+mnt-by:             LUYS-MNT
+status:             ASSIGNED
+cidr:               172.20.53.128/25
+source:             DN42

@@ -1,0 +1,7 @@
+mntner:             WEEJITS-MNT
+descr:              Weejits
+admin-c:            KSM-DN42
+tech-c:             KSM-DN42
+mnt-by:             WEEJITS-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyzm5X/imb701gL1v/IpMCBegf1P6+4q/IE+DaWeIW6tp4IxuJkH4DLdlUuTtx8VeDSqwynMrInmbkuPf9i9GIftmS7DFPHLvpbu1O1qTd6NwASH4feetJxviph9ZmBfRpTfFM9lLIwVrs0RRNNN9HmNKj2yONeikI8yy54Wsf62i/eCuo53PyyqcYfCd5N2fLss/ZeNzUVj41l7yNpLpbRE/lx3QJX2e+HGjLAiuRyagiMZIFJ2+pipEDy0GgVFMXkE5IYQVVD3xlD+U6CqE3Nvdx9EXK5pzJLtesbXRuo3MfUnmenv/kN8NaTp2U2J3cQ9TLsAgTMs5PCdlt20/d
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd42:f1c1:b00c::/48
+descr:              Fiki Book v6 Net
+origin:             AS4242420204
+mnt-by:             FIKICH-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inet6num:           fd10:0127:0007:ffff:0000:0000:0000:0000 - fd10:0127:0007:ffff:ffff:ffff:ffff:ffff
+cidr:               fd10:127:7:ffff::/64
+netname:            StaphPeer
+admin-c:            STAPH-NEONETWORK
+tech-c:             STAPH-NEONETWORK
+remarks:            Imported from neonetwork, do not edit!
+mnt-by:             DN42-MNT
+source:             NEONETWORK

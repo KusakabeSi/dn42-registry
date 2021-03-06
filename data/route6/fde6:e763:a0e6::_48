@@ -1,0 +1,5 @@
+route6:             fde6:e763:a0e6::/48
+origin:             AS4242422667
+max-length:         48
+mnt-by:             BJOERRRRN-MNT
+source:             DN42

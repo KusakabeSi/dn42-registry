@@ -1,0 +1,6 @@
+route:              10.68.0.0/20
+origin:             AS64892
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: belgien
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,7 @@
+inetnum:            10.49.0.0 - 10.49.63.255
+cidr:               10.49.0.0/18
+netname:            ICVPN-EINBECK
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: einbeck
+mnt-by:             DN42-MNT
+source:             ICVPN

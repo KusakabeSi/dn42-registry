@@ -1,0 +1,10 @@
+inetnum:            172.20.4.64 - 172.20.4.95
+netname:            ALS7-NET
+descr:              als7 network
+country:            AT
+admin-c:            ALS7-DN42
+tech-c:             ALS7-DN42
+mnt-by:             ALS7-MNT
+status:             ASSIGNED
+cidr:               172.20.4.64/27
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.22.125.0 - 172.22.125.15
+cidr:               172.22.125.0/28
+netname:            GIGGA NETWORK
+admin-c:            GIGGA-DN42
+tech-c:             GIGGA-DN42
+mnt-by:             GIGGA-MNT
+nserver:            ns1.gigganet.dn42
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,5 @@
+route6:             fd44:3013:d703::/48
+origin:             AS4242421325
+max-length:         48
+mnt-by:             PHILCGN-MNT
+source:             DN42

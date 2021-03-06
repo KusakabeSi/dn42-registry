@@ -1,0 +1,6 @@
+route:              10.71.0.0/18
+origin:             AS64889
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: nordheide
+mnt-by:             DN42-MNT
+source:             ICVPN

@@ -1,0 +1,4 @@
+route:              172.20.14.128/27
+origin:             AS4242423224
+mnt-by:             MFORCE-MNT
+source:             DN42

@@ -1,0 +1,8 @@
+inetnum:            172.20.172.184 - 172.20.172.191
+cidr:               172.20.172.184/29
+netname:            ZORKZOID-NETWORK
+admin-c:            ZORKZOID-DN42
+tech-c:             ZORKZOID-DN42
+mnt-by:             ZORKZOID-MNT
+status:             ASSIGNED
+source:             DN42

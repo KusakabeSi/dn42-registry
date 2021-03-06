@@ -1,0 +1,9 @@
+inetnum:            172.22.159.32 - 172.22.159.63
+cidr:               172.22.159.32/27
+netname:            DOXZ-NETWORK
+admin-c:            DOXZ-DN42
+tech-c:             DOXZ-DN42
+mnt-by:             DOXZ-MNT
+status:             ASSIGNED
+nserver:            ns1.doxz.dn42
+source:             DN42

@@ -1,0 +1,6 @@
+mntner:             HERTZ-MNT
+admin-c:            HERTZ-DN42
+tech-c:             HERTZ-DN42
+mnt-by:             HERTZ-MNT
+source:             DN42
+auth:               pgp-fingerprint 0A3AF3F96762BA384C50CE6832D78EE3946D19EB

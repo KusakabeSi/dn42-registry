@@ -1,0 +1,8 @@
+inetnum:            172.20.18.208 - 172.20.18.223
+cidr:               172.20.18.208/28
+netname:            AX206G Network
+admin-c:            AX206G-DN42
+tech-c:             AX206G-DN42
+mnt-by:             AX206G-MNT
+status:             ASSIGNED
+source:             DN42

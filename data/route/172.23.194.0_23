@@ -1,0 +1,5 @@
+route:              172.23.194.0/23
+descr:              Hackerspace Marburg (HSMR)
+origin:             AS64623
+mnt-by:             DUMMY-MNT
+source:             DN42

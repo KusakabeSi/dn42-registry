@@ -1,0 +1,9 @@
+inet6num:           fd00:0bad:b00b:0000:0000:0000:0000:0000 - fd00:0bad:b00b:0000:ffff:ffff:ffff:ffff
+netname:            NET-REST
+country:            AT
+admin-c:            REISENB-DN42
+tech-c:             REISENB-DN42
+mnt-by:             REISENB-MNT
+status:             ASSIGNED
+cidr:               fd00:bad:b00b::/64
+source:             DN42

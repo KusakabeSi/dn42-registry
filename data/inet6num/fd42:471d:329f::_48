@@ -1,0 +1,10 @@
+inet6num:           fd42:471d:329f:0000:0000:0000:0000:0000 - fd42:471d:329f:ffff:ffff:ffff:ffff:ffff
+netname:            PHUZION-NET
+descr:              Phuzion's Network v6
+country:            US
+admin-c:            PHUZION-DN42
+tech-c:             PHUZION-DN42
+mnt-by:             PHUZION-MNT
+status:             ASSIGNED
+cidr:               fd42:471d:329f::/48
+source:             DN42

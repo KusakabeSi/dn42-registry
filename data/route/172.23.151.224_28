@@ -1,0 +1,4 @@
+route:              172.23.151.224/28
+origin:             AS4242422551
+mnt-by:             VLCTY-MNT
+source:             DN42

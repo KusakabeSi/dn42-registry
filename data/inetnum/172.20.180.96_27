@@ -1,0 +1,10 @@
+inetnum:            172.20.180.96 - 172.20.180.127
+netname:            LIHNIDOS-ORG
+descr:              LIHNIDOS CORE NETWORK
+country:            SI
+admin-c:            DS5534-DN42
+tech-c:             DS5534-DN42
+mnt-by:             LIHNIDOS-MNT
+status:             ALLOCATED PA
+cidr:               172.20.180.96/27
+source:             DN42

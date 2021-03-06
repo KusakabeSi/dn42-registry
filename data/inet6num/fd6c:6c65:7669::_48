@@ -1,0 +1,9 @@
+inet6num:           fd6c:6c65:7669:0000:0000:0000:0000:0000 - fd6c:6c65:7669:ffff:ffff:ffff:ffff:ffff
+netname:            LLEVI-IPV6
+country:            HU
+admin-c:            LLEVI-DN42
+tech-c:             LLEVI-DN42
+mnt-by:             LLEVI-MNT
+status:             ASSIGNED
+cidr:               fd6c:6c65:7669::/48
+source:             DN42

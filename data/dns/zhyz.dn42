@@ -1,0 +1,10 @@
+domain:             zhyz.dn42
+descr:              huize.asia zhyz.ru wut.su email:zhihuiyuze@gmail.com
+nserver:            ns1.zhyz.dn42 172.21.75.65
+nserver:            ns1.zhyz.dn42 fd37:03b3:cae6::65
+nserver:            ns2.zhyz.dn42 172.21.75.66
+nserver:            ns2.zhyz.dn42 fd37:03b3:cae6::66
+admin-c:            ZHYZ-DN42
+tech-c:             ZHYZ-DN42
+mnt-by:             ZHYZ-MNT
+source:             DN42

@@ -1,0 +1,10 @@
+inet6num:           fdab:896d:0d34:0000:0000:0000:0000:0000 - fdab:896d:0d34:ffff:ffff:ffff:ffff:ffff
+netname:            WWLABS-NET
+descr:              WWLABS-NET
+country:            DE
+admin-c:            THEPAFFY-DN42
+tech-c:             THEPAFFY-DN42
+mnt-by:             WWLABS-MNT
+status:             ASSIGNED
+cidr:               fdab:896d:d34::/48
+source:             DN42

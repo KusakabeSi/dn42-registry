@@ -1,0 +1,13 @@
+route6:             fd42:180:3de0:100::/60
+descr:              DN42 Registry Services
+remarks:            JRB0001-MNT
+origin:             AS4242420119
+remarks:            XUU-MNT
+origin:             AS64737
+remarks:            BURBLE-MNT
+origin:             AS4242422601
+max-length:         64
+mnt-by:             JRB0001-MNT
+mnt-by:             XUU-MNT
+mnt-by:             BURBLE-MNT
+source:             DN42

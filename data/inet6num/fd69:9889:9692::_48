@@ -1,0 +1,8 @@
+inet6num:           fd69:9889:9692:0000:0000:0000:0000:0000 - fd69:9889:9692:ffff:ffff:ffff:ffff:ffff
+cidr:               fd69:9889:9692::/48
+netname:            YI-NETWORK-IPV6
+admin-c:            YI-DN42
+tech-c:             YI-DN42
+mnt-by:             YI-MNT
+status:             ASSIGNED
+source:             DN42

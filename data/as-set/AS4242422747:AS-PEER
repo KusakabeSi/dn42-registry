@@ -1,0 +1,7 @@
+as-set:             AS4242422747:AS-PEER
+remarks:            DN42-MNT (ICVPN-DREILAENDERECK) kpanic
+members:            AS65043
+admin-c:            ROT13-DN42
+tech-c:             ROT13-DN42
+mnt-by:             ROT13-MNT
+source:             DN42

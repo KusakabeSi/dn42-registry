@@ -1,0 +1,8 @@
+inetnum:            172.22.110.96 - 172.22.110.127
+netname:            ONVOX-NET-001
+admin-c:            JVOSS-DN42
+tech-c:             JVOSS-DN42
+mnt-by:             ONVOX-MNT
+status:             ASSIGNED
+cidr:               172.22.110.96/27
+source:             DN42

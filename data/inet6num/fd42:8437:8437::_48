@@ -1,0 +1,8 @@
+inet6num:           fd42:8437:8437:0000:0000:0000:0000:0000 - fd42:8437:8437:ffff:ffff:ffff:ffff:ffff
+netname:            QCore Network
+admin-c:            THEQ-DN42
+tech-c:             THEQ-DN42
+mnt-by:             THEQ-MNT
+status:             ASSIGNED
+cidr:               fd42:8437:8437::/48
+source:             DN42

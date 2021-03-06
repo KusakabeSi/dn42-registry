@@ -1,0 +1,7 @@
+inet6num:           fda9:026e:5805:0000:0000:0000:0000:0000 - fda9:026e:5805:ffff:ffff:ffff:ffff:ffff
+cidr:               fda9:26e:5805::/48
+netname:            ICVPN-MAGDEBURG
+remarks:            Imported from icvpn-meta, do not edit!
+remarks:            File: magdeburg
+mnt-by:             DN42-MNT
+source:             ICVPN

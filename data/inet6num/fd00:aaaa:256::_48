@@ -1,0 +1,10 @@
+inet6num:           fd00:aaaa:0256:0000:0000:0000:0000:0000 - fd00:aaaa:0256:ffff:ffff:ffff:ffff:ffff
+netname:            TDL-NET
+descr:              Totaldataloss-NET
+country:            US
+admin-c:            TDL-DN42
+tech-c:             TDL-DN42
+mnt-by:             TDL-MNT
+status:             ASSIGNED
+cidr:               fd00:aaaa:256::/48
+source:             DN42

@@ -1,0 +1,9 @@
+inetnum:            172.23.0.20 - 172.23.0.20
+netname:            LUTOMA-ANYCAST1
+admin-c:            LUTOMA-DN42
+tech-c:             LUTOMA-DN42
+mnt-by:             LUTOMA-MNT
+nserver:            ns1.lutoma.dn42
+status:             ALLOCATED
+cidr:               172.23.0.20/32
+source:             DN42

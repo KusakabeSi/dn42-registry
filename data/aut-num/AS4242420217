@@ -1,0 +1,7 @@
+aut-num:            AS4242420217
+as-name:            NoyesNet
+admin-c:            NOYES-DN42
+tech-c:             NOYES-DN42
+mnt-by:             NOYES-MNT
+source:             DN42
+remarks:            Peering: Wireguard only

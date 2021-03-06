@@ -1,0 +1,5 @@
+route6:             fdae:43fb:3ab7::/48
+origin:             AS4242420769
+max-length:         48
+mnt-by:             HAMMYNET-MNT
+source:             DN42

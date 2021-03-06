@@ -1,0 +1,5 @@
+route6:             fd6e:3ad1:1722::/48
+origin:             AS4242421913
+max-length:         48
+mnt-by:             SHOGHI-MNT
+source:             DN42

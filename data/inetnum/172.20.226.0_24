@@ -1,0 +1,11 @@
+inetnum:            172.20.226.0 - 172.20.226.255
+netname:            NET-REWBYSOFT-VMCLUSTER
+nserver:            ns1.aperture-laboratories.dn42
+descr:              Secondary allocation. Used by VM cluster.
+country:            NL
+admin-c:            REWBYCRAFT-DN42
+tech-c:             REWBYCRAFT-DN42
+mnt-by:             REWBYSOFT-MNT
+status:             ASSIGNED
+cidr:               172.20.226.0/24
+source:             DN42

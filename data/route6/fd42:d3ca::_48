@@ -1,0 +1,5 @@
+route6:             fd42:d3ca::/48
+descr:              D3NETWORK-1
+origin:             AS4242421520
+mnt-by:             D3NETWORK-MNT
+source:             DN42

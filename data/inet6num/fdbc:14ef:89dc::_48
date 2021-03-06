@@ -1,0 +1,9 @@
+inet6num:           fdbc:14ef:89dc:0000:0000:0000:0000:0000 - fdbc:14ef:89dc:ffff:ffff:ffff:ffff:ffff
+netname:            FNORD-NETWORK
+country:            DE
+admin-c:            FNORD-DN42
+tech-c:             FNORD-DN42
+mnt-by:             FNORD-MNT
+status:             ASSIGNED
+cidr:               fdbc:14ef:89dc::/48
+source:             DN42

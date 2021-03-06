@@ -1,0 +1,9 @@
+inet6num:           fddd:a553:ee0e:0000:0000:0000:0000:0000 - fddd:a553:ee0e:ffff:ffff:ffff:ffff:ffff
+cidr:               fddd:a553:ee0e::/48
+netname:            TBSO-V6-NET-1
+country:            DK
+admin-c:            TBSO-DN42
+tech-c:             TBSO-DN42
+mnt-by:             TBSO-MNT
+status:             ASSIGNED
+source:             DN42

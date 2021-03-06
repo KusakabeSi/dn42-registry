@@ -1,0 +1,9 @@
+inetnum:            172.20.161.128 - 172.20.161.191
+netname:            SZF-NETWORK
+admin-c:            SZF-DN42
+tech-c:             SZF-DN42
+mnt-by:             SZF-MNT
+nserver:            ns1.szf.dn42
+status:             ASSIGNED
+cidr:               172.20.161.128/26
+source:             DN42

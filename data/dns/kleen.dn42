@@ -1,0 +1,9 @@
+domain:             kleen.dn42
+admin-c:            KLEEN-DN42
+tech-c:             KLEEN-DN42
+mnt-by:             KLEEN-MNT
+nserver:            dns1.kleen.dn42 172.23.100.193
+nserver:            dns1.kleen.dn42 fd42:ac17:64c0::1
+nserver:            dns2.kleen.dn42 172.23.100.194
+nserver:            dns2.kleen.dn42 fd42:ac17:64c0::2
+source:             DN42

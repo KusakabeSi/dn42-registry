@@ -1,0 +1,8 @@
+inetnum:            172.20.184.0 - 172.20.184.31
+cidr:               172.20.184.0/27
+netname:            ELOKIANO-NETWORK
+admin-c:            ELOKIANO-DN42
+tech-c:             ELOKIANO-DN42
+mnt-by:             ELOKIANO-MNT
+status:             ASSIGNED
+source:             DN42

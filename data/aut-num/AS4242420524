@@ -1,0 +1,11 @@
+aut-num:            AS4242420524
+as-name:            FNK-AS
+descr:              FNK's DN42 Network，https://boke.wsfnk.com
+remarks:            --------------------------------------------------------
+remarks:            Welcome to establish peers,
+remarks:            if necessary, please send email to 8888@wsfnk.com
+remarks:            --------------------------------------------------------
+admin-c:            FNK-DN42
+tech-c:             FNK-DN42
+mnt-by:             FNK-MNT
+source:             DN42

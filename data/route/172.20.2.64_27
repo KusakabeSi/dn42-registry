@@ -1,0 +1,4 @@
+route:              172.20.2.64/27
+origin:             AS4242420164
+mnt-by:             ALANJCASTONGUAY-MNT
+source:             DN42

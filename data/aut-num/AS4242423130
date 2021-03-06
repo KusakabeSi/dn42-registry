@@ -1,0 +1,7 @@
+aut-num:            AS4242423130
+as-name:            MUZIKCA-AS
+descr:              Home Servers for MuzikCA
+admin-c:            MUZIKCA-DN42
+tech-c:             MUZIKCA-DN42
+mnt-by:             MUZIKCA-MNT
+source:             DN42

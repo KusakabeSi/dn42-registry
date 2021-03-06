@@ -1,0 +1,10 @@
+inet6num:           fdb8:d95e:191a:0000:0000:0000:0000:0000 - fdb8:d95e:191a:ffff:ffff:ffff:ffff:ffff
+cidr:               fdb8:d95e:191a::/48
+netname:            OCEANLY-NETWORK
+admin-c:            SEAN-DN42
+tech-c:             SEAN-DN42
+mnt-by:             OCEANLY-MNT
+status:             ASSIGNED
+nserver:            ns1.oceanly.dn42
+nserver:            ns2.oceanly.dn42
+source:             DN42

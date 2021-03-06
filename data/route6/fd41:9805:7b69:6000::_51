@@ -1,0 +1,7 @@
+route6:             fd41:9805:7b69:6000::/51
+descr:              Site2 local Network
+origin:             AS4242420847
+origin:             AS4242420845
+origin:             AS4242420846
+mnt-by:             SGRAEF-MNT
+source:             DN42

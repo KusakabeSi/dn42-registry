@@ -1,0 +1,4 @@
+route:              172.20.229.112/28
+origin:             AS4242421080
+mnt-by:             JLU5-MNT
+source:             DN42

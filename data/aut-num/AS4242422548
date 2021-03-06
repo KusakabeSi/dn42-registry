@@ -1,0 +1,7 @@
+aut-num:            AS4242422548
+as-name:            SAPINET-AS
+descr:              Opérateur réseau en région parisienne
+admin-c:            SAPINET-DN42
+tech-c:             SAPINET-DN42
+mnt-by:             SAPINET-MNT
+source:             DN42

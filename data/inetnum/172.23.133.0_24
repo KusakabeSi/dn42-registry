@@ -1,0 +1,9 @@
+inetnum:            172.23.133.0 - 172.23.133.255
+netname:            EVILET-IP4
+country:            DE
+admin-c:            EVILET-DN42
+tech-c:             EVILET-DN42
+mnt-by:             EVILET-MNT
+status:             ASSIGNED
+cidr:               172.23.133.0/24
+source:             DN42

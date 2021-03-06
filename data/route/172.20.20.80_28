@@ -1,0 +1,4 @@
+route:              172.20.20.80/28
+origin:             AS4242423404
+mnt-by:             CSG-MNT
+source:             DN42

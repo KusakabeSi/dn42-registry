@@ -1,0 +1,9 @@
+inetnum:            172.22.188.224 - 172.22.188.239
+cidr:               172.22.188.224/28
+netname:            NIRVANET-V4-NET-1
+country:            FR
+admin-c:            NIRVANET-DN42
+tech-c:             NIRVANET-DN42
+mnt-by:             NIRVANET-MNT
+status:             ASSIGNED
+source:             DN42

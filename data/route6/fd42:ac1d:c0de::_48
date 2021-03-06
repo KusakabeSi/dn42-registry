@@ -1,0 +1,4 @@
+route6:             fd42:ac1d:c0de::/48
+origin:             AS4242423742
+mnt-by:             ERIC-MNT
+source:             DN42

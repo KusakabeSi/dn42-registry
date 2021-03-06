@@ -1,0 +1,10 @@
+inet6num:           fdfa:8c85:5ca3:0000:0000:0000:0000:0000 - fdfa:8c85:5ca3:ffff:ffff:ffff:ffff:ffff
+cidr:               fdfa:8c85:5ca3::/48
+netname:            NJD-NET-IPv6
+descr:              njd.dn42
+admin-c:            NJD-DN42
+tech-c:             NJD-DN42
+mnt-by:             NJD-MNT
+status:             ASSIGNED
+source:             DN42
+country:            FR
