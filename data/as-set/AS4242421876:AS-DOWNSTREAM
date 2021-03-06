@@ -1,0 +1,10 @@
+as-set:             AS4242421876:AS-DOWNSTREAM
+mbrs-by-ref:        DL-MNT
+remarks:            ------------------------------
+members:            AS4242420226
+remarks:            iLemonrain DN42 Network
+remarks:            ------------------------------
+admin-c:            DL-DN42
+tech-c:             FIXMIX-NO-DN42
+mnt-by:             DL-MNT
+source:             DN42

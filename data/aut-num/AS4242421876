@@ -4,6 +4,8 @@ descr:              fixmix Network on DN42
 org:                ORG-FIXMIX
 mp-import:          afi any.unicast from AS-FIXMIX-42:AS-TRANSIT accept ANY
 mp-export:          afi any.unicast to AS-FIXMIX-42:AS-TRANSIT announce ANY
+mp-import:          afi any.unicast from AS-FIXMIX-42:AS-DOWNSTREAM accept PeerAS
+mp-export:          afi any.unicast to AS-FIXMIX-42:AS-DOWNSTREAM announce ANY
 remarks:            +----------------------------------------------+
 remarks:            |            fixmix Network on DN42            |
 remarks:            +----------------------------------------------+

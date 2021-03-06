@@ -1,5 +1,5 @@
 as-set:             AS-FIXMIX-42:AS-TRANSIT
-descr:              fixmix Technologies Ltd - DN42 Transit AS Set
+descr:              fixmix Technologies Ltd - DN42 Transit as-set
 mbrs-by-ref:        DL-MNT
 members:            AS4242421876:AS-TRANSIT
 members:            AS211876:AS-TRANSIT
