@@ -1,0 +1,4 @@
+route6:             fd13:5940::/48
+origin:             AS4242423064
+mnt-by:             NODEB-MNT
+source:             DN42

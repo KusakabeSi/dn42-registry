@@ -3,5 +3,5 @@ admin-c:            DL-DN42
 tech-c:             DL-DN42
 mnt-by:             DL-MNT
 auth:               pgp-fingerprint 11BA9B106D0DF5E6A1C4BC180641F2177A5530C0
-auth:               ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPpeJ+Is0xFtyqQnPgednNCw/isIoxPOB6Xk97KCuxco
+remarks:            pin-sha256:g96pA4bWhTlRiiE9zIOexk6daeSQdtZM4nBSZM7ZcLo=
 source:             DN42

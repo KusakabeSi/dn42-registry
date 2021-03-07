@@ -1,0 +1,8 @@
+inet6num:           fd13:5940:0000:0000:0000:0000:0000:0000 - fd13:5940:0000:ffff:ffff:ffff:ffff:ffff
+cidr:               fd13:5940::/48
+netname:            NODEB-NET6
+admin-c:            NODEB-DN42
+tech-c:             NODEB-DN42
+mnt-by:             NODEB-MNT
+status:             ASSIGNED
+source:             DN42

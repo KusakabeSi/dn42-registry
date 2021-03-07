@@ -2,6 +2,6 @@ domain:             an.dn42
 admin-c:            ANILLC-DN42
 tech-c:             ANILLC-DN42
 mnt-by:             ANILLC-MNT
-nserver:            ns1.an.dn42 172.22.167.96
-nserver:            ns1.an.dn42 fdc9:83c1:d0ce:2::1
+nserver:            ns1.an.dn42 172.22.167.97
+nserver:            ns1.an.dn42 fdc9:83c1:d0ce::1
 source:             DN42

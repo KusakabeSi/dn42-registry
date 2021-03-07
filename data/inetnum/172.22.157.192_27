@@ -1,12 +1,12 @@
-inetnum:            172.22.167.64 - 172.22.167.79
-cidr:               172.22.167.64/28
-netname:            UTS-NETWORK
+inetnum:            172.22.157.192 - 172.22.157.223
+cidr:               172.22.157.192/27
+netname:            UTS-EXT-NETWORK
 org:                ORG-UTS
 admin-c:            ZANE-DN42
 tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
 status:             ASSIGNED
 source:             DN42
-remarks:            UTS Core Network
+remarks:            UTS Extension Network
 remarks:            lg.unknownts.tk
 nserver:            ns1.unknownts.tk

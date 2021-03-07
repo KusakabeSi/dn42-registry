@@ -1,0 +1,8 @@
+inetnum:            172.23.132.64 - 172.23.132.95
+cidr:               172.23.132.64/27
+netname:            NODEB-NET4
+admin-c:            NODEB-DN42
+tech-c:             NODEB-DN42
+mnt-by:             NODEB-MNT
+status:             ASSIGNED
+source:             DN42

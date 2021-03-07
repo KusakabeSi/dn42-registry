@@ -1,6 +1,13 @@
 organisation:       ORG-UTS
 org-name:           Unknown Technology Solutions
+descr:              Providing solutions for all your Techological needs!
+www:                unknownts.tk
+e-mail:             support@unknownts.tk
+language:           EN
 admin-c:            ZANE-DN42
 tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
 source:             DN42
+remarks:            lg.unknownts.tk
+remarks:            For peering email us or we are on IRC @ zane_reick\
+remarks:            For resource allocation, email our listed support email

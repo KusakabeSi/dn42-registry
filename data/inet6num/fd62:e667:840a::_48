@@ -9,3 +9,4 @@ tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
 status:             ASSIGNED
 source:             DN42
+nserver:            ns1.unknownts.tk

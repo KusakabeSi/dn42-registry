@@ -1,0 +1,4 @@
+route:              172.22.157.192/27
+origin:             AS4242423315
+mnt-by:             ZANE-MNT
+source:             DN42

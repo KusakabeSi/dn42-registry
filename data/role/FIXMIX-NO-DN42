@@ -1,6 +1,6 @@
 role:               fixmix Technologies - Network Operations Team
 nic-hdl:            FIXMIX-NO-DN42
 org:                ORG-FIXMIX
-abuse-mailbox:      network-abuse@fixmix.tech
+abuse-mailbox:      abuse@fixmix.network
 mnt-by:             DL-MNT
 source:             DN42

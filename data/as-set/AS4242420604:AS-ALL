@@ -1,0 +1,8 @@
+as-set:             AS4242420604:AS-ALL
+members:            AS4242420604:AS-DN42
+members:            AS4242420604:AS-CN
+members:            AS4242420604
+admin-c:            MOECAST-DN42
+tech-c:             MOECAST-DN42
+mnt-by:             MOECAST-MNT
+source:             DN42

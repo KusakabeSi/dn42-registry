@@ -4,6 +4,9 @@ descr:              Moecast Network
 admin-c:            MOECAST-DN42
 tech-c:             MOECAST-DN42
 mnt-by:             MOECAST-MNT
+mp-import:          afi any.unicast from AS4242420604:AS-DN42 accept ANY
+mp-import:          afi any.unicast from AS4242420604:AS-CN accept PeerAS
+mp-export:          afi any.unicast to AS-ANY announce ANY
 remarks:            +-----------------------------------+
 remarks:            |          MOECAST NETWORK          |
 remarks:            +-----------------------------------+
@@ -11,5 +14,6 @@ remarks:            | * Open Peering Policy             |
 remarks:            | * Contact:                        |
 remarks:            |     - Telegram: @liangjw          |
 remarks:            |     - E-mail:   liangjw@etlgr.com |
+remarks:            |                 dn42@cas7.moe     |
 remarks:            +-----------------------------------+
 source:             DN42
