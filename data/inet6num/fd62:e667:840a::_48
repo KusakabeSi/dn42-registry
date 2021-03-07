@@ -9,4 +9,6 @@ tech-c:             ZANE-DN42
 mnt-by:             ZANE-MNT
 status:             ASSIGNED
 source:             DN42
-nserver:            ns1.unknownts.tk
+remarks:            UTS IPv6 Address Space
+remarks:            lg.unknownts.tk
+nserver:            ns1.unknownts.dn42

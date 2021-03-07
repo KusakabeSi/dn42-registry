@@ -9,4 +9,4 @@ status:             ASSIGNED
 source:             DN42
 remarks:            UTS Core Network
 remarks:            lg.unknownts.tk
-nserver:            ns1.unknownts.tk
+nserver:            ns1.unknownts.dn42
