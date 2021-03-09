@@ -1,0 +1,5 @@
+route:              172.23.4.32/27
+origin:             AS62396
+max-length:         27
+mnt-by:             MFK-MNT
+source:             DN42

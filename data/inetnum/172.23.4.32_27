@@ -1,0 +1,9 @@
+inetnum:            172.23.4.32 - 172.23.4.63
+cidr:               172.23.4.32/27
+netname:            MFK4-NET
+country:            DE
+admin-c:            MFK-DN42
+tech-c:             MFK-DN42
+mnt-by:             MFK-MNT
+status:             ASSIGNED
+source:             DN42
