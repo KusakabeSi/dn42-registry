@@ -1,0 +1,16 @@
+inetnum:            172.20.232.128 - 172.20.232.191
+netname:            GATUNO-UDG-NETWORK
+descr:              Network for Gatuno students
+country:            MX
+admin-c:            GATUNO-DN42
+tech-c:             GATUNO-DN42
+mnt-by:             GATUNO-MNT
+status:             ALLOCATED PA
+cidr:               172.20.232.128/26
+source:             DN42
+policy:             ask
+remarks:            Block allocated for students trying to get into
+remarks:            DN42 with help of GATUNO-DN42
+remarks:            -
+remarks:            If you are experencing issues or attacks from this net
+remarks:            Please report it back to GATUNO-DN42 person

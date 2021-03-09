@@ -1,7 +1,12 @@
 person:             Gatuno Admin
 contact:            xmpp:root@gatuno.mx
 contact:            gatuno@gatuno.mx
-address:            Some Place
+contact:            telegram:@gatunomx
+address:            Guadalajara
 nic-hdl:            GATUNO-DN42
 mnt-by:             GATUNO-MNT
 source:             DN42
+nick:               Gatuno
+remarks:            Fastest response: telegram
+remarks:            In case of network emergency, please use telegram.
+remarks:            For an abuse report, please use either telegram or mail

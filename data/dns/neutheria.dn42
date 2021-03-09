@@ -1,0 +1,10 @@
+domain:             neutheria.dn42
+admin-c:            JESS-SYS-DN42
+tech-c:             JESS-SYS-DN42
+mnt-by:             JESS-SYS-MNT
+org:                ORG-NEUTHERIA
+nserver:            ns1.neutheria.dn42 172.23.132.101
+nserver:            ns1.neutheria.dn42 fd67:f728:94ac:53::1
+nserver:            ns2.neutheria.dn42 172.23.132.102
+nserver:            ns2.neutheria.dn42 fd67:f728:94ac:53::2
+source:             DN42

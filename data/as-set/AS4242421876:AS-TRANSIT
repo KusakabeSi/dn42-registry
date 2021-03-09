@@ -10,6 +10,12 @@ remarks:            ------------------------------
 members:            AS4242420119
 remarks:            JRB0001
 remarks:            ------------------------------
+members:            AS4242420140
+remarks:            Yangfl Network
+remarks:            ------------------------------
+members:            AS4242420180
+remarks:            Gatuno Network
+remarks:            ------------------------------
 members:            AS4242420197
 remarks:            n0emis
 remarks:            ------------------------------
@@ -46,6 +52,9 @@ remarks:            ------------------------------
 members:            AS4242421331
 remarks:            Niantic Network
 remarks:            ------------------------------
+members:            AS4242421332
+remarks:            Niantic Network CN
+remarks:            ------------------------------
 members:            AS4242421488
 remarks:            KOALA
 remarks:            ------------------------------
@@ -63,6 +72,9 @@ remarks:            KSKB
 remarks:            ------------------------------
 members:            AS4242421826
 remarks:            Lss233's Primary Network
+remarks:            ------------------------------
+members:            AS4242421955
+remarks:            NOP
 remarks:            ------------------------------
 members:            AS4242422092
 remarks:            P3BK4C DN42 Network

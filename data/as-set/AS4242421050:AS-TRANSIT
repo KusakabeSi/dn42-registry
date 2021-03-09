@@ -43,6 +43,8 @@ remarks:            LSS233-MNT
 members:            AS4242421826
 remarks:            DL-MNT
 members:            AS4242421876
+remarks:            NICHOLASCW-MNT
+members:            AS4242421288
 admin-c:            NAPSTERBATER-DN42
 tech-c:             NAPSTERBATER-DN42
 mnt-by:             NAPSTERBATER-MNT

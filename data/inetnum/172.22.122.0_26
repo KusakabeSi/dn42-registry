@@ -1,5 +1,6 @@
 inetnum:            172.22.122.0 - 172.22.122.63
 netname:            GATUNO-NETWORK
+descr:              Gatuno HOME-Servers Network
 country:            MX
 admin-c:            GATUNO-DN42
 tech-c:             GATUNO-DN42

@@ -1,0 +1,5 @@
+route6:             fd67:f728:94ac::/48
+origin:             AS4242423771
+max-length:         48
+mnt-by:             JESS-SYS-MNT
+source:             DN42

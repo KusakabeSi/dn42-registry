@@ -1,0 +1,6 @@
+domain:             q1x.dn42
+admin-c:            Q1X-DN42
+tech-c:             Q1X-DN42
+mnt-by:             Q1X-MNT
+nserver:            ns1.q1x.dn42 172.20.59.97
+source:             DN42
