@@ -1,0 +1,10 @@
+inet6num:           fd2a:86c6:dbb7:0000:0000:0000:0000:0000 - fd2a:86c6:dbb7:ffff:ffff:ffff:ffff:ffff
+cidr:               fd2a:86c6:dbb7::/48
+netname:            TURBOFAN-V6
+descr:              TURBOFAN-NET-IPv6
+country:            US
+admin-c:            TURBOFAN-DN42
+tech-c:             TURBOFAN-DN42
+mnt-by:             TURBOFAN-MNT
+status:             ASSIGNED
+source:             DN42

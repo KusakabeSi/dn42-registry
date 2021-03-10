@@ -1,0 +1,6 @@
+mntner:             TURBOFAN-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFTI5XQrAh6h8RSeUXeRulGCy9r+/Dj7jYSglt0m89MR5TIQBc3dnfOsU4YFHC/4NKDHD+RfctV+wudJauyQ1q9uCFMnxve9PA09ktSI8juvSVzwu4Fl1/prUeMUdY2O5BFNFw00xvL78vhC7xgVtMkHT1WbvTyvUu0/C5FsPWNZqz3/vQ7wfDz+3xj1GWKxk3xaiPWv2d9BdZoiE88UmaI3epis2wD9qhjNs51tmljgfxb1P4sdki+rCw6dkXtZyxixyB2Akr+b+Ycg70q1+5GNx7Rj4TUvkn241j2luwLRT3Ku8dV7DzoVf2V2j61v9a+45Rxm0fFxjA6LkFCgKx tf
+admin-c:            TURBOFAN-DN42
+tech-c:             TURBOFAN-DN42
+mnt-by:             TURBOFAN-MNT
+source:             DN42

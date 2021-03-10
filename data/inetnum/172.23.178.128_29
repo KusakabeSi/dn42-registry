@@ -1,0 +1,8 @@
+inetnum:            172.23.178.128 - 172.23.178.135
+cidr:               172.23.178.128/29
+netname:            TURBOFAN-NET-IPV4
+admin-c:            TURBOFAN-DN42
+tech-c:             TURBOFAN-DN42
+mnt-by:             TURBOFAN-MNT
+status:             ASSIGNED
+source:             DN42

@@ -1,0 +1,4 @@
+route6:             fd2a:86c6:dbb7::/48
+origin:             AS4242423351
+mnt-by:             TURBOFAN-MNT
+source:             DN42
