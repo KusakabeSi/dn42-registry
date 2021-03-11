@@ -1,0 +1,10 @@
+inet6num:           fdd0:448d:1447:0000:0000:0000:0000:0000 - fdd0:448d:1447:ffff:ffff:ffff:ffff:ffff
+cidr:               fdd0:448d:1447::/48
+netname:            TSUKINET-IPV6
+descr:              v6 NETWORK OF TSUKINET
+country:            CN
+admin-c:            YUEKIS-DN42
+tech-c:             YUEKIS-DN42
+mnt-by:             YUEKIS-MNT
+status:             ASSIGNED
+source:             DN42

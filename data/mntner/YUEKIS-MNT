@@ -1,0 +1,7 @@
+mntner:             YUEKIS-MNT
+descr:              tsukiNet
+admin-c:            YUEKIS-DN42
+tech-c:             YUEKIS-DN42
+mnt-by:             YUEKIS-MNT
+source:             DN42
+auth:               pgp-fingerprint EF21EC06BFC1E4601A12503E89323D5846C67D29

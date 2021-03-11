@@ -1,0 +1,5 @@
+route6:             fdd0:448d:1447::/48
+origin:             AS4242422021
+max-length:         48
+mnt-by:             YUEKIS-MNT
+source:             DN42
