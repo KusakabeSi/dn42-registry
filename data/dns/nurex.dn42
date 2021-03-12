@@ -1,0 +1,7 @@
+domain:             nurex.dn42
+admin-c:            NUREX-DN42
+tech-c:             NUREX-DN42
+mnt-by:             NUREX-MNT
+nserver:            ns1.nurex.dn42 172.20.32.145
+nserver:            ns1.nurex.dn42 fd42:d3f7:97fa:1::1
+source:             DN42

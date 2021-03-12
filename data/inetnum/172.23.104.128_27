@@ -1,0 +1,8 @@
+inetnum:            172.23.104.128 - 172.23.104.159
+cidr:               172.23.104.128/27
+netname:            LARRY-NETWORK
+admin-c:            LARRY-DN42
+tech-c:             LARRY-DN42
+mnt-by:             LARRY-MNT
+status:             ASSIGNED
+source:             DN42

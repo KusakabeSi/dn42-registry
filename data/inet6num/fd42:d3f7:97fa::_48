@@ -1,0 +1,10 @@
+inet6num:           fd42:d3f7:97fa:0000:0000:0000:0000:0000 - fd42:d3f7:97fa:ffff:ffff:ffff:ffff:ffff
+cidr:               fd42:d3f7:97fa::/48
+netname:            NUREX-NETWORK
+descr:              Nurex's IPv6 Network
+admin-c:            NUREX-DN42
+tech-c:             NUREX-DN42
+mnt-by:             NUREX-MNT
+status:             ASSIGNED
+nserver:            ns1.nurex.dn42
+source:             DN42

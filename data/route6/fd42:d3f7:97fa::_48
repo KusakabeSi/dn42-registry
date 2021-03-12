@@ -1,0 +1,5 @@
+route6:             fd42:d3f7:97fa::/48
+origin:             AS4242423240
+max-length:         48
+mnt-by:             NUREX-MNT
+source:             DN42

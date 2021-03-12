@@ -1,0 +1,6 @@
+mntner:             NUREX-MNT
+admin-c:            NUREX-DN42
+tech-c:             NUREX-DN42
+mnt-by:             NUREX-MNT
+auth:               pgp-fingerprint 1CE18D20A920360C7338AF6281D03E2F9838387C
+source:             DN42

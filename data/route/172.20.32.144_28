@@ -1,0 +1,4 @@
+route:              172.20.32.144/28
+origin:             AS4242423240
+mnt-by:             NUREX-MNT
+source:             DN42

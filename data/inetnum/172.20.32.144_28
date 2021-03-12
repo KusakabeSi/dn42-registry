@@ -1,0 +1,10 @@
+inetnum:            172.20.32.144 - 172.20.32.159
+cidr:               172.20.32.144/28
+netname:            NUREX-NETWORK
+descr:              Nurex's IPv4 Network
+admin-c:            NUREX-DN42
+tech-c:             NUREX-DN42
+mnt-by:             NUREX-MNT
+status:             ASSIGNED
+nserver:            ns1.nurex.dn42
+source:             DN42

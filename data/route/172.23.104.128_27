@@ -1,0 +1,4 @@
+route:              172.23.104.128/27
+origin:             AS4242420335
+mnt-by:             LARRY-MNT
+source:             DN42

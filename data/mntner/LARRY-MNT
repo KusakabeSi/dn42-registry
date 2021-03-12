@@ -1,0 +1,6 @@
+mntner:             LARRY-MNT
+admin-c:            LARRY-DN42
+tech-c:             LARRY-DN42
+mnt-by:             LARRY-MNT
+auth:               ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7gHX05AykGOyrA9zILSNmkeGlWZvYTNgzXqGb4KaCGNmsp2oX//WsbEk91pYxYP8o7oLjbzW2M9t2Nk+EbP3UUHlcUwLMFGKA425Ms5O2zkWIUpMPtnuEedSr/kEYgMAsAqCfI80S3gJjTpKcubYw3YF2ww1hDQLfDMhVv9nh0RcJGUrbslfmTwxk6FRpA6o9Q+HEbpQyLb4vtofCugV7Um9vU54CrthFBxzXa+6f8hbAgeV+TBtF8wxT3bHEoAZkPunxzsGQHGgncmqcuGaem/lLAeNixv6+UjYdRmp/0/ddrZpsWfD4vKxAEvvaTo517hwgKMkyACy8FGifWEXJ larry@larry.com
+source:             DN42
